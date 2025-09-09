@@ -1,0 +1,1044 @@
+[
+  {
+    "text": "chief executive officer (CEO)",
+    "meaning": "The highest-ranking executive who sets strategy and is accountable for overall results.",
+    "example": "The CEO announced a shift toward subscription revenue.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/chief executive officer (CEO)/",
+    "frTranslation": "directeur(trice) général(e)",
+    "esTranslation": "director(a) ejecutivo(a) (CEO)",
+    "arTranslation": "الرئيس التنفيذي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "chief executive"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "chief financial officer (CFO)",
+    "meaning": "The executive responsible for finance, reporting, and capital allocation.",
+    "example": "The CFO presented the quarterly results to investors.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/chief financial officer (CFO)/",
+    "frTranslation": "directeur(trice) financier(ère)",
+    "esTranslation": "director(a) financiero(a) (CFO)",
+    "arTranslation": "المدير المالي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "chief operating officer (COO)",
+    "meaning": "The executive who oversees day-to-day operations and execution of the strategy.",
+    "example": "The COO streamlined warehouse processes.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/chief operating officer (COO)/",
+    "frTranslation": "directeur(trice) des opérations",
+    "esTranslation": "director(a) de operaciones (COO)",
+    "arTranslation": "المدير التشغيلي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "chief technology officer (CTO)",
+    "meaning": "The executive leading engineering and the company’s technology vision.",
+    "example": "The CTO prioritized platform security this quarter.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/chief technology officer (CTO)/",
+    "frTranslation": "directeur(trice) technique (CTO)",
+    "esTranslation": "director(a) de tecnología (CTO)",
+    "arTranslation": "المدير التقني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "founder",
+    "meaning": "A person who starts a company or organization.",
+    "example": "The founders bootstrapped the startup for a year.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/founder/",
+    "frTranslation": "fondateur(trice)",
+    "esTranslation": "fundador(a)",
+    "arTranslation": "المؤسِّس/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "co-founder"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "entrepreneur",
+    "meaning": "Someone who creates and grows a business by taking risks and organizing resources.",
+    "example": "She is a serial entrepreneur in fintech.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/entrepreneur/",
+    "frTranslation": "entrepreneur(e)",
+    "esTranslation": "emprendedor(a)",
+    "arTranslation": "رائد أعمال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "manager",
+    "meaning": "A person responsible for coordinating people and resources to meet goals.",
+    "example": "The manager set weekly targets for the team.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/manager/",
+    "frTranslation": "manager/gestionnaire",
+    "esTranslation": "gerente",
+    "arTranslation": "مدير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "supervisor"
+    ],
+    "antonyms": [
+      "subordinate"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "team lead",
+    "meaning": "A person who guides day-to-day work for a small group.",
+    "example": "Our team lead organizes stand-ups and reviews.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/team lead/",
+    "frTranslation": "chef d’équipe",
+    "esTranslation": "líder de equipo",
+    "arTranslation": "قائد الفريق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "project manager",
+    "meaning": "A professional who plans, schedules, and delivers projects within scope and budget.",
+    "example": "The project manager updated the risk register.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/project manager/",
+    "frTranslation": "chef de projet",
+    "esTranslation": "gerente de proyecto",
+    "arTranslation": "مدير مشروع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "product manager",
+    "meaning": "A role that defines the product vision, prioritizes features, and aligns teams.",
+    "example": "The product manager refined the roadmap after feedback.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/product manager/",
+    "frTranslation": "chef de produit",
+    "esTranslation": "gerente de producto",
+    "arTranslation": "مدير منتج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "business analyst",
+    "meaning": "A specialist who studies processes and data to recommend improvements.",
+    "example": "The business analyst mapped the order workflow.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/business analyst/",
+    "frTranslation": "analyste métier",
+    "esTranslation": "analista de negocios",
+    "arTranslation": "محلل أعمال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "account manager",
+    "meaning": "A person who maintains relationships and grows revenue with existing clients.",
+    "example": "Our account manager negotiated a renewal.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/account manager/",
+    "frTranslation": "gestionnaire de comptes",
+    "esTranslation": "ejecutivo(a) de cuentas",
+    "arTranslation": "مدير حسابات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "sales representative",
+    "meaning": "A person who sells products or services to customers.",
+    "example": "A sales representative demoed the platform.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/sales representative/",
+    "frTranslation": "commercial(e) / représentant(e)",
+    "esTranslation": "representante de ventas",
+    "arTranslation": "مندوب مبيعات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "sales rep"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "marketing manager",
+    "meaning": "A manager who plans campaigns, positioning, and brand strategy.",
+    "example": "The marketing manager approved the media plan.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/marketing manager/",
+    "frTranslation": "responsable marketing",
+    "esTranslation": "gerente de marketing",
+    "arTranslation": "مدير التسويق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "customer success manager",
+    "meaning": "A role focused on onboarding, retention, and helping customers achieve outcomes.",
+    "example": "Our customer success manager reduced churn by 10%.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/customer success manager/",
+    "frTranslation": "responsable succès client",
+    "esTranslation": "gerente de éxito del cliente",
+    "arTranslation": "مدير نجاح العملاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "human resources (HR) generalist",
+    "meaning": "An HR professional handling hiring, benefits, and employee relations.",
+    "example": "The HR generalist coordinated onboarding.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/human resources (HR) generalist/",
+    "frTranslation": "généraliste RH",
+    "esTranslation": "generalista de RR. HH.",
+    "arTranslation": "أخصائي موارد بشرية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "recruiter",
+    "meaning": "A person who sources and hires candidates for open roles.",
+    "example": "The recruiter posted the new roles online.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/recruiter/",
+    "frTranslation": "recruteur(euse)",
+    "esTranslation": "reclutador(a)",
+    "arTranslation": "مُوظِّف/مجند",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "legal counsel",
+    "meaning": "An in-house or external lawyer who advises on contracts, compliance, and risk.",
+    "example": "Legal counsel reviewed the vendor agreement.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/legal counsel/",
+    "frTranslation": "juriste/conseil juridique",
+    "esTranslation": "asesor(a) legal",
+    "arTranslation": "مستشار قانوني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "controller",
+    "meaning": "A senior accountant who oversees financial reporting and internal controls.",
+    "example": "The controller finalized the monthly close.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/controller/",
+    "frTranslation": "contrôleur(se) financier(ère)",
+    "esTranslation": "contralor(a)",
+    "arTranslation": "المراقب المالي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "auditor",
+    "meaning": "A professional who examines financial records and controls for accuracy.",
+    "example": "External auditors tested revenue recognition.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/auditor/",
+    "frTranslation": "auditeur(trice)",
+    "esTranslation": "auditor(a)",
+    "arTranslation": "مدقق حسابات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "operations manager",
+    "meaning": "A manager who improves processes, logistics, and daily execution.",
+    "example": "The operations manager reduced lead times.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/operations manager/",
+    "frTranslation": "responsable des opérations",
+    "esTranslation": "gerente de operaciones",
+    "arTranslation": "مدير العمليات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "supply chain manager",
+    "meaning": "A leader who plans sourcing, production, and distribution across vendors.",
+    "example": "Our supply chain manager diversified suppliers.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/supply chain manager/",
+    "frTranslation": "responsable de la chaîne logistique",
+    "esTranslation": "gerente de cadena de suministro",
+    "arTranslation": "مدير سلسلة الإمداد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "procurement specialist",
+    "meaning": "A professional who sources suppliers and negotiates contracts for goods/services.",
+    "example": "The procurement specialist issued an RFP.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/procurement specialist/",
+    "frTranslation": "acheteur(se)/approvisionneur(se)",
+    "esTranslation": "especialista en compras",
+    "arTranslation": "أخصائي مشتريات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "office manager",
+    "meaning": "A person who keeps the workplace running—facilities, supplies, and events.",
+    "example": "The office manager arranged hot-desking.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/office manager/",
+    "frTranslation": "office manager/gestionnaire de bureau",
+    "esTranslation": "administrador(a) de oficina",
+    "arTranslation": "مدير مكتب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "executive assistant",
+    "meaning": "An assistant who manages schedules, meetings, and communication for executives.",
+    "example": "The executive assistant coordinated the board meeting.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/executive assistant/",
+    "frTranslation": "assistant(e) de direction",
+    "esTranslation": "asistente ejecutivo(a)",
+    "arTranslation": "مساعد تنفيذي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "roles"
+    ]
+  },
+  {
+    "text": "startup",
+    "meaning": "A young company designed to grow quickly by finding a repeatable business model.",
+    "example": "The startup raised a seed round.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/startup/",
+    "frTranslation": "start-up",
+    "esTranslation": "startup",
+    "arTranslation": "شركة ناشئة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "small and medium enterprise (SME)",
+    "meaning": "A business with limited headcount and revenue, often local or regional.",
+    "example": "Tax credits target innovative SMEs.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/small and medium enterprise (SME)/",
+    "frTranslation": "PME (petite et moyenne entreprise)",
+    "esTranslation": "pyme (pequeña y mediana empresa)",
+    "arTranslation": "شركة صغيرة ومتوسطة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "corporation",
+    "meaning": "A legal entity separate from its owners with limited liability.",
+    "example": "The corporation filed its annual report.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/corporation/",
+    "frTranslation": "société (SA/SAS)",
+    "esTranslation": "corporación",
+    "arTranslation": "شركة مساهمة/محدودة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "limited liability company (LLC)",
+    "meaning": "A flexible business structure granting limited liability with pass-through tax in some countries.",
+    "example": "They formed an LLC for the new venture.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/limited liability company (LLC)/",
+    "frTranslation": "société à responsabilité limitée (SARL)",
+    "esTranslation": "sociedad de responsabilidad limitada (SRL)",
+    "arTranslation": "شركة ذات مسؤولية محدودة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "sole proprietorship",
+    "meaning": "A business owned and run by one person with no legal separation.",
+    "example": "Freelancers often operate as a sole proprietorship.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/sole proprietorship/",
+    "frTranslation": "entreprise individuelle",
+    "esTranslation": "empresario individual",
+    "arTranslation": "ملكية فردية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "corporation"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "partnership",
+    "meaning": "A business owned by two or more people sharing profits and liabilities.",
+    "example": "They set up a partnership for the practice.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/partnership/",
+    "frTranslation": "partenariat/société de personnes",
+    "esTranslation": "sociedad de personas",
+    "arTranslation": "شراكة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "nonprofit organization",
+    "meaning": "An entity that pursues a mission rather than profit; surplus is reinvested.",
+    "example": "The nonprofit relies on grants and donations.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/nonprofit organization/",
+    "frTranslation": "organisation à but non lucratif",
+    "esTranslation": "organización sin fines de lucro",
+    "arTranslation": "منظمة غير ربحية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "cooperative (co-op)",
+    "meaning": "A business owned by its members who use its services and share benefits.",
+    "example": "The food co-op sources from local farms.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/cooperative (co-op)/",
+    "frTranslation": "coopérative",
+    "esTranslation": "cooperativa",
+    "arTranslation": "تعاونية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "board of directors",
+    "meaning": "A group elected to govern a company and oversee management.",
+    "example": "The board of directors approved the merger.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/board of directors/",
+    "frTranslation": "conseil d’administration",
+    "esTranslation": "junta directiva",
+    "arTranslation": "مجلس الإدارة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "organizational chart (org chart)",
+    "meaning": "A diagram showing roles and reporting lines in a company.",
+    "example": "We updated the org chart after hiring.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/organizational chart (org chart)/",
+    "frTranslation": "organigramme",
+    "esTranslation": "organigrama",
+    "arTranslation": "الهيكل التنظيمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "business unit",
+    "meaning": "A division with its own strategy, revenue, and leadership.",
+    "example": "The cloud business unit doubled revenue.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/business unit/",
+    "frTranslation": "unité d’affaires",
+    "esTranslation": "unidad de negocio",
+    "arTranslation": "وحدة أعمال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "subsidiary",
+    "meaning": "A company controlled by another company (the parent).",
+    "example": "The parent sold a minority stake in its subsidiary.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/subsidiary/",
+    "frTranslation": "filiale",
+    "esTranslation": "filial",
+    "arTranslation": "شركة فرعية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "structure"
+    ]
+  },
+  {
+    "text": "invoice",
+    "meaning": "A document requesting payment for goods or services provided.",
+    "example": "Please pay the invoice within 30 days.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/invoice/",
+    "frTranslation": "facture",
+    "esTranslation": "factura",
+    "arTranslation": "فاتورة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "bill"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "purchase order (PO)",
+    "meaning": "An official order sent to a supplier specifying items, quantities, and prices.",
+    "example": "We issued a purchase order for laptops.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/purchase order (PO)/",
+    "frTranslation": "bon de commande",
+    "esTranslation": "orden de compra (OC)",
+    "arTranslation": "أمر شراء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "receipt",
+    "meaning": "A written acknowledgment that payment has been received.",
+    "example": "Keep the receipt for reimbursement.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/receipt/",
+    "frTranslation": "reçu",
+    "esTranslation": "recibo",
+    "arTranslation": "إيصال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "quote (price estimate)",
+    "meaning": "A supplier’s stated price for goods or services before an order is placed.",
+    "example": "The contractor sent a quote for repairs.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/quote (price estimate)/",
+    "frTranslation": "devis",
+    "esTranslation": "cotización/presupuesto",
+    "arTranslation": "عرض سعر/تقدير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "statement of work (SOW)",
+    "meaning": "A contract document describing deliverables, timeline, and responsibilities.",
+    "example": "The SOW defines acceptance criteria.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/statement of work (SOW)/",
+    "frTranslation": "cahier des charges (SOW)",
+    "esTranslation": "alcance del trabajo (SOW)",
+    "arTranslation": "بيان نطاق العمل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "non-disclosure agreement (NDA)",
+    "meaning": "A contract that prohibits sharing confidential information.",
+    "example": "We signed an NDA before the demo.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/non-disclosure agreement (NDA)/",
+    "frTranslation": "accord de confidentialité (NDA)",
+    "esTranslation": "acuerdo de confidencialidad (NDA)",
+    "arTranslation": "اتفاقية عدم إفشاء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "master service agreement (MSA)",
+    "meaning": "A contract setting general terms for future statements of work.",
+    "example": "Legal negotiated the MSA with the client.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/master service agreement (MSA)/",
+    "frTranslation": "contrat-cadre de services (MSA)",
+    "esTranslation": "acuerdo marco de servicios (MSA)",
+    "arTranslation": "اتفاقية خدمات رئيسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "terms and conditions",
+    "meaning": "The rules that govern how a product or service can be used.",
+    "example": "Please accept the terms and conditions to proceed.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/terms and conditions/",
+    "frTranslation": "conditions générales",
+    "esTranslation": "términos y condiciones",
+    "arTranslation": "الشروط والأحكام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "privacy policy",
+    "meaning": "A statement explaining how an organization collects and uses personal data.",
+    "example": "Our privacy policy explains data retention.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/privacy policy/",
+    "frTranslation": "politique de confidentialité",
+    "esTranslation": "política de privacidad",
+    "arTranslation": "سياسة الخصوصية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "proposal",
+    "meaning": "A document that outlines a plan and pricing to win a client’s business.",
+    "example": "We submitted a proposal for the redesign.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/proposal/",
+    "frTranslation": "proposition commerciale",
+    "esTranslation": "propuesta",
+    "arTranslation": "عرض/مقترح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "business plan",
+    "meaning": "A document describing a company’s strategy, market, and financial projections.",
+    "example": "Investors reviewed the business plan.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/business plan/",
+    "frTranslation": "plan d’affaires",
+    "esTranslation": "plan de negocios",
+    "arTranslation": "خطة عمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "pitch deck",
+    "meaning": "A short slide presentation used to raise investment or sell an idea.",
+    "example": "The pitch deck highlighted traction and TAM.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/pitch deck/",
+    "frTranslation": "présentation (pitch deck)",
+    "esTranslation": "presentación para inversores",
+    "arTranslation": "عرض تقديمي للمستثمرين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "meeting agenda",
+    "meaning": "A list of topics and time blocks to structure a meeting.",
+    "example": "Share the meeting agenda 24 hours ahead.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/meeting agenda/",
+    "frTranslation": "ordre du jour",
+    "esTranslation": "orden del día",
+    "arTranslation": "جدول أعمال الاجتماع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "meeting minutes",
+    "meaning": "Notes that record decisions, actions, and owners from a meeting.",
+    "example": "Please circulate the meeting minutes by EOD.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/meeting minutes/",
+    "frTranslation": "compte rendu de réunion",
+    "esTranslation": "acta de reunión",
+    "arTranslation": "محضر الاجتماع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "letter of intent (LOI)",
+    "meaning": "A non-binding letter that outlines key terms before a formal agreement.",
+    "example": "We signed an LOI to acquire the distributor.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/letter of intent (LOI)/",
+    "frTranslation": "lettre d’intention (LOI)",
+    "esTranslation": "carta de intención (LOI)",
+    "arTranslation": "خطاب نوايا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "documents"
+    ]
+  },
+  {
+    "text": "revenue",
+    "meaning": "Money a company earns from normal business activities.",
+    "example": "Quarterly revenue grew 12% year over year.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/revenue/",
+    "frTranslation": "chiffre d’affaires (revenus)",
+    "esTranslation": "ingresos",
+    "arTranslation": "الإيرادات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "sales"
+    ],
+    "antonyms": [
+      "expense"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "cost of goods sold (COGS)",
+    "meaning": "Direct costs of producing goods, such as materials and labor.",
+    "example": "Higher COGS compressed gross margin.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/cost of goods sold (COGS)/",
+    "frTranslation": "coût des marchandises vendues (CMV)",
+    "esTranslation": "costo de bienes vendidos (CBV)",
+    "arTranslation": "تكلفة البضائع المباعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "gross margin",
+    "meaning": "Revenue minus COGS, expressed as a percentage of revenue.",
+    "example": "We target a 65% gross margin this year.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/gross margin/",
+    "frTranslation": "marge brute",
+    "esTranslation": "margen bruto",
+    "arTranslation": "هامش إجمالي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "operating expenses (Opex)",
+    "meaning": "Regular costs of running a business, like salaries and rent.",
+    "example": "We reduced Opex by consolidating offices.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/operating expenses (Opex)/",
+    "frTranslation": "charges d’exploitation (Opex)",
+    "esTranslation": "gastos operativos (Opex)",
+    "arTranslation": "نفقات تشغيلية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "net income (profit)",
+    "meaning": "What remains after all expenses, taxes, and interest are subtracted from revenue.",
+    "example": "Net income turned positive last quarter.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/net income (profit)/",
+    "frTranslation": "résultat net (bénéfice)",
+    "esTranslation": "ingreso neto (beneficio)",
+    "arTranslation": "صافي الدخل (الربح)",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "profit"
+    ],
+    "antonyms": [
+      "loss"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "EBITDA",
+    "meaning": "Earnings before interest, taxes, depreciation, and amortization—used to compare operating performance.",
+    "example": "The company posted $8M EBITDA with 20% margin.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/EBITDA/",
+    "frTranslation": "EBITDA (BAIIA)",
+    "esTranslation": "EBITDA",
+    "arTranslation": "الأرباح قبل الفوائد والضرائب والاستهلاك",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "cash flow",
+    "meaning": "Net movement of cash in and out of the business over a period.",
+    "example": "Positive cash flow funded hiring.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/cash flow/",
+    "frTranslation": "flux de trésorerie",
+    "esTranslation": "flujo de caja",
+    "arTranslation": "التدفق النقدي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "working capital",
+    "meaning": "Current assets minus current liabilities; liquidity for daily operations.",
+    "example": "Tight working capital delayed purchases.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/working capital/",
+    "frTranslation": "fonds de roulement",
+    "esTranslation": "capital de trabajo",
+    "arTranslation": "رأس المال العامل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  }
+]

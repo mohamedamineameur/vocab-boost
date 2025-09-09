@@ -1,0 +1,512 @@
+[
+  {
+    "text": "mother",
+    "meaning": "A family member.",
+    "example": "My mother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/mother/",
+    "frTranslation": "mère",
+    "esTranslation": "madre",
+    "arTranslation": "أم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "father",
+    "meaning": "A family member.",
+    "example": "My father lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/father/",
+    "frTranslation": "père",
+    "esTranslation": "padre",
+    "arTranslation": "أب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "mom",
+    "meaning": "A family member.",
+    "example": "My mom lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/mom/",
+    "frTranslation": "maman",
+    "esTranslation": "mamá",
+    "arTranslation": "ماما",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "dad",
+    "meaning": "A family member.",
+    "example": "My dad lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/dad/",
+    "frTranslation": "papa",
+    "esTranslation": "papá",
+    "arTranslation": "بابا",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "parent",
+    "meaning": "A family member.",
+    "example": "My parent lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/parent/",
+    "frTranslation": "parent",
+    "esTranslation": "padre/madre",
+    "arTranslation": "والد/والدة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "child",
+    "meaning": "A family member.",
+    "example": "My child lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/child/",
+    "frTranslation": "enfant",
+    "esTranslation": "niño/niña",
+    "arTranslation": "طفل/طفلة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "son",
+    "meaning": "A family member.",
+    "example": "My son lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/son/",
+    "frTranslation": "fils",
+    "esTranslation": "hijo",
+    "arTranslation": "ابن",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "daughter",
+    "meaning": "A family member.",
+    "example": "My daughter lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/daughter/",
+    "frTranslation": "fille",
+    "esTranslation": "hija",
+    "arTranslation": "ابنة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "brother",
+    "meaning": "A family member.",
+    "example": "My brother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/brother/",
+    "frTranslation": "frère",
+    "esTranslation": "hermano",
+    "arTranslation": "أخ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "sister",
+    "meaning": "A family member.",
+    "example": "My sister lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/sister/",
+    "frTranslation": "sœur",
+    "esTranslation": "hermana",
+    "arTranslation": "أخت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "sibling",
+    "meaning": "A family member.",
+    "example": "My sibling lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/sibling/",
+    "frTranslation": "frère/soeur",
+    "esTranslation": "hermano/a",
+    "arTranslation": "شقيق/أشقاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "husband",
+    "meaning": "A family member.",
+    "example": "My husband lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/husband/",
+    "frTranslation": "mari",
+    "esTranslation": "esposo",
+    "arTranslation": "زوج",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "wife",
+    "meaning": "A family member.",
+    "example": "My wife lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/wife/",
+    "frTranslation": "femme/épouse",
+    "esTranslation": "esposa",
+    "arTranslation": "زوجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "spouse",
+    "meaning": "A family member.",
+    "example": "My spouse lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/spouse/",
+    "frTranslation": "conjoint(e)",
+    "esTranslation": "cónyuge",
+    "arTranslation": "زوج/زوجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "grandfather",
+    "meaning": "A family member.",
+    "example": "My grandfather lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/grandfather/",
+    "frTranslation": "grand-père",
+    "esTranslation": "abuelo",
+    "arTranslation": "جد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "grandmother",
+    "meaning": "A family member.",
+    "example": "My grandmother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/grandmother/",
+    "frTranslation": "grand-mère",
+    "esTranslation": "abuela",
+    "arTranslation": "جدة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "grandpa",
+    "meaning": "A family member.",
+    "example": "My grandpa lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/grandpa/",
+    "frTranslation": "papi/pépé",
+    "esTranslation": "abuelo",
+    "arTranslation": "جدو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "grandma",
+    "meaning": "A family member.",
+    "example": "My grandma lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/grandma/",
+    "frTranslation": "mamie/mémé",
+    "esTranslation": "abuela",
+    "arTranslation": "جدة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "grandson",
+    "meaning": "A family member.",
+    "example": "My grandson lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/grandson/",
+    "frTranslation": "petit-fils",
+    "esTranslation": "nieto",
+    "arTranslation": "حفيد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "granddaughter",
+    "meaning": "A family member.",
+    "example": "My granddaughter lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/granddaughter/",
+    "frTranslation": "petite-fille",
+    "esTranslation": "nieta",
+    "arTranslation": "حفيدة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "grandchild",
+    "meaning": "A family member.",
+    "example": "My grandchild lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/grandchild/",
+    "frTranslation": "petit-enfant",
+    "esTranslation": "nieto/a",
+    "arTranslation": "حفيد/حفيدة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "aunt",
+    "meaning": "A family member.",
+    "example": "My aunt lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/aunt/",
+    "frTranslation": "tante",
+    "esTranslation": "tía",
+    "arTranslation": "عمة/خالة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "uncle",
+    "meaning": "A family member.",
+    "example": "My uncle lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/uncle/",
+    "frTranslation": "oncle",
+    "esTranslation": "tío",
+    "arTranslation": "عم/خال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "cousin",
+    "meaning": "A family member.",
+    "example": "My cousin lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/cousin/",
+    "frTranslation": "cousin(e)",
+    "esTranslation": "primo/a",
+    "arTranslation": "ابن/ابنة عم/خال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "nephew",
+    "meaning": "A family member.",
+    "example": "My nephew lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/nephew/",
+    "frTranslation": "neveu",
+    "esTranslation": "sobrino",
+    "arTranslation": "ابن أخ/أخت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "niece",
+    "meaning": "A family member.",
+    "example": "My niece lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/niece/",
+    "frTranslation": "nièce",
+    "esTranslation": "sobrina",
+    "arTranslation": "ابنة أخ/أخت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "stepmother",
+    "meaning": "A family member.",
+    "example": "My stepmother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/stepmother/",
+    "frTranslation": "belle-mère (belle-mère)",
+    "esTranslation": "madrastra",
+    "arTranslation": "زوجة الأب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "stepfather",
+    "meaning": "A family member.",
+    "example": "My stepfather lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/stepfather/",
+    "frTranslation": "beau-père",
+    "esTranslation": "padrastro",
+    "arTranslation": "زوج الأم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "stepson",
+    "meaning": "A family member.",
+    "example": "My stepson lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/stepson/",
+    "frTranslation": "beau-fils",
+    "esTranslation": "hijastro",
+    "arTranslation": "ابن الزوج/الزوجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "stepdaughter",
+    "meaning": "A family member.",
+    "example": "My stepdaughter lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/stepdaughter/",
+    "frTranslation": "belle-fille",
+    "esTranslation": "hijastra",
+    "arTranslation": "ابنة الزوج/الزوجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  }
+]

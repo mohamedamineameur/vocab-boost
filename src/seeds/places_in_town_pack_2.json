@@ -1,0 +1,1362 @@
+[
+  {
+    "text": "food truck",
+    "meaning": "A mobile kitchen serving take‑away meals.",
+    "example": "Lunchtime lines formed at the food truck.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/food truck/",
+    "frTranslation": "camion‑resto",
+    "esTranslation": "camión de comida",
+    "arTranslation": "شاحنة طعام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "bar",
+    "meaning": "A place that serves alcoholic drinks and snacks.",
+    "example": "Live jazz plays at the bar on Fridays.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bar/",
+    "frTranslation": "bar",
+    "esTranslation": "bar",
+    "arTranslation": "حانة/بار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "pub",
+    "meaning": "A casual public house serving drinks and comfort food.",
+    "example": "The pub hosts trivia nights.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pub/",
+    "frTranslation": "pub",
+    "esTranslation": "pub",
+    "arTranslation": "حانة (بريطانية)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "nightclub",
+    "meaning": "A late‑night venue for dancing and DJs.",
+    "example": "Queues formed outside the nightclub.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/nightclub/",
+    "frTranslation": "boîte de nuit",
+    "esTranslation": "discoteca",
+    "arTranslation": "ملهى ليلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "leisure"
+    ]
+  },
+  {
+    "text": "wine shop",
+    "meaning": "A store specializing in wine and related goods.",
+    "example": "Ask the wine shop for a pairing suggestion.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/wine shop/",
+    "frTranslation": "caviste",
+    "esTranslation": "tienda de vinos",
+    "arTranslation": "متجر نبيذ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "liquor store",
+    "meaning": "A shop licensed to sell spirits and alcohol.",
+    "example": "The liquor store closes at 9 p.m.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/liquor store/",
+    "frTranslation": "magasin d’alcool",
+    "esTranslation": "licorería",
+    "arTranslation": "متجر مشروبات كحولية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "ice‑cream parlor",
+    "meaning": "A shop that serves ice cream and desserts.",
+    "example": "Kids love the ice‑cream parlor after school.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/ice‑cream parlor/",
+    "frTranslation": "glacier/salon de glace",
+    "esTranslation": "heladería",
+    "arTranslation": "محل آيس كريم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "chocolate shop",
+    "meaning": "A boutique selling handcrafted chocolates.",
+    "example": "We bought truffles at the chocolate shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/chocolate shop/",
+    "frTranslation": "chocolaterie",
+    "esTranslation": "chocolatería",
+    "arTranslation": "محل شوكولاتة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "candy store",
+    "meaning": "A shop specializing in sweets and treats.",
+    "example": "The candy store displays jars of gummies.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/candy store/",
+    "frTranslation": "confiserie",
+    "esTranslation": "tienda de dulces",
+    "arTranslation": "محل حلويات/سكاكر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "patisserie",
+    "meaning": "A bakery focused on fine pastries and cakes.",
+    "example": "The patisserie’s éclairs sell out early.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/patisserie/",
+    "frTranslation": "pâtisserie",
+    "esTranslation": "pastelería",
+    "arTranslation": "محل معجنات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "florist",
+    "meaning": "A shop that arranges and sells flowers.",
+    "example": "The florist created a wedding bouquet.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/florist/",
+    "frTranslation": "fleuriste",
+    "esTranslation": "floristería",
+    "arTranslation": "محل زهور/مُزَهِّر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "bookstore",
+    "meaning": "A shop where books and magazines are sold.",
+    "example": "Author signings happen at the bookstore.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bookstore/",
+    "frTranslation": "librairie",
+    "esTranslation": "librería",
+    "arTranslation": "مكتبة لبيع الكتب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "stationery shop",
+    "meaning": "A store selling paper goods, pens, and office supplies.",
+    "example": "New notebooks arrived at the stationery shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/stationery shop/",
+    "frTranslation": "papeterie",
+    "esTranslation": "papelería",
+    "arTranslation": "مكتبة قرطاسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "clothing store",
+    "meaning": "A retail shop selling garments and accessories.",
+    "example": "The clothing store launched a spring line.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/clothing store/",
+    "frTranslation": "magasin de vêtements",
+    "esTranslation": "tienda de ropa",
+    "arTranslation": "متجر ملابس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "shoe store",
+    "meaning": "A shop specializing in footwear.",
+    "example": "He found running shoes at the shoe store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/shoe store/",
+    "frTranslation": "magasin de chaussures",
+    "esTranslation": "zapatería",
+    "arTranslation": "محل أحذية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "sports shop",
+    "meaning": "A store selling athletic gear and apparel.",
+    "example": "Rackets are on sale at the sports shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/sports shop/",
+    "frTranslation": "magasin de sport",
+    "esTranslation": "tienda de deportes",
+    "arTranslation": "محل أدوات رياضية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "electronics store",
+    "meaning": "A retail outlet for phones, TVs, and gadgets.",
+    "example": "We compared laptops at the electronics store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/electronics store/",
+    "frTranslation": "magasin d’électronique",
+    "esTranslation": "tienda de electrónica",
+    "arTranslation": "محل إلكترونيات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "mobile phone shop",
+    "meaning": "A store that sells smartphones and plans.",
+    "example": "They upgraded at the mobile phone shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/mobile phone shop/",
+    "frTranslation": "boutique de téléphonie",
+    "esTranslation": "tienda de móviles",
+    "arTranslation": "محل هواتف نقالة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "computer store",
+    "meaning": "A retailer specializing in computers and parts.",
+    "example": "The computer store built a custom PC.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/computer store/",
+    "frTranslation": "magasin d’informatique",
+    "esTranslation": "tienda de informática",
+    "arTranslation": "محل حواسيب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "hardware store",
+    "meaning": "A shop that sells tools, paint, and fix‑it supplies.",
+    "example": "We bought screws at the hardware store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/hardware store/",
+    "frTranslation": "quincaillerie",
+    "esTranslation": "ferretería",
+    "arTranslation": "محل عدد وأدوات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "DIY/home improvement store",
+    "meaning": "A large store for building materials and renovation projects.",
+    "example": "Tiles were cheaper at the home improvement store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/DIY/home improvement store/",
+    "frTranslation": "bricolage (magasin)",
+    "esTranslation": "tienda de mejoras del hogar",
+    "arTranslation": "متجر تحسين المنزل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "furniture store",
+    "meaning": "A shop that sells chairs, tables, and home furnishings.",
+    "example": "The furniture store offers delivery.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/furniture store/",
+    "frTranslation": "magasin de meubles",
+    "esTranslation": "tienda de muebles",
+    "arTranslation": "محل أثاث",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "appliance store",
+    "meaning": "A retailer for fridges, ovens, and washers.",
+    "example": "We compared dishwashers at the appliance store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/appliance store/",
+    "frTranslation": "magasin d’électroménager",
+    "esTranslation": "tienda de electrodomésticos",
+    "arTranslation": "محل أجهزة منزلية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "toy store",
+    "meaning": "A shop selling games, puzzles, and toys.",
+    "example": "The toy store has a train display.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/toy store/",
+    "frTranslation": "magasin de jouets",
+    "esTranslation": "juguetería",
+    "arTranslation": "محل ألعاب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "hobby shop",
+    "meaning": "A store for crafts, models, and creative supplies.",
+    "example": "He bought model paint at the hobby shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/hobby shop/",
+    "frTranslation": "magasin de loisirs créatifs",
+    "esTranslation": "tienda de hobbies/manualidades",
+    "arTranslation": "محل هوايات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "pet store",
+    "meaning": "A shop selling pet food and supplies, sometimes animals.",
+    "example": "The pet store hosts adoption days.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pet store/",
+    "frTranslation": "animalerie",
+    "esTranslation": "tienda de mascotas",
+    "arTranslation": "محل حيوانات أليفة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "garden center",
+    "meaning": "A store for plants, soil, and outdoor tools.",
+    "example": "Herbs were half‑price at the garden center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/garden center/",
+    "frTranslation": "jardinerie",
+    "esTranslation": "centro de jardinería",
+    "arTranslation": "مركز حدائق/مشاتل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "beauty salon",
+    "meaning": "A place offering skincare and cosmetic treatments.",
+    "example": "She booked a facial at the beauty salon.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/beauty salon/",
+    "frTranslation": "institut de beauté",
+    "esTranslation": "salón de belleza",
+    "arTranslation": "صالون تجميل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "hair salon",
+    "meaning": "A shop where hair is cut, dyed, or styled.",
+    "example": "He has an appointment at the hair salon.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/hair salon/",
+    "frTranslation": "salon de coiffure",
+    "esTranslation": "peluquería",
+    "arTranslation": "صالون حلاقة نسائي/رجالي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "barbershop",
+    "meaning": "A small shop focusing on men’s haircuts and shaving.",
+    "example": "The barbershop opens at nine.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/barbershop/",
+    "frTranslation": "barbier/salon de barbier",
+    "esTranslation": "barbería",
+    "arTranslation": "حلاق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "nail salon",
+    "meaning": "A salon specializing in manicures and pedicures.",
+    "example": "The nail salon offers gel polish.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/nail salon/",
+    "frTranslation": "bar à ongles/salon d’onglerie",
+    "esTranslation": "salón de uñas",
+    "arTranslation": "صالون أظافر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "spa",
+    "meaning": "A place offering massages, baths, and relaxation services.",
+    "example": "They spent the afternoon at the spa.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/spa/",
+    "frTranslation": "spa",
+    "esTranslation": "spa",
+    "arTranslation": "سبا/منتجع صحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "tailor",
+    "meaning": "A shop where clothing is altered or custom‑made.",
+    "example": "The tailor adjusted the suit jacket.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/tailor/",
+    "frTranslation": "tailleur (atelier)",
+    "esTranslation": "sastre (taller)",
+    "arTranslation": "خيّاط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "dry cleaner",
+    "meaning": "A service that cleans clothes with solvents instead of water.",
+    "example": "Pick up the coat at the dry cleaner.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/dry cleaner/",
+    "frTranslation": "pressing",
+    "esTranslation": "tintorería",
+    "arTranslation": "مصبغة تنظيف جاف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "laundromat",
+    "meaning": "A self‑service place with coin‑operated washers and dryers.",
+    "example": "The laundromat is busiest on Sundays.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/laundromat/",
+    "frTranslation": "laverie automatique",
+    "esTranslation": "lavandería (autoservicio)",
+    "arTranslation": "مغسلة ملابس ذاتية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "cobbler (shoe repair)",
+    "meaning": "A small shop that repairs shoes and leather goods.",
+    "example": "The cobbler replaced my boot heels.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/cobbler (shoe repair)/",
+    "frTranslation": "cordonnier (réparation)",
+    "esTranslation": "zapatero (arreglo)",
+    "arTranslation": "إسكافي/تصليح أحذية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "watch repair",
+    "meaning": "A shop that fixes watches and clocks.",
+    "example": "He took the heirloom to the watch repair shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/watch repair/",
+    "frTranslation": "horloger (réparation)",
+    "esTranslation": "relojero (reparación)",
+    "arTranslation": "مصلّح ساعات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "print shop",
+    "meaning": "A shop that prints posters, business cards, and copies.",
+    "example": "The print shop bound our reports.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/print shop/",
+    "frTranslation": "imprimerie",
+    "esTranslation": "imprenta",
+    "arTranslation": "مطبعة/محل طباعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "copy center",
+    "meaning": "A place to make photocopies and scans, often with computers for rent.",
+    "example": "She scanned forms at the copy center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/copy center/",
+    "frTranslation": "centre de photocopie",
+    "esTranslation": "centro de copiado",
+    "arTranslation": "مركز نسخ مستندات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "photo studio",
+    "meaning": "A studio offering portraits and product photography.",
+    "example": "Graduation photos were taken at the photo studio.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/photo studio/",
+    "frTranslation": "studio photo",
+    "esTranslation": "estudio fotográfico",
+    "arTranslation": "استوديو تصوير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "travel agency",
+    "meaning": "A business that plans trips, tickets, and tours.",
+    "example": "The travel agency arranged our visas.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/travel agency/",
+    "frTranslation": "agence de voyages",
+    "esTranslation": "agencia de viajes",
+    "arTranslation": "وكالة سفر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "bank",
+    "meaning": "A financial institution for deposits, loans, and services.",
+    "example": "The bank approved the mortgage.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bank/",
+    "frTranslation": "banque",
+    "esTranslation": "banco",
+    "arTranslation": "بنك/مصرف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "finance"
+    ]
+  },
+  {
+    "text": "ATM",
+    "meaning": "A machine that lets customers withdraw cash or check balances.",
+    "example": "There’s an ATM outside the station.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/ATM/",
+    "frTranslation": "distributeur automatique (DAB)",
+    "esTranslation": "cajero automático",
+    "arTranslation": "صراف آلي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "finance"
+    ]
+  },
+  {
+    "text": "currency exchange",
+    "meaning": "A kiosk or office where you can trade one currency for another.",
+    "example": "We exchanged euros at the currency exchange.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/currency exchange/",
+    "frTranslation": "bureau de change",
+    "esTranslation": "casa de cambio",
+    "arTranslation": "صرّاف/صرف عملات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "finance"
+    ]
+  },
+  {
+    "text": "insurance office",
+    "meaning": "A place to purchase and manage insurance policies.",
+    "example": "He updated his plan at the insurance office.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/insurance office/",
+    "frTranslation": "agence d’assurances",
+    "esTranslation": "oficina de seguros",
+    "arTranslation": "مكتب تأمين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "real estate agency",
+    "meaning": "A business that sells, buys, or rents properties.",
+    "example": "They toured apartments through a real estate agency.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/real estate agency/",
+    "frTranslation": "agence immobilière",
+    "esTranslation": "agencia inmobiliaria",
+    "arTranslation": "وكالة عقارية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "car dealership",
+    "meaning": "A business that sells new and used cars and offers service.",
+    "example": "The car dealership organized test drives.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/car dealership/",
+    "frTranslation": "concession automobile",
+    "esTranslation": "concesionario de autos",
+    "arTranslation": "وكالة سيارات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "gas station",
+    "meaning": "A roadside place to refuel vehicles and buy convenience items.",
+    "example": "We stopped at the gas station off the highway.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/gas station/",
+    "frTranslation": "station‑service",
+    "esTranslation": "gasolinera",
+    "arTranslation": "محطة وقود",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "car wash",
+    "meaning": "A service where vehicles are cleaned automatically or by hand.",
+    "example": "The car wash offers monthly passes.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/car wash/",
+    "frTranslation": "lave‑auto",
+    "esTranslation": "lavadero de autos",
+    "arTranslation": "مغسلة سيارات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "auto repair shop",
+    "meaning": "A workshop that diagnoses and repairs vehicles.",
+    "example": "The auto repair shop fixed the brakes.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/auto repair shop/",
+    "frTranslation": "garage (réparation)",
+    "esTranslation": "taller mecánico",
+    "arTranslation": "ورشة تصليح سيارات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "bike shop",
+    "meaning": "A store that sells and repairs bicycles and gear.",
+    "example": "He got a tune‑up at the bike shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bike shop/",
+    "frTranslation": "magasin de vélos",
+    "esTranslation": "tienda de bicicletas",
+    "arTranslation": "محل دراجات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "bike rental",
+    "meaning": "A service renting bicycles for short periods.",
+    "example": "Tourists used the bike rental by the river.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bike rental/",
+    "frTranslation": "location de vélos",
+    "esTranslation": "alquiler de bicicletas",
+    "arTranslation": "تأجير دراجات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "car rental",
+    "meaning": "A business renting cars to customers by the day or week.",
+    "example": "We picked up a van at the car rental.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/car rental/",
+    "frTranslation": "location de voitures",
+    "esTranslation": "alquiler de coches",
+    "arTranslation": "تأجير سيارات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "parking garage",
+    "meaning": "A multi‑level building where cars can be parked for a fee.",
+    "example": "The parking garage is free on weekends.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/parking garage/",
+    "frTranslation": "parking couvert",
+    "esTranslation": "estacionamiento (aparcamiento)",
+    "arTranslation": "مرآب/موقف سيارات متعدد الطوابق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "EV charging station",
+    "meaning": "A spot equipped to recharge electric vehicles.",
+    "example": "There’s an EV charging station behind the mall.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/EV charging station/",
+    "frTranslation": "borne de recharge (VE)",
+    "esTranslation": "estación de carga (VE)",
+    "arTranslation": "محطة شحن سيارات كهربائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "shopping mall",
+    "meaning": "A large complex with many shops and restaurants under one roof.",
+    "example": "The shopping mall stays open late on Thursdays.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/shopping mall/",
+    "frTranslation": "centre commercial",
+    "esTranslation": "centro comercial",
+    "arTranslation": "مركز تسوق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "department store",
+    "meaning": "A big store with many sections selling a variety of goods.",
+    "example": "They bought luggage at the department store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/department store/",
+    "frTranslation": "grand magasin",
+    "esTranslation": "gran almacén",
+    "arTranslation": "متجر متعدد الأقسام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "thrift store",
+    "meaning": "A shop that sells donated, second‑hand goods.",
+    "example": "We found vintage jeans at the thrift store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/thrift store/",
+    "frTranslation": "friperie",
+    "esTranslation": "tienda de segunda mano",
+    "arTranslation": "متجر مستعمل/توفير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "pawn shop",
+    "meaning": "A store that lends money in exchange for items left as collateral.",
+    "example": "He sold a guitar at the pawn shop.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pawn shop/",
+    "frTranslation": "mont‑de‑piété/prêteur sur gages",
+    "esTranslation": "casa de empeño",
+    "arTranslation": "محل رهن/مرتهن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "bus stop",
+    "meaning": "A designated place where buses pick up and drop off passengers.",
+    "example": "Our bus stop is outside the library.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bus stop/",
+    "frTranslation": "arrêt de bus",
+    "esTranslation": "parada de autobús",
+    "arTranslation": "موقف حافلات",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "bus station",
+    "meaning": "A hub where multiple bus routes begin and end.",
+    "example": "The bus station includes a ticket office.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bus station/",
+    "frTranslation": "gare routière",
+    "esTranslation": "estación de autobuses",
+    "arTranslation": "محطة حافلات",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "train station",
+    "meaning": "A terminal where trains arrive, depart, and connect.",
+    "example": "Meet me under the clock at the train station.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/train station/",
+    "frTranslation": "gare",
+    "esTranslation": "estación de tren",
+    "arTranslation": "محطة قطار",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "subway station",
+    "meaning": "An underground or elevated station for rapid transit.",
+    "example": "The subway station has two exits.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/subway station/",
+    "frTranslation": "station de métro",
+    "esTranslation": "estación de metro",
+    "arTranslation": "محطة مترو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "tram stop",
+    "meaning": "A street‑level stop for light‑rail or trams.",
+    "example": "The tram stop is beside the museum.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/tram stop/",
+    "frTranslation": "arrêt de tramway",
+    "esTranslation": "parada de tranvía",
+    "arTranslation": "موقف ترام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "taxi stand",
+    "meaning": "A place where taxis line up to pick up passengers.",
+    "example": "There’s a taxi stand near the hotel entrance.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/taxi stand/",
+    "frTranslation": "station de taxis",
+    "esTranslation": "parada de taxis",
+    "arTranslation": "موقف سيارات أجرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "airport",
+    "meaning": "A complex for air travel with runways and terminals.",
+    "example": "The airport is 30 minutes from downtown.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/airport/",
+    "frTranslation": "aéroport",
+    "esTranslation": "aeropuerto",
+    "arTranslation": "مطار",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "ferry terminal",
+    "meaning": "A dock where ferries load passengers and vehicles.",
+    "example": "The ferry terminal connects to the island.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/ferry terminal/",
+    "frTranslation": "gare maritime",
+    "esTranslation": "terminal de ferris",
+    "arTranslation": "محطة عبّارات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "bike‑sharing station",
+    "meaning": "A rack of rentable bicycles near transit and landmarks.",
+    "example": "We grabbed bikes at the sharing station.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bike‑sharing station/",
+    "frTranslation": "station de vélos en libre‑service",
+    "esTranslation": "estación de bicicletas compartidas",
+    "arTranslation": "محطة دراجات مشتركة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "park‑and‑ride",
+    "meaning": "A parking lot where commuters leave cars and transfer to transit.",
+    "example": "The park‑and‑ride fills by 8 a.m.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/park‑and‑ride/",
+    "frTranslation": "parc‑relais",
+    "esTranslation": "estacionamiento disuasorio",
+    "arTranslation": "موقف سيارات مع مواصلة بالحافلة/القطار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "pedestrian street",
+    "meaning": "A street reserved for walking, cafés, and shops, with limited traffic.",
+    "example": "We strolled along the pedestrian street.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pedestrian street/",
+    "frTranslation": "rue piétonne",
+    "esTranslation": "calle peatonal",
+    "arTranslation": "شارع للمشاة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "urban design"
+    ]
+  },
+  {
+    "text": "promenade",
+    "meaning": "A scenic walkway, often along water or parks.",
+    "example": "Sunset crowds filled the promenade.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/promenade/",
+    "frTranslation": "promenade",
+    "esTranslation": "paseo marítimo/bulevar peatonal",
+    "arTranslation": "متنزه/ممشى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "urban design"
+    ]
+  },
+  {
+    "text": "harbor (port)",
+    "meaning": "A sheltered area for ships to dock and load.",
+    "example": "Fishing boats returned to the harbor at dawn.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/harbor (port)/",
+    "frTranslation": "port",
+    "esTranslation": "puerto",
+    "arTranslation": "ميناء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "transport"
+    ]
+  },
+  {
+    "text": "bridge",
+    "meaning": "A structure that spans water or roads to carry traffic.",
+    "example": "Cyclists crossed the new bridge.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bridge/",
+    "frTranslation": "pont",
+    "esTranslation": "puente",
+    "arTranslation": "جسر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "tunnel",
+    "meaning": "An underground passage for vehicles or pedestrians.",
+    "example": "The tunnel shortens the trip by ten minutes.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/tunnel/",
+    "frTranslation": "tunnel",
+    "esTranslation": "túnel",
+    "arTranslation": "نفق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "roundabout",
+    "meaning": "A circular intersection where traffic flows around a central island.",
+    "example": "Yield to cars already in the roundabout.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/roundabout/",
+    "frTranslation": "rond‑point",
+    "esTranslation": "glorieta/rotonda",
+    "arTranslation": "دوّار مروري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "intersection (crossroads)",
+    "meaning": "A place where two or more roads meet and cross.",
+    "example": "Cameras monitor the busy intersection.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/intersection (crossroads)/",
+    "frTranslation": "carrefour (croisement)",
+    "esTranslation": "intersección (cruce)",
+    "arTranslation": "تقاطع طرق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "pedestrian crossing",
+    "meaning": "A marked place for people to cross the road safely.",
+    "example": "Drivers stopped at the pedestrian crossing.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pedestrian crossing/",
+    "frTranslation": "passage piéton",
+    "esTranslation": "paso de peatones",
+    "arTranslation": "ممر مشاة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "church",
+    "meaning": "A Christian place of worship and community events.",
+    "example": "The church bell rings every hour.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/church/",
+    "frTranslation": "église",
+    "esTranslation": "iglesia",
+    "arTranslation": "كنيسة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "worship"
+    ]
+  },
+  {
+    "text": "mosque",
+    "meaning": "A Muslim place of worship and learning.",
+    "example": "Friday prayers fill the mosque.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/mosque/",
+    "frTranslation": "mosquée",
+    "esTranslation": "mezquita",
+    "arTranslation": "مسجد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "worship"
+    ]
+  },
+  {
+    "text": "synagogue",
+    "meaning": "A Jewish house of prayer and community gatherings.",
+    "example": "A festival was held at the synagogue.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/synagogue/",
+    "frTranslation": "synagogue",
+    "esTranslation": "sinagoga",
+    "arTranslation": "كنيس يهودي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "worship"
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "text": "macaron",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of macaron?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/macaron/",
+    "frTranslation": "macaron",
+    "esTranslation": "macaron",
+    "arTranslation": "ماكارون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "cheesecake",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of cheesecake?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cheesecake/",
+    "frTranslation": "cheesecake",
+    "esTranslation": "tarta de queso",
+    "arTranslation": "تشيزكيك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "ketchup",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some ketchup on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ketchup/",
+    "frTranslation": "ketchup",
+    "esTranslation": "kétchup",
+    "arTranslation": "كاتشب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "mustard",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some mustard on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mustard/",
+    "frTranslation": "moutarde",
+    "esTranslation": "mostaza",
+    "arTranslation": "خردل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "mayonnaise",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some mayonnaise on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mayonnaise/",
+    "frTranslation": "mayonnaise",
+    "esTranslation": "mayonesa",
+    "arTranslation": "مايونيز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "soy sauce",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some soy sauce on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/soy sauce/",
+    "frTranslation": "sauce soja",
+    "esTranslation": "salsa de soja",
+    "arTranslation": "صلصة الصويا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "vinegar",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some vinegar on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/vinegar/",
+    "frTranslation": "vinaigre",
+    "esTranslation": "vinagre",
+    "arTranslation": "خل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "hot sauce",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some hot sauce on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/hot sauce/",
+    "frTranslation": "sauce piquante",
+    "esTranslation": "salsa picante",
+    "arTranslation": "صلصة حارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "barbecue sauce",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some barbecue sauce on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/barbecue sauce/",
+    "frTranslation": "sauce barbecue",
+    "esTranslation": "salsa barbacoa",
+    "arTranslation": "صلصة باربيكيو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "salad dressing",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some salad dressing on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/salad dressing/",
+    "frTranslation": "vinaigrette",
+    "esTranslation": "aderezo/aliño",
+    "arTranslation": "صلصة سلطة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "hummus",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some hummus on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/hummus/",
+    "frTranslation": "houmous",
+    "esTranslation": "hummus",
+    "arTranslation": "حمص",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "tahini",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some tahini on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tahini/",
+    "frTranslation": "tahini",
+    "esTranslation": "tahini",
+    "arTranslation": "طحينة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "pesto",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some pesto on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pesto/",
+    "frTranslation": "pesto",
+    "esTranslation": "pesto",
+    "arTranslation": "بيستو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "salsa",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some salsa on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/salsa/",
+    "frTranslation": "salsa",
+    "esTranslation": "salsa",
+    "arTranslation": "سالسا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "jam",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some jam on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/jam/",
+    "frTranslation": "confiture",
+    "esTranslation": "mermelada",
+    "arTranslation": "مربى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "peanut butter",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some peanut butter on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/peanut butter/",
+    "frTranslation": "beurre de cacahuète",
+    "esTranslation": "mantequilla de maní",
+    "arTranslation": "زبدة الفول السوداني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "aioli",
+    "meaning": "A sauce or condiment used with food.",
+    "example": "Add some aioli on top.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/aioli/",
+    "frTranslation": "aïoli",
+    "esTranslation": "alioli",
+    "arTranslation": "آيولي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "condiment/sauce"
+    ]
+  },
+  {
+    "text": "plate",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the plate.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/plate/",
+    "frTranslation": "assiette",
+    "esTranslation": "plato",
+    "arTranslation": "طبق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "bowl",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the bowl.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bowl/",
+    "frTranslation": "bol",
+    "esTranslation": "tazón/cuenco",
+    "arTranslation": "وعاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "cup",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the cup.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cup/",
+    "frTranslation": "tasse",
+    "esTranslation": "taza",
+    "arTranslation": "كوب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "glass",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the glass.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/glass/",
+    "frTranslation": "verre",
+    "esTranslation": "vaso",
+    "arTranslation": "كأس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "fork",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the fork.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/fork/",
+    "frTranslation": "fourchette",
+    "esTranslation": "tenedor",
+    "arTranslation": "شوكة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "knife",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the knife.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/knife/",
+    "frTranslation": "couteau",
+    "esTranslation": "cuchillo",
+    "arTranslation": "سكين",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "spoon",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the spoon.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/spoon/",
+    "frTranslation": "cuillère",
+    "esTranslation": "cuchara",
+    "arTranslation": "ملعقة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "napkin",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the napkin.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/napkin/",
+    "frTranslation": "serviette",
+    "esTranslation": "servilleta",
+    "arTranslation": "منديل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "straw",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the straw.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/straw/",
+    "frTranslation": "paille",
+    "esTranslation": "pajita/popote",
+    "arTranslation": "قشة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "bottle",
+    "meaning": "A common dining utensil or tableware item.",
+    "example": "Please pass me the bottle.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bottle/",
+    "frTranslation": "bouteille",
+    "esTranslation": "botella",
+    "arTranslation": "زجاجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "utensil/tableware"
+    ]
+  },
+  {
+    "text": "boil",
+    "meaning": "A cooking action.",
+    "example": "Boil the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/boil/",
+    "frTranslation": "faire bouillir",
+    "esTranslation": "hervir",
+    "arTranslation": "يغلي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "fry",
+    "meaning": "A cooking action.",
+    "example": "Fry the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/fry/",
+    "frTranslation": "frire",
+    "esTranslation": "freír",
+    "arTranslation": "يقلي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "bake",
+    "meaning": "A cooking action.",
+    "example": "Bake the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bake/",
+    "frTranslation": "cuire au four",
+    "esTranslation": "hornear",
+    "arTranslation": "يخبز",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "roast",
+    "meaning": "A cooking action.",
+    "example": "Roast the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/roast/",
+    "frTranslation": "rôtir",
+    "esTranslation": "asar",
+    "arTranslation": "يشوي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "grill",
+    "meaning": "A cooking action.",
+    "example": "Grill the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/grill/",
+    "frTranslation": "griller",
+    "esTranslation": "asar a la parrilla",
+    "arTranslation": "يشوي على الشواية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "steam",
+    "meaning": "A cooking action.",
+    "example": "Steam the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/steam/",
+    "frTranslation": "cuire à la vapeur",
+    "esTranslation": "cocinar al vapor",
+    "arTranslation": "يبخر",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "chop",
+    "meaning": "A cooking action.",
+    "example": "Chop the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/chop/",
+    "frTranslation": "hacher",
+    "esTranslation": "picar",
+    "arTranslation": "يقطع",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "slice",
+    "meaning": "A cooking action.",
+    "example": "Slice the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/slice/",
+    "frTranslation": "trancher",
+    "esTranslation": "rebanar",
+    "arTranslation": "يقطع شرائح",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "dice",
+    "meaning": "A cooking action.",
+    "example": "Dice the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/dice/",
+    "frTranslation": "couper en dés",
+    "esTranslation": "cortar en cubos",
+    "arTranslation": "يقطّع مكعبات",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "mix",
+    "meaning": "A cooking action.",
+    "example": "Mix the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mix/",
+    "frTranslation": "mélanger",
+    "esTranslation": "mezclar",
+    "arTranslation": "يخلط",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "stir",
+    "meaning": "A cooking action.",
+    "example": "Stir the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/stir/",
+    "frTranslation": "remuer",
+    "esTranslation": "remover",
+    "arTranslation": "يحرك",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "pour",
+    "meaning": "A cooking action.",
+    "example": "Pour the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pour/",
+    "frTranslation": "verser",
+    "esTranslation": "verter",
+    "arTranslation": "يسكب",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  },
+  {
+    "text": "season",
+    "meaning": "A cooking action.",
+    "example": "Season the onions until soft.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/season/",
+    "frTranslation": "assaisonner",
+    "esTranslation": "sazonar",
+    "arTranslation": "يتبّل",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "cooking-verb"
+    ]
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "text": "red",
+    "meaning": "A primary color often linked to energy, passion, or danger.",
+    "example": "The stop sign is bright red.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/red/",
+    "frTranslation": "rouge",
+    "esTranslation": "rojo",
+    "arTranslation": "أحمر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "green"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "blue",
+    "meaning": "A primary color associated with calm, sky, and water.",
+    "example": "She painted the room a soft blue.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/blue/",
+    "frTranslation": "bleu",
+    "esTranslation": "azul",
+    "arTranslation": "أزرق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "orange"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "yellow",
+    "meaning": "A primary color that suggests brightness and warmth.",
+    "example": "Sunflowers are a vivid yellow.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/yellow/",
+    "frTranslation": "jaune",
+    "esTranslation": "amarillo",
+    "arTranslation": "أصفر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "purple"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "green",
+    "meaning": "A secondary color made from blue and yellow; linked to nature.",
+    "example": "New leaves are a fresh green.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/green/",
+    "frTranslation": "vert",
+    "esTranslation": "verde",
+    "arTranslation": "أخضر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "red"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "orange",
+    "meaning": "A secondary color from red and yellow; lively and warm.",
+    "example": "The sunset glowed orange.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/orange/",
+    "frTranslation": "orange",
+    "esTranslation": "naranja",
+    "arTranslation": "برتقالي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "blue"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "purple",
+    "meaning": "A secondary color from red and blue; often feels regal.",
+    "example": "She chose a deep purple dress.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/purple/",
+    "frTranslation": "violet",
+    "esTranslation": "morado/púrpura",
+    "arTranslation": "أرجواني/بنفسجي",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "violet"
+    ],
+    "antonyms": [
+      "yellow"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "pink",
+    "meaning": "A light red; associated with softness or romance.",
+    "example": "The baby blanket is pink.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/pink/",
+    "frTranslation": "rose",
+    "esTranslation": "rosa",
+    "arTranslation": "وردي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "green (complement of red)"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "brown",
+    "meaning": "A dark color made by mixing complements or all primaries; earthy.",
+    "example": "Leather boots are dark brown.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/brown/",
+    "frTranslation": "marron/brun",
+    "esTranslation": "marrón/café",
+    "arTranslation": "بني",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "black",
+    "meaning": "The darkest color; absorbs most light.",
+    "example": "Black clothes absorb heat.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/black/",
+    "frTranslation": "noir",
+    "esTranslation": "negro",
+    "arTranslation": "أسود",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "white"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "white",
+    "meaning": "The lightest color; reflects most light.",
+    "example": "The gallery walls are white.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/white/",
+    "frTranslation": "blanc",
+    "esTranslation": "blanco",
+    "arTranslation": "أبيض",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "black"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "gray",
+    "meaning": "A neutral color between black and white; muted.",
+    "example": "Clouds turned a heavy gray.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/gray/",
+    "frTranslation": "gris",
+    "esTranslation": "gris",
+    "arTranslation": "رمادي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "beige",
+    "meaning": "A pale brownish color, soft and neutral.",
+    "example": "The sofa is beige to match the rug.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/beige/",
+    "frTranslation": "beige",
+    "esTranslation": "beige",
+    "arTranslation": "بيج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "tan",
+      "sand"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "ivory",
+    "meaning": "A warm off‑white resembling elephant tusk color.",
+    "example": "The invitations were printed on ivory paper.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/ivory/",
+    "frTranslation": "ivoire",
+    "esTranslation": "marfil",
+    "arTranslation": "عاجي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "off‑white"
+    ],
+    "antonyms": [
+      "jet black"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "cream",
+    "meaning": "A rich, pale yellow‑white tone.",
+    "example": "Add cream accents to warm the space.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/cream/",
+    "frTranslation": "crème",
+    "esTranslation": "crema",
+    "arTranslation": "كريمي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "eggshell"
+    ],
+    "antonyms": [
+      "charcoal"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "tan",
+    "meaning": "A light brown color like sun‑tanned skin or leather.",
+    "example": "Desert boots are tan.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/tan/",
+    "frTranslation": "fauve/sable",
+    "esTranslation": "canela/trigueño",
+    "arTranslation": "أسمر/قمحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "beige",
+      "khaki"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "khaki",
+    "meaning": "A dusty yellow‑brown used in uniforms.",
+    "example": "He wore khaki trousers.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/khaki/",
+    "frTranslation": "kaki",
+    "esTranslation": "caqui",
+    "arTranslation": "كاكي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tan"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "navy",
+    "meaning": "A very dark shade of blue.",
+    "example": "The suit is navy with a subtle stripe.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/navy/",
+    "frTranslation": "bleu marine",
+    "esTranslation": "azul marino",
+    "arTranslation": "أزرق كحلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "midnight blue"
+    ],
+    "antonyms": [
+      "pastel blue"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "teal",
+    "meaning": "A medium blue‑green; cooler than turquoise.",
+    "example": "Teal cushions balanced the warm wood.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/teal/",
+    "frTranslation": "sarcelle",
+    "esTranslation": "verde azulado (teal)",
+    "arTranslation": "أخضر مزرق/سماوي غامق",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "blue‑green"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "turquoise",
+    "meaning": "A bright blue‑green reminiscent of the gemstone.",
+    "example": "The water looked turquoise.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/turquoise/",
+    "frTranslation": "turquoise",
+    "esTranslation": "turquesa",
+    "arTranslation": "فيروزي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "cyan",
+    "meaning": "A greenish‑blue primary in CMYK printing.",
+    "example": "Set cyan to 100% for the sky layer.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/cyan/",
+    "frTranslation": "cyan",
+    "esTranslation": "cian",
+    "arTranslation": "سماوي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "aqua"
+    ],
+    "antonyms": [
+      "magenta"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "magenta",
+    "meaning": "A purplish‑red primary in CMYK printing.",
+    "example": "The poster uses magenta highlights.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/magenta/",
+    "frTranslation": "magenta",
+    "esTranslation": "magenta",
+    "arTranslation": "أرجواني فاقع/ماغنتا",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "fuchsia"
+    ],
+    "antonyms": [
+      "green"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "fuchsia",
+    "meaning": "A vivid pink‑purple hue.",
+    "example": "She chose fuchsia lipstick.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/fuchsia/",
+    "frTranslation": "fuchsia",
+    "esTranslation": "fucsia",
+    "arTranslation": "فوشيا",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "magenta"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "maroon",
+    "meaning": "A dark brownish red.",
+    "example": "The team wears maroon jerseys.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/maroon/",
+    "frTranslation": "bordeaux",
+    "esTranslation": "granate/burdeos",
+    "arTranslation": "خمري",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "burgundy"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "burgundy",
+    "meaning": "A deep wine‑red with purple undertones.",
+    "example": "Burgundy pairs well with gold.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/burgundy/",
+    "frTranslation": "bourgogne",
+    "esTranslation": "burgundy",
+    "arTranslation": "برغندي/نبيذي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "maroon"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "crimson",
+    "meaning": "A rich, slightly bluish red.",
+    "example": "Crimson leaves dotted the path.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/crimson/",
+    "frTranslation": "cramoisi",
+    "esTranslation": "carmesí",
+    "arTranslation": "قرمزي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "scarlet"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "scarlet",
+    "meaning": "A brilliant orange‑red.",
+    "example": "The banner was scarlet against the sky.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/scarlet/",
+    "frTranslation": "écarlate",
+    "esTranslation": "escarlata",
+    "arTranslation": "أحمر قانٍ",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "crimson"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "coral",
+    "meaning": "A warm pinkish orange.",
+    "example": "She wore a coral scarf.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/coral/",
+    "frTranslation": "corail",
+    "esTranslation": "coral",
+    "arTranslation": "مرجاني",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "salmon"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "salmon",
+    "meaning": "A light pink‑orange like salmon flesh.",
+    "example": "Paint the nursery a soft salmon.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/salmon/",
+    "frTranslation": "saumon",
+    "esTranslation": "salmón",
+    "arTranslation": "سلموني",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "peach"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "peach",
+    "meaning": "A pale orange‑pink.",
+    "example": "The sunset shifted to peach tones.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/peach/",
+    "frTranslation": "pêche",
+    "esTranslation": "melocotón/durazno",
+    "arTranslation": "خوخي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "apricot"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "apricot",
+    "meaning": "A soft yellow‑orange.",
+    "example": "Apricot curtains warm the room.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/apricot/",
+    "frTranslation": "abricot",
+    "esTranslation": "albaricoque",
+    "arTranslation": "مشمشي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "mint",
+    "meaning": "A pale, cool green with white mixed in.",
+    "example": "Mint tiles freshen the kitchen.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/mint/",
+    "frTranslation": "menthe",
+    "esTranslation": "menta",
+    "arTranslation": "نعناعي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "pastel green"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "emerald",
+    "meaning": "A vivid, jewel‑toned green.",
+    "example": "An emerald dress stood out on stage.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/emerald/",
+    "frTranslation": "émeraude",
+    "esTranslation": "esmeralda",
+    "arTranslation": "زمردي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "jewel green"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "lime",
+    "meaning": "A high‑chroma yellow‑green.",
+    "example": "Use lime accents for energy.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/lime/",
+    "frTranslation": "citron vert (lime)",
+    "esTranslation": "lima/verde lima",
+    "arTranslation": "ليموني فاقع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "olive",
+    "meaning": "A muted yellow‑green like ripe olives.",
+    "example": "Olive pairs well with cream.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/olive/",
+    "frTranslation": "olive",
+    "esTranslation": "oliva",
+    "arTranslation": "زيتي/زيتوني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "chartreuse",
+    "meaning": "A bright yellow‑green between lime and green.",
+    "example": "Chartreuse sneakers pop on camera.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/chartreuse/",
+    "frTranslation": "chartreuse",
+    "esTranslation": "chartreuse",
+    "arTranslation": "شارتروز (أصفر‑أخضر)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "amber",
+    "meaning": "A warm golden yellow‑orange like fossilized resin.",
+    "example": "Traffic signals use amber for caution.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/amber/",
+    "frTranslation": "ambre",
+    "esTranslation": "ámbar",
+    "arTranslation": "كهرماني",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "golden"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "gold",
+    "meaning": "A metallic yellow associated with the metal.",
+    "example": "The frame is finished in gold.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/gold/",
+    "frTranslation": "or",
+    "esTranslation": "oro",
+    "arTranslation": "ذهبي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "silver"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "silver",
+    "meaning": "A metallic gray associated with the metal.",
+    "example": "Silver details cool the palette.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/silver/",
+    "frTranslation": "argent",
+    "esTranslation": "plata",
+    "arTranslation": "فضي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "gold"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "bronze",
+    "meaning": "A brownish metallic color.",
+    "example": "They chose bronze hardware.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/bronze/",
+    "frTranslation": "bronze",
+    "esTranslation": "bronce",
+    "arTranslation": "برونزي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "ochre",
+    "meaning": "An earthy yellow‑brown pigment.",
+    "example": "The mural uses ochre backgrounds.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/ochre/",
+    "frTranslation": "ocre",
+    "esTranslation": "ocre",
+    "arTranslation": "أوخر/أصفر ترابي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "earth yellow"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "sienna",
+    "meaning": "An earthy reddish‑brown pigment.",
+    "example": "Add burnt sienna for shadows.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/sienna/",
+    "frTranslation": "terre de Sienne",
+    "esTranslation": "siena",
+    "arTranslation": "سيينا محروقة/خام",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "umber (related)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "umber",
+    "meaning": "A dark brown pigment from iron oxides.",
+    "example": "Use raw umber to mute greens.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/umber/",
+    "frTranslation": "ombre (terre d’ombre)",
+    "esTranslation": "sombra (tierra)",
+    "arTranslation": "أمبر/أسمر داكن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "charcoal",
+    "meaning": "A deep gray near black.",
+    "example": "Charcoal suits are versatile.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/charcoal/",
+    "frTranslation": "charbon/anthracite",
+    "esTranslation": "carbón",
+    "arTranslation": "فحمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "graphite"
+    ],
+    "antonyms": [
+      "ivory"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "lavender",
+    "meaning": "A pale purple with blue undertone.",
+    "example": "Lavender walls feel relaxing.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/lavender/",
+    "frTranslation": "lavande",
+    "esTranslation": "lavanda",
+    "arTranslation": "لافندر/بنفسجي فاتح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "lilac"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "lilac",
+    "meaning": "A light purple with pink undertone.",
+    "example": "She wore a lilac cardigan.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/lilac/",
+    "frTranslation": "lilas",
+    "esTranslation": "lila",
+    "arTranslation": "ليلكي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "lavender"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "indigo",
+    "meaning": "A deep blue‑violet between blue and purple.",
+    "example": "The fabric was dyed indigo.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/indigo/",
+    "frTranslation": "indigo",
+    "esTranslation": "índigo",
+    "arTranslation": "نيلي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "turmeric (color)",
+    "meaning": "A saturated yellow‑orange inspired by the spice.",
+    "example": "The poster pops with turmeric text.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/turmeric (color)/",
+    "frTranslation": "curcuma (couleur)",
+    "esTranslation": "cúrcuma (color)",
+    "arTranslation": "لون الكركم",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "mustard"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "mustard",
+    "meaning": "A dark yellow with brown undertones.",
+    "example": "A mustard sweater adds warmth.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/mustard/",
+    "frTranslation": "moutarde",
+    "esTranslation": "mostaza",
+    "arTranslation": "أصفر خردلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color name"
+    ]
+  },
+  {
+    "text": "primary color",
+    "meaning": "A fundamental color that cannot be made by mixing others in a given model.",
+    "example": "Painters often use red, blue, and yellow as primary colors.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/primary color/",
+    "frTranslation": "couleur primaire",
+    "esTranslation": "color primario",
+    "arTranslation": "لون أساسي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "secondary color"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "secondary color",
+    "meaning": "A color made by mixing two primaries.",
+    "example": "Green is a secondary color made from blue and yellow.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/secondary color/",
+    "frTranslation": "couleur secondaire",
+    "esTranslation": "color secundario",
+    "arTranslation": "لون ثانوي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "primary color"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  }
+]

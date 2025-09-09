@@ -1,0 +1,870 @@
+[
+  {
+    "text": "anchovy",
+    "meaning": "A tiny salty fish used to flavor sauces and pizzas.",
+    "example": "Anchovies added depth to the dressing.",
+    "categoryId": "Animals",
+    "pronunciation": "/anchovy/",
+    "frTranslation": "anchois",
+    "esTranslation": "anchoa",
+    "arTranslation": "أنشوفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "shark",
+    "meaning": "A cartilaginous predator with multiple rows of replaceable teeth.",
+    "example": "A shark cruised along the reef edge.",
+    "categoryId": "Animals",
+    "pronunciation": "/shark/",
+    "frTranslation": "requin",
+    "esTranslation": "tiburón",
+    "arTranslation": "قرش",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "ray",
+    "meaning": "A flat cartilaginous fish that glides using wing-like fins.",
+    "example": "A ray buried itself in the sandy bottom.",
+    "categoryId": "Animals",
+    "pronunciation": "/ray/",
+    "frTranslation": "raie",
+    "esTranslation": "raya",
+    "arTranslation": "سمكة شيطان البحر/راي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "manta ray (large)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "clownfish",
+    "meaning": "A reef fish that shelters among sea anemone tentacles.",
+    "example": "A clownfish peeked from the anemone.",
+    "categoryId": "Animals",
+    "pronunciation": "/clownfish/",
+    "frTranslation": "poisson-clown",
+    "esTranslation": "pez payaso",
+    "arTranslation": "سمكة المهرج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "goldfish",
+    "meaning": "A domesticated carp kept as an ornamental pet.",
+    "example": "The goldfish circled the bowl.",
+    "categoryId": "Animals",
+    "pronunciation": "/goldfish/",
+    "frTranslation": "poisson rouge",
+    "esTranslation": "pez dorado",
+    "arTranslation": "سمكة ذهبية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "piranha",
+    "meaning": "A South American river fish with sharp teeth and powerful jaws.",
+    "example": "A school of piranhas shredded the fruit in seconds.",
+    "categoryId": "Animals",
+    "pronunciation": "/piranha/",
+    "frTranslation": "piranha",
+    "esTranslation": "piraña",
+    "arTranslation": "بيرانا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "eel",
+    "meaning": "A long, snake-like fish; many migrate to breed in the ocean.",
+    "example": "An eel slipped between the rocks.",
+    "categoryId": "Animals",
+    "pronunciation": "/eel/",
+    "frTranslation": "anguille",
+    "esTranslation": "anguila",
+    "arTranslation": "ثعبان البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "swordfish",
+    "meaning": "A large ocean fish with a long, flat bill for stunning prey.",
+    "example": "The swordfish leapt clear of the water.",
+    "categoryId": "Animals",
+    "pronunciation": "/swordfish/",
+    "frTranslation": "espadon",
+    "esTranslation": "pez espada",
+    "arTranslation": "سمك أبو سيف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "marlin",
+    "meaning": "A powerful billfish prized in sport fishing for speed and size.",
+    "example": "A marlin stripped line from the reel.",
+    "categoryId": "Animals",
+    "pronunciation": "/marlin/",
+    "frTranslation": "marlin",
+    "esTranslation": "marlín",
+    "arTranslation": "مارلن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "bass",
+    "meaning": "A name for several popular game fish found in lakes and seas.",
+    "example": "He caught a largemouth bass near the reeds.",
+    "categoryId": "Animals",
+    "pronunciation": "/bass/",
+    "frTranslation": "bar; achigan (NA)",
+    "esTranslation": "lubina; róbalo",
+    "arTranslation": "باس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "tilapia",
+    "meaning": "A hardy freshwater fish widely farmed for food.",
+    "example": "The farm raises tilapia in recirculating tanks.",
+    "categoryId": "Animals",
+    "pronunciation": "/tilapia/",
+    "frTranslation": "tilapia",
+    "esTranslation": "tilapia",
+    "arTranslation": "سمك البلطي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "fish"
+    ]
+  },
+  {
+    "text": "butterfly",
+    "meaning": "An insect with colorful wings that undergoes complete metamorphosis.",
+    "example": "A butterfly landed on the flower.",
+    "categoryId": "Animals",
+    "pronunciation": "/butterfly/",
+    "frTranslation": "papillon",
+    "esTranslation": "mariposa",
+    "arTranslation": "فراشة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "moth",
+    "meaning": "A nocturnal relative of butterflies attracted to light.",
+    "example": "A moth fluttered around the porch lamp.",
+    "categoryId": "Animals",
+    "pronunciation": "/moth/",
+    "frTranslation": "papillon de nuit",
+    "esTranslation": "polilla",
+    "arTranslation": "عثة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "bee",
+    "meaning": "A social pollinator that makes honey and wax.",
+    "example": "Bees buzzed among the blossoms.",
+    "categoryId": "Animals",
+    "pronunciation": "/bee/",
+    "frTranslation": "abeille",
+    "esTranslation": "abeja",
+    "arTranslation": "نحلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "wasp"
+    ],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "wasp",
+    "meaning": "A stinging insect; many species are solitary predators or parasitoids.",
+    "example": "A wasp hovered near the picnic table.",
+    "categoryId": "Animals",
+    "pronunciation": "/wasp/",
+    "frTranslation": "guêpe",
+    "esTranslation": "avispa",
+    "arTranslation": "دبور",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "bee"
+    ],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "hornet",
+    "meaning": "A large social wasp with a painful sting.",
+    "example": "A hornet patrolled the nest entrance.",
+    "categoryId": "Animals",
+    "pronunciation": "/hornet/",
+    "frTranslation": "frelon",
+    "esTranslation": "avispón",
+    "arTranslation": "زنبار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "ant",
+    "meaning": "A social insect that forms colonies with specialized castes.",
+    "example": "Ants formed a trail to the crumbs.",
+    "categoryId": "Animals",
+    "pronunciation": "/ant/",
+    "frTranslation": "fourmi",
+    "esTranslation": "hormiga",
+    "arTranslation": "نملة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "termite",
+    "meaning": "A cellulose-eating insect that can damage wooden structures.",
+    "example": "Termites hollowed the old beam.",
+    "categoryId": "Animals",
+    "pronunciation": "/termite/",
+    "frTranslation": "termitte",
+    "esTranslation": "termitas",
+    "arTranslation": "نمل أبيض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "beetle",
+    "meaning": "An insect with hard forewings that cover the flying wings beneath.",
+    "example": "A beetle crawled under the bark.",
+    "categoryId": "Animals",
+    "pronunciation": "/beetle/",
+    "frTranslation": "scarabée",
+    "esTranslation": "escarabajo",
+    "arTranslation": "خنفساء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "ladybug",
+    "meaning": "A small spotted beetle that eats plant pests like aphids.",
+    "example": "A ladybug climbed onto my finger.",
+    "categoryId": "Animals",
+    "pronunciation": "/ladybug/",
+    "frTranslation": "coccinelle",
+    "esTranslation": "mariquita",
+    "arTranslation": "دعسوقة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "ladybird (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "dragonfly",
+    "meaning": "A swift aerial hunter with large eyes and two pairs of wings.",
+    "example": "A dragonfly skimmed across the pond.",
+    "categoryId": "Animals",
+    "pronunciation": "/dragonfly/",
+    "frTranslation": "libellule",
+    "esTranslation": "libélula",
+    "arTranslation": "اليعسوب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "grasshopper",
+    "meaning": "A jumping herbivore that rubs wings to make chirping sounds.",
+    "example": "A grasshopper sprang from the path.",
+    "categoryId": "Animals",
+    "pronunciation": "/grasshopper/",
+    "frTranslation": "sauterelle",
+    "esTranslation": "saltamontes",
+    "arTranslation": "جرادة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "cricket",
+    "meaning": "A nocturnal insect whose males chirp by rubbing their wings.",
+    "example": "A cricket sang outside the window.",
+    "categoryId": "Animals",
+    "pronunciation": "/cricket/",
+    "frTranslation": "grillon",
+    "esTranslation": "grillo",
+    "arTranslation": "صرصور الحقل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "fly",
+    "meaning": "A fast-breeding insect with two wings and compound eyes.",
+    "example": "A fly landed on the fruit bowl.",
+    "categoryId": "Animals",
+    "pronunciation": "/fly/",
+    "frTranslation": "mouche",
+    "esTranslation": "mosca",
+    "arTranslation": "ذبابة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "mosquito",
+    "meaning": "A tiny biting insect; females feed on blood and can transmit disease.",
+    "example": "A mosquito whined near my ear.",
+    "categoryId": "Animals",
+    "pronunciation": "/mosquito/",
+    "frTranslation": "moustique",
+    "esTranslation": "mosquito",
+    "arTranslation": "بعوضة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "cockroach",
+    "meaning": "A resilient scavenger insect often found in buildings.",
+    "example": "A cockroach scuttled under the fridge.",
+    "categoryId": "Animals",
+    "pronunciation": "/cockroach/",
+    "frTranslation": "cafard/blatte",
+    "esTranslation": "cucaracha",
+    "arTranslation": "صرصور",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "praying mantis",
+    "meaning": "A predatory insect with grasping forelegs held like folded hands.",
+    "example": "The praying mantis waited motionless for prey.",
+    "categoryId": "Animals",
+    "pronunciation": "/praying mantis/",
+    "frTranslation": "mante religieuse",
+    "esTranslation": "mantis religiosa",
+    "arTranslation": "فرس النبي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "caterpillar",
+    "meaning": "The larval stage of butterflies and moths that eats leaves.",
+    "example": "A caterpillar inched along the twig.",
+    "categoryId": "Animals",
+    "pronunciation": "/caterpillar/",
+    "frTranslation": "chenille",
+    "esTranslation": "oruga",
+    "arTranslation": "يرقة فراشة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "aphid",
+    "meaning": "A tiny sap-sucking insect that can damage garden plants.",
+    "example": "Aphids clustered on the rose buds.",
+    "categoryId": "Animals",
+    "pronunciation": "/aphid/",
+    "frTranslation": "puceron",
+    "esTranslation": "áfido/pulgón",
+    "arTranslation": "منّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "firefly",
+    "meaning": "A beetle whose abdomen produces flashes of light at night.",
+    "example": "Fireflies blinked over the meadow.",
+    "categoryId": "Animals",
+    "pronunciation": "/firefly/",
+    "frTranslation": "luciole",
+    "esTranslation": "luciérnaga",
+    "arTranslation": "يراعة/حشرة مضيئة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "cicada",
+    "meaning": "A loud insect whose males sing and some species emerge in cycles.",
+    "example": "Cicadas droned on a hot afternoon.",
+    "categoryId": "Animals",
+    "pronunciation": "/cicada/",
+    "frTranslation": "cigale",
+    "esTranslation": "cigarra",
+    "arTranslation": "زيز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "insect"
+    ]
+  },
+  {
+    "text": "spider",
+    "meaning": "An arthropod with eight legs that spins silk to build webs or wrap prey.",
+    "example": "A spider wove a web in the corner.",
+    "categoryId": "Animals",
+    "pronunciation": "/spider/",
+    "frTranslation": "araignée",
+    "esTranslation": "araña",
+    "arTranslation": "عنكبوت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "arachnid"
+    ]
+  },
+  {
+    "text": "tarantula",
+    "meaning": "A large, hairy spider with strong fangs; many are docile when handled.",
+    "example": "The tarantula slowly explored its terrarium.",
+    "categoryId": "Animals",
+    "pronunciation": "/tarantula/",
+    "frTranslation": "mygale/tarantule",
+    "esTranslation": "tarántula",
+    "arTranslation": "عنكبوت الرتيلاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "arachnid"
+    ]
+  },
+  {
+    "text": "scorpion",
+    "meaning": "A nocturnal predator with pincers and a venomous stinger.",
+    "example": "A scorpion hid under the rock by day.",
+    "categoryId": "Animals",
+    "pronunciation": "/scorpion/",
+    "frTranslation": "scorpion",
+    "esTranslation": "alacrán/escorpión",
+    "arTranslation": "عقرب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "arachnid"
+    ]
+  },
+  {
+    "text": "tick",
+    "meaning": "A blood-feeding parasite that can transmit diseases.",
+    "example": "We checked for ticks after hiking.",
+    "categoryId": "Animals",
+    "pronunciation": "/tick/",
+    "frTranslation": "tique",
+    "esTranslation": "garrapata",
+    "arTranslation": "قرادة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "arachnid"
+    ]
+  },
+  {
+    "text": "mite",
+    "meaning": "A tiny arachnid; some live in dust or on plants and animals.",
+    "example": "Dust mites thrive in bedding and carpets.",
+    "categoryId": "Animals",
+    "pronunciation": "/mite/",
+    "frTranslation": "acarien",
+    "esTranslation": "ácaro",
+    "arTranslation": "عُثّة/سوس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "arachnid"
+    ]
+  },
+  {
+    "text": "crab",
+    "meaning": "A sideways-walking crustacean with a broad shell and pincers.",
+    "example": "A crab scuttled between the rocks.",
+    "categoryId": "Animals",
+    "pronunciation": "/crab/",
+    "frTranslation": "crabe",
+    "esTranslation": "cangrejo",
+    "arTranslation": "سلطعون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "crustacean"
+    ]
+  },
+  {
+    "text": "lobster",
+    "meaning": "A large marine crustacean with strong claws and prized meat.",
+    "example": "The lobster waved a powerful claw.",
+    "categoryId": "Animals",
+    "pronunciation": "/lobster/",
+    "frTranslation": "homard",
+    "esTranslation": "langosta",
+    "arTranslation": "جراد البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "crustacean"
+    ]
+  },
+  {
+    "text": "shrimp",
+    "meaning": "A small swimming crustacean with a curved body, often eaten.",
+    "example": "Shrimp darted among the seagrass.",
+    "categoryId": "Animals",
+    "pronunciation": "/shrimp/",
+    "frTranslation": "crevette",
+    "esTranslation": "camarón/gamba",
+    "arTranslation": "روبيان/جمبري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "prawn"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "crustacean"
+    ]
+  },
+  {
+    "text": "crayfish",
+    "meaning": "A freshwater relative of lobsters that hides under stones.",
+    "example": "We found a crayfish in the stream.",
+    "categoryId": "Animals",
+    "pronunciation": "/crayfish/",
+    "frTranslation": "écrevisse",
+    "esTranslation": "cangrejo de río",
+    "arTranslation": "سرطان نهري/جراد البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "crawfish (US)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "crustacean"
+    ]
+  },
+  {
+    "text": "barnacle",
+    "meaning": "A sessile crustacean that cements itself to rocks and ship hulls.",
+    "example": "Barnacles encrusted the pier pilings.",
+    "categoryId": "Animals",
+    "pronunciation": "/barnacle/",
+    "frTranslation": "balane",
+    "esTranslation": "percebe/barnizal",
+    "arTranslation": "برنقيل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "crustacean"
+    ]
+  },
+  {
+    "text": "snail",
+    "meaning": "A soft-bodied animal with a coiled shell and a slow gliding foot.",
+    "example": "A snail left a silver trail on the path.",
+    "categoryId": "Animals",
+    "pronunciation": "/snail/",
+    "frTranslation": "escargot",
+    "esTranslation": "caracol",
+    "arTranslation": "حلزون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "slug"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mollusk"
+    ]
+  },
+  {
+    "text": "slug",
+    "meaning": "A shell-less land mollusk that glides on mucus.",
+    "example": "A slug munched holes in the lettuce.",
+    "categoryId": "Animals",
+    "pronunciation": "/slug/",
+    "frTranslation": "limace",
+    "esTranslation": "babosa",
+    "arTranslation": "بزاقة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "snail"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mollusk"
+    ]
+  },
+  {
+    "text": "octopus",
+    "meaning": "An intelligent cephalopod with eight arms and remarkable camouflage.",
+    "example": "An octopus unscrewed the jar lid to get food.",
+    "categoryId": "Animals",
+    "pronunciation": "/octopus/",
+    "frTranslation": "pieuvre/poulpe",
+    "esTranslation": "pulpo",
+    "arTranslation": "أخطبوط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mollusk"
+    ]
+  },
+  {
+    "text": "squid",
+    "meaning": "A fast-swimming cephalopod that jets through water and releases ink.",
+    "example": "A squid flashed patterns to communicate.",
+    "categoryId": "Animals",
+    "pronunciation": "/squid/",
+    "frTranslation": "calmar",
+    "esTranslation": "calamar",
+    "arTranslation": "حبار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mollusk"
+    ]
+  },
+  {
+    "text": "oyster",
+    "meaning": "A bivalve that filters water and can produce pearls.",
+    "example": "We found an oyster clamped to the reef.",
+    "categoryId": "Animals",
+    "pronunciation": "/oyster/",
+    "frTranslation": "huître",
+    "esTranslation": "ostra",
+    "arTranslation": "محار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mollusk"
+    ]
+  },
+  {
+    "text": "jellyfish",
+    "meaning": "A gelatinous marine animal with stinging tentacles for catching prey.",
+    "example": "A jellyfish drifted near the pier.",
+    "categoryId": "Animals",
+    "pronunciation": "/jellyfish/",
+    "frTranslation": "méduse",
+    "esTranslation": "medusa",
+    "arTranslation": "قنديل البحر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "cnidarian"
+    ]
+  },
+  {
+    "text": "coral",
+    "meaning": "Colonial animals that build reefs from calcium carbonate skeletons.",
+    "example": "Healthy coral hosts symbiotic algae that give it color.",
+    "categoryId": "Animals",
+    "pronunciation": "/coral/",
+    "frTranslation": "corail",
+    "esTranslation": "coral",
+    "arTranslation": "مرجان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "cnidarian"
+    ]
+  },
+  {
+    "text": "starfish",
+    "meaning": "A sea star with radial arms that can regenerate lost limbs.",
+    "example": "The starfish clung to the rock.",
+    "categoryId": "Animals",
+    "pronunciation": "/starfish/",
+    "frTranslation": "étoile de mer",
+    "esTranslation": "estrella de mar",
+    "arTranslation": "نجم البحر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "sea star"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "echinoderm"
+    ]
+  },
+  {
+    "text": "sea urchin",
+    "meaning": "A spiny echinoderm that grazes on algae and hides in crevices.",
+    "example": "A sea urchin wedged between two stones.",
+    "categoryId": "Animals",
+    "pronunciation": "/sea urchin/",
+    "frTranslation": "oursin",
+    "esTranslation": "erizo de mar",
+    "arTranslation": "قنفذ البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "echinoderm"
+    ]
+  }
+]

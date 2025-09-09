@@ -1,0 +1,938 @@
+[
+  {
+    "text": "doctor",
+    "meaning": "A licensed physician who diagnoses illnesses and prescribes treatments.",
+    "example": "The doctor examined her and ordered blood tests.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/doctor/",
+    "frTranslation": "médecin",
+    "esTranslation": "médico",
+    "arTranslation": "طبيب",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "physician",
+      "medic"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "nurse",
+    "meaning": "A trained medical professional who cares for patients and supports doctors.",
+    "example": "The nurse checked his blood pressure every hour.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/nurse/",
+    "frTranslation": "infirmier/infirmière",
+    "esTranslation": "enfermero/a",
+    "arTranslation": "ممرّض/ة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "RN",
+      "registered nurse"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "surgeon",
+    "meaning": "A physician who performs operations to treat disease or injury.",
+    "example": "The heart surgeon performed a complex bypass surgery.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/surgeon/",
+    "frTranslation": "chirurgien/chirurgienne",
+    "esTranslation": "cirujano/a",
+    "arTranslation": "جرّاح",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "operative surgeon"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "dentist",
+    "meaning": "A healthcare professional who treats teeth, gums, and oral conditions.",
+    "example": "My dentist filled a small cavity last week.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/dentist/",
+    "frTranslation": "dentiste",
+    "esTranslation": "dentista",
+    "arTranslation": "طبيب أسنان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "pharmacist",
+    "meaning": "A professional who prepares and dispenses medications and advises on their use.",
+    "example": "Ask the pharmacist about possible side effects.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/pharmacist/",
+    "frTranslation": "pharmacien/pharmacienne",
+    "esTranslation": "farmacéutico/a",
+    "arTranslation": "صيدلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "chemist (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "paramedic",
+    "meaning": "An emergency medical responder who provides advanced care before hospital arrival.",
+    "example": "Paramedics stabilized the victim at the scene.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/paramedic/",
+    "frTranslation": "ambulancier/ière",
+    "esTranslation": "paramédico/a",
+    "arTranslation": "مسعف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "therapist",
+    "meaning": "A practitioner who treats physical or mental conditions through specialized therapy.",
+    "example": "She sees a therapist for anxiety management.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/therapist/",
+    "frTranslation": "thérapeute",
+    "esTranslation": "terapeuta",
+    "arTranslation": "معالج",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "counselor (US)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "psychologist",
+    "meaning": "A mental health professional who studies behavior and provides psychotherapy, not medical drugs.",
+    "example": "The psychologist used cognitive behavioral therapy with the patient.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/psychologist/",
+    "frTranslation": "psychologue",
+    "esTranslation": "psicólogo/a",
+    "arTranslation": "عالم نفس",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "psychiatrist"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "psychiatrist",
+    "meaning": "A medical doctor specializing in mental health who can prescribe medication.",
+    "example": "A psychiatrist adjusted his antidepressant dosage.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/psychiatrist/",
+    "frTranslation": "psychiatre",
+    "esTranslation": "psiquiatra",
+    "arTranslation": "طبيب نفسي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "psychologist"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "caregiver",
+    "meaning": "A person who assists someone with daily living due to age, illness, or disability.",
+    "example": "Her grandfather’s caregiver visits every morning.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/caregiver/",
+    "frTranslation": "aidant/aidante",
+    "esTranslation": "cuidador/a",
+    "arTranslation": "مقدّم رعاية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "carer (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "midwife",
+    "meaning": "A health professional who cares for women during pregnancy, childbirth, and postpartum.",
+    "example": "The midwife coached her through breathing techniques.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/midwife/",
+    "frTranslation": "sage-femme",
+    "esTranslation": "partera",
+    "arTranslation": "قابلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "optometrist",
+    "meaning": "An eye-care professional who examines vision and prescribes corrective lenses.",
+    "example": "The optometrist updated my glasses prescription.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/optometrist/",
+    "frTranslation": "optométriste",
+    "esTranslation": "optometrista",
+    "arTranslation": "أخصائي بصريات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "ophthalmologist"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "veterinarian",
+    "meaning": "A medical professional who treats animals.",
+    "example": "We took the dog to the veterinarian for vaccines.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/veterinarian/",
+    "frTranslation": "vétérinaire",
+    "esTranslation": "veterinario/a",
+    "arTranslation": "طبيب بيطري",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "vet"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "radiologist",
+    "meaning": "A physician who interprets medical images such as X‑rays, CTs, and MRIs.",
+    "example": "The radiologist confirmed the fracture on the X‑ray.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/radiologist/",
+    "frTranslation": "radiologue",
+    "esTranslation": "radiólogo/a",
+    "arTranslation": "اختصاصي أشعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "anesthesiologist",
+    "meaning": "A physician who manages anesthesia and pain control during surgery.",
+    "example": "The anesthesiologist explained the risks of general anesthesia.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/anesthesiologist/",
+    "frTranslation": "anesthésiste",
+    "esTranslation": "anestesiólogo/a",
+    "arTranslation": "طبيب تخدير",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "nutritionist",
+    "meaning": "A professional who advises on diet and healthy eating to improve wellbeing.",
+    "example": "The nutritionist designed a low-sodium meal plan.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/nutritionist/",
+    "frTranslation": "nutritionniste",
+    "esTranslation": "nutricionista",
+    "arTranslation": "أخصائي تغذية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "dietitian"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "physiotherapist",
+    "meaning": "A specialist who restores movement and function through physical therapy.",
+    "example": "A physiotherapist helped him recover after knee surgery.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/physiotherapist/",
+    "frTranslation": "kinésithérapeute",
+    "esTranslation": "fisioterapeuta",
+    "arTranslation": "أخصائي علاج طبيعي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "physical therapist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "lab technician",
+    "meaning": "A worker who conducts tests and analyzes samples in a laboratory.",
+    "example": "The lab technician prepared the blood samples.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/lab technician/",
+    "frTranslation": "technicien/ne de laboratoire",
+    "esTranslation": "técnico/a de laboratorio",
+    "arTranslation": "فني مختبر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "laboratory technologist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "nursing assistant",
+    "meaning": "A healthcare worker who helps patients with basic care under nurse supervision.",
+    "example": "The nursing assistant helped the patient walk.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/nursing assistant/",
+    "frTranslation": "aide-soignant/e",
+    "esTranslation": "auxiliar de enfermería",
+    "arTranslation": "مساعد تمريض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "CNA",
+      "care aide"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "phlebotomist",
+    "meaning": "A technician trained to draw blood for tests, transfusions, or donation.",
+    "example": "The phlebotomist found a vein on the first try.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/phlebotomist/",
+    "frTranslation": "phlébotomiste",
+    "esTranslation": "flebotomista",
+    "arTranslation": "فني سحب الدم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "healthcare"
+    ]
+  },
+  {
+    "text": "teacher",
+    "meaning": "A person who instructs students in a school or course.",
+    "example": "Our teacher explained fractions with blocks.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/teacher/",
+    "frTranslation": "enseignant/e",
+    "esTranslation": "maestro/a",
+    "arTranslation": "معلّم/ة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "educator",
+      "instructor"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "professor",
+    "meaning": "A senior academic who teaches and conducts research at a university.",
+    "example": "The professor published a paper on linguistics.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/professor/",
+    "frTranslation": "professeur (université)",
+    "esTranslation": "profesor/a",
+    "arTranslation": "أستاذ جامعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "academic"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "tutor",
+    "meaning": "A private instructor who gives one‑to‑one or small‑group lessons.",
+    "example": "She hired a math tutor before exams.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/tutor/",
+    "frTranslation": "tuteur/tutrice",
+    "esTranslation": "tutor/a",
+    "arTranslation": "مدرّس خاص",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "coach (academics)",
+      "private teacher"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "instructor",
+    "meaning": "A person who teaches a skill or subject, often in practical settings.",
+    "example": "The driving instructor stayed calm during practice.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/instructor/",
+    "frTranslation": "formateur/trice",
+    "esTranslation": "instructor/a",
+    "arTranslation": "مدرِّس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "trainer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "principal",
+    "meaning": "The head of a school responsible for leadership and management.",
+    "example": "The principal met with concerned parents.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/principal/",
+    "frTranslation": "proviseur/directeur",
+    "esTranslation": "director/a",
+    "arTranslation": "مدير المدرسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "headteacher"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "librarian",
+    "meaning": "A professional who manages library collections and helps people find information.",
+    "example": "Ask the librarian for books on World War II.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/librarian/",
+    "frTranslation": "bibliothécaire",
+    "esTranslation": "bibliotecario/a",
+    "arTranslation": "أمين مكتبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "student",
+    "meaning": "A person who is learning at a school, college, or university.",
+    "example": "Each student submitted the assignment online.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/student/",
+    "frTranslation": "étudiant/e; élève",
+    "esTranslation": "estudiante; alumno/a",
+    "arTranslation": "طالب/طالبة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "pupil (BrE)"
+    ],
+    "antonyms": [
+      "teacher"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "classmate",
+    "meaning": "A person who attends the same class as you.",
+    "example": "My classmate and I studied together.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/classmate/",
+    "frTranslation": "camarade de classe",
+    "esTranslation": "compañero/a de clase",
+    "arTranslation": "زميل صف",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "schoolmate"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "researcher",
+    "meaning": "Someone who systematically investigates to discover or interpret facts.",
+    "example": "The researcher conducted interviews for the study.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/researcher/",
+    "frTranslation": "chercheur/chercheuse",
+    "esTranslation": "investigador/a",
+    "arTranslation": "باحث/ة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "investigator"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "teaching assistant",
+    "meaning": "A graduate student or staff member who supports a course and assists students.",
+    "example": "The teaching assistant graded quizzes.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/teaching assistant/",
+    "frTranslation": "assistant/e d'enseignement",
+    "esTranslation": "ayudante de cátedra",
+    "arTranslation": "مساعد تدريس",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "TA"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "mentor",
+    "meaning": "An experienced advisor who guides a less experienced person.",
+    "example": "Her mentor reviewed the portfolio before the interview.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mentor/",
+    "frTranslation": "mentor",
+    "esTranslation": "mentor/a",
+    "arTranslation": "مرشد",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "advisor",
+      "coach"
+    ],
+    "antonyms": [
+      "mentee"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "mentee",
+    "meaning": "A less experienced person who receives guidance from a mentor.",
+    "example": "As a mentee, he set monthly goals with his mentor.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mentee/",
+    "frTranslation": "mentoré/e",
+    "esTranslation": "mentorizado/a",
+    "arTranslation": "متدرّب/مُسترشد",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "protégé"
+    ],
+    "antonyms": [
+      "mentor"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "education"
+    ]
+  },
+  {
+    "text": "software engineer",
+    "meaning": "An engineer who designs, builds, and maintains software systems.",
+    "example": "The software engineer refactored the payment service.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/software engineer/",
+    "frTranslation": "ingénieur logiciel",
+    "esTranslation": "ingeniero/a de software",
+    "arTranslation": "مهندس برمجيات",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "developer",
+      "programmer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "web developer",
+    "meaning": "A programmer who creates and maintains websites and web apps.",
+    "example": "Our web developer optimized page load time.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/web developer/",
+    "frTranslation": "développeur web",
+    "esTranslation": "desarrollador/a web",
+    "arTranslation": "مطور ويب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "frontend developer",
+      "backend developer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "mobile developer",
+    "meaning": "A developer who builds apps for phones and tablets.",
+    "example": "The mobile developer released an update for iOS.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mobile developer/",
+    "frTranslation": "développeur mobile",
+    "esTranslation": "desarrollador/a móvil",
+    "arTranslation": "مطور تطبيقات جوال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "data scientist",
+    "meaning": "A professional who extracts insights from data using statistics and machine learning.",
+    "example": "The data scientist built a churn prediction model.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/data scientist/",
+    "frTranslation": "scientifique des données",
+    "esTranslation": "científico/a de datos",
+    "arTranslation": "عالم بيانات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "data analyst",
+    "meaning": "A specialist who interprets data to answer business questions.",
+    "example": "Our data analyst visualized sales trends.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/data analyst/",
+    "frTranslation": "analyste de données",
+    "esTranslation": "analista de datos",
+    "arTranslation": "محلل بيانات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "product manager",
+    "meaning": "A person who defines product vision, prioritizes features, and coordinates teams.",
+    "example": "The product manager wrote the roadmap for Q4.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/product manager/",
+    "frTranslation": "chef de produit",
+    "esTranslation": "gerente de producto",
+    "arTranslation": "مدير منتج",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "PM"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "project manager",
+    "meaning": "Someone who plans, executes, and delivers projects on time and budget.",
+    "example": "The project manager updated the timeline.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/project manager/",
+    "frTranslation": "chef de projet",
+    "esTranslation": "gestor/a de proyectos",
+    "arTranslation": "مدير مشروع",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "PM"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "UX designer",
+    "meaning": "A designer who focuses on user needs to create effective product flows.",
+    "example": "The UX designer ran usability tests with five users.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/UX designer/",
+    "frTranslation": "designer UX",
+    "esTranslation": "diseñador/a UX",
+    "arTranslation": "مصمم تجربة المستخدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "user experience designer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "UI designer",
+    "meaning": "A designer who crafts the visual interface elements of a product.",
+    "example": "Our UI designer refined the color system.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/UI designer/",
+    "frTranslation": "designer UI",
+    "esTranslation": "diseñador/a UI",
+    "arTranslation": "مصمم واجهات",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "interface designer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "QA tester",
+    "meaning": "A specialist who tests software to find bugs and ensure quality.",
+    "example": "The QA tester filed a reproducible bug report.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/QA tester/",
+    "frTranslation": "testeur QA",
+    "esTranslation": "probador/a QA",
+    "arTranslation": "مختبر ضمان الجودة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "quality assurance engineer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "DevOps engineer",
+    "meaning": "An engineer who automates deployment, scaling, and monitoring for reliable systems.",
+    "example": "A DevOps engineer set up continuous delivery pipelines.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/DevOps engineer/",
+    "frTranslation": "ingénieur DevOps",
+    "esTranslation": "ingeniero/a DevOps",
+    "arTranslation": "مهندس ديف أوبس",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "system administrator",
+    "meaning": "A professional who installs, configures, and maintains computer systems and servers.",
+    "example": "The system administrator patched the servers overnight.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/system administrator/",
+    "frTranslation": "administrateur système",
+    "esTranslation": "administrador/a de sistemas",
+    "arTranslation": "مسؤول نظام",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "sysadmin"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "network engineer",
+    "meaning": "An engineer who designs and manages computer networks.",
+    "example": "The network engineer diagnosed a routing issue.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/network engineer/",
+    "frTranslation": "ingénieur réseau",
+    "esTranslation": "ingeniero/a de redes",
+    "arTranslation": "مهندس شبكات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "IT support technician",
+    "meaning": "A specialist who helps users fix hardware and software problems.",
+    "example": "Call the IT support technician for a password reset.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/IT support technician/",
+    "frTranslation": "technicien support IT",
+    "esTranslation": "técnico/a de soporte TI",
+    "arTranslation": "فني دعم تقني",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "help desk technician"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "database administrator",
+    "meaning": "A professional who secures, tunes, and maintains databases.",
+    "example": "The database administrator optimized slow queries.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/database administrator/",
+    "frTranslation": "administrateur de bases de données",
+    "esTranslation": "administrador/a de bases de datos",
+    "arTranslation": "مسؤول قواعد البيانات",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "DBA"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "cybersecurity analyst",
+    "meaning": "A defender who detects and responds to security threats in systems and networks.",
+    "example": "A cybersecurity analyst investigated the phishing incident.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/cybersecurity analyst/",
+    "frTranslation": "analyste cybersécurité",
+    "esTranslation": "analista de ciberseguridad",
+    "arTranslation": "محلل أمن سيبراني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "machine learning engineer",
+    "meaning": "An engineer who builds and deploys models that learn from data.",
+    "example": "The machine learning engineer productionized the recommendation model.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/machine learning engineer/",
+    "frTranslation": "ingénieur en apprentissage automatique",
+    "esTranslation": "ingeniero/a de aprendizaje automático",
+    "arTranslation": "مهندس تعلم آلي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "ML engineer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "cloud architect",
+    "meaning": "A specialist who designs scalable, secure cloud infrastructure.",
+    "example": "Our cloud architect chose a multi‑region design for resilience.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/cloud architect/",
+    "frTranslation": "architecte cloud",
+    "esTranslation": "arquitecto/a de nube",
+    "arTranslation": "مهندس سحابة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  }
+]

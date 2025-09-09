@@ -1,0 +1,1043 @@
+[
+  {
+    "text": "subduction zone",
+    "meaning": "A boundary where one tectonic plate dives beneath another.",
+    "example": "Volcanoes line the subduction zone.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/subduction zone/",
+    "frTranslation": "zone de subduction",
+    "esTranslation": "zona de subducción",
+    "arTranslation": "منطقة اندساس",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "rift valley",
+    "meaning": "A long valley formed where Earth's crust is pulling apart.",
+    "example": "Lakes fill parts of the rift valley.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/rift valley/",
+    "frTranslation": "rift (vallée)",
+    "esTranslation": "valle de rift",
+    "arTranslation": "وادي الانهدام",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "mid-ocean ridge",
+    "meaning": "An underwater mountain chain where new ocean crust forms.",
+    "example": "Hydrothermal vents dot the mid-ocean ridge.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/mid-ocean ridge/",
+    "frTranslation": "dorsale médio-océanique",
+    "esTranslation": "dorsal mesooceánica",
+    "arTranslation": "حيد وسط المحيط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ocean/geology"
+    ]
+  },
+  {
+    "text": "volcano",
+    "meaning": "An opening in Earth's crust where lava, ash, and gases erupt.",
+    "example": "The volcano emitted a plume of ash.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/volcano/",
+    "frTranslation": "volcan",
+    "esTranslation": "volcán",
+    "arTranslation": "بركان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "magma",
+    "meaning": "Molten rock beneath the Earth's surface.",
+    "example": "Magma collected in the chamber before the eruption.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/magma/",
+    "frTranslation": "magma",
+    "esTranslation": "magma",
+    "arTranslation": "صهارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "lava (surface)"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "lava",
+    "meaning": "Molten rock that flows on Earth's surface during an eruption.",
+    "example": "Lava cooled into black rock.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/lava/",
+    "frTranslation": "lave",
+    "esTranslation": "lava",
+    "arTranslation": "حمم بركانية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "magma (subsurface)"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "pyroclastic flow",
+    "meaning": "A fast, deadly avalanche of hot gas and volcanic debris.",
+    "example": "The pyroclastic flow raced down the slope.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/pyroclastic flow/",
+    "frTranslation": "nuée ardente/écoulement pyroclastique",
+    "esTranslation": "flujo piroclástico",
+    "arTranslation": "سَيْل حُمَم فتاتية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "lahar",
+    "meaning": "A volcanic mudflow made of ash, water, and debris.",
+    "example": "Rain triggered a lahar after the eruption.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/lahar/",
+    "frTranslation": "lahar (coulée boueuse)",
+    "esTranslation": "lajhar (flujo de lodo volcánico)",
+    "arTranslation": "لاهار/تيار وحل بركاني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "earthquake",
+    "meaning": "A sudden shaking of the ground due to movement along faults.",
+    "example": "An earthquake rattled dishes off the shelves.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/earthquake/",
+    "frTranslation": "tremblement de terre",
+    "esTranslation": "terremoto",
+    "arTranslation": "زلزال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hazard"
+    ]
+  },
+  {
+    "text": "epicenter",
+    "meaning": "The point on the surface directly above an earthquake’s focus.",
+    "example": "The epicenter lay offshore near the trench.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/epicenter/",
+    "frTranslation": "épicentre",
+    "esTranslation": "epicentro",
+    "arTranslation": "مركز سطحي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hazard"
+    ]
+  },
+  {
+    "text": "tsunami",
+    "meaning": "A series of large ocean waves caused by underwater disturbances.",
+    "example": "Tsunami warnings cleared the beaches.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/tsunami/",
+    "frTranslation": "tsunami",
+    "esTranslation": "tsunami/maremoto",
+    "arTranslation": "تسونامي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hazard"
+    ]
+  },
+  {
+    "text": "landslide",
+    "meaning": "A mass of rock or soil that moves downhill under gravity.",
+    "example": "Heavy rain triggered a landslide.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/landslide/",
+    "frTranslation": "glissement de terrain",
+    "esTranslation": "deslizamiento de tierra",
+    "arTranslation": "انهيار أرضي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hazard"
+    ]
+  },
+  {
+    "text": "avalanche",
+    "meaning": "A sudden flow of snow down a slope.",
+    "example": "Skiers carried beacons in case of avalanche.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/avalanche/",
+    "frTranslation": "avalanche",
+    "esTranslation": "alud/avalancha",
+    "arTranslation": "انهيار ثلجي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hazard"
+    ]
+  },
+  {
+    "text": "sinkhole",
+    "meaning": "A collapse of the ground surface into a void below.",
+    "example": "A sinkhole opened beneath the road.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/sinkhole/",
+    "frTranslation": "dolline/gouffre",
+    "esTranslation": "sumidero",
+    "arTranslation": "فجوة انهيارية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hazard"
+    ]
+  },
+  {
+    "text": "erosion",
+    "meaning": "The wearing away of rock and soil by water, wind, or ice.",
+    "example": "Vegetation reduces erosion on slopes.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/erosion/",
+    "frTranslation": "érosion",
+    "esTranslation": "erosión",
+    "arTranslation": "تعرية/حتّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "deposition"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "geomorphology"
+    ]
+  },
+  {
+    "text": "weathering",
+    "meaning": "The breakdown of rocks into smaller pieces by chemical, physical, or biological processes.",
+    "example": "Acid rain speeds chemical weathering.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/weathering/",
+    "frTranslation": "altération (météorisation)",
+    "esTranslation": "meteorización",
+    "arTranslation": "تجوية/تحلّل صخري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geomorphology"
+    ]
+  },
+  {
+    "text": "deposition",
+    "meaning": "The laying down of sediment after transport by wind, water, or ice.",
+    "example": "Sandbars grow by deposition.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/deposition/",
+    "frTranslation": "dépôt/sédimentation",
+    "esTranslation": "deposición",
+    "arTranslation": "ترسيب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "erosion"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "geomorphology"
+    ]
+  },
+  {
+    "text": "sediment",
+    "meaning": "Loose particles of rock and organic material moved and deposited by agents.",
+    "example": "The delta builds up from fine sediment.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/sediment/",
+    "frTranslation": "sédiment",
+    "esTranslation": "sedimento",
+    "arTranslation": "رواسب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geomorphology"
+    ]
+  },
+  {
+    "text": "ecosystem",
+    "meaning": "A community of living organisms interacting with each other and their physical environment.",
+    "example": "Beavers reshape the ecosystem by building dams.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/ecosystem/",
+    "frTranslation": "écosystème",
+    "esTranslation": "ecosistema",
+    "arTranslation": "نظام بيئي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "biodiversity",
+    "meaning": "The variety of life in a region, including species, genes, and ecosystems.",
+    "example": "Protecting wetlands preserves biodiversity.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/biodiversity/",
+    "frTranslation": "biodiversité",
+    "esTranslation": "biodiversidad",
+    "arTranslation": "تنوع بيولوجي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "habitat",
+    "meaning": "The natural environment where a species lives and finds resources.",
+    "example": "Roads fragmented the deer’s habitat.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/habitat/",
+    "frTranslation": "habitat",
+    "esTranslation": "hábitat",
+    "arTranslation": "موئل/مسكن طبيعي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "range (contrast)"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "niche (ecological)",
+    "meaning": "A species’ role, resource use, and interactions in its ecosystem.",
+    "example": "Two species avoid competition by occupying different niches.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/niche (ecological)/",
+    "frTranslation": "niche (écologique)",
+    "esTranslation": "nicho (ecológico)",
+    "arTranslation": "حيّز بيئي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "keystone species",
+    "meaning": "A species whose impact is disproportionately large relative to its abundance.",
+    "example": "Sea otters are a keystone species for kelp forests.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/keystone species/",
+    "frTranslation": "espèce clé de voûte",
+    "esTranslation": "especie clave",
+    "arTranslation": "نوع محوري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "endemic species",
+    "meaning": "A species found only in a specific geographic area.",
+    "example": "The island hosts many endemic species.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/endemic species/",
+    "frTranslation": "espèce endémique",
+    "esTranslation": "especie endémica",
+    "arTranslation": "نوع مُتوطن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "invasive species",
+    "meaning": "A non-native species that spreads and harms local ecosystems.",
+    "example": "Invasive species outcompeted native plants.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/invasive species/",
+    "frTranslation": "espèce envahissante",
+    "esTranslation": "especie invasora",
+    "arTranslation": "نوع غازي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "food web",
+    "meaning": "A network of feeding relationships connecting producers and consumers.",
+    "example": "Removing top predators reshapes the food web.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/food web/",
+    "frTranslation": "réseau trophique",
+    "esTranslation": "red trófico",
+    "arTranslation": "شبكة غذائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "trophic level",
+    "meaning": "A step in the food chain, from producers up to apex predators.",
+    "example": "Energy decreases at each trophic level.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/trophic level/",
+    "frTranslation": "niveau trophique",
+    "esTranslation": "nivel trófico",
+    "arTranslation": "مستوى غذائي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "ecosystem services",
+    "meaning": "Benefits people gain from ecosystems, like pollination and water purification.",
+    "example": "Wetlands provide flood-control ecosystem services.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/ecosystem services/",
+    "frTranslation": "services écosystémiques",
+    "esTranslation": "servicios ecosistémicos",
+    "arTranslation": "خدمات النظم البيئية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecology"
+    ]
+  },
+  {
+    "text": "conservation",
+    "meaning": "Protecting natural resources and biodiversity for the future.",
+    "example": "Community-led conservation restored the river.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/conservation/",
+    "frTranslation": "conservation",
+    "esTranslation": "conservación",
+    "arTranslation": "حِفظ/صون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "preservation",
+    "meaning": "Keeping natural areas intact and free from use or development.",
+    "example": "Strict preservation zones limit access.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/preservation/",
+    "frTranslation": "préservation",
+    "esTranslation": "preservación",
+    "arTranslation": "حماية/حفظ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "restoration ecology",
+    "meaning": "The science of assisting the recovery of damaged ecosystems.",
+    "example": "Volunteers planted native grasses in a restoration project.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/restoration ecology/",
+    "frTranslation": "écologie de la restauration",
+    "esTranslation": "ecología de la restauración",
+    "arTranslation": "استعادة بيئية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "rewilding",
+    "meaning": "Conservation that reintroduces missing species and natural processes.",
+    "example": "Rewilding brought back large herbivores.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/rewilding/",
+    "frTranslation": "réensauvagement",
+    "esTranslation": "rewilding",
+    "arTranslation": "إعادة توحش/إحياء بري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "deforestation",
+    "meaning": "The removal of forests, often for agriculture or logging.",
+    "example": "Deforestation reduces rainfall patterns.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/deforestation/",
+    "frTranslation": "déforestation",
+    "esTranslation": "deforestación",
+    "arTranslation": "إزالة الغابات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "afforestation",
+      "reforestation"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "reforestation",
+    "meaning": "Planting trees in an area where a forest has been removed.",
+    "example": "Reforestation stabilized the hillside.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/reforestation/",
+    "frTranslation": "reboisement",
+    "esTranslation": "reforestación",
+    "arTranslation": "إعادة التشجير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "deforestation"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "afforestation",
+    "meaning": "Establishing forests where none existed in recent history.",
+    "example": "Afforestation projects create new carbon sinks.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/afforestation/",
+    "frTranslation": "afforestation/reboisement",
+    "esTranslation": "aforestación",
+    "arTranslation": "تشجير",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "deforestation"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "desertification",
+    "meaning": "Land degradation in dry areas leading to loss of productivity.",
+    "example": "Overgrazing accelerates desertification.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/desertification/",
+    "frTranslation": "désertification",
+    "esTranslation": "desertificación",
+    "arTranslation": "تصحّر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "soil erosion",
+    "meaning": "Loss of topsoil by wind or water, reducing fertility.",
+    "example": "Terraces reduce soil erosion on farms.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/soil erosion/",
+    "frTranslation": "érosion des sols",
+    "esTranslation": "erosión del suelo",
+    "arTranslation": "تعرية التربة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "land degradation",
+    "meaning": "A decline in land quality due to misuse or natural processes.",
+    "example": "Monitoring tracks land degradation trends.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/land degradation/",
+    "frTranslation": "dégradation des terres",
+    "esTranslation": "degradación de la tierra",
+    "arTranslation": "تدهور الأراضي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "sustainable development",
+    "meaning": "Meeting present needs without compromising future generations’ ability to meet theirs.",
+    "example": "Urban plans now stress sustainable development.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/sustainable development/",
+    "frTranslation": "développement durable",
+    "esTranslation": "desarrollo sostenible",
+    "arTranslation": "تنمية مستدامة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "circular economy",
+    "meaning": "An economic system that keeps materials in use through reuse and recycling.",
+    "example": "Designing for repair supports a circular economy.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/circular economy/",
+    "frTranslation": "économie circulaire",
+    "esTranslation": "economía circular",
+    "arTranslation": "اقتصاد دائري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "green infrastructure",
+    "meaning": "Natural or semi-natural systems that deliver services like cooling and flood control.",
+    "example": "Parks and green roofs form green infrastructure.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/green infrastructure/",
+    "frTranslation": "infrastructures vertes",
+    "esTranslation": "infraestructura verde",
+    "arTranslation": "بنية تحتية خضراء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "environment"
+    ]
+  },
+  {
+    "text": "urbanization",
+    "meaning": "The growth of cities as people move from rural areas.",
+    "example": "Rapid urbanization strains housing and transit.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/urbanization/",
+    "frTranslation": "urbanisation",
+    "esTranslation": "urbanización",
+    "arTranslation": "تحضّر/تمدّن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "rural area",
+    "meaning": "Countryside with low population density and farmland or natural land.",
+    "example": "Services can be far apart in a rural area.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/rural area/",
+    "frTranslation": "zone rurale",
+    "esTranslation": "zona rural",
+    "arTranslation": "منطقة ريفية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "urban area"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "suburb",
+    "meaning": "A residential area on the edge of a city.",
+    "example": "They moved to a quiet suburb with trees.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/suburb/",
+    "frTranslation": "banlieue",
+    "esTranslation": "suburbio",
+    "arTranslation": "ضاحية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "megacity",
+    "meaning": "A metropolitan area with a population over 10 million.",
+    "example": "The megacity struggles with traffic and smog.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/megacity/",
+    "frTranslation": "mégapole",
+    "esTranslation": "megaciudad",
+    "arTranslation": "مدينة عملاقة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "population density",
+    "meaning": "The number of people living per unit area of land.",
+    "example": "High population density raises housing costs.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/population density/",
+    "frTranslation": "densité de population",
+    "esTranslation": "densidad de población",
+    "arTranslation": "الكثافة السكانية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "migration",
+    "meaning": "The movement of people from one place to another to live or work.",
+    "example": "Seasonal migration fills farm jobs.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/migration/",
+    "frTranslation": "migration",
+    "esTranslation": "migración",
+    "arTranslation": "هجرة/نزوح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "push factor",
+    "meaning": "A condition that drives people to leave a place (e.g., conflict, drought).",
+    "example": "Drought acted as a push factor for villages.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/push factor/",
+    "frTranslation": "facteur de répulsion",
+    "esTranslation": "factor de expulsión",
+    "arTranslation": "عامل طارد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "pull factor",
+    "meaning": "A condition that attracts people to a new place (e.g., jobs, safety).",
+    "example": "Job openings were a strong pull factor.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/pull factor/",
+    "frTranslation": "facteur d’attraction",
+    "esTranslation": "factor de atracción",
+    "arTranslation": "عامل جذب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "land use",
+    "meaning": "How land is allocated for housing, farming, industry, or conservation.",
+    "example": "Zoning guides land use near the river.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/land use/",
+    "frTranslation": "occupation du sol",
+    "esTranslation": "uso del suelo",
+    "arTranslation": "استعمالات الأراضي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "human geography"
+    ]
+  },
+  {
+    "text": "agriculture",
+    "meaning": "Cultivating soil, growing crops, and raising animals for food and materials.",
+    "example": "Irrigation expanded local agriculture.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/agriculture/",
+    "frTranslation": "agriculture",
+    "esTranslation": "agricultura",
+    "arTranslation": "زراعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "irrigation",
+    "meaning": "Supplying water to crops through channels, pipes, or sprinklers.",
+    "example": "Drip irrigation saves water in dry regions.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/irrigation/",
+    "frTranslation": "irrigation",
+    "esTranslation": "irrigación",
+    "arTranslation": "ريّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "terrace farming",
+    "meaning": "Stepped fields built into slopes to reduce erosion and hold water.",
+    "example": "Terrace farming clings to the mountain sides.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/terrace farming/",
+    "frTranslation": "agriculture en terrasses",
+    "esTranslation": "agricultura en terrazas",
+    "arTranslation": "زراعة مدرّجات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "crop rotation",
+    "meaning": "Changing the crop grown in a field each season to maintain soil health.",
+    "example": "Crop rotation cut pest problems.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/crop rotation/",
+    "frTranslation": "rotation des cultures",
+    "esTranslation": "rotación de cultivos",
+    "arTranslation": "دَوَران المحاصيل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "monoculture",
+    "meaning": "Growing a single crop over a large area, year after year.",
+    "example": "Monoculture can increase disease risk.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/monoculture/",
+    "frTranslation": "monoculture",
+    "esTranslation": "monocultivo",
+    "arTranslation": "زراعة أحادية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "polyculture"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "agroforestry",
+    "meaning": "Integrating trees with crops or livestock for mutual benefits.",
+    "example": "Agroforestry boosts shade and soil fertility.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/agroforestry/",
+    "frTranslation": "agroforesterie",
+    "esTranslation": "agroforestería",
+    "arTranslation": "حراجة زراعية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "aquaculture",
+    "meaning": "Farming fish, shellfish, or seaweed in controlled conditions.",
+    "example": "Coastal aquaculture supplies local markets.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/aquaculture/",
+    "frTranslation": "aquaculture",
+    "esTranslation": "acuicultura",
+    "arTranslation": "الاستزراع المائي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "overfishing",
+    "meaning": "Catching fish faster than populations can replace themselves.",
+    "example": "Limits aim to prevent overfishing.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/overfishing/",
+    "frTranslation": "surpêche",
+    "esTranslation": "sobrepesca",
+    "arTranslation": "الصيد الجائر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "bycatch",
+    "meaning": "Non-target species caught during fishing operations.",
+    "example": "New nets reduce turtle bycatch.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/bycatch/",
+    "frTranslation": "prises accessoires",
+    "esTranslation": "captura incidental",
+    "arTranslation": "صيد جانبي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "resources"
+    ]
+  },
+  {
+    "text": "renewable energy",
+    "meaning": "Energy from sources that naturally replenish, like sun, wind, and water.",
+    "example": "Policies encourage renewable energy projects.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/renewable energy/",
+    "frTranslation": "énergie renouvelable",
+    "esTranslation": "energía renovable",
+    "arTranslation": "طاقة متجددة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "energy"
+    ]
+  }
+]

@@ -1,0 +1,1038 @@
+[
+  {
+    "text": "retailer",
+    "meaning": "A business that sells products directly to consumers.",
+    "example": "The retailer expanded its online store.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/retailer/",
+    "frTranslation": "détaillant",
+    "esTranslation": "minorista",
+    "arTranslation": "بائع تجزئة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "bill of materials (BOM)",
+    "meaning": "A complete list of components and quantities needed to build a product.",
+    "example": "Engineering updated the BOM after the redesign.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/bill of materials (BOM)/",
+    "frTranslation": "nomenclature (BOM)",
+    "esTranslation": "lista de materiales (BOM)",
+    "arTranslation": "قائمة المواد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "SKU (stock keeping unit)",
+    "meaning": "A unique identifier used to track each distinct product or variant.",
+    "example": "We archived slow-moving SKUs.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/SKU (stock keeping unit)/",
+    "frTranslation": "UGS (unité de gestion des stocks)",
+    "esTranslation": "SKU (unidad de mantenimiento de stock)",
+    "arTranslation": "رمز التخزين/المخزون",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "lead time",
+    "meaning": "The time between ordering something and receiving it.",
+    "example": "Forecasting reduced lead times by two weeks.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/lead time/",
+    "frTranslation": "délai d’approvisionnement",
+    "esTranslation": "tiempo de entrega",
+    "arTranslation": "الزمن اللازم للتوريد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "throughput",
+    "meaning": "The amount of work or goods processed in a given period.",
+    "example": "Automation increased throughput 15%.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/throughput/",
+    "frTranslation": "débit/flux traité",
+    "esTranslation": "rendimiento/throughput",
+    "arTranslation": "معدل الإنتاج/التدفق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "bottleneck",
+    "meaning": "A stage that limits overall output because it is slower than others.",
+    "example": "Testing is the current bottleneck.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/bottleneck/",
+    "frTranslation": "goulot d’étranglement",
+    "esTranslation": "cuello de botella",
+    "arTranslation": "عنق الزجاجة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "quality assurance (QA)",
+    "meaning": "Planned activities to ensure products meet standards.",
+    "example": "QA added sampling to reduce defects.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/quality assurance (QA)/",
+    "frTranslation": "assurance qualité (AQ)",
+    "esTranslation": "aseguramiento de la calidad (QA)",
+    "arTranslation": "ضمان الجودة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "compliance audit",
+    "meaning": "A formal check that regulations and policies are being followed.",
+    "example": "We prepared documents for the compliance audit.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/compliance audit/",
+    "frTranslation": "audit de conformité",
+    "esTranslation": "auditoría de cumplimiento",
+    "arTranslation": "تدقيق امتثال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "customer relationship management (CRM)",
+    "meaning": "Software that tracks customers, sales pipelines, and interactions.",
+    "example": "The team logs all calls in the CRM.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/customer relationship management (CRM)/",
+    "frTranslation": "gestion de la relation client (CRM)",
+    "esTranslation": "gestión de relaciones con clientes (CRM)",
+    "arTranslation": "إدارة علاقات العملاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "enterprise resource planning (ERP)",
+    "meaning": "A suite integrating finance, supply chain, and operations in one system.",
+    "example": "ERP integration simplified inventory control.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/enterprise resource planning (ERP)/",
+    "frTranslation": "progiciel de gestion intégré (ERP)",
+    "esTranslation": "planificación de recursos empresariales (ERP)",
+    "arTranslation": "تخطيط موارد المؤسسة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "applicant tracking system (ATS)",
+    "meaning": "Software that manages recruiting tasks such as postings and interviews.",
+    "example": "HR filters resumes through the ATS.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/applicant tracking system (ATS)/",
+    "frTranslation": "système de suivi des candidatures (ATS)",
+    "esTranslation": "sistema de seguimiento de candidatos (ATS)",
+    "arTranslation": "نظام تتبّع المتقدمين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "knowledge base",
+    "meaning": "A centralized collection of articles that document processes and answers.",
+    "example": "Support updated the knowledge base weekly.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/knowledge base/",
+    "frTranslation": "base de connaissances",
+    "esTranslation": "base de conocimiento",
+    "arTranslation": "قاعدة معرفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "ticketing system",
+    "meaning": "Software for logging and tracking customer or internal requests.",
+    "example": "All incidents must be entered in the ticketing system.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/ticketing system/",
+    "frTranslation": "outil de ticketing",
+    "esTranslation": "sistema de tickets",
+    "arTranslation": "نظام تذاكر دعم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "version control",
+    "meaning": "A system that records changes to files so you can track and revert history.",
+    "example": "We host code in a version control repository.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/version control/",
+    "frTranslation": "gestion de versions",
+    "esTranslation": "control de versiones",
+    "arTranslation": "إدارة الإصدارات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "dashboard",
+    "meaning": "A screen that shows key metrics and trends at a glance.",
+    "example": "Execs check the revenue dashboard daily.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/dashboard/",
+    "frTranslation": "tableau de bord",
+    "esTranslation": "panel/tablón de mando",
+    "arTranslation": "لوحة معلومات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "OKR (objectives and key results)",
+    "meaning": "A goal-setting framework linking outcomes to measurable results.",
+    "example": "Team OKRs ladder up to company goals.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/OKR (objectives and key results)/",
+    "frTranslation": "OKR (objectifs et résultats clés)",
+    "esTranslation": "OKR (objetivos y resultados clave)",
+    "arTranslation": "الأهداف والنتائج الرئيسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "KPI (key performance indicator)",
+    "meaning": "A metric used to evaluate success for an activity or objective.",
+    "example": "Churn rate is a KPI for retention.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/KPI (key performance indicator)/",
+    "frTranslation": "KPI (indicateur clé)",
+    "esTranslation": "KPI (indicador clave)",
+    "arTranslation": "مؤشر أداء رئيسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "tools"
+    ]
+  },
+  {
+    "text": "negotiate",
+    "meaning": "To discuss terms with another party to reach an agreement.",
+    "example": "We negotiated a two-year contract.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/negotiate/",
+    "frTranslation": "négocier",
+    "esTranslation": "negociar",
+    "arTranslation": "يتفاوض",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bargain"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "delegate",
+    "meaning": "To assign responsibility and authority to someone else.",
+    "example": "Managers should delegate routine tasks.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/delegate/",
+    "frTranslation": "déléguer",
+    "esTranslation": "delegar",
+    "arTranslation": "يفوّض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "prioritize",
+    "meaning": "To decide the order of importance so the most valuable work comes first.",
+    "example": "We prioritized bugs affecting payments.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/prioritize/",
+    "frTranslation": "prioriser",
+    "esTranslation": "priorizar",
+    "arTranslation": "يضع الأولويات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "benchmark",
+    "meaning": "To measure performance against best-in-class peers.",
+    "example": "We benchmarked delivery times across regions.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/benchmark/",
+    "frTranslation": "étalonner/comparer",
+    "esTranslation": "comparar con referentes",
+    "arTranslation": "يقارن بمعيار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "forecast",
+    "meaning": "To estimate future results using data and assumptions.",
+    "example": "Finance forecasted Q4 demand.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/forecast/",
+    "frTranslation": "prévoir (prévision)",
+    "esTranslation": "pronosticar",
+    "arTranslation": "يتنبّأ/يتوقع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "optimize",
+    "meaning": "To make something as effective and efficient as possible.",
+    "example": "We optimized ads for conversions.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/optimize/",
+    "frTranslation": "optimiser",
+    "esTranslation": "optimizar",
+    "arTranslation": "يحسّن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "monetize",
+    "meaning": "To turn a product or audience into revenue.",
+    "example": "They monetized the app with subscriptions.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/monetize/",
+    "frTranslation": "monétiser",
+    "esTranslation": "monetizar",
+    "arTranslation": "يحقق إيرادًا من",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "differentiate",
+    "meaning": "To make a product stand out from competitors.",
+    "example": "We differentiated with faster onboarding.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/differentiate/",
+    "frTranslation": "différencier",
+    "esTranslation": "diferenciar",
+    "arTranslation": "يميز/يفرق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "outsource",
+    "meaning": "To contract work to an external provider instead of doing it in-house.",
+    "example": "We outsourced tier-1 support overnight.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/outsource/",
+    "frTranslation": "externaliser",
+    "esTranslation": "subcontratar",
+    "arTranslation": "يعهد بالعمل للخارج",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "pivot",
+    "meaning": "To change strategy based on market feedback.",
+    "example": "The team pivoted from hardware to SaaS.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/pivot/",
+    "frTranslation": "pivoter",
+    "esTranslation": "pivotar",
+    "arTranslation": "يغيّر الاتجاه الاستراتيجي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "verb"
+    ]
+  },
+  {
+    "text": "follow up (on)",
+    "meaning": "To check progress or continue a conversation later.",
+    "example": "I’ll follow up after the meeting.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/follow up (on)/",
+    "frTranslation": "faire un suivi (de)",
+    "esTranslation": "hacer seguimiento (de)",
+    "arTranslation": "يتابع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "drop"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "circle back",
+    "meaning": "To return to a topic or person after doing something else.",
+    "example": "Let’s circle back when we have numbers.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/circle back/",
+    "frTranslation": "revenir sur le sujet",
+    "esTranslation": "retomar el tema",
+    "arTranslation": "نعود للموضوع لاحقًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "reach out",
+    "meaning": "To contact someone to start a conversation or ask for help.",
+    "example": "Reach out to support if the issue persists.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/reach out/",
+    "frTranslation": "contacter",
+    "esTranslation": "ponerse en contacto",
+    "arTranslation": "يتواصل/يتصل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "roll out",
+    "meaning": "To introduce a new product or process to users.",
+    "example": "We roll out the feature next week.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/roll out/",
+    "frTranslation": "déployer/lancer",
+    "esTranslation": "lanzar (desplegar)",
+    "arTranslation": "يطلق/ينشر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "roll back"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "roll back",
+    "meaning": "To return to a previous version or policy after problems.",
+    "example": "We rolled back the update due to errors.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/roll back/",
+    "frTranslation": "rétablir/annuler (retour en arrière)",
+    "esTranslation": "revertir",
+    "arTranslation": "يتراجع/يعيد النسخة السابقة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "ramp up",
+    "meaning": "To increase activity or capacity.",
+    "example": "Production will ramp up before the holidays.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/ramp up/",
+    "frTranslation": "monter en puissance",
+    "esTranslation": "incrementar (ritmo)",
+    "arTranslation": "يزيد/يرفع الوتيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "wind down"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "wind down",
+    "meaning": "To reduce activity in preparation for stopping.",
+    "example": "We wind down the project after delivery.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/wind down/",
+    "frTranslation": "ralentir/terminer en douceur",
+    "esTranslation": "cerrar paulatinamente",
+    "arTranslation": "يهدّئ/يُنهي تدريجيًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "ramp up"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "hand off",
+    "meaning": "To transfer responsibility to another person or team.",
+    "example": "Support will hand off complex cases to engineering.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/hand off/",
+    "frTranslation": "transmettre (à)",
+    "esTranslation": "pasar (a)",
+    "arTranslation": "يسلّم/يحوّل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "sign off (on)",
+    "meaning": "To formally approve something.",
+    "example": "Legal signed off on the contract.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/sign off (on)/",
+    "frTranslation": "approuver/valider",
+    "esTranslation": "aprobar",
+    "arTranslation": "يعتمد/يوافق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "buy in (get)",
+    "meaning": "To secure support from stakeholders for a plan.",
+    "example": "We need executive buy-in to proceed.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/buy in (get)/",
+    "frTranslation": "obtenir l’adhésion",
+    "esTranslation": "lograr apoyo",
+    "arTranslation": "يكسب التأييد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "pushback"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "push back (on)",
+    "meaning": "To resist or delay a proposal or due date.",
+    "example": "Vendors pushed back on the timeline.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/push back (on)/",
+    "frTranslation": "repousser/s’opposer",
+    "esTranslation": "rechazar/posponer",
+    "arTranslation": "يدفع للتأجيل/يعترض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "draw up",
+    "meaning": "To prepare a formal document.",
+    "example": "Counsel drew up the lease agreement.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/draw up/",
+    "frTranslation": "rédiger/établir",
+    "esTranslation": "redactar",
+    "arTranslation": "يُعد/يصوغ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "iron out",
+    "meaning": "To resolve minor problems or differences.",
+    "example": "We ironed out the scope details.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/iron out/",
+    "frTranslation": "aplanir (les problèmes)",
+    "esTranslation": "resolver (detalles)",
+    "arTranslation": "يسوّي/يحلّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "step down",
+    "meaning": "To leave a position of authority.",
+    "example": "The founder stepped down as CEO.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/step down/",
+    "frTranslation": "démissionner (poste élevé)",
+    "esTranslation": "renunciar (cargo)",
+    "arTranslation": "يتنحّى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "lay off",
+    "meaning": "To dismiss employees for economic reasons, not performance.",
+    "example": "The company laid off 5% of staff.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/lay off/",
+    "frTranslation": "licencier (économies)",
+    "esTranslation": "despedir (por recortes)",
+    "arTranslation": "يُسرّح موظفين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "take over",
+    "meaning": "To assume control of a company, often via acquisition.",
+    "example": "A competitor plans to take over the firm.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/take over/",
+    "frTranslation": "reprendre/absorber",
+    "esTranslation": "hacerse cargo/adquirir",
+    "arTranslation": "يستحوذ/يتولى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "break even",
+    "meaning": "To earn just enough to cover costs.",
+    "example": "We expect to break even by Q3.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/break even/",
+    "frTranslation": "atteindre l’équilibre",
+    "esTranslation": "equilibrar (sin pérdidas)",
+    "arTranslation": "يتعادل (لا ربح ولا خسارة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "write off (debt)",
+    "meaning": "To remove an uncollectible amount from the accounts.",
+    "example": "We wrote off several delinquent accounts.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/write off (debt)/",
+    "frTranslation": "passer en pertes/annuler",
+    "esTranslation": "dar por incobrable",
+    "arTranslation": "يشطب/يلغي دَينًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "mark up (price)",
+    "meaning": "To raise the selling price above cost to earn margin.",
+    "example": "They marked up the limited edition items.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/mark up (price)/",
+    "frTranslation": "majorer le prix",
+    "esTranslation": "subir el precio",
+    "arTranslation": "يرفع السعر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "mark down"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "mark down (price)",
+    "meaning": "To reduce a price, often to clear inventory.",
+    "example": "The store marked down last season’s stock.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/mark down (price)/",
+    "frTranslation": "baisser le prix",
+    "esTranslation": "rebajar el precio",
+    "arTranslation": "يخفض السعر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "mark up"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "compliance",
+    "meaning": "Adhering to laws, regulations, and internal policies.",
+    "example": "New controls improved compliance in finance.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/compliance/",
+    "frTranslation": "conformité",
+    "esTranslation": "cumplimiento",
+    "arTranslation": "امتثال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "liability",
+    "meaning": "A legal obligation for debts or damages.",
+    "example": "Limited liability protects owners’ personal assets.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/liability/",
+    "frTranslation": "responsabilité (juridique)",
+    "esTranslation": "responsabilidad (legal)",
+    "arTranslation": "مسؤولية قانونية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "indemnity",
+    "meaning": "A contract promise to compensate for loss or claims.",
+    "example": "The indemnity clause survived termination.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/indemnity/",
+    "frTranslation": "indemnité/indemnisation (clause)",
+    "esTranslation": "indemnidad (cláusula)",
+    "arTranslation": "تعويض/إعفاء من المسؤولية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "force majeure",
+    "meaning": "A contract clause excusing performance due to extraordinary events.",
+    "example": "Force majeure covered the port closure.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/force majeure/",
+    "frTranslation": "force majeure",
+    "esTranslation": "fuerza mayor",
+    "arTranslation": "القوة القاهرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "intellectual property (IP)",
+    "meaning": "Legal rights over creations like inventions, designs, and brands.",
+    "example": "We filed IP to protect the algorithm.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/intellectual property (IP)/",
+    "frTranslation": "propriété intellectuelle (PI)",
+    "esTranslation": "propiedad intelectual (PI)",
+    "arTranslation": "ملكية فكرية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "warranty",
+    "meaning": "A promise that a product will meet stated standards, with remedies if not.",
+    "example": "The warranty covers defects for one year.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/warranty/",
+    "frTranslation": "garantie",
+    "esTranslation": "garantía",
+    "arTranslation": "ضمان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "breach of contract",
+    "meaning": "Failure to perform duties required by an agreement.",
+    "example": "Late delivery was a breach of contract.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/breach of contract/",
+    "frTranslation": "violation de contrat",
+    "esTranslation": "incumplimiento de contrato",
+    "arTranslation": "خرق العقد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "due diligence",
+    "meaning": "A thorough investigation before a major deal or investment.",
+    "example": "Investors ran due diligence on financial controls.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/due diligence/",
+    "frTranslation": "diligence raisonnable",
+    "esTranslation": "debida diligencia",
+    "arTranslation": "العناية الواجبة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "legal"
+    ]
+  },
+  {
+    "text": "seed round",
+    "meaning": "The first significant equity funding used to prove product-market fit.",
+    "example": "They closed a $2M seed round.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/seed round/",
+    "frTranslation": "tour d’amorçage",
+    "esTranslation": "ronda semilla",
+    "arTranslation": "جولة تمويل أولية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "investment"
+    ]
+  },
+  {
+    "text": "Series A",
+    "meaning": "Funding to scale a proven product and build repeatable growth.",
+    "example": "The Series A financed sales hiring.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/Series A/",
+    "frTranslation": "série A",
+    "esTranslation": "Serie A",
+    "arTranslation": "جولة تمويل فئة A",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "investment"
+    ]
+  },
+  {
+    "text": "venture capitalist (VC)",
+    "meaning": "An investor who backs high-growth startups in exchange for equity.",
+    "example": "A top VC led the round.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/venture capitalist (VC)/",
+    "frTranslation": "capital-risqueur (VC)",
+    "esTranslation": "capitalista de riesgo (VC)",
+    "arTranslation": "مستثمر رأس مال مغامر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "investment"
+    ]
+  },
+  {
+    "text": "angel investor",
+    "meaning": "A wealthy individual who funds early-stage companies with mentorship.",
+    "example": "An angel investor introduced key partners.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/angel investor/",
+    "frTranslation": "investisseur providentiel (business angel)",
+    "esTranslation": "inversor ángel",
+    "arTranslation": "مستثمر ملائكي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "investment"
+    ]
+  },
+  {
+    "text": "term sheet",
+    "meaning": "A non-binding summary of funding terms like valuation and board seats.",
+    "example": "We negotiated the term sheet last week.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/term sheet/",
+    "frTranslation": "term sheet (lettre d’intention)",
+    "esTranslation": "term sheet (términos)",
+    "arTranslation": "ورقة الشروط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "investment"
+    ]
+  }
+]

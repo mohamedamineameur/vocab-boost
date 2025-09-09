@@ -1,0 +1,890 @@
+[
+  {
+    "text": "sculptor",
+    "meaning": "An artist who shapes materials like stone or clay into three‑dimensional art.",
+    "example": "The sculptor unveiled a bronze statue.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/sculptor/",
+    "frTranslation": "sculpteur/sculptrice",
+    "esTranslation": "escultor/a",
+    "arTranslation": "نحات/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "graphic designer",
+    "meaning": "A designer who creates visual communications using typography and images.",
+    "example": "A graphic designer built the brand guidelines.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/graphic designer/",
+    "frTranslation": "graphiste",
+    "esTranslation": "diseñador/a gráfico/a",
+    "arTranslation": "مصمم جرافيك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "animator",
+    "meaning": "An artist who creates moving images for film, TV, or games.",
+    "example": "The animator rigged the character for motion.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/animator/",
+    "frTranslation": "animateur/animatrice 2D/3D",
+    "esTranslation": "animador/a",
+    "arTranslation": "محرك رسوم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "musician",
+    "meaning": "A person who composes, performs, or plays music.",
+    "example": "The musician recorded an acoustic set.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/musician/",
+    "frTranslation": "musicien/ne",
+    "esTranslation": "músico/a",
+    "arTranslation": "موسيقي/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "instrumentalist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "singer",
+    "meaning": "A performer who uses the voice as a musical instrument.",
+    "example": "The singer hit a powerful high note.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/singer/",
+    "frTranslation": "chanteur/chanteuse",
+    "esTranslation": "cantante",
+    "arTranslation": "مغنٍ/مغنية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "vocalist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "composer",
+    "meaning": "A musician who writes original music for performance.",
+    "example": "The composer scored the film.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/composer/",
+    "frTranslation": "compositeur/compositrice",
+    "esTranslation": "compositor/a",
+    "arTranslation": "ملحّن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "blogger",
+    "meaning": "A creator who publishes posts regularly on a personal or niche website.",
+    "example": "The blogger reviewed budget travel tips.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/blogger/",
+    "frTranslation": "blogueur/blogueuse",
+    "esTranslation": "bloguero/a",
+    "arTranslation": "مدوّن/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "content creator"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "podcaster",
+    "meaning": "A host or producer who creates audio episodes for online listening.",
+    "example": "The podcaster interviewed a climate scientist.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/podcaster/",
+    "frTranslation": "podcasteur/podcasteuse",
+    "esTranslation": "podcaster",
+    "arTranslation": "مضيف بودكاست",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "host"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "influencer",
+    "meaning": "A social media creator whose recommendations affect audience behavior.",
+    "example": "The influencer partnered with a skincare brand.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/influencer/",
+    "frTranslation": "influenceur/euse",
+    "esTranslation": "influencer",
+    "arTranslation": "مؤثر/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "creator"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "chef",
+    "meaning": "The head cook who leads a kitchen and designs menus.",
+    "example": "The chef introduced a seasonal tasting menu.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/chef/",
+    "frTranslation": "chef cuisinier/ière",
+    "esTranslation": "chef",
+    "arTranslation": "شفّ/طاهٍ رئيسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "head chef"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "cook",
+    "meaning": "Someone who prepares food, especially in a restaurant or home.",
+    "example": "The cook prepped vegetables for dinner service.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/cook/",
+    "frTranslation": "cuisinier/ière",
+    "esTranslation": "cocinero/a",
+    "arTranslation": "طاهٍ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "line cook"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "baker",
+    "meaning": "A person who makes bread, pastries, and baked goods.",
+    "example": "Our baker starts at dawn to bake fresh loaves.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/baker/",
+    "frTranslation": "boulanger/ère",
+    "esTranslation": "panadero/a",
+    "arTranslation": "خبّاز/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "pastry chef",
+    "meaning": "A chef specializing in desserts and pastries.",
+    "example": "The pastry chef tempered chocolate for truffles.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/pastry chef/",
+    "frTranslation": "pâtissier/ière",
+    "esTranslation": "pastelero/a",
+    "arTranslation": "حلواني/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "pâtissier"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "waiter",
+    "meaning": "A server who takes orders and brings food to tables.",
+    "example": "The waiter recommended the soup of the day.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/waiter/",
+    "frTranslation": "serveur/serveuse",
+    "esTranslation": "camarero/a",
+    "arTranslation": "نادل/نادلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "server"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "bartender",
+    "meaning": "A person who mixes and serves drinks at a bar.",
+    "example": "The bartender crafted a classic martini.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/bartender/",
+    "frTranslation": "barman/barmaid",
+    "esTranslation": "barman/bartender",
+    "arTranslation": "ساقٍ",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "mixologist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "barista",
+    "meaning": "A café worker skilled at making espresso‑based drinks.",
+    "example": "The barista steamed milk for a latte.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/barista/",
+    "frTranslation": "barista",
+    "esTranslation": "barista",
+    "arTranslation": "باريستا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "sommelier",
+    "meaning": "A wine expert who manages a restaurant’s wine program and pairings.",
+    "example": "The sommelier suggested a dry Riesling.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/sommelier/",
+    "frTranslation": "sommelier/ère",
+    "esTranslation": "sumiller",
+    "arTranslation": "سومالييه",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "wine steward"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "hotel manager",
+    "meaning": "The person who oversees hotel operations and guest experience.",
+    "example": "The hotel manager handled our room upgrade.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/hotel manager/",
+    "frTranslation": "directeur/trice d'hôtel",
+    "esTranslation": "gerente de hotel",
+    "arTranslation": "مدير فندق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "receptionist",
+    "meaning": "An employee who greets visitors and manages front‑desk tasks.",
+    "example": "The receptionist checked us in quickly.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/receptionist/",
+    "frTranslation": "réceptionniste",
+    "esTranslation": "recepcionista",
+    "arTranslation": "موظف استقبال",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "front desk agent"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "housekeeper",
+    "meaning": "A worker who cleans and maintains rooms or homes.",
+    "example": "The housekeeper changed the linens.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/housekeeper/",
+    "frTranslation": "gouvernant(e)/femme de ménage",
+    "esTranslation": "ama de llaves; limpiador/a",
+    "arTranslation": "عامل/ة نظافة فندقية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cleaner"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "concierge",
+    "meaning": "A hotel staff member who arranges services like tours and reservations.",
+    "example": "Ask the concierge for a restaurant booking.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/concierge/",
+    "frTranslation": "concierge",
+    "esTranslation": "conserje",
+    "arTranslation": "كونسيرج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "tour guide",
+    "meaning": "A person who leads visitors and explains points of interest.",
+    "example": "Our tour guide shared the city’s history.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/tour guide/",
+    "frTranslation": "guide touristique",
+    "esTranslation": "guía turístico/a",
+    "arTranslation": "دليل سياحي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "travel agent",
+    "meaning": "A professional who plans and books trips for clients.",
+    "example": "The travel agent found a cheaper flight.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/travel agent/",
+    "frTranslation": "agent de voyages",
+    "esTranslation": "agente de viajes",
+    "arTranslation": "وكيل سفر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "event planner",
+    "meaning": "A coordinator who designs and manages events such as weddings and conferences.",
+    "example": "The event planner finalized the vendor list.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/event planner/",
+    "frTranslation": "organisateur/trice d'événements",
+    "esTranslation": "planificador/a de eventos",
+    "arTranslation": "منظم فعاليات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "caterer",
+    "meaning": "A business or person that provides prepared food for events.",
+    "example": "The caterer delivered appetizers on time.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/caterer/",
+    "frTranslation": "traiteur",
+    "esTranslation": "catering; proveedor/a",
+    "arTranslation": "مموّن حفلات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "dishwasher",
+    "meaning": "A restaurant worker who cleans dishes and kitchen tools.",
+    "example": "The dishwasher kept the station organized.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/dishwasher/",
+    "frTranslation": "plongeur/pe",
+    "esTranslation": "lavaplatos",
+    "arTranslation": "غسّال صحون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "lifeguard",
+    "meaning": "A trained rescuer who watches swimmers and responds to emergencies.",
+    "example": "The lifeguard blew the whistle for unsafe diving.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/lifeguard/",
+    "frTranslation": "maître-nageur/sauveteur",
+    "esTranslation": "salvavidas",
+    "arTranslation": "منقذ سباحة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "personal trainer",
+    "meaning": "A fitness professional who designs exercise programs for clients.",
+    "example": "Her personal trainer demonstrated proper form.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/personal trainer/",
+    "frTranslation": "coach sportif",
+    "esTranslation": "entrenador/a personal",
+    "arTranslation": "مدرّب شخصي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "hairdresser",
+    "meaning": "A stylist who cuts and styles hair in a salon.",
+    "example": "The hairdresser gave me layers.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/hairdresser/",
+    "frTranslation": "coiffeur/coiffeuse",
+    "esTranslation": "peluquero/a",
+    "arTranslation": "مزّين شعر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "hairstylist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "service"
+    ]
+  },
+  {
+    "text": "electrician",
+    "meaning": "A tradesperson who installs and repairs electrical systems.",
+    "example": "An electrician rewired the kitchen safely.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/electrician/",
+    "frTranslation": "électricien/ne",
+    "esTranslation": "electricista",
+    "arTranslation": "كهربائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "plumber",
+    "meaning": "A worker who installs and fixes pipes, fixtures, and water systems.",
+    "example": "We called a plumber to stop the leak.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/plumber/",
+    "frTranslation": "plombier/ère",
+    "esTranslation": "plomero/a; fontanero/a",
+    "arTranslation": "سبّاك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "carpenter",
+    "meaning": "A craftsperson who builds or repairs wooden structures and furniture.",
+    "example": "The carpenter built custom shelves.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/carpenter/",
+    "frTranslation": "charpentier/menuisier",
+    "esTranslation": "carpintero/a",
+    "arTranslation": "نجّار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "mason",
+    "meaning": "A builder who works with brick, stone, or concrete.",
+    "example": "The mason laid the brick walkway.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mason/",
+    "frTranslation": "maçon",
+    "esTranslation": "albañil",
+    "arTranslation": "بنّاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "roofer",
+    "meaning": "A worker who installs and repairs roofs.",
+    "example": "Roofers replaced the damaged shingles.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/roofer/",
+    "frTranslation": "couvreur/euse",
+    "esTranslation": "techador/a",
+    "arTranslation": "مُركِّب أسطح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "house painter",
+    "meaning": "A tradesperson who paints walls and buildings.",
+    "example": "The house painter finished the nursery.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/house painter/",
+    "frTranslation": "peintre en bâtiment",
+    "esTranslation": "pintor/a de casas",
+    "arTranslation": "دهّان منازل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "welder",
+    "meaning": "A skilled worker who joins metal parts using heat.",
+    "example": "The welder repaired the cracked frame.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/welder/",
+    "frTranslation": "soudeur/soudeuse",
+    "esTranslation": "soldador/a",
+    "arTranslation": "لحّام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "mechanic",
+    "meaning": "A technician who repairs machines, especially vehicles.",
+    "example": "The mechanic replaced the brake pads.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mechanic/",
+    "frTranslation": "mécanicien/ne",
+    "esTranslation": "mecánico/a",
+    "arTranslation": "ميكانيكي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "HVAC technician",
+    "meaning": "A specialist who installs and services heating, ventilation, and air‑conditioning systems.",
+    "example": "An HVAC technician cleaned the vents.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/HVAC technician/",
+    "frTranslation": "technicien CVC",
+    "esTranslation": "técnico HVAC",
+    "arTranslation": "فنّي تكييف وتدفئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "civil engineer",
+    "meaning": "An engineer who designs and oversees infrastructure like roads and bridges.",
+    "example": "A civil engineer inspected the bridge supports.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/civil engineer/",
+    "frTranslation": "ingénieur civil",
+    "esTranslation": "ingeniero/a civil",
+    "arTranslation": "مهندس مدني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "architect",
+    "meaning": "A licensed professional who plans and designs buildings.",
+    "example": "The architect presented detailed blueprints.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/architect/",
+    "frTranslation": "architecte",
+    "esTranslation": "arquitecto/a",
+    "arTranslation": "مهندس معماري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "surveyor",
+    "meaning": "A specialist who measures land to determine boundaries and maps.",
+    "example": "The surveyor marked the property lines.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/surveyor/",
+    "frTranslation": "géomètre",
+    "esTranslation": "topógrafo/a",
+    "arTranslation": "مسّاح",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "land surveyor"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "builder",
+    "meaning": "A person or company that constructs buildings and structures.",
+    "example": "The builder broke ground on the new site.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/builder/",
+    "frTranslation": "constructeur",
+    "esTranslation": "constructor/a",
+    "arTranslation": "بنّاء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "construction worker",
+    "meaning": "A laborer who performs physical tasks on construction sites.",
+    "example": "Construction workers poured concrete today.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/construction worker/",
+    "frTranslation": "ouvrier/ière du bâtiment",
+    "esTranslation": "obrero/a de construcción",
+    "arTranslation": "عامل بناء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "crane operator",
+    "meaning": "A trained worker who operates cranes to move heavy materials.",
+    "example": "The crane operator lifted the steel beams.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/crane operator/",
+    "frTranslation": "grutier/ière",
+    "esTranslation": "operador/a de grúa",
+    "arTranslation": "سائق رافعة برجية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "forklift operator",
+    "meaning": "A warehouse worker certified to drive forklifts.",
+    "example": "The forklift operator loaded the pallets.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/forklift operator/",
+    "frTranslation": "cariste",
+    "esTranslation": "operador/a de montacargas",
+    "arTranslation": "مشغّل رافعة شوكية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "landscaper",
+    "meaning": "A worker who designs or maintains outdoor gardens and grounds.",
+    "example": "The landscaper planted shade trees.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/landscaper/",
+    "frTranslation": "paysagiste",
+    "esTranslation": "paisajista; jardinero/a",
+    "arTranslation": "منسّق حدائق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "gardener",
+    "meaning": "A person who grows and cares for plants in a garden.",
+    "example": "Our gardener pruned the roses.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/gardener/",
+    "frTranslation": "jardinier/ière",
+    "esTranslation": "jardinero/a",
+    "arTranslation": "بستاني/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "handyman",
+    "meaning": "A person skilled at a wide range of small repairs and maintenance tasks.",
+    "example": "We hired a handyman to fix the door.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/handyman/",
+    "frTranslation": "factotum/bricoleur",
+    "esTranslation": "manitas",
+    "arTranslation": "عامل صيانة منزلي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "maintenance worker"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "driver",
+    "meaning": "A person who operates a vehicle.",
+    "example": "The driver waited at the pickup point.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/driver/",
+    "frTranslation": "conducteur/trice",
+    "esTranslation": "conductor/a",
+    "arTranslation": "سائق/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "motorist"
+    ],
+    "antonyms": [
+      "pedestrian"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "delivery driver",
+    "meaning": "A driver who transports packages or meals to customers.",
+    "example": "The delivery driver brought the parcel before noon.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/delivery driver/",
+    "frTranslation": "livreur/se",
+    "esTranslation": "repartidor/a",
+    "arTranslation": "سائق توصيل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "courier"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  }
+]

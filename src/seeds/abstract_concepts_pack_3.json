@@ -1,0 +1,1217 @@
+[
+  {
+    "text": "discourse",
+    "meaning": "Language used within a social context, reflecting power and norms.",
+    "example": "Academic discourse uses specialized terms.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/discourse/",
+    "frTranslation": "discours",
+    "esTranslation": "discurso",
+    "arTranslation": "خطاب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "theme",
+    "meaning": "The underlying idea or message running through a work.",
+    "example": "Perseverance is a central theme.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/theme/",
+    "frTranslation": "thème",
+    "esTranslation": "tema",
+    "arTranslation": "ثيمة/موضوع رئيس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "tone",
+    "meaning": "The attitude or emotional quality conveyed by style or voice.",
+    "example": "The memo’s tone is overly formal.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/tone/",
+    "frTranslation": "ton",
+    "esTranslation": "tono",
+    "arTranslation": "نبرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "register",
+    "meaning": "A variety of language appropriate to a particular context.",
+    "example": "Use an informal register with friends.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/register/",
+    "frTranslation": "registre (de langue)",
+    "esTranslation": "registro",
+    "arTranslation": "سجل لغوي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "ambiguity tolerance",
+    "meaning": "Comfort with unclear or conflicting information.",
+    "example": "Leaders with higher ambiguity tolerance navigate change better.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/ambiguity tolerance/",
+    "frTranslation": "tolérance à l’ambiguïté",
+    "esTranslation": "tolerancia a la ambigüedad",
+    "arTranslation": "تحمّل الغموض",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "set (math)",
+    "meaning": "A collection of distinct elements considered as a whole.",
+    "example": "The set contains all prime numbers less than 100.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/set (math)/",
+    "frTranslation": "ensemble (math)",
+    "esTranslation": "conjunto (mat.)",
+    "arTranslation": "مجموعة (رياضيات)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "function",
+    "meaning": "A relation mapping each input to exactly one output.",
+    "example": "This function returns the maximum value.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/function/",
+    "frTranslation": "fonction",
+    "esTranslation": "función",
+    "arTranslation": "دالة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "relation",
+    "meaning": "A pairing between elements of two sets; not necessarily a function.",
+    "example": "Symmetry is a property of this relation.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/relation/",
+    "frTranslation": "relation",
+    "esTranslation": "relación",
+    "arTranslation": "علاقة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "variable",
+    "meaning": "A symbol representing a quantity that can change.",
+    "example": "Let x be the variable for time.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/variable/",
+    "frTranslation": "variable",
+    "esTranslation": "variable",
+    "arTranslation": "متغير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "constant",
+    "meaning": "A value that does not change within a given problem.",
+    "example": "Treat gravity as a constant here.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/constant/",
+    "frTranslation": "constante",
+    "esTranslation": "constante",
+    "arTranslation": "ثابت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "parameter",
+    "meaning": "A quantity that shapes a model but is not a direct variable.",
+    "example": "Tune the parameter to reduce error.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/parameter/",
+    "frTranslation": "paramètre",
+    "esTranslation": "parámetro",
+    "arTranslation": "معامل/بارامتر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "dimension",
+    "meaning": "An independent direction or degree of freedom in a space.",
+    "example": "The dataset has high dimension.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/dimension/",
+    "frTranslation": "dimension",
+    "esTranslation": "dimensión",
+    "arTranslation": "بُعد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "probability",
+    "meaning": "A number from 0 to 1 expressing chance.",
+    "example": "The probability of heads is 0.5.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/probability/",
+    "frTranslation": "probabilité",
+    "esTranslation": "probabilidad",
+    "arTranslation": "احتمال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "impossibility",
+      "certainty"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "expectation",
+    "meaning": "The long-run average value of a random variable.",
+    "example": "Expectation helps price risky assets.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/expectation/",
+    "frTranslation": "espérance (math)",
+    "esTranslation": "valor esperado",
+    "arTranslation": "القيمة المتوقعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "variance",
+    "meaning": "Average squared deviation from the mean, measuring spread.",
+    "example": "High variance indicates instability.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/variance/",
+    "frTranslation": "variance",
+    "esTranslation": "varianza",
+    "arTranslation": "التباين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "correlation",
+    "meaning": "A statistic describing linear association between variables.",
+    "example": "Correlation does not imply causation.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/correlation/",
+    "frTranslation": "corrélation",
+    "esTranslation": "correlación",
+    "arTranslation": "ارتباط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "independence"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "causation",
+    "meaning": "A relationship where changes in one variable produce changes in another.",
+    "example": "Random assignment helps identify causation.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/causation/",
+    "frTranslation": "causalité (causation)",
+    "esTranslation": "causalidad (causation)",
+    "arTranslation": "السببية (إثبات)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "distribution",
+    "meaning": "How values are spread across possible outcomes.",
+    "example": "The scores follow a normal distribution.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/distribution/",
+    "frTranslation": "distribution",
+    "esTranslation": "distribución",
+    "arTranslation": "توزيع إحصائي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "math"
+    ]
+  },
+  {
+    "text": "optimization criterion",
+    "meaning": "A rule that defines what counts as best for a decision.",
+    "example": "We chose accuracy as the optimization criterion.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/optimization criterion/",
+    "frTranslation": "critère d’optimisation",
+    "esTranslation": "criterio de optimización",
+    "arTranslation": "معيار التحسين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "goal",
+    "meaning": "A desired result one intends to achieve.",
+    "example": "Her goal is to run a marathon.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/goal/",
+    "frTranslation": "objectif",
+    "esTranslation": "objetivo",
+    "arTranslation": "هدف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "aim",
+      "objective"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "strategy",
+    "meaning": "A high-level plan that aligns actions with goals.",
+    "example": "Our strategy emphasizes quality over speed.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/strategy/",
+    "frTranslation": "stratégie",
+    "esTranslation": "estrategia",
+    "arTranslation": "إستراتيجية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "tactic"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "tactic",
+    "meaning": "A specific action or method used to implement a strategy.",
+    "example": "A discount is a tactic to spur demand.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/tactic/",
+    "frTranslation": "tactique",
+    "esTranslation": "táctica",
+    "arTranslation": "تكتيك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "strategy"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "priority",
+    "meaning": "Relative importance that guides what to do first.",
+    "example": "Safety remains our top priority.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/priority/",
+    "frTranslation": "priorité",
+    "esTranslation": "prioridad",
+    "arTranslation": "أولوية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "scope",
+    "meaning": "The boundaries of what a project includes or excludes.",
+    "example": "We narrowed the scope to core features.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/scope/",
+    "frTranslation": "périmètre (champ)",
+    "esTranslation": "alcance",
+    "arTranslation": "نطاق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "milestone",
+    "meaning": "A significant checkpoint marking progress.",
+    "example": "Beta release is the next milestone.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/milestone/",
+    "frTranslation": "jalon",
+    "esTranslation": "hito",
+    "arTranslation": "محطة/مرحلة رئيسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "deadline",
+    "meaning": "The latest time by which something must be completed.",
+    "example": "We met the deadline with hours to spare.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/deadline/",
+    "frTranslation": "date limite",
+    "esTranslation": "fecha límite",
+    "arTranslation": "موعد نهائي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "risk",
+    "meaning": "The possibility of loss combined with its likelihood and impact.",
+    "example": "We mapped technical and schedule risks.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/risk/",
+    "frTranslation": "risque",
+    "esTranslation": "riesgo",
+    "arTranslation": "مخاطرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "certainty",
+      "safety"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "uncertainty",
+    "meaning": "Incomplete knowledge about outcomes or probabilities.",
+    "example": "Scenario planning addresses uncertainty.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/uncertainty/",
+    "frTranslation": "incertitude",
+    "esTranslation": "incertidumbre",
+    "arTranslation": "عدم اليقين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "certainty"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "scenario",
+    "meaning": "A coherent story about how the future might unfold.",
+    "example": "We prepared optimistic and pessimistic scenarios.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/scenario/",
+    "frTranslation": "scénario (prospectif)",
+    "esTranslation": "escenario",
+    "arTranslation": "سيناريو",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "opportunity",
+    "meaning": "A favorable set of circumstances for progress.",
+    "example": "New markets offer opportunity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/opportunity/",
+    "frTranslation": "opportunité",
+    "esTranslation": "oportunidad",
+    "arTranslation": "فرصة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "threat"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "outcome",
+    "meaning": "The result produced by an action or event.",
+    "example": "We measured outcomes that matter to users.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/outcome/",
+    "frTranslation": "résultat",
+    "esTranslation": "resultado",
+    "arTranslation": "نتيجة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "impact",
+    "meaning": "The strong effect something has on people or systems.",
+    "example": "The policy had a positive impact.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/impact/",
+    "frTranslation": "impact",
+    "esTranslation": "impacto",
+    "arTranslation": "أثر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "trade-off",
+    "meaning": "A balance achieved between two desirable but incompatible features.",
+    "example": "There is a trade-off between speed and accuracy.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/trade-off/",
+    "frTranslation": "compromis (arbitrage)",
+    "esTranslation": "compensación (trade-off)",
+    "arTranslation": "مفاضلة/مقايضة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "feasibility",
+    "meaning": "Practical possibility of doing something with given resources.",
+    "example": "We ran a feasibility study.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/feasibility/",
+    "frTranslation": "faisabilité",
+    "esTranslation": "viabilidad",
+    "arTranslation": "إمكانيّة التنفيذ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "viability",
+    "meaning": "Ability to survive or succeed in the long term.",
+    "example": "The venture’s financial viability improved.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/viability/",
+    "frTranslation": "viabilité",
+    "esTranslation": "viabilidad",
+    "arTranslation": "قابلية البقاء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "sustainability",
+    "meaning": "Meeting present needs without compromising future ones.",
+    "example": "They set sustainability targets for energy use.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/sustainability/",
+    "frTranslation": "durabilité",
+    "esTranslation": "sostenibilidad",
+    "arTranslation": "استدامة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "planning"
+    ]
+  },
+  {
+    "text": "boil down to",
+    "meaning": "To reduce a complex matter to its essential point.",
+    "example": "The debate boils down to trust versus control.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/boil down to/",
+    "frTranslation": "se résumer à",
+    "esTranslation": "reducirse a",
+    "arTranslation": "يَختزل إلى",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "reduce to the essence"
+    ],
+    "antonyms": [
+      "overcomplicate"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stem from",
+    "meaning": "To originate from or be caused by something.",
+    "example": "Misunderstandings often stem from vague terms.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stem from/",
+    "frTranslation": "provenir de",
+    "esTranslation": "provenir de",
+    "arTranslation": "ينبع من",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "hinge on",
+    "meaning": "To depend entirely on something.",
+    "example": "Success hinges on consistent execution.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/hinge on/",
+    "frTranslation": "dépendre de",
+    "esTranslation": "depender de",
+    "arTranslation": "يتوقّف على",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "build on",
+    "meaning": "To use a prior result as the basis for further work.",
+    "example": "We built on earlier research.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/build on/",
+    "frTranslation": "s’appuyer sur",
+    "esTranslation": "basarse en",
+    "arTranslation": "يبني على",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "amount to",
+    "meaning": "To be equivalent in meaning or effect.",
+    "example": "That apology amounts to an admission.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/amount to/",
+    "frTranslation": "équivaloir à",
+    "esTranslation": "equivaler a",
+    "arTranslation": "يعادل/يبلغ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "lead to",
+    "meaning": "To cause or bring about a particular result.",
+    "example": "Clear goals lead to better focus.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/lead to/",
+    "frTranslation": "mener à",
+    "esTranslation": "llevar a",
+    "arTranslation": "يؤدي إلى",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "result in",
+    "meaning": "To produce as an outcome.",
+    "example": "The policy resulted in fewer errors.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/result in/",
+    "frTranslation": "entraîner",
+    "esTranslation": "resultar en",
+    "arTranslation": "يسفر عن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "contribute to",
+    "meaning": "To help cause an outcome.",
+    "example": "Two factors contributed to growth.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/contribute to/",
+    "frTranslation": "contribuer à",
+    "esTranslation": "contribuir a",
+    "arTranslation": "يساهم في",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "account for",
+    "meaning": "To explain the reason for something.",
+    "example": "How do we account for the discrepancy?",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/account for/",
+    "frTranslation": "expliquer/justifier",
+    "esTranslation": "explicar",
+    "arTranslation": "يُبرّر/يُفسّر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "allow for",
+    "meaning": "To include something as part of a plan or calculation.",
+    "example": "Allow for delays during holidays.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/allow for/",
+    "frTranslation": "permettre/prendre en compte",
+    "esTranslation": "permitir/considerar",
+    "arTranslation": "يأخذ بالحسبان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "factor in",
+    "meaning": "To include a variable when evaluating options.",
+    "example": "We factored in exchange rates.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/factor in/",
+    "frTranslation": "intégrer (dans le calcul)",
+    "esTranslation": "tomar en cuenta",
+    "arTranslation": "يأخذ في الاعتبار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "figure out",
+    "meaning": "To reach an understanding after thinking.",
+    "example": "They figured out why churn rose.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/figure out/",
+    "frTranslation": "comprendre/élucider",
+    "esTranslation": "averiguar",
+    "arTranslation": "يكتشف/يفهم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "sort out",
+    "meaning": "To clarify a problem or arrange details.",
+    "example": "Let’s sort out the terms before signing.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/sort out/",
+    "frTranslation": "régler/mettre de l’ordre",
+    "esTranslation": "resolver/ordenar",
+    "arTranslation": "يحلّ/يرتّب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "bear on",
+    "meaning": "To be relevant to; affect.",
+    "example": "These data bear on the main claim.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/bear on/",
+    "frTranslation": "porter sur/يتعلق بـ",
+    "esTranslation": "incidir en",
+    "arTranslation": "يتعلق بـ/يؤثر في",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "bear out",
+    "meaning": "To support with evidence.",
+    "example": "The results bear out the hypothesis.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/bear out/",
+    "frTranslation": "confirmer",
+    "esTranslation": "confirmar",
+    "arTranslation": "يؤيّد/يؤكّد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "weigh in (on)",
+    "meaning": "To offer an opinion in a discussion.",
+    "example": "Experts weighed in on the proposal.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/weigh in (on)/",
+    "frTranslation": "intervenir (donner son avis)",
+    "esTranslation": "opinar (sobre)",
+    "arTranslation": "يدلي برأيه",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "weigh on",
+    "meaning": "To cause worry or pressure.",
+    "example": "Uncertainty weighs on decision-makers.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/weigh on/",
+    "frTranslation": "peser sur",
+    "esTranslation": "pesar sobre",
+    "arTranslation": "يثقل على",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "lean into",
+    "meaning": "To embrace and use something proactively.",
+    "example": "We leaned into transparency.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/lean into/",
+    "frTranslation": "embrasser (proactivement)",
+    "esTranslation": "aprovechar/abrazar",
+    "arTranslation": "يندفع نحو/يتبنّى بقوة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "double down (on)",
+    "meaning": "To strengthen commitment to a course of action.",
+    "example": "They doubled down on quality.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/double down (on)/",
+    "frTranslation": "redoubler d’efforts (sur)",
+    "esTranslation": "redoblar esfuerzos (en)",
+    "arTranslation": "يُصعّد/يُضاعف الالتزام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "back down",
+    "meaning": "To withdraw a claim or demand under pressure.",
+    "example": "He refused to back down.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/back down/",
+    "frTranslation": "reculer/renoncer",
+    "esTranslation": "echarse atrás",
+    "arTranslation": "يتراجع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "stand firm"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "back off",
+    "meaning": "To reduce pressure or aggression.",
+    "example": "Regulators backed off after revisions.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/back off/",
+    "frTranslation": "se retirer/ralentir",
+    "esTranslation": "echarse atrás/aflojar",
+    "arTranslation": "يتراجع/يُخفّف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "push back (on)",
+    "meaning": "To resist or oppose an idea.",
+    "example": "Stakeholders pushed back on the deadline.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/push back (on)/",
+    "frTranslation": "résister (à)",
+    "esTranslation": "oponerse a",
+    "arTranslation": "يرفض/يقاوم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "reach out (to)",
+    "meaning": "To make contact to offer or request help.",
+    "example": "She reached out to mentors.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/reach out (to)/",
+    "frTranslation": "contacter/aller vers",
+    "esTranslation": "contactar (a)",
+    "arTranslation": "يتواصل مع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "speak up",
+    "meaning": "To express an opinion openly.",
+    "example": "Please speak up if anything is unclear.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/speak up/",
+    "frTranslation": "prendre la parole",
+    "esTranslation": "hablar en voz alta",
+    "arTranslation": "يتكلم بصراحة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand by",
+    "meaning": "To support or wait and be ready.",
+    "example": "We stand by our results.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stand by/",
+    "frTranslation": "soutenir/être prêt",
+    "esTranslation": "mantenerse firme/respaldar",
+    "arTranslation": "يدعم/يكون على أهبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand for",
+    "meaning": "To symbolize or represent an idea.",
+    "example": "What does this acronym stand for?",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stand for/",
+    "frTranslation": "représenter (valeur)",
+    "esTranslation": "representar",
+    "arTranslation": "يرمز إلى/يمثّل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand against",
+    "meaning": "To oppose or resist something.",
+    "example": "They stood against discrimination.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stand against/",
+    "frTranslation": "s’opposer à",
+    "esTranslation": "oponerse a",
+    "arTranslation": "يقف ضد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand up for",
+    "meaning": "To defend or support publicly.",
+    "example": "Colleagues stood up for fair pay.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stand up for/",
+    "frTranslation": "défendre",
+    "esTranslation": "defender",
+    "arTranslation": "يدافع عن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand down",
+    "meaning": "To withdraw from a position or stop preparing for action.",
+    "example": "Security stood down after the event.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stand down/",
+    "frTranslation": "se retirer/céder la place",
+    "esTranslation": "retirarse",
+    "arTranslation": "يتنحّى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand in for",
+    "meaning": "To take someone’s place temporarily.",
+    "example": "She stood in for the moderator.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stand in for/",
+    "frTranslation": "remplacer",
+    "esTranslation": "sustituir a",
+    "arTranslation": "ينوب عن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "boil over (figurative)",
+    "meaning": "To become so intense it erupts into conflict.",
+    "example": "Tension boiled over after the vote.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/boil over (figurative)/",
+    "frTranslation": "déborder (fig.)",
+    "esTranslation": "desbordar (fig.)",
+    "arTranslation": "يفور/يتفاقم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "come down to",
+    "meaning": "To be explained by one main factor.",
+    "example": "The choice comes down to risk tolerance.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/come down to/",
+    "frTranslation": "se résumer à",
+    "esTranslation": "reducirse a",
+    "arTranslation": "يتلخّص في",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "come up with",
+    "meaning": "To produce an idea or plan.",
+    "example": "They came up with a new metric.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/come up with/",
+    "frTranslation": "imaginer/trouver",
+    "esTranslation": "idear",
+    "arTranslation": "يبتكر/يجد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "follow through (on)",
+    "meaning": "To finish doing what was promised.",
+    "example": "Trust grows when leaders follow through.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/follow through (on)/",
+    "frTranslation": "aller jusqu’au bout",
+    "esTranslation": "cumplir (con)",
+    "arTranslation": "يُتمّ ما بدأه",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "phrasal verb"
+    ]
+  }
+]

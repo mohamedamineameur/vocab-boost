@@ -1,0 +1,512 @@
+[
+  {
+    "text": "t-shirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a t-shirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/t-shirt/",
+    "frTranslation": "t-shirt",
+    "esTranslation": "camiseta",
+    "arTranslation": "تي شيرت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "shirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a shirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/shirt/",
+    "frTranslation": "chemise",
+    "esTranslation": "camisa",
+    "arTranslation": "قميص",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "blouse",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a blouse today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/blouse/",
+    "frTranslation": "blouse",
+    "esTranslation": "blusa",
+    "arTranslation": "بلوزة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "sweater",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a sweater today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/sweater/",
+    "frTranslation": "pull",
+    "esTranslation": "suéter",
+    "arTranslation": "كنزة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "hoodie",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a hoodie today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/hoodie/",
+    "frTranslation": "sweat à capuche",
+    "esTranslation": "sudadera con capucha",
+    "arTranslation": "هودي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "cardigan",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a cardigan today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/cardigan/",
+    "frTranslation": "cardigan/gilet",
+    "esTranslation": "cárdigan",
+    "arTranslation": "كارديغان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "tank top",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a tank top today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/tank top/",
+    "frTranslation": "débardeur",
+    "esTranslation": "camiseta sin mangas",
+    "arTranslation": "قميص بلا أكمام",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "polo shirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a polo shirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/polo shirt/",
+    "frTranslation": "polo",
+    "esTranslation": "polo",
+    "arTranslation": "قميص بولو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "crop top",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a crop top today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/crop top/",
+    "frTranslation": "crop top",
+    "esTranslation": "top corto",
+    "arTranslation": "كروب توب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "camisole",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a camisole today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/camisole/",
+    "frTranslation": "caraco",
+    "esTranslation": "camisola",
+    "arTranslation": "كاميسول",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "dress",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a dress today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/dress/",
+    "frTranslation": "robe",
+    "esTranslation": "vestido",
+    "arTranslation": "فستان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "sundress",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a sundress today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/sundress/",
+    "frTranslation": "robe d'été",
+    "esTranslation": "vestido veraniego",
+    "arTranslation": "فستان صيفي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "skirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a skirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/skirt/",
+    "frTranslation": "jupe",
+    "esTranslation": "falda",
+    "arTranslation": "تنورة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "midi skirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a midi skirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/midi skirt/",
+    "frTranslation": "jupe midi",
+    "esTranslation": "falda midi",
+    "arTranslation": "تنورة ميدي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "jeans",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a jeans today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/jeans/",
+    "frTranslation": "jeans",
+    "esTranslation": "vaqueros",
+    "arTranslation": "جينز",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "trousers",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a trousers today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/trousers/",
+    "frTranslation": "pantalon",
+    "esTranslation": "pantalones",
+    "arTranslation": "بنطال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "chinos",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a chinos today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/chinos/",
+    "frTranslation": "chinos",
+    "esTranslation": "pantalones chinos",
+    "arTranslation": "بنطال صيني",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "shorts",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a shorts today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/shorts/",
+    "frTranslation": "short",
+    "esTranslation": "pantalones cortos",
+    "arTranslation": "شورت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "leggings",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a leggings today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/leggings/",
+    "frTranslation": "leggings",
+    "esTranslation": "leggings/mallas",
+    "arTranslation": "ليغينغ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "joggers",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a joggers today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/joggers/",
+    "frTranslation": "joggers",
+    "esTranslation": "joggers",
+    "arTranslation": "بنطال رياضي ضيق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "sweatpants",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a sweatpants today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/sweatpants/",
+    "frTranslation": "pantalon de survêtement",
+    "esTranslation": "pantalón de chándal",
+    "arTranslation": "سروال رياضي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "suit",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a suit today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/suit/",
+    "frTranslation": "costume",
+    "esTranslation": "traje",
+    "arTranslation": "بدلة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "blazer",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a blazer today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/blazer/",
+    "frTranslation": "blazer",
+    "esTranslation": "bléiser/americana",
+    "arTranslation": "بليزر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "jumpsuit",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a jumpsuit today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/jumpsuit/",
+    "frTranslation": "combinaison pantalon",
+    "esTranslation": "mono",
+    "arTranslation": "جمبسوت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "overalls",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing an overalls today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/overalls/",
+    "frTranslation": "salopette",
+    "esTranslation": "overol/peto",
+    "arTranslation": "سالوبت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "romper",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a romper today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/romper/",
+    "frTranslation": "combishort",
+    "esTranslation": "mono corto/romper",
+    "arTranslation": "رومبر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "tunic",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a tunic today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/tunic/",
+    "frTranslation": "tunique",
+    "esTranslation": "túnica",
+    "arTranslation": "تونيك",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "dress shirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a dress shirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/dress shirt/",
+    "frTranslation": "chemise habillée",
+    "esTranslation": "camisa de vestir",
+    "arTranslation": "قميص رسمي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "vest",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a vest today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/vest/",
+    "frTranslation": "gilet",
+    "esTranslation": "chaleco",
+    "arTranslation": "سترة بدون أكمام",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "waistcoat",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a waistcoat today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/waistcoat/",
+    "frTranslation": "gilet (de costume)",
+    "esTranslation": "chaleco (de traje)",
+    "arTranslation": "سديري",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  }
+]

@@ -1,0 +1,696 @@
+[
+  {
+    "text": "fern",
+    "meaning": "A non-flowering plant that reproduces by spores, with fronds that unfurl.",
+    "example": "A fern unfurled beside the stream.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/fern/",
+    "frTranslation": "fougère",
+    "esTranslation": "helecho",
+    "arTranslation": "سرخس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "moss",
+    "meaning": "A tiny, soft plant forming green carpets in moist, shady places.",
+    "example": "Moss softened the stones on the wall.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/moss/",
+    "frTranslation": "mousse",
+    "esTranslation": "musgo",
+    "arTranslation": "طحلب بري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "bamboo",
+    "meaning": "A fast-growing grass with hollow stems used for building and tools.",
+    "example": "Bamboo shoots sprouted after the rain.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/bamboo/",
+    "frTranslation": "bambou",
+    "esTranslation": "bambú",
+    "arTranslation": "خيزران",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "cactus",
+    "meaning": "A succulent adapted to deserts with spines instead of leaves.",
+    "example": "A cactus bloomed at night with white flowers.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/cactus/",
+    "frTranslation": "cactus",
+    "esTranslation": "cacto",
+    "arTranslation": "صبار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "succulent",
+    "meaning": "A plant that stores water in thick leaves or stems.",
+    "example": "She grew succulents on the sunny sill.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/succulent/",
+    "frTranslation": "plante grasse",
+    "esTranslation": "suculenta",
+    "arTranslation": "نبات عصاري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "aloe vera",
+    "meaning": "A medicinal succulent whose gel soothes minor burns.",
+    "example": "We applied aloe vera to the sunburn.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/aloe vera/",
+    "frTranslation": "aloès vera",
+    "esTranslation": "aloe vera",
+    "arTranslation": "ألوة فيرا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "ivy",
+    "meaning": "A climbing vine that clings to walls with aerial roots.",
+    "example": "Ivy climbed the brick façade.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/ivy/",
+    "frTranslation": "lierre",
+    "esTranslation": "hiedra",
+    "arTranslation": "لبلاب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "nettle",
+    "meaning": "A stinging plant with hairs that inject irritants on contact.",
+    "example": "Wear gloves when pulling nettles.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/nettle/",
+    "frTranslation": "ortie",
+    "esTranslation": "ortiga",
+    "arTranslation": "قَرّاص",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "clover",
+    "meaning": "A low plant with three leaflets; a four-leaf clover is a lucky rarity.",
+    "example": "A child searched for a four-leaf clover.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/clover/",
+    "frTranslation": "trèfle",
+    "esTranslation": "trébol",
+    "arTranslation": "نفل/برسيم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "reed",
+    "meaning": "A tall grass of wetlands with hollow stems that sway in wind.",
+    "example": "Reeds whispered along the marsh edge.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/reed/",
+    "frTranslation": "roseau",
+    "esTranslation": "junco/caña",
+    "arTranslation": "قصب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant"
+    ]
+  },
+  {
+    "text": "shrub",
+    "meaning": "A woody plant smaller than a tree, often with multiple stems.",
+    "example": "The shrub filled the corner with foliage.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/shrub/",
+    "frTranslation": "arbuste",
+    "esTranslation": "arbusto",
+    "arTranslation": "شجيرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "bush"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "hedge",
+    "meaning": "A line of closely planted shrubs forming a living fence.",
+    "example": "They clipped the hedge into shape.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/hedge/",
+    "frTranslation": "haie",
+    "esTranslation": "seto",
+    "arTranslation": "سياج نباتي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "grass",
+    "meaning": "A common ground plant with narrow leaves; lawns are made of grasses.",
+    "example": "Dew beaded on the grass at dawn.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/grass/",
+    "frTranslation": "herbe/gazon",
+    "esTranslation": "hierba/césped",
+    "arTranslation": "عشب/حشيش",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "turf",
+      "lawn"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "grass"
+    ]
+  },
+  {
+    "text": "heather",
+    "meaning": "A low shrub with tiny purple or pink flowers on moors and heaths.",
+    "example": "Heather bloomed across the hillside.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/heather/",
+    "frTranslation": "bruyère",
+    "esTranslation": "brezo",
+    "arTranslation": "خَلنج/هيذر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "gorse",
+    "meaning": "A spiny shrub with bright yellow pea-like flowers.",
+    "example": "Gorse formed an impenetrable thicket.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/gorse/",
+    "frTranslation": "ajonc",
+    "esTranslation": "aulaga/zarza mora (reg.)",
+    "arTranslation": "نبات الجلخ/العلّيق الشائك",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "furze",
+      "whin"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "juniper",
+    "meaning": "An evergreen shrub or small tree with berry-like cones used to flavor gin.",
+    "example": "Juniper berries scented the air.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/juniper/",
+    "frTranslation": "genévrier",
+    "esTranslation": "enebro",
+    "arTranslation": "عرعر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "boxwood",
+    "meaning": "A dense, slow-growing shrub used for tidy garden edging.",
+    "example": "The boxwood hedge was neatly trimmed.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/boxwood/",
+    "frTranslation": "buis",
+    "esTranslation": "boj",
+    "arTranslation": "خشب البقس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "sagebrush",
+    "meaning": "A fragrant gray-green shrub of North American deserts and steppes.",
+    "example": "Sagebrush stretched to the horizon.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/sagebrush/",
+    "frTranslation": "armoise (sauge)",
+    "esTranslation": "ajenjo/arbusto de artemisa",
+    "arTranslation": "شيح (سِجْبِرش)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "shrub"
+    ]
+  },
+  {
+    "text": "rush",
+    "meaning": "A marsh plant with round stems used traditionally for mats.",
+    "example": "Rushes rimmed the shallow pool.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/rush/",
+    "frTranslation": "jonc",
+    "esTranslation": "junco",
+    "arTranslation": "نبات السعد/الجنك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "grass"
+    ]
+  },
+  {
+    "text": "sedge",
+    "meaning": "A grass-like plant with triangular stems that thrives in wetlands.",
+    "example": "Sedges dominated the bog meadow.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/sedge/",
+    "frTranslation": "carex",
+    "esTranslation": "cárice",
+    "arTranslation": "سجّة/سيدج (نبات مائي)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "grass"
+    ]
+  },
+  {
+    "text": "root",
+    "meaning": "The underground part that anchors a plant and absorbs water and minerals.",
+    "example": "Carrots are roots we eat.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/root/",
+    "frTranslation": "racine",
+    "esTranslation": "raíz",
+    "arTranslation": "جذر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "stem",
+    "meaning": "The plant axis that supports leaves and transports nutrients.",
+    "example": "This stem is too weak to hold the flower.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/stem/",
+    "frTranslation": "tige",
+    "esTranslation": "tallo",
+    "arTranslation": "ساق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "leaf",
+    "meaning": "The green organ where most photosynthesis occurs.",
+    "example": "Each leaf has veins like tiny roads.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/leaf/",
+    "frTranslation": "feuille",
+    "esTranslation": "hoja",
+    "arTranslation": "ورقة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "flower (part)",
+    "meaning": "The reproductive structure that produces pollen and seeds.",
+    "example": "The flower opened with the morning light.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/flower (part)/",
+    "frTranslation": "fleur",
+    "esTranslation": "flor",
+    "arTranslation": "زهرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "fruit (plant)",
+    "meaning": "A mature ovary that protects and disperses seeds.",
+    "example": "Tomatoes are fruits in botany.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/fruit (plant)/",
+    "frTranslation": "fruit",
+    "esTranslation": "fruta (botánica)",
+    "arTranslation": "ثمرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "seed",
+    "meaning": "A plant embryo packaged with food and a protective coat.",
+    "example": "We saved seed from the best sunflowers.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/seed/",
+    "frTranslation": "graine",
+    "esTranslation": "semilla",
+    "arTranslation": "بذرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "bark",
+    "meaning": "The protective outer covering of tree trunks and branches.",
+    "example": "The bark of birch peels in strips.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/bark/",
+    "frTranslation": "écorce",
+    "esTranslation": "corteza (árbol)",
+    "arTranslation": "قلف/لحاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "trunk",
+    "meaning": "The main woody stem of a tree.",
+    "example": "The tree’s trunk measured a meter across.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/trunk/",
+    "frTranslation": "tronc",
+    "esTranslation": "tronco",
+    "arTranslation": "جذع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "branch",
+    "meaning": "A woody offshoot from the trunk or a main stem.",
+    "example": "A branch cracked under the snow.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/branch/",
+    "frTranslation": "branche",
+    "esTranslation": "rama",
+    "arTranslation": "غصن/فرع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "bud",
+    "meaning": "A compact growth that will open into a leaf or flower.",
+    "example": "Swollen buds signaled spring’s approach.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/bud/",
+    "frTranslation": "bourgeon",
+    "esTranslation": "yema/brote",
+    "arTranslation": "برعم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "plant part"
+    ]
+  },
+  {
+    "text": "photosynthesis",
+    "meaning": "The process by which plants use light to turn water and carbon dioxide into sugars and oxygen.",
+    "example": "Trees produce oxygen during photosynthesis.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/photosynthesis/",
+    "frTranslation": "photosynthèse",
+    "esTranslation": "fotosíntesis",
+    "arTranslation": "تمثيل ضوئي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "carbon fixation"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "pollination",
+    "meaning": "The transfer of pollen to a stigma, enabling fertilization and seed set.",
+    "example": "Bees aid pollination in orchards.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/pollination/",
+    "frTranslation": "pollinisation",
+    "esTranslation": "polinización",
+    "arTranslation": "تلقيح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "germination",
+    "meaning": "The sprouting of a seed as the embryo resumes growth.",
+    "example": "Warm soil speeds up germination.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/germination/",
+    "frTranslation": "germination",
+    "esTranslation": "germinación",
+    "arTranslation": "إنبات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "transpiration",
+    "meaning": "The release of water vapor from plant leaves through stomata.",
+    "example": "Transpiration cools leaves on hot days.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/transpiration/",
+    "frTranslation": "transpiration",
+    "esTranslation": "transpiración",
+    "arTranslation": "نتح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "fertilization (botany)",
+    "meaning": "The fusion of male and female gametes that forms a zygote.",
+    "example": "Fertilization follows successful pollination.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/fertilization (botany)/",
+    "frTranslation": "fécondation",
+    "esTranslation": "fertilización (botánica)",
+    "arTranslation": "إخصاب (نبات)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "sprouting",
+    "meaning": "The emergence of a new shoot or bud from a seed or stem.",
+    "example": "Potatoes began sprouting in the pantry.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/sprouting/",
+    "frTranslation": "émergence des pousses",
+    "esTranslation": "brotación",
+    "arTranslation": "تفرّع/نمو البراعم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "shooting"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "decomposition",
+    "meaning": "The breakdown of dead matter by fungi, bacteria, and invertebrates, recycling nutrients.",
+    "example": "Fallen leaves enrich soil through decomposition.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/decomposition/",
+    "frTranslation": "décomposition",
+    "esTranslation": "descomposición",
+    "arTranslation": "تحلّل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "dormancy",
+    "meaning": "A period of suspended growth that helps plants survive unfavorable seasons.",
+    "example": "Seeds can survive years in dormancy.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/dormancy/",
+    "frTranslation": "dormance",
+    "esTranslation": "latencia",
+    "arTranslation": "سكون (نبات)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "process"
+    ]
+  },
+  {
+    "text": "forest",
+    "meaning": "A large area dominated by trees and diverse wildlife.",
+    "example": "They hiked through a dense forest.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/forest/",
+    "frTranslation": "forêt",
+    "esTranslation": "bosque",
+    "arTranslation": "غابة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "rainforest",
+    "meaning": "A warm, wet forest with towering trees and extraordinary biodiversity.",
+    "example": "Rainforest canopies teem with life.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/rainforest/",
+    "frTranslation": "forêt tropicale humide",
+    "esTranslation": "selva (tropical)",
+    "arTranslation": "غابة مطيرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "desert"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  }
+]

@@ -1,0 +1,1333 @@
+[
+  {
+    "text": "existence",
+    "meaning": "The state of having real being rather than being imagined or absent.",
+    "example": "Philosophers ask whether numbers have existence independent of minds.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/existence/",
+    "frTranslation": "existence",
+    "esTranslation": "existencia",
+    "arTranslation": "الوجود",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "nonexistence"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "reality",
+    "meaning": "What actually is, independent of beliefs or appearances.",
+    "example": "Virtual worlds can feel convincing but differ from physical reality.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/reality/",
+    "frTranslation": "réalité",
+    "esTranslation": "realidad",
+    "arTranslation": "الواقع",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "the real world"
+    ],
+    "antonyms": [
+      "illusion",
+      "appearance only"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "appearance",
+    "meaning": "How something seems to the senses, which may differ from what it is.",
+    "example": "Despite appearances, the solution was simple.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/appearance/",
+    "frTranslation": "apparence",
+    "esTranslation": "apariencia",
+    "arTranslation": "المظهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "seeming"
+    ],
+    "antonyms": [
+      "essence"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "essence",
+    "meaning": "The defining nature that makes something what it is.",
+    "example": "Is rationality the essence of humanity?",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/essence/",
+    "frTranslation": "essence",
+    "esTranslation": "esencia",
+    "arTranslation": "الماهية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "core nature"
+    ],
+    "antonyms": [
+      "accident",
+      "superficial trait"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "identity",
+    "meaning": "The condition of being the same thing across time or context.",
+    "example": "The ship’s identity is debated after every plank is replaced.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/identity/",
+    "frTranslation": "identité",
+    "esTranslation": "identidad",
+    "arTranslation": "الهوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "sameness"
+    ],
+    "antonyms": [
+      "difference"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "difference",
+    "meaning": "The way in which things are not the same.",
+    "example": "Small differences in design changed the outcome.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/difference/",
+    "frTranslation": "différence",
+    "esTranslation": "diferencia",
+    "arTranslation": "اختلاف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "similarity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "similarity",
+    "meaning": "The quality of being alike in some respect.",
+    "example": "We measured similarity between the two patterns.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/similarity/",
+    "frTranslation": "similarité",
+    "esTranslation": "similitud",
+    "arTranslation": "تشابه",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "likeness"
+    ],
+    "antonyms": [
+      "difference"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "change",
+    "meaning": "Process by which something becomes different over time.",
+    "example": "Climate change alters rainfall patterns.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/change/",
+    "frTranslation": "changement",
+    "esTranslation": "cambio",
+    "arTranslation": "تغيير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "alteration"
+    ],
+    "antonyms": [
+      "stasis"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "continuity",
+    "meaning": "Unbroken connection or consistent existence over time.",
+    "example": "The mural lacks continuity between its panels.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/continuity/",
+    "frTranslation": "continuité",
+    "esTranslation": "continuidad",
+    "arTranslation": "الاستمرارية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "flow"
+    ],
+    "antonyms": [
+      "discontinuity",
+      "interruption"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "permanence",
+    "meaning": "Enduring existence without significant change.",
+    "example": "Digital archives aim for the permanence of public data.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/permanence/",
+    "frTranslation": "permanence",
+    "esTranslation": "permanencia",
+    "arTranslation": "الديمومة",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "durability"
+    ],
+    "antonyms": [
+      "impermanence"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "causality",
+    "meaning": "The relation between causes and their effects.",
+    "example": "Randomized trials test causality rather than mere correlation.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/causality/",
+    "frTranslation": "causalité",
+    "esTranslation": "causalidad",
+    "arTranslation": "السببية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "cause-and-effect"
+    ],
+    "antonyms": [
+      "correlation only"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "determinism",
+    "meaning": "The doctrine that events are fully determined by prior states and laws.",
+    "example": "He defended determinism against arguments for free will.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/determinism/",
+    "frTranslation": "déterminisme",
+    "esTranslation": "determinismo",
+    "arTranslation": "الحتمية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "indeterminism",
+      "free will"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "randomness",
+    "meaning": "Lack of pattern or predictability in events.",
+    "example": "Quantum randomness challenges classical expectations.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/randomness/",
+    "frTranslation": "hasard",
+    "esTranslation": "azar/aleatoriedad",
+    "arTranslation": "العشوائية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "chance"
+    ],
+    "antonyms": [
+      "determinism",
+      "order"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "metaphysics"
+    ]
+  },
+  {
+    "text": "possibility",
+    "meaning": "The capacity for something to happen or be true.",
+    "example": "Remote work made new possibilities for hiring.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/possibility/",
+    "frTranslation": "possibilité",
+    "esTranslation": "posibilidad",
+    "arTranslation": "الإمكان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "impossibility"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "modality"
+    ]
+  },
+  {
+    "text": "necessity",
+    "meaning": "What must be the case; cannot be otherwise.",
+    "example": "Necessity forced a change in plans.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/necessity/",
+    "frTranslation": "nécessité",
+    "esTranslation": "necesidad",
+    "arTranslation": "الضرورة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "must"
+    ],
+    "antonyms": [
+      "contingency",
+      "option"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "modality"
+    ]
+  },
+  {
+    "text": "contingency",
+    "meaning": "Dependence on conditions; things that could be otherwise.",
+    "example": "They built contingency into the budget for delays.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/contingency/",
+    "frTranslation": "contingence",
+    "esTranslation": "contingencia",
+    "arTranslation": "الطارئية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "conditionality"
+    ],
+    "antonyms": [
+      "necessity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "modality"
+    ]
+  },
+  {
+    "text": "potential",
+    "meaning": "Latent capacity that could be developed into reality.",
+    "example": "The student showed potential in mathematics.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/potential/",
+    "frTranslation": "potentiel",
+    "esTranslation": "potencial",
+    "arTranslation": "القدرة الكامنة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "promise"
+    ],
+    "antonyms": [
+      "limitation"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "modality"
+    ]
+  },
+  {
+    "text": "actuality",
+    "meaning": "The realized state of something that once was only possible.",
+    "example": "The prototype moved from potential to actuality.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/actuality/",
+    "frTranslation": "réalité effective",
+    "esTranslation": "actualidad (filos.)",
+    "arTranslation": "التحقّق/الفعليّة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "potential"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "modality"
+    ]
+  },
+  {
+    "text": "emergence",
+    "meaning": "Novel patterns arising from many simple interactions.",
+    "example": "Consciousness is sometimes described as an emergence from neural activity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/emergence/",
+    "frTranslation": "émergence",
+    "esTranslation": "emergencia (emergencia de patrones)",
+    "arTranslation": "الانبثاق/الظهور",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "arising"
+    ],
+    "antonyms": [
+      "reduction to parts"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "complexity",
+    "meaning": "The degree to which a system has many interdependent parts.",
+    "example": "We simplified the process to reduce complexity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/complexity/",
+    "frTranslation": "complexité",
+    "esTranslation": "complejidad",
+    "arTranslation": "التعقيد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "simplicity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "simplicity",
+    "meaning": "The quality of being easy to understand or composed of few parts.",
+    "example": "Simplicity in design improves usability.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/simplicity/",
+    "frTranslation": "simplicité",
+    "esTranslation": "simplicidad",
+    "arTranslation": "البساطة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "clarity"
+    ],
+    "antonyms": [
+      "complexity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "order",
+    "meaning": "A structured arrangement that follows rules or patterns.",
+    "example": "Crystals display a high degree of order.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/order/",
+    "frTranslation": "ordre",
+    "esTranslation": "orden",
+    "arTranslation": "النظام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "structure"
+    ],
+    "antonyms": [
+      "chaos"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "chaos",
+    "meaning": "Apparent disorder that can arise from simple deterministic rules.",
+    "example": "Weather models are sensitive due to chaos.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/chaos/",
+    "frTranslation": "chaos",
+    "esTranslation": "caos",
+    "arTranslation": "الفوضى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "order"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "entropy",
+    "meaning": "A measure of disorder or dispersal of energy and information.",
+    "example": "Entropy tends to increase in isolated systems.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/entropy/",
+    "frTranslation": "entropie",
+    "esTranslation": "entropía",
+    "arTranslation": "الإنتروبيا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "order"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "equilibrium",
+    "meaning": "A balanced state in which opposing forces are equal.",
+    "example": "Supply and demand reached a temporary equilibrium.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/equilibrium/",
+    "frTranslation": "équilibre",
+    "esTranslation": "equilibrio",
+    "arTranslation": "التوازن",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "balance"
+    ],
+    "antonyms": [
+      "imbalance",
+      "disequilibrium"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "stability",
+    "meaning": "Resistance to change; tendency to return to a baseline.",
+    "example": "Add feedback to improve system stability.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/stability/",
+    "frTranslation": "stabilité",
+    "esTranslation": "estabilidad",
+    "arTranslation": "الاستقرار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "instability"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "system",
+    "meaning": "A set of interacting parts forming a complex whole.",
+    "example": "A school is a social system with roles and norms.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/system/",
+    "frTranslation": "système",
+    "esTranslation": "sistema",
+    "arTranslation": "النظام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "structure",
+    "meaning": "The arrangement and relationships between parts of a whole.",
+    "example": "We changed the team structure to speed decisions.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/structure/",
+    "frTranslation": "structure",
+    "esTranslation": "estructura",
+    "arTranslation": "البنية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "pattern",
+    "meaning": "A repeated or recognizable form or arrangement.",
+    "example": "We found a seasonal pattern in sales.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/pattern/",
+    "frTranslation": "motif",
+    "esTranslation": "patrón",
+    "arTranslation": "النمط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "feedback",
+    "meaning": "Information returned to a system that influences future behavior.",
+    "example": "Positive feedback amplified the trend.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/feedback/",
+    "frTranslation": "rétroaction",
+    "esTranslation": "retroalimentación",
+    "arTranslation": "التغذية الراجعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "iteration",
+    "meaning": "Repeated cycles of change to improve a result.",
+    "example": "We built the product through rapid iteration.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/iteration/",
+    "frTranslation": "itération",
+    "esTranslation": "iteración",
+    "arTranslation": "التكرار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "threshold",
+    "meaning": "A boundary value at which behavior changes.",
+    "example": "Above this threshold, the material fails.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/threshold/",
+    "frTranslation": "seuil",
+    "esTranslation": "umbral",
+    "arTranslation": "العَتَبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "constraint",
+    "meaning": "A limiting factor that restricts options or behavior.",
+    "example": "Time is the main constraint on research.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/constraint/",
+    "frTranslation": "contrainte",
+    "esTranslation": "restricción",
+    "arTranslation": "قيد",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "limitation"
+    ],
+    "antonyms": [
+      "freedom"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "optimization",
+    "meaning": "Finding the best arrangement under constraints.",
+    "example": "We used optimization to minimize cost.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/optimization/",
+    "frTranslation": "optimisation",
+    "esTranslation": "optimización",
+    "arTranslation": "التحسين الأمثل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "efficiency",
+    "meaning": "Achieving a result with minimal wasted effort or resources.",
+    "example": "Automating reports increased efficiency.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/efficiency/",
+    "frTranslation": "efficience",
+    "esTranslation": "eficiencia",
+    "arTranslation": "الكفاءة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "waste",
+      "inefficiency"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "effectiveness",
+    "meaning": "The degree to which objectives are achieved.",
+    "example": "Training improved the program’s effectiveness.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/effectiveness/",
+    "frTranslation": "efficacité",
+    "esTranslation": "efectividad",
+    "arTranslation": "الفعالية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "ineffectiveness"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "resilience",
+    "meaning": "Ability to recover from shocks or setbacks.",
+    "example": "Diverse supply chains add resilience.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/resilience/",
+    "frTranslation": "résilience",
+    "esTranslation": "resiliencia",
+    "arTranslation": "المرونة/القدرة على التحمّل",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "robustness"
+    ],
+    "antonyms": [
+      "fragility"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "fragility",
+    "meaning": "Susceptibility to break under stress.",
+    "example": "Single suppliers create fragility.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/fragility/",
+    "frTranslation": "fragilité",
+    "esTranslation": "fragilidad",
+    "arTranslation": "الهشاشة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "resilience",
+      "robustness"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "robustness",
+    "meaning": "Capacity to maintain performance across varied conditions.",
+    "example": "The algorithm’s robustness was tested on noisy data.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/robustness/",
+    "frTranslation": "robustesse",
+    "esTranslation": "robustez",
+    "arTranslation": "المتانة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "adaptability",
+    "meaning": "Ability to adjust to new conditions.",
+    "example": "Startups prize adaptability over rigid planning.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/adaptability/",
+    "frTranslation": "capacité d’adaptation",
+    "esTranslation": "adaptabilidad",
+    "arTranslation": "قابلية التكيّف",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "flexibility"
+    ],
+    "antonyms": [
+      "rigidity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "flexibility",
+    "meaning": "Willingness or capacity to change easily.",
+    "example": "Flexible schedules improved morale.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/flexibility/",
+    "frTranslation": "flexibilité",
+    "esTranslation": "flexibilidad",
+    "arTranslation": "المرونة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "rigidity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "systems"
+    ]
+  },
+  {
+    "text": "knowledge",
+    "meaning": "Justified true belief or, more broadly, well-supported understanding.",
+    "example": "Scientific knowledge grows by testing ideas.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/knowledge/",
+    "frTranslation": "connaissance",
+    "esTranslation": "conocimiento",
+    "arTranslation": "المعرفة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "understanding"
+    ],
+    "antonyms": [
+      "ignorance"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "belief",
+    "meaning": "Acceptance that something is true or exists, often without proof.",
+    "example": "Her belief changed after new evidence.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/belief/",
+    "frTranslation": "croyance",
+    "esTranslation": "creencia",
+    "arTranslation": "اعتقاد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "doubt"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "opinion",
+    "meaning": "A personal judgment that may not be backed by evidence.",
+    "example": "Everyone is entitled to an opinion, but claims need support.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/opinion/",
+    "frTranslation": "opinion",
+    "esTranslation": "opinión",
+    "arTranslation": "رأي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "doubt",
+    "meaning": "Uncertainty about truth or lack of conviction.",
+    "example": "Healthy doubt can prevent overconfidence.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/doubt/",
+    "frTranslation": "doute",
+    "esTranslation": "duda",
+    "arTranslation": "شكّ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "certainty"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "skepticism",
+    "meaning": "A critical approach that withholds acceptance without adequate evidence.",
+    "example": "Methodological skepticism tests every assumption.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/skepticism/",
+    "frTranslation": "scepticisme",
+    "esTranslation": "escepticismo",
+    "arTranslation": "الشكّية/الارتياب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "certainty",
+    "meaning": "A state of being sure beyond reasonable doubt.",
+    "example": "Mathematical proofs provide certainty.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/certainty/",
+    "frTranslation": "certitude",
+    "esTranslation": "certeza",
+    "arTranslation": "يقين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "uncertainty"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "evidence",
+    "meaning": "Facts or observations that indicate whether a belief is true.",
+    "example": "The study offered strong evidence.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/evidence/",
+    "frTranslation": "preuves",
+    "esTranslation": "evidencia",
+    "arTranslation": "أدلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "proof"
+    ],
+    "antonyms": [
+      "speculation"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "proof",
+    "meaning": "Logical demonstration that a conclusion follows from premises or axioms.",
+    "example": "They published a complete proof of the theorem.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/proof/",
+    "frTranslation": "preuve",
+    "esTranslation": "prueba",
+    "arTranslation": "برهان/دليل قاطع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "inference",
+    "meaning": "Reasoning from evidence to reach a conclusion.",
+    "example": "Good inference connects data to claims.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/inference/",
+    "frTranslation": "inférence",
+    "esTranslation": "inferencia",
+    "arTranslation": "استدلال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "deduction",
+    "meaning": "Reasoning from general rules to specific conclusions.",
+    "example": "Deduction ensures truth is preserved from premises.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/deduction/",
+    "frTranslation": "déduction",
+    "esTranslation": "deducción",
+    "arTranslation": "استنباط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "logic"
+    ]
+  },
+  {
+    "text": "induction",
+    "meaning": "Inferring general rules from specific observations.",
+    "example": "Induction supports but does not guarantee conclusions.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/induction/",
+    "frTranslation": "induction",
+    "esTranslation": "inducción",
+    "arTranslation": "استقراء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "logic"
+    ]
+  },
+  {
+    "text": "abduction",
+    "meaning": "Inferring the most likely explanation for observations.",
+    "example": "Doctors use abduction to form diagnoses.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/abduction/",
+    "frTranslation": "abduction",
+    "esTranslation": "abducción",
+    "arTranslation": "استدلال أفضل تفسير",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "logic"
+    ]
+  },
+  {
+    "text": "assumption",
+    "meaning": "Something taken as true without proof for the sake of argument.",
+    "example": "List every assumption before modeling.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/assumption/",
+    "frTranslation": "supposition",
+    "esTranslation": "suposición",
+    "arTranslation": "افتراض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "presupposition",
+    "meaning": "A background belief required for a statement to make sense.",
+    "example": "The question carries a presupposition that may be false.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/presupposition/",
+    "frTranslation": "présupposé",
+    "esTranslation": "presuposición",
+    "arTranslation": "مسلّمة مسبقة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "hypothesis",
+    "meaning": "A testable statement about how variables relate.",
+    "example": "Our hypothesis predicts a linear trend.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/hypothesis/",
+    "frTranslation": "hypothèse",
+    "esTranslation": "hipótesis",
+    "arTranslation": "فرضية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "theory",
+    "meaning": "A well-substantiated explanation of some aspect of the world.",
+    "example": "Evolutionary theory unifies many observations.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/theory/",
+    "frTranslation": "théorie",
+    "esTranslation": "teoría",
+    "arTranslation": "نظرية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "model",
+    "meaning": "A simplified representation used to understand or predict behavior.",
+    "example": "The climate model approximates large-scale dynamics.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/model/",
+    "frTranslation": "modèle",
+    "esTranslation": "modelo",
+    "arTranslation": "نموذج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "framework",
+    "meaning": "A structured way of organizing ideas or components.",
+    "example": "We used a decision framework to compare options.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/framework/",
+    "frTranslation": "cadre conceptuel",
+    "esTranslation": "marco conceptual",
+    "arTranslation": "إطار مفاهيمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "paradigm",
+    "meaning": "A dominant set of theories and methods guiding a field.",
+    "example": "Anomalies can trigger a paradigm shift.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/paradigm/",
+    "frTranslation": "paradigme",
+    "esTranslation": "paradigma",
+    "arTranslation": "نموذج إرشادي/براديغم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "methodology",
+    "meaning": "The system of methods used in a particular discipline.",
+    "example": "Transparent methodology increases trust.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/methodology/",
+    "frTranslation": "méthodologie",
+    "esTranslation": "metodología",
+    "arTranslation": "منهجية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "validity",
+    "meaning": "The degree to which a method measures what it claims to measure.",
+    "example": "Construct validity matters in surveys.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/validity/",
+    "frTranslation": "validité",
+    "esTranslation": "validez",
+    "arTranslation": "الصلاحية/الوجاهة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "reliability",
+    "meaning": "Consistency of a measure or process across time and observers.",
+    "example": "High reliability means repeated trials agree.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/reliability/",
+    "frTranslation": "fiabilité",
+    "esTranslation": "fiabilidad",
+    "arTranslation": "الموثوقية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "science"
+    ]
+  },
+  {
+    "text": "bias",
+    "meaning": "A systematic tendency that skews perception or results.",
+    "example": "Sampling bias can distort conclusions.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/bias/",
+    "frTranslation": "biais",
+    "esTranslation": "sesgo",
+    "arTranslation": "تحيّز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "objectivity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "objectivity",
+    "meaning": "Judgment based on observable facts rather than feelings.",
+    "example": "Peer review supports objectivity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/objectivity/",
+    "frTranslation": "objectivité",
+    "esTranslation": "objetividad",
+    "arTranslation": "موضوعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "subjectivity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "subjectivity",
+    "meaning": "Influence of personal feelings, tastes, or perspective.",
+    "example": "Aesthetic judgments have high subjectivity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/subjectivity/",
+    "frTranslation": "subjectivité",
+    "esTranslation": "subjetividad",
+    "arTranslation": "ذاتية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "objectivity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "text": "perspective",
+    "meaning": "A particular attitude or point of view.",
+    "example": "Travel broadened his perspective.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/perspective/",
+    "frTranslation": "perspective",
+    "esTranslation": "perspectiva",
+    "arTranslation": "منظور",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "viewpoint"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "context",
+    "meaning": "The surrounding situation that gives meaning to a message.",
+    "example": "Without context, the quote is misleading.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/context/",
+    "frTranslation": "contexte",
+    "esTranslation": "contexto",
+    "arTranslation": "سياق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "nuance",
+    "meaning": "A subtle difference in meaning, expression, or sound.",
+    "example": "Skilled interpreters preserve nuance.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/nuance/",
+    "frTranslation": "nuance",
+    "esTranslation": "matiz",
+    "arTranslation": "تفصيل دقيق/دقّة المعنى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "oversimplification"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "ambiguity",
+    "meaning": "The possibility of more than one interpretation.",
+    "example": "We rewrote to reduce ambiguity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/ambiguity/",
+    "frTranslation": "ambiguïté",
+    "esTranslation": "ambigüedad",
+    "arTranslation": "غموض/التباس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "clarity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  }
+]

@@ -1,0 +1,1364 @@
+[
+  {
+    "text": "city hall",
+    "meaning": "The main building where the city government works and holds meetings.",
+    "example": "We filed the permit at city hall.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/city hall/",
+    "frTranslation": "hôtel de ville",
+    "esTranslation": "ayuntamiento",
+    "arTranslation": "دار البلدية/المجلس البلدي",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "town hall"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "courthouse",
+    "meaning": "A building where legal cases are heard and records are kept.",
+    "example": "Jury duty took him to the courthouse downtown.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/courthouse/",
+    "frTranslation": "palais de justice",
+    "esTranslation": "palacio de justicia",
+    "arTranslation": "قصر العدل/محكمة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "police station",
+    "meaning": "The local headquarters for police officers and public reporting.",
+    "example": "She reported the theft at the police station.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/police station/",
+    "frTranslation": "commissariat de police",
+    "esTranslation": "comisaría de policía",
+    "arTranslation": "مركز الشرطة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "safety"
+    ]
+  },
+  {
+    "text": "fire station",
+    "meaning": "The base for firefighters and emergency response vehicles.",
+    "example": "The new fire station serves the east side.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/fire station/",
+    "frTranslation": "caserne de pompiers",
+    "esTranslation": "parque de bomberos",
+    "arTranslation": "مركز الإطفاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "safety"
+    ]
+  },
+  {
+    "text": "post office",
+    "meaning": "A public office where you can mail letters, buy stamps, and pick up packages.",
+    "example": "The parcel is ready at the post office.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/post office/",
+    "frTranslation": "bureau de poste",
+    "esTranslation": "oficina de correos",
+    "arTranslation": "مكتب البريد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "community center",
+    "meaning": "A public building offering classes, events, and services for residents.",
+    "example": "The community center hosts free language lessons.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/community center/",
+    "frTranslation": "centre communautaire",
+    "esTranslation": "centro comunitario",
+    "arTranslation": "مركز مجتمعي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "community"
+    ]
+  },
+  {
+    "text": "public library",
+    "meaning": "A library funded by the town, lending books and offering study spaces.",
+    "example": "Students revised at the public library.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/public library/",
+    "frTranslation": "bibliothèque municipale",
+    "esTranslation": "biblioteca pública",
+    "arTranslation": "مكتبة عامة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "DMV (licensing office)",
+    "meaning": "An office where you obtain driver’s licenses, IDs, and vehicle papers.",
+    "example": "He renewed his license at the DMV.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/DMV (licensing office)/",
+    "frTranslation": "bureau des permis (préfecture)",
+    "esTranslation": "oficina de licencias (tránsito)",
+    "arTranslation": "مكتب الرخص/المرور",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "tax office",
+    "meaning": "A government office that handles local or national tax matters.",
+    "example": "She asked the tax office about deductions.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/tax office/",
+    "frTranslation": "centre des impôts",
+    "esTranslation": "oficina de impuestos",
+    "arTranslation": "مكتب الضرائب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "social services office",
+    "meaning": "A place that provides support programs like housing or childcare assistance.",
+    "example": "They applied for benefits at the social services office.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/social services office/",
+    "frTranslation": "services sociaux",
+    "esTranslation": "servicios sociales",
+    "arTranslation": "مكتب الخدمات الاجتماعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "civil registry",
+    "meaning": "An office that records births, marriages, and deaths.",
+    "example": "The birth certificate was issued at the civil registry.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/civil registry/",
+    "frTranslation": "état civil",
+    "esTranslation": "registro civil",
+    "arTranslation": "دائرة الأحوال المدنية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "embassy/consulate",
+    "meaning": "An official office representing a foreign country, providing visas and help to citizens.",
+    "example": "She got her visa at the consulate.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/embassy/consulate/",
+    "frTranslation": "ambassade/consulat",
+    "esTranslation": "embajada/consulado",
+    "arTranslation": "سفارة/قنصلية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "administration"
+    ]
+  },
+  {
+    "text": "polling station",
+    "meaning": "A designated place where residents go to cast ballots in elections.",
+    "example": "The school gym serves as our polling station.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/polling station/",
+    "frTranslation": "bureau de vote",
+    "esTranslation": "colegio electoral",
+    "arTranslation": "مركز اقتراع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "civic"
+    ]
+  },
+  {
+    "text": "town square",
+    "meaning": "An open central plaza used for markets, events, and gatherings.",
+    "example": "Musicians performed in the town square.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/town square/",
+    "frTranslation": "place de la ville",
+    "esTranslation": "plaza mayor",
+    "arTranslation": "ساحة المدينة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "public space"
+    ]
+  },
+  {
+    "text": "visitor center",
+    "meaning": "A place offering maps, information, and guidance for tourists.",
+    "example": "Maps are free at the visitor center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/visitor center/",
+    "frTranslation": "office du tourisme",
+    "esTranslation": "centro de visitantes",
+    "arTranslation": "مركز الزوّار/السياحة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "service"
+    ]
+  },
+  {
+    "text": "youth center",
+    "meaning": "A facility with programs and safe spaces for young people.",
+    "example": "The youth center runs after‑school clubs.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/youth center/",
+    "frTranslation": "maison des jeunes",
+    "esTranslation": "centro juvenil",
+    "arTranslation": "مركز للشباب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "community"
+    ]
+  },
+  {
+    "text": "hospital",
+    "meaning": "A large medical center that treats serious illnesses and emergencies.",
+    "example": "She stayed overnight at the hospital.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/hospital/",
+    "frTranslation": "hôpital",
+    "esTranslation": "hospital",
+    "arTranslation": "مستشفى",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "clinic",
+    "meaning": "A smaller medical facility for routine care and minor treatments.",
+    "example": "He got his checkup at the clinic.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/clinic/",
+    "frTranslation": "clinique/centre de santé",
+    "esTranslation": "clínica/centro de salud",
+    "arTranslation": "عيادة/مستوصف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "urgent care center",
+    "meaning": "A walk‑in clinic for non‑life‑threatening problems needing quick attention.",
+    "example": "They stitched his cut at the urgent care center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/urgent care center/",
+    "frTranslation": "centre de soins urgents",
+    "esTranslation": "centro de urgencias",
+    "arTranslation": "مركز رعاية فورية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "pharmacy",
+    "meaning": "A shop where prescriptions are filled and medicines are sold.",
+    "example": "Pick up the antibiotics at the pharmacy.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pharmacy/",
+    "frTranslation": "pharmacie",
+    "esTranslation": "farmacia",
+    "arTranslation": "صيدلية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "dentist",
+    "meaning": "A clinic where teeth and gums are examined and treated.",
+    "example": "The dentist removed a cavity.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/dentist/",
+    "frTranslation": "cabinet dentaire",
+    "esTranslation": "dentista (consulta)",
+    "arTranslation": "عيادة طبيب أسنان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "optician",
+    "meaning": "A store that fits and sells glasses and contacts.",
+    "example": "The optician adjusted my frames.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/optician/",
+    "frTranslation": "opticien",
+    "esTranslation": "óptica",
+    "arTranslation": "محل نظارات/بصريات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "physiotherapy center",
+    "meaning": "A facility for rehabilitation exercises and manual therapy.",
+    "example": "Physio sessions are at the physiotherapy center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/physiotherapy center/",
+    "frTranslation": "centre de kinésithérapie",
+    "esTranslation": "centro de fisioterapia",
+    "arTranslation": "مركز علاج فيزيائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "mental health clinic",
+    "meaning": "A center providing counseling and psychiatric care.",
+    "example": "She attends therapy at the mental health clinic.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/mental health clinic/",
+    "frTranslation": "centre de santé mentale",
+    "esTranslation": "clínica de salud mental",
+    "arTranslation": "عيادة صحة نفسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "veterinary clinic",
+    "meaning": "A clinic that treats animals and pets.",
+    "example": "The dog was vaccinated at the veterinary clinic.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/veterinary clinic/",
+    "frTranslation": "clinique vétérinaire",
+    "esTranslation": "clínica veterinaria",
+    "arTranslation": "عيادة بيطرية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "blood donation center",
+    "meaning": "A facility where people donate blood for medical use.",
+    "example": "Appointments fill quickly at the blood donation center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/blood donation center/",
+    "frTranslation": "centre de don du sang",
+    "esTranslation": "centro de donación de sangre",
+    "arTranslation": "مركز التبرع بالدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "nursing home",
+    "meaning": "A residential facility that provides long‑term care for older adults.",
+    "example": "Her grandmother moved to a nursing home.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/nursing home/",
+    "frTranslation": "maison de retraite/EHPAD",
+    "esTranslation": "residencia de ancianos",
+    "arTranslation": "دار رعاية لكبار السن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "hospice",
+    "meaning": "A center focused on comfort care for people with serious illness.",
+    "example": "Volunteers support families at the hospice.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/hospice/",
+    "frTranslation": "unité de soins palliatifs",
+    "esTranslation": "hospicio (cuidados paliativos)",
+    "arTranslation": "مركز رعاية تلطيفية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "medical laboratory",
+    "meaning": "A facility that analyzes blood and other samples.",
+    "example": "Results come from the medical laboratory tomorrow.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/medical laboratory/",
+    "frTranslation": "laboratoire d’analyses",
+    "esTranslation": "laboratorio de análisis",
+    "arTranslation": "مختبر طبي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "radiology center",
+    "meaning": "A clinic specializing in X‑rays, MRI, and other imaging.",
+    "example": "The MRI is scheduled at the radiology center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/radiology center/",
+    "frTranslation": "centre d’imagerie médicale",
+    "esTranslation": "centro de radiología",
+    "arTranslation": "مركز أشعة وتصوير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "wellness spa",
+    "meaning": "A place offering massages, saunas, and relaxation treatments.",
+    "example": "They booked a massage at the wellness spa.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/wellness spa/",
+    "frTranslation": "spa/bien‑être",
+    "esTranslation": "spa de bienestar",
+    "arTranslation": "منتجع صحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "health"
+    ]
+  },
+  {
+    "text": "daycare center",
+    "meaning": "A place where young children are cared for during the day.",
+    "example": "The daycare center opens at 7:30 a.m.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/daycare center/",
+    "frTranslation": "crèche/garderie",
+    "esTranslation": "guardería",
+    "arTranslation": "حضانة/روضة أطفال",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "kindergarten",
+    "meaning": "A school level for children before primary grades.",
+    "example": "The kindergarten hosts a story hour on Fridays.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/kindergarten/",
+    "frTranslation": "maternelle",
+    "esTranslation": "jardín de infancia",
+    "arTranslation": "روضة أطفال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "elementary school",
+    "meaning": "A school for early grades that teaches basic subjects.",
+    "example": "The elementary school is two blocks away.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/elementary school/",
+    "frTranslation": "école primaire",
+    "esTranslation": "escuela primaria",
+    "arTranslation": "مدرسة ابتدائية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "high school",
+    "meaning": "A school for teenagers preparing for college or work.",
+    "example": "Graduation takes place at the high school gym.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/high school/",
+    "frTranslation": "lycée",
+    "esTranslation": "escuela secundaria (instituto)",
+    "arTranslation": "مدرسة ثانوية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "university campus",
+    "meaning": "The grounds and buildings of a university.",
+    "example": "The university campus has a large library.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/university campus/",
+    "frTranslation": "campus universitaire",
+    "esTranslation": "campus universitario",
+    "arTranslation": "حرم جامعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "community college",
+    "meaning": "A local college offering two‑year degrees and training.",
+    "example": "He studies nursing at the community college.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/community college/",
+    "frTranslation": "collège communautaire",
+    "esTranslation": "colegio comunitario",
+    "arTranslation": "كلية مجتمعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "vocational school",
+    "meaning": "A school that teaches specific trades and practical skills.",
+    "example": "She learned carpentry at the vocational school.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/vocational school/",
+    "frTranslation": "école professionnelle",
+    "esTranslation": "escuela vocacional",
+    "arTranslation": "مدرسة مهنية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "language school",
+    "meaning": "A school focused on teaching languages.",
+    "example": "Evening classes at the language school fill fast.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/language school/",
+    "frTranslation": "école de langues",
+    "esTranslation": "escuela de idiomas",
+    "arTranslation": "معهد لغات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "music school",
+    "meaning": "A place for learning instruments, theory, and performance.",
+    "example": "Recitals are held at the music school.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/music school/",
+    "frTranslation": "école de musique",
+    "esTranslation": "escuela de música",
+    "arTranslation": "معهد موسيقى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "driving school",
+    "meaning": "A school that teaches road rules and driving skills.",
+    "example": "Her road test was booked through the driving school.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/driving school/",
+    "frTranslation": "auto‑école",
+    "esTranslation": "autoescuela",
+    "arTranslation": "مدرسة تعليم قيادة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "tutoring center",
+    "meaning": "A place offering extra academic help and test prep.",
+    "example": "Math help is available at the tutoring center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/tutoring center/",
+    "frTranslation": "centre de tutorat",
+    "esTranslation": "centro de tutoría",
+    "arTranslation": "مركز دروس خصوصية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "student residence (dorm)",
+    "meaning": "Housing for students near a school or university.",
+    "example": "First‑years live in the student residence.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/student residence (dorm)/",
+    "frTranslation": "résidence étudiante",
+    "esTranslation": "residencia de estudiantes",
+    "arTranslation": "سكن طلابي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "education"
+    ]
+  },
+  {
+    "text": "theater",
+    "meaning": "A venue for plays and live performances.",
+    "example": "The theater premieres a new comedy tonight.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/theater/",
+    "frTranslation": "théâtre",
+    "esTranslation": "teatro",
+    "arTranslation": "مسرح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "cinema (movie theater)",
+    "meaning": "A place where films are shown to the public.",
+    "example": "We met outside the cinema at seven.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/cinema (movie theater)/",
+    "frTranslation": "cinéma",
+    "esTranslation": "cine",
+    "arTranslation": "سينما",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "concert hall",
+    "meaning": "A venue designed for live music with good acoustics.",
+    "example": "The symphony performs at the concert hall.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/concert hall/",
+    "frTranslation": "salle de concert",
+    "esTranslation": "sala de conciertos",
+    "arTranslation": "قاعة حفلات موسيقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "opera house",
+    "meaning": "A grand theater specialized in opera and ballet.",
+    "example": "Tourists admired the opera house architecture.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/opera house/",
+    "frTranslation": "opéra",
+    "esTranslation": "ópera (teatro)",
+    "arTranslation": "دار الأوبرا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "museum",
+    "meaning": "A building that exhibits art, history, or science collections.",
+    "example": "The museum hosts a new exhibit on fossils.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/museum/",
+    "frTranslation": "musée",
+    "esTranslation": "museo",
+    "arTranslation": "متحف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "art gallery",
+    "meaning": "A space that displays and sells artworks.",
+    "example": "Local painters showed work at the art gallery.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/art gallery/",
+    "frTranslation": "galerie d’art",
+    "esTranslation": "galería de arte",
+    "arTranslation": "معرض فني",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "cultural center",
+    "meaning": "A venue for exhibitions, classes, and community arts events.",
+    "example": "Dance workshops run at the cultural center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/cultural center/",
+    "frTranslation": "centre culturel",
+    "esTranslation": "centro cultural",
+    "arTranslation": "مركز ثقافي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "exhibition hall",
+    "meaning": "A large space for trade fairs and public shows.",
+    "example": "The book fair fills the exhibition hall.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/exhibition hall/",
+    "frTranslation": "hall d’exposition",
+    "esTranslation": "pabellón de exposiciones",
+    "arTranslation": "قاعة معارض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "convention center",
+    "meaning": "A complex with halls for conferences and large events.",
+    "example": "The tech expo is at the convention center.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/convention center/",
+    "frTranslation": "centre de congrès",
+    "esTranslation": "centro de convenciones",
+    "arTranslation": "مركز مؤتمرات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "culture"
+    ]
+  },
+  {
+    "text": "stadium",
+    "meaning": "A large sports arena with seating for spectators.",
+    "example": "The stadium sold out for the final.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/stadium/",
+    "frTranslation": "stade",
+    "esTranslation": "estadio",
+    "arTranslation": "ملعب/استاد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "sports"
+    ]
+  },
+  {
+    "text": "sports arena",
+    "meaning": "An indoor venue for games and concerts.",
+    "example": "The arena hosts basketball and concerts.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/sports arena/",
+    "frTranslation": "salle omnisports/arena",
+    "esTranslation": "arena deportiva",
+    "arTranslation": "صالة رياضية كبرى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "sports"
+    ]
+  },
+  {
+    "text": "sports field (pitch)",
+    "meaning": "An outdoor field for soccer, rugby, or baseball.",
+    "example": "Practice starts at the sports field at 6 p.m.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/sports field (pitch)/",
+    "frTranslation": "terrain de sport",
+    "esTranslation": "campo deportivo",
+    "arTranslation": "ملعب رياضي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "sports"
+    ]
+  },
+  {
+    "text": "public pool",
+    "meaning": "A swimming facility open to the community.",
+    "example": "Lifeguards watch the lanes at the public pool.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/public pool/",
+    "frTranslation": "piscine municipale",
+    "esTranslation": "piscina pública",
+    "arTranslation": "مسبح عام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "sports"
+    ]
+  },
+  {
+    "text": "skate park",
+    "meaning": "A park with ramps and rails for skateboarding and BMX.",
+    "example": "Teens gathered at the new skate park.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/skate park/",
+    "frTranslation": "skatepark",
+    "esTranslation": "parque de patinaje",
+    "arTranslation": "حديقة للتزلج بالألواح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "sports"
+    ]
+  },
+  {
+    "text": "amusement park",
+    "meaning": "A large park with rides and games for entertainment.",
+    "example": "The roller coaster is the amusement park’s star.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/amusement park/",
+    "frTranslation": "parc d’attractions",
+    "esTranslation": "parque de atracciones",
+    "arTranslation": "مدينة ملاهٍ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "leisure"
+    ]
+  },
+  {
+    "text": "zoo",
+    "meaning": "A park where animals are kept for public viewing and conservation.",
+    "example": "School trips often go to the zoo.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/zoo/",
+    "frTranslation": "zoo/parc zoologique",
+    "esTranslation": "zoológico",
+    "arTranslation": "حديقة حيوانات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "leisure"
+    ]
+  },
+  {
+    "text": "aquarium",
+    "meaning": "A facility that displays marine life in tanks for education and research.",
+    "example": "The aquarium opened a coral reef exhibit.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/aquarium/",
+    "frTranslation": "aquarium",
+    "esTranslation": "acuario",
+    "arTranslation": "أكواريوم/حوض أسماك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "leisure"
+    ]
+  },
+  {
+    "text": "botanical garden",
+    "meaning": "A garden that grows and labels plant species for study.",
+    "example": "Spring blossoms fill the botanical garden.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/botanical garden/",
+    "frTranslation": "jardin botanique",
+    "esTranslation": "jardín botánico",
+    "arTranslation": "حديقة نباتية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "leisure"
+    ]
+  },
+  {
+    "text": "park",
+    "meaning": "A public green area for walking, resting, and play.",
+    "example": "Families picnicked in the park.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/park/",
+    "frTranslation": "parc",
+    "esTranslation": "parque",
+    "arTranslation": "حديقة/منتزه",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "public space"
+    ]
+  },
+  {
+    "text": "playground",
+    "meaning": "An outdoor area with swings and slides for children.",
+    "example": "Kids lined up for the slide at the playground.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/playground/",
+    "frTranslation": "aire de jeux",
+    "esTranslation": "parque infantil",
+    "arTranslation": "ملعب أطفال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "public space"
+    ]
+  },
+  {
+    "text": "dog park",
+    "meaning": "A fenced area where dogs can run off‑leash.",
+    "example": "We met neighbors at the dog park.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/dog park/",
+    "frTranslation": "parc à chiens",
+    "esTranslation": "parque para perros",
+    "arTranslation": "حديقة للكلاب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "public space"
+    ]
+  },
+  {
+    "text": "community garden",
+    "meaning": "A shared space where residents grow vegetables and flowers.",
+    "example": "Tomatoes ripened in the community garden.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/community garden/",
+    "frTranslation": "jardin partagé",
+    "esTranslation": "huerto comunitario",
+    "arTranslation": "حديقة مجتمعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "community"
+    ]
+  },
+  {
+    "text": "farmers’ market",
+    "meaning": "A market where local farmers sell fresh produce directly.",
+    "example": "Saturdays we shop at the farmers’ market.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/farmers’ market/",
+    "frTranslation": "marché de producteurs",
+    "esTranslation": "mercado de agricultores",
+    "arTranslation": "سوق المزارعين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "market"
+    ]
+  },
+  {
+    "text": "supermarket",
+    "meaning": "A large store selling food and daily household items.",
+    "example": "We buy staples at the supermarket.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/supermarket/",
+    "frTranslation": "supermarché",
+    "esTranslation": "supermercado",
+    "arTranslation": "سوبرماركت/متجر كبير",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "grocery store",
+    "meaning": "A smaller shop selling food, produce, and essentials.",
+    "example": "The corner grocery store stays open late.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/grocery store/",
+    "frTranslation": "épicerie",
+    "esTranslation": "tienda de comestibles",
+    "arTranslation": "بقالة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "convenience store",
+    "meaning": "A small shop open long hours for snacks and necessities.",
+    "example": "He grabbed milk from the convenience store.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/convenience store/",
+    "frTranslation": "supérette",
+    "esTranslation": "tienda de conveniencia",
+    "arTranslation": "متجر صغير/24 ساعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "bakery",
+    "meaning": "A shop that bakes and sells bread and pastries.",
+    "example": "The bakery sells fresh baguettes each morning.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/bakery/",
+    "frTranslation": "boulangerie",
+    "esTranslation": "panadería",
+    "arTranslation": "مخبز",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "butcher",
+    "meaning": "A shop that prepares and sells meat.",
+    "example": "We ordered lamb at the butcher.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/butcher/",
+    "frTranslation": "boucherie",
+    "esTranslation": "carnicería",
+    "arTranslation": "ملحمة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "fishmonger",
+    "meaning": "A store that sells fresh fish and seafood.",
+    "example": "The fishmonger displayed whole salmon on ice.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/fishmonger/",
+    "frTranslation": "poissonnerie",
+    "esTranslation": "pescadería",
+    "arTranslation": "محل أسماك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "greengrocer",
+    "meaning": "A shop specializing in fruits and vegetables.",
+    "example": "Peaches are discounted at the greengrocer.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/greengrocer/",
+    "frTranslation": "primeur",
+    "esTranslation": "verdulería/frutería",
+    "arTranslation": "محل خضار وفاكهة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "deli",
+    "meaning": "A shop selling prepared foods, cold cuts, and cheeses.",
+    "example": "We picked up sandwiches at the deli.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/deli/",
+    "frTranslation": "traiteur/délicatessen",
+    "esTranslation": "charcutería/deli",
+    "arTranslation": "متجر أطعمة جاهزة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "retail"
+    ]
+  },
+  {
+    "text": "café",
+    "meaning": "A small restaurant serving coffee, drinks, and light meals.",
+    "example": "She wrote for hours at the corner café.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/café/",
+    "frTranslation": "café",
+    "esTranslation": "cafetería/café",
+    "arTranslation": "مقهى",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "coffee shop",
+    "meaning": "A place focused on coffee beverages and snacks.",
+    "example": "The coffee shop offers free Wi‑Fi.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/coffee shop/",
+    "frTranslation": "salon de café",
+    "esTranslation": "cafetería",
+    "arTranslation": "مقهى قهوة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "tea house",
+    "meaning": "A quiet venue specializing in teas and light fare.",
+    "example": "We sampled oolong at the tea house.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/tea house/",
+    "frTranslation": "maison de thé",
+    "esTranslation": "casa de té",
+    "arTranslation": "بيت شاي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "restaurant",
+    "meaning": "A place where meals are prepared and served to customers.",
+    "example": "They booked a table at a new restaurant.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/restaurant/",
+    "frTranslation": "restaurant",
+    "esTranslation": "restaurante",
+    "arTranslation": "مطعم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "pizzeria",
+    "meaning": "A restaurant that makes and sells pizza.",
+    "example": "The pizzeria fires pies in a brick oven.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/pizzeria/",
+    "frTranslation": "pizzeria",
+    "esTranslation": "pizzería",
+    "arTranslation": "بيتزا ريا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  },
+  {
+    "text": "fast‑food outlet",
+    "meaning": "A quick‑service restaurant with counter ordering.",
+    "example": "We grabbed fries at a fast‑food outlet.",
+    "categoryId": "Places in Town",
+    "pronunciation": "/fast‑food outlet/",
+    "frTranslation": "restauration rapide",
+    "esTranslation": "comida rápida",
+    "arTranslation": "مطعم وجبات سريعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Places in Town",
+      "food & drink"
+    ]
+  }
+]

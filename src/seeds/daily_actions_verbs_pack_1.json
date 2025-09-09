@@ -1,0 +1,1285 @@
+[
+  {
+    "text": "wake up",
+    "meaning": "To stop sleeping and become conscious.",
+    "example": "I usually wake up at 6 a.m.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/wake up/",
+    "frTranslation": "se réveiller",
+    "esTranslation": "despertarse",
+    "arTranslation": "يستيقظ",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "awaken"
+    ],
+    "antonyms": [
+      "fall asleep"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "get up",
+    "meaning": "To rise from bed after waking.",
+    "example": "He gets up and opens the curtains.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/get up/",
+    "frTranslation": "se lever",
+    "esTranslation": "levantarse",
+    "arTranslation": "ينهض",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "rise"
+    ],
+    "antonyms": [
+      "lie down"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "stretch",
+    "meaning": "To extend your limbs to loosen muscles.",
+    "example": "She stretched before her run.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/stretch/",
+    "frTranslation": "s’étirer",
+    "esTranslation": "estirarse",
+    "arTranslation": "يتمطّى/يمتدّ",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "limber up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "yawn",
+    "meaning": "To open your mouth wide and breathe in when tired.",
+    "example": "He yawned during the early meeting.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/yawn/",
+    "frTranslation": "bâiller",
+    "esTranslation": "bostezar",
+    "arTranslation": "يتثاءب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "make the bed",
+    "meaning": "To tidy the bedding after getting up.",
+    "example": "She makes the bed before breakfast.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/make the bed/",
+    "frTranslation": "faire le lit",
+    "esTranslation": "hacer la cama",
+    "arTranslation": "يرتّب السرير",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "tidy the bed"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "brush your teeth",
+    "meaning": "To clean your teeth with a toothbrush and paste.",
+    "example": "Kids brush their teeth twice a day.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/brush your teeth/",
+    "frTranslation": "se brosser les dents",
+    "esTranslation": "cepillarse los dientes",
+    "arTranslation": "يفرّش أسنانه",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "clean your teeth"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "floss",
+    "meaning": "To clean between teeth with dental floss.",
+    "example": "Dentists say to floss daily.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/floss/",
+    "frTranslation": "passer le fil dentaire",
+    "esTranslation": "usar hilo dental",
+    "arTranslation": "يستخدم خيط الأسنان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "wash your face",
+    "meaning": "To clean your face with water or cleanser.",
+    "example": "He washes his face with cold water.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/wash your face/",
+    "frTranslation": "se laver le visage",
+    "esTranslation": "lavarse la cara",
+    "arTranslation": "يغسل وجهه",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "take a shower",
+    "meaning": "To wash your body under running water.",
+    "example": "She takes a shower after the gym.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/take a shower/",
+    "frTranslation": "prendre une douche",
+    "esTranslation": "ducharse",
+    "arTranslation": "يستحمّ (دُشّ)",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "shower"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "take a bath",
+    "meaning": "To wash your body while sitting in water.",
+    "example": "The kids take a bath before bed.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/take a bath/",
+    "frTranslation": "prendre un bain",
+    "esTranslation": "bañarse",
+    "arTranslation": "يستحمّ (حمّام)",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bathe"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "shampoo",
+    "meaning": "To wash hair with shampoo.",
+    "example": "He shampoos twice a week.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/shampoo/",
+    "frTranslation": "shampouiner",
+    "esTranslation": "usar champú",
+    "arTranslation": "يغسل بالشامبو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "condition (hair)",
+    "meaning": "To apply conditioner to soften hair.",
+    "example": "Condition the ends to prevent dryness.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/condition (hair)/",
+    "frTranslation": "appliquer l’après-shampoing",
+    "esTranslation": "usar acondicionador",
+    "arTranslation": "يضع بلسم الشعر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "dry off",
+    "meaning": "To remove water from your body after bathing.",
+    "example": "She dried off with a towel.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/dry off/",
+    "frTranslation": "se sécher",
+    "esTranslation": "secarse",
+    "arTranslation": "يجفّف نفسه",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "towel off"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "shave",
+    "meaning": "To remove hair with a razor or trimmer.",
+    "example": "He shaves every other day.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/shave/",
+    "frTranslation": "se raser",
+    "esTranslation": "afeitarse",
+    "arTranslation": "يحلق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "get dressed",
+    "meaning": "To put on clothes.",
+    "example": "She got dressed for work.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/get dressed/",
+    "frTranslation": "s’habiller",
+    "esTranslation": "vestirse",
+    "arTranslation": "يرتدي ملابسه",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "put on clothes"
+    ],
+    "antonyms": [
+      "undress"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "button up",
+    "meaning": "To fasten clothes with buttons.",
+    "example": "Button up your coat; it’s cold.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/button up/",
+    "frTranslation": "boutonner",
+    "esTranslation": "abotonarse",
+    "arTranslation": "يزرّر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "unbutton"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "zip up",
+    "meaning": "To close something with a zipper.",
+    "example": "Zip up your bag before you run.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/zip up/",
+    "frTranslation": "fermer la fermeture éclair",
+    "esTranslation": "cerrar la cremallera",
+    "arTranslation": "يُغلق السحاب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "unzip"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "tie your shoes",
+    "meaning": "To fasten shoelaces in a knot.",
+    "example": "He tied his shoes tightly.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/tie your shoes/",
+    "frTranslation": "lacer ses chaussures",
+    "esTranslation": "atarse los cordones",
+    "arTranslation": "يربط حذاءه",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "pack your bag",
+    "meaning": "To put needed items into a bag for the day.",
+    "example": "She packed her bag with notebooks.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/pack your bag/",
+    "frTranslation": "préparer son sac",
+    "esTranslation": "preparar la mochila/bolso",
+    "arTranslation": "يجهّز حقيبته",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "have breakfast",
+    "meaning": "To eat your first meal of the day.",
+    "example": "We had breakfast at seven.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/have breakfast/",
+    "frTranslation": "prendre le petit-déjeuner",
+    "esTranslation": "desayunar",
+    "arTranslation": "يتناول الفطور",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "eat breakfast"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "brew coffee",
+    "meaning": "To make coffee by passing hot water through ground beans.",
+    "example": "He brewed a fresh pot.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/brew coffee/",
+    "frTranslation": "faire du café (infuser)",
+    "esTranslation": "preparar café",
+    "arTranslation": "يُحضّر القهوة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "pour (a drink)",
+    "meaning": "To make liquid flow from one container to another.",
+    "example": "She poured tea into the cup.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/pour (a drink)/",
+    "frTranslation": "verser (une boisson)",
+    "esTranslation": "servir/verter (una bebida)",
+    "arTranslation": "يسكب (شرابًا)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "tidy up",
+    "meaning": "To put things in order and remove clutter.",
+    "example": "He tidied up the desk.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/tidy up/",
+    "frTranslation": "ranger",
+    "esTranslation": "ordenar",
+    "arTranslation": "يرتّب/ينظّم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "straighten up"
+    ],
+    "antonyms": [
+      "mess up"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "head out",
+    "meaning": "To leave home and start your day’s activities.",
+    "example": "We headed out after breakfast.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/head out/",
+    "frTranslation": "sortir/partir",
+    "esTranslation": "salir/irse",
+    "arTranslation": "ينطلق/يغادر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "leave"
+    ],
+    "antonyms": [
+      "stay in"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "commute"
+    ]
+  },
+  {
+    "text": "check the time",
+    "meaning": "To look at a clock or device to know the time.",
+    "example": "I checked the time before leaving.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/check the time/",
+    "frTranslation": "regarder l’heure",
+    "esTranslation": "mirar la hora",
+    "arTranslation": "يتحقق من الوقت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "morning"
+    ]
+  },
+  {
+    "text": "walk",
+    "meaning": "To move on foot at a regular pace.",
+    "example": "She walks to the office.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/walk/",
+    "frTranslation": "marcher",
+    "esTranslation": "caminar",
+    "arTranslation": "يمشي",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "stroll"
+    ],
+    "antonyms": [
+      "run"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "stroll",
+    "meaning": "To walk slowly and pleasantly without hurry.",
+    "example": "We strolled after dinner.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/stroll/",
+    "frTranslation": "se promener",
+    "esTranslation": "pasear",
+    "arTranslation": "يتنزّه",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "saunter"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "jog",
+    "meaning": "To run at a slow, steady pace for exercise.",
+    "example": "He jogs in the park.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/jog/",
+    "frTranslation": "jogger",
+    "esTranslation": "trotar",
+    "arTranslation": "يركض ركضًا خفيفًا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "run lightly"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "run",
+    "meaning": "To move fast on foot.",
+    "example": "She runs to catch the bus.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/run/",
+    "frTranslation": "courir",
+    "esTranslation": "correr",
+    "arTranslation": "يجري",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "walk"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "cycle",
+    "meaning": "To ride a bicycle.",
+    "example": "They cycle along the river path.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/cycle/",
+    "frTranslation": "faire du vélo",
+    "esTranslation": "andar en bici",
+    "arTranslation": "يركب الدراجة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "bike"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "drive",
+    "meaning": "To operate a car or other vehicle.",
+    "example": "He drives to work on rainy days.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/drive/",
+    "frTranslation": "conduire",
+    "esTranslation": "conducir",
+    "arTranslation": "يقود",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "commute",
+    "meaning": "To travel regularly between home and work/school.",
+    "example": "She commutes by train.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/commute/",
+    "frTranslation": "faire la navette",
+    "esTranslation": "desplazarse al trabajo",
+    "arTranslation": "يتنقّل للعمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "catch a bus",
+    "meaning": "To board a bus before it departs.",
+    "example": "We caught the bus at 8:10.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/catch a bus/",
+    "frTranslation": "prendre un bus",
+    "esTranslation": "tomar un autobús",
+    "arTranslation": "يلحق بالحافلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "get the bus"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "miss the train",
+    "meaning": "To arrive too late to board a train.",
+    "example": "He missed the train by a minute.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/miss the train/",
+    "frTranslation": "rater le train",
+    "esTranslation": "perder el tren",
+    "arTranslation": "يفوّت القطار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "catch the train"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "wait in line",
+    "meaning": "To stand one behind another while waiting your turn.",
+    "example": "They waited in line for tickets.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/wait in line/",
+    "frTranslation": "faire la queue",
+    "esTranslation": "hacer fila",
+    "arTranslation": "يصطفّ في طابور",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "queue"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "board",
+    "meaning": "To get onto a bus, plane, or train.",
+    "example": "We boarded when our group was called.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/board/",
+    "frTranslation": "embarquer/monter à bord",
+    "esTranslation": "abordar",
+    "arTranslation": "يركب/يعتلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "disembark"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "get off",
+    "meaning": "To leave a bus, train, or plane at a stop.",
+    "example": "She got off at the third station.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/get off/",
+    "frTranslation": "descendre (d’un véhicule)",
+    "esTranslation": "bajarse",
+    "arTranslation": "ينزل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "get on"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "transfer",
+    "meaning": "To change from one bus, train, or flight to another.",
+    "example": "We transferred to the metro line.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/transfer/",
+    "frTranslation": "correspondre/changer (de ligne)",
+    "esTranslation": "hacer trasbordo",
+    "arTranslation": "يبدّل (خطًا/رحلة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "arrive",
+    "meaning": "To reach a place at the end of a journey.",
+    "example": "They arrived just before noon.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/arrive/",
+    "frTranslation": "arriver",
+    "esTranslation": "llegar",
+    "arTranslation": "يصل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "depart"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "leave",
+    "meaning": "To go away from a place.",
+    "example": "He left the office early.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/leave/",
+    "frTranslation": "partir/quitter",
+    "esTranslation": "salir/dejar",
+    "arTranslation": "يغادر/يترك",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "arrive"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "movement"
+    ]
+  },
+  {
+    "text": "log in",
+    "meaning": "To enter a system with a username and password.",
+    "example": "I logged in to check messages.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/log in/",
+    "frTranslation": "se connecter",
+    "esTranslation": "iniciar sesión",
+    "arTranslation": "يسجّل الدخول",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "log out"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "log out",
+    "meaning": "To exit a system so your account is no longer active.",
+    "example": "Please log out on shared devices.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/log out/",
+    "frTranslation": "se déconnecter",
+    "esTranslation": "cerrar sesión",
+    "arTranslation": "يسجّل الخروج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "log in"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "open an app",
+    "meaning": "To start a software program on a device.",
+    "example": "Open the app to join the call.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/open an app/",
+    "frTranslation": "ouvrir une application",
+    "esTranslation": "abrir una aplicación",
+    "arTranslation": "يفتح تطبيقًا",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "check email",
+    "meaning": "To look at your inbox for new messages.",
+    "example": "She checks email every morning.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/check email/",
+    "frTranslation": "vérifier ses emails",
+    "esTranslation": "revisar el correo",
+    "arTranslation": "يتفقد البريد الإلكتروني",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "read email"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "reply to an email",
+    "meaning": "To send a response to a received message.",
+    "example": "He replied to the client’s email.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/reply to an email/",
+    "frTranslation": "répondre à un email",
+    "esTranslation": "responder un correo",
+    "arTranslation": "يردّ على رسالة إلكترونية",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "respond"
+    ],
+    "antonyms": [
+      "ignore"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "forward (an email)",
+    "meaning": "To send a received message to another person.",
+    "example": "Forward the update to the team.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/forward (an email)/",
+    "frTranslation": "transférer (un email)",
+    "esTranslation": "reenviar (un correo)",
+    "arTranslation": "يعيد توجيه (بريد)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "attach a file",
+    "meaning": "To include a document with an email or message.",
+    "example": "Attach the PDF before sending.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/attach a file/",
+    "frTranslation": "joindre un fichier",
+    "esTranslation": "adjuntar un archivo",
+    "arTranslation": "يرفق ملفًا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "download",
+    "meaning": "To copy data from the internet or another device to yours.",
+    "example": "Download the latest report.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/download/",
+    "frTranslation": "télécharger (depuis internet)",
+    "esTranslation": "descargar",
+    "arTranslation": "تنزيل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "upload"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "upload",
+    "meaning": "To send data from your device to the internet or a server.",
+    "example": "Upload photos to the drive.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/upload/",
+    "frTranslation": "téléverser (envoyer)",
+    "esTranslation": "subir (archivo)",
+    "arTranslation": "تحميل (رفع)",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "download"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "save your work",
+    "meaning": "To store changes so they are not lost.",
+    "example": "Remember to save your work often.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/save your work/",
+    "frTranslation": "enregistrer son travail",
+    "esTranslation": "guardar el trabajo",
+    "arTranslation": "يحفظ عمله",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "back up (data)",
+    "meaning": "To make a second copy of files for protection.",
+    "example": "We back up data nightly.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/back up (data)/",
+    "frTranslation": "sauvegarder (des données)",
+    "esTranslation": "hacer copia de seguridad",
+    "arTranslation": "ينسخ احتياطيًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "archive (not the same)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "search (the web)",
+    "meaning": "To look for information online using keywords.",
+    "example": "She searched for train times.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/search (the web)/",
+    "frTranslation": "chercher (sur le web)",
+    "esTranslation": "buscar (en la web)",
+    "arTranslation": "يبحث (على الويب)",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "browse",
+    "meaning": "To look through web pages without a specific goal.",
+    "example": "He browsed news sites at lunch.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/browse/",
+    "frTranslation": "naviguer (surfer)",
+    "esTranslation": "navegar",
+    "arTranslation": "يتصفّح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "copy and paste",
+    "meaning": "To duplicate text or files and insert them elsewhere.",
+    "example": "Copy and paste the address here.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/copy and paste/",
+    "frTranslation": "copier-coller",
+    "esTranslation": "copiar y pegar",
+    "arTranslation": "ينسخ ويلصق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "print",
+    "meaning": "To produce a paper copy of a document.",
+    "example": "Print two copies for the meeting.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/print/",
+    "frTranslation": "imprimer",
+    "esTranslation": "imprimir",
+    "arTranslation": "يطبع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "scan",
+    "meaning": "To create a digital image of a paper document.",
+    "example": "Scan the receipt for records.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/scan/",
+    "frTranslation": "numériser",
+    "esTranslation": "escanear",
+    "arTranslation": "يمسح ضوئيًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "schedule (a meeting)",
+    "meaning": "To set a time and date for a meeting.",
+    "example": "She scheduled the kickoff for Tuesday.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/schedule (a meeting)/",
+    "frTranslation": "programmer (une réunion)",
+    "esTranslation": "programar (una reunión)",
+    "arTranslation": "يحدّد موعد اجتماع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "set up"
+    ],
+    "antonyms": [
+      "cancel"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "join a call",
+    "meaning": "To enter an online audio or video meeting.",
+    "example": "We joined the call at 10 sharp.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/join a call/",
+    "frTranslation": "rejoindre un appel",
+    "esTranslation": "unirse a una llamada",
+    "arTranslation": "ينضم إلى مكالمة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "take notes",
+    "meaning": "To write down key information to remember later.",
+    "example": "He took notes during the lecture.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/take notes/",
+    "frTranslation": "prendre des notes",
+    "esTranslation": "tomar notas",
+    "arTranslation": "يدوّن ملاحظات",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "draft (a document)",
+    "meaning": "To write a first version that will be revised.",
+    "example": "Draft the email before sending.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/draft (a document)/",
+    "frTranslation": "rédiger un brouillon",
+    "esTranslation": "redactar un borrador",
+    "arTranslation": "يصوغ مسودة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "edit",
+    "meaning": "To improve text by changing, correcting, or cutting parts.",
+    "example": "She edited the introduction.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/edit/",
+    "frTranslation": "réviser/éditer",
+    "esTranslation": "editar/corregir",
+    "arTranslation": "يحرّر/ينقّح",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "revise"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "proofread",
+    "meaning": "To read carefully to catch mistakes before publishing.",
+    "example": "Proofread the report for typos.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/proofread/",
+    "frTranslation": "relire (corriger)",
+    "esTranslation": "corregir (pruebas)",
+    "arTranslation": "يصحّح لغويًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "submit",
+    "meaning": "To hand in work for review or approval.",
+    "example": "He submitted the assignment online.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/submit/",
+    "frTranslation": "soumettre",
+    "esTranslation": "enviar/entregar",
+    "arTranslation": "يقدّم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "withdraw"
+    ],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "share",
+    "meaning": "To give others access to a file, idea, or resource.",
+    "example": "Share the slides with the team.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/share/",
+    "frTranslation": "partager",
+    "esTranslation": "compartir",
+    "arTranslation": "يشارك",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "work/study"
+    ]
+  },
+  {
+    "text": "cook",
+    "meaning": "To prepare food by heating and combining ingredients.",
+    "example": "She cooks dinner most nights.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/cook/",
+    "frTranslation": "cuisiner",
+    "esTranslation": "cocinar",
+    "arTranslation": "يطبخ",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "prepare food"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "home"
+    ]
+  },
+  {
+    "text": "chop",
+    "meaning": "To cut food into pieces with a knife.",
+    "example": "Chop the onions finely.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/chop/",
+    "frTranslation": "hacher/couper",
+    "esTranslation": "picar",
+    "arTranslation": "يفرُم/يقطّع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "dice",
+      "mince"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "home"
+    ]
+  },
+  {
+    "text": "slice",
+    "meaning": "To cut into flat, thin pieces.",
+    "example": "Slice the bread evenly.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/slice/",
+    "frTranslation": "trancher",
+    "esTranslation": "rebanar",
+    "arTranslation": "يقطع شرائح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "home"
+    ]
+  },
+  {
+    "text": "boil",
+    "meaning": "To heat liquid until it bubbles rapidly.",
+    "example": "Boil the pasta for ten minutes.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/boil/",
+    "frTranslation": "faire bouillir",
+    "esTranslation": "hervir",
+    "arTranslation": "يغلي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "home"
+    ]
+  },
+  {
+    "text": "simmer",
+    "meaning": "To cook just below boiling so small bubbles rise.",
+    "example": "Let the sauce simmer gently.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/simmer/",
+    "frTranslation": "mijoter",
+    "esTranslation": "hervir a fuego lento",
+    "arTranslation": "يطبخ على نار هادئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "home"
+    ]
+  },
+  {
+    "text": "fry",
+    "meaning": "To cook in hot fat or oil.",
+    "example": "Fry the eggs until the edges crisp.",
+    "categoryId": "Daily Actions (Verbs)",
+    "pronunciation": "/fry/",
+    "frTranslation": "frire/poêler",
+    "esTranslation": "freír",
+    "arTranslation": "يقلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Daily Actions (Verbs)",
+      "home"
+    ]
+  }
+]

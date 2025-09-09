@@ -1,0 +1,706 @@
+[
+  {
+    "text": "groin",
+    "meaning": "The crease where the thigh meets the lower abdomen.",
+    "example": "A groin pull can sideline athletes for weeks.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/groin/",
+    "frTranslation": "aine",
+    "esTranslation": "ingle",
+    "arTranslation": "أرب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "knee",
+    "meaning": "The joint that connects the thigh and the lower leg and allows bending.",
+    "example": "He knelt down, resting on one knee.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/knee/",
+    "frTranslation": "genou",
+    "esTranslation": "rodilla",
+    "arTranslation": "ركبة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "kneecap",
+    "meaning": "The small bone that covers and protects the front of the knee joint.",
+    "example": "Her kneecap dislocated during a fall.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/kneecap/",
+    "frTranslation": "rotule",
+    "esTranslation": "rótula",
+    "arTranslation": "رضفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "patella"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "shin",
+    "meaning": "The front part of the lower leg between the knee and the ankle.",
+    "example": "He bruised his shin on the step.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/shin/",
+    "frTranslation": "tibia (zone)/jarret ant.",
+    "esTranslation": "espinilla",
+    "arTranslation": "قصبة الساق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "shinbone"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "calf",
+    "meaning": "The muscular back portion of the lower leg.",
+    "example": "His calf cramped after dehydration.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/calf/",
+    "frTranslation": "mollet",
+    "esTranslation": "pantorrilla",
+    "arTranslation": "ربلة الساق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "ankle",
+    "meaning": "The joint that connects the foot to the leg.",
+    "example": "She twisted her ankle on the trail.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ankle/",
+    "frTranslation": "cheville",
+    "esTranslation": "tobillo",
+    "arTranslation": "كاحل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "heel",
+    "meaning": "The back part of the foot below the ankle.",
+    "example": "Blisters formed on his heel.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/heel/",
+    "frTranslation": "talon",
+    "esTranslation": "talón",
+    "arTranslation": "عَقِب/كعب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "Achilles tendon",
+    "meaning": "The strong tendon at the back of the ankle connecting calf muscles to the heel.",
+    "example": "Overtraining can inflame the Achilles tendon.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/Achilles tendon/",
+    "frTranslation": "tendon d’Achille",
+    "esTranslation": "tendón de Aquiles",
+    "arTranslation": "وتر أخيل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "foot",
+    "meaning": "The lower extremity used for standing and walking.",
+    "example": "He washed his feet after the hike.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/foot/",
+    "frTranslation": "pied",
+    "esTranslation": "pie",
+    "arTranslation": "قدم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "arch (foot)",
+    "meaning": "The curved structure of the foot that supports body weight.",
+    "example": "Insoles can support a low arch.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/arch (foot)/",
+    "frTranslation": "voûte plantaire",
+    "esTranslation": "arco plantar",
+    "arTranslation": "قوس القدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "sole (foot)",
+    "meaning": "The bottom surface of the foot.",
+    "example": "The hot sand burned the sole of my foot.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/sole (foot)/",
+    "frTranslation": "plante du pied",
+    "esTranslation": "planta del pie",
+    "arTranslation": "باطن القدم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "instep",
+    "meaning": "The arched top part of the foot between the toes and the ankle.",
+    "example": "He felt tightness across the instep.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/instep/",
+    "frTranslation": "cou-de-pied",
+    "esTranslation": "empeine",
+    "arTranslation": "ظهر القدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "toe",
+    "meaning": "One of the five digits of the foot.",
+    "example": "She stubbed her toe on the table leg.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/toe/",
+    "frTranslation": "orteil",
+    "esTranslation": "dedo del pie",
+    "arTranslation": "أصبع القدم",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "digit (foot)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "big toe",
+    "meaning": "The largest inner toe that helps with balance and push-off.",
+    "example": "A blister formed on his big toe.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/big toe/",
+    "frTranslation": "gros orteil",
+    "esTranslation": "dedo gordo (pie)",
+    "arTranslation": "الإبهام القدم/إصبع قدم كبير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "hallux"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "toenail",
+    "meaning": "The hard keratin plate on the tip of a toe.",
+    "example": "Tight shoes can cause an ingrown toenail.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/toenail/",
+    "frTranslation": "ongle (du pied)",
+    "esTranslation": "uña del pie",
+    "arTranslation": "ظفر القدم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "femur",
+    "meaning": "The thigh bone—the longest and strongest bone in the body.",
+    "example": "The femur bears heavy loads during running.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/femur/",
+    "frTranslation": "fémur",
+    "esTranslation": "fémur",
+    "arTranslation": "عظم الفخذ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "tibia",
+    "meaning": "The larger front bone of the lower leg that bears most weight.",
+    "example": "A hairline crack appeared in the tibia.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/tibia/",
+    "frTranslation": "tibia",
+    "esTranslation": "tibia",
+    "arTranslation": "قصبة الساق (تيبيا)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "fibula (contrast)"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "fibula",
+    "meaning": "The slender outer bone of the lower leg that stabilizes the ankle.",
+    "example": "He fractured the fibula skiing.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/fibula/",
+    "frTranslation": "fibula/péroné",
+    "esTranslation": "peroné/fíbula",
+    "arTranslation": "الشظية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "tibia (contrast)"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "gluteus maximus",
+    "meaning": "The largest buttock muscle that extends the hip for climbing and standing.",
+    "example": "Hip thrusts target the gluteus maximus.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/gluteus maximus/",
+    "frTranslation": "grand fessier",
+    "esTranslation": "glúteo mayor",
+    "arTranslation": "العضلة الألوية الكبرى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "iliotibial band",
+    "meaning": "A thick band of fascia along the outer thigh that stabilizes the knee.",
+    "example": "Runners often feel iliotibial band tightness.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/iliotibial band/",
+    "frTranslation": "bandelette ilio-tibiale",
+    "esTranslation": "banda iliotibial",
+    "arTranslation": "الشريط الحرقفي الظنبوبي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "IT band"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "plantar fascia",
+    "meaning": "A fibrous tissue on the sole that supports the arch of the foot.",
+    "example": "Plantar fascia irritation causes morning heel pain.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/plantar fascia/",
+    "frTranslation": "aponévrose plantaire",
+    "esTranslation": "fascia plantar",
+    "arTranslation": "اللّفافة الأخمصية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "hamstring tendon",
+    "meaning": "The tendon at the back of the knee attaching hamstring muscles to bones.",
+    "example": "He iced the hamstring tendon after practice.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hamstring tendon/",
+    "frTranslation": "tendon ischio-jambier",
+    "esTranslation": "tendón isquiotibial",
+    "arTranslation": "وتر أوتار المأبض",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "sciatic nerve",
+    "meaning": "The large nerve running from the lower back through the buttock into the leg.",
+    "example": "Compression of the sciatic nerve can cause shooting leg pain.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/sciatic nerve/",
+    "frTranslation": "nerf sciatique",
+    "esTranslation": "nervio ciático",
+    "arTranslation": "العصب الوركي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "popliteal fossa",
+    "meaning": "The shallow depression at the back of the knee containing vessels and nerves.",
+    "example": "A cyst can form in the popliteal fossa.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/popliteal fossa/",
+    "frTranslation": "creux poplité",
+    "esTranslation": "hueco poplíteo",
+    "arTranslation": "الحفرة المأبضية",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "knee pit"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "hamstring (biceps femoris)",
+    "meaning": "One of the hamstring muscles that flexes the knee and extends the hip.",
+    "example": "The biceps femoris was tender after sprints.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hamstring (biceps femoris)/",
+    "frTranslation": "ischio (biceps fémoral)",
+    "esTranslation": "bíceps femoral",
+    "arTranslation": "العضلة ذات الرأسين الفخذية",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "adductor muscles",
+    "meaning": "Inner-thigh muscles that pull the legs toward the midline.",
+    "example": "Soccer players often strain the adductors.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/adductor muscles/",
+    "frTranslation": "muscles adducteurs",
+    "esTranslation": "músculos aductores",
+    "arTranslation": "عضلات المُقرّبة",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "soleus",
+    "meaning": "A deep calf muscle that helps you stand and walk for long periods.",
+    "example": "The soleus works during slow, steady walking.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/soleus/",
+    "frTranslation": "soléaire",
+    "esTranslation": "sóleo",
+    "arTranslation": "نعلية الساق",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "gastrocnemius",
+    "meaning": "The superficial calf muscle that helps you push off the ground.",
+    "example": "Calf raises target the gastrocnemius.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/gastrocnemius/",
+    "frTranslation": "gastrocnémiens",
+    "esTranslation": "gemelos (músculo)",
+    "arTranslation": "العضلة الساقية التوأمية",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "chest",
+    "meaning": "The front of the body between the neck and the abdomen housing heart and lungs.",
+    "example": "He felt a tightness in his chest during the run.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/chest/",
+    "frTranslation": "poitrine/thorax",
+    "esTranslation": "pecho/tórax",
+    "arTranslation": "صدر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "rib cage",
+    "meaning": "The bony framework of ribs that protects the thoracic organs.",
+    "example": "A blow bruised his rib cage.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/rib cage/",
+    "frTranslation": "cage thoracique",
+    "esTranslation": "caja torácica",
+    "arTranslation": "القفص الصدري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "sternum",
+    "meaning": "The flat bone at the center of the chest where ribs attach in front.",
+    "example": "The seatbelt pressed against the sternum.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/sternum/",
+    "frTranslation": "sternum",
+    "esTranslation": "esternón",
+    "arTranslation": "عظم القص",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "breastbone"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "back",
+    "meaning": "The rear surface of the torso from neck to hips.",
+    "example": "His back felt stiff after lifting boxes.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/back/",
+    "frTranslation": "dos",
+    "esTranslation": "espalda",
+    "arTranslation": "ظهر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "spine",
+    "meaning": "A column of vertebrae that supports the body and protects the spinal cord.",
+    "example": "Good posture keeps the spine aligned.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/spine/",
+    "frTranslation": "colonne vertébrale",
+    "esTranslation": "columna vertebral",
+    "arTranslation": "عمود فقري",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "backbone"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "vertebra",
+    "meaning": "One of the small bones stacked to form the spine.",
+    "example": "A slipped disc occurs between vertebrae.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/vertebra/",
+    "frTranslation": "vertèbre",
+    "esTranslation": "vértebra",
+    "arTranslation": "فقرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "shoulder joint",
+    "meaning": "A ball-and-socket joint where the humerus meets the shoulder blade.",
+    "example": "The shoulder joint allows overhead reach.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/shoulder joint/",
+    "frTranslation": "articulation de l’épaule",
+    "esTranslation": "articulación del hombro",
+    "arTranslation": "مفصل الكتف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "diaphragm",
+    "meaning": "A dome-shaped muscle under the lungs that drives breathing.",
+    "example": "Deep breaths engage the diaphragm.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/diaphragm/",
+    "frTranslation": "diaphragme",
+    "esTranslation": "diafragma",
+    "arTranslation": "الحجاب الحاجز",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "abdomen",
+    "meaning": "The area between the chest and pelvis containing digestive organs.",
+    "example": "He felt cramps in the lower abdomen.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/abdomen/",
+    "frTranslation": "abdomen/ventre",
+    "esTranslation": "abdomen/vientre",
+    "arTranslation": "بطن",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "belly (informal)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "waist",
+    "meaning": "The narrowest part of the torso above the hips.",
+    "example": "The belt sits comfortably at the waist.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/waist/",
+    "frTranslation": "taille",
+    "esTranslation": "cintura",
+    "arTranslation": "خصر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "navel",
+    "meaning": "The small scar on the abdomen where the umbilical cord was attached.",
+    "example": "Her navel is pierced with a tiny ring.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/navel/",
+    "frTranslation": "nombril",
+    "esTranslation": "ombligo",
+    "arTranslation": "سُرّة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "belly button"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "breast (torso)",
+    "meaning": "The front part of the chest that in females contains mammary glands.",
+    "example": "The doctor performed a breast exam.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/breast (torso)/",
+    "frTranslation": "sein/poitrine",
+    "esTranslation": "pecho/seno",
+    "arTranslation": "ثدي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  }
+]

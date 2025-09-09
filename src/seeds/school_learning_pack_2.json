@@ -1,0 +1,1380 @@
+[
+  {
+    "text": "ruler",
+    "meaning": "A straight measuring tool with marked units.",
+    "example": "Draw a line with the ruler.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/ruler/",
+    "frTranslation": "règle",
+    "esTranslation": "regla",
+    "arTranslation": "مسطرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "protractor",
+    "meaning": "A semicircular tool for measuring angles.",
+    "example": "Use a protractor to measure 60°.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/protractor/",
+    "frTranslation": "rapporteur",
+    "esTranslation": "transportador",
+    "arTranslation": "منقلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "calculator",
+    "meaning": "A device used for arithmetic and more advanced math.",
+    "example": "Graphing calculators are allowed on the exam.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/calculator/",
+    "frTranslation": "calculatrice",
+    "esTranslation": "calculadora",
+    "arTranslation": "آلة حاسبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "binder",
+    "meaning": "A hard cover with rings for organizing loose papers.",
+    "example": "Keep notes organized in a binder.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/binder/",
+    "frTranslation": "classeur",
+    "esTranslation": "carpeta (de anillas)",
+    "arTranslation": "مجلّد حلقات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "folder",
+    "meaning": "A thin cover used to hold papers together.",
+    "example": "Turn in your work inside a folder.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/folder/",
+    "frTranslation": "chemise (dossier)",
+    "esTranslation": "carpeta (archivo)",
+    "arTranslation": "حافظة أوراق/ملف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "backpack",
+    "meaning": "A bag carried on the back for books and supplies.",
+    "example": "Her backpack is heavy with textbooks.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/backpack/",
+    "frTranslation": "sac à dos",
+    "esTranslation": "mochila",
+    "arTranslation": "حقيبة ظهر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "quiz",
+    "meaning": "A short test covering a small amount of material.",
+    "example": "A surprise quiz checked reading.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/quiz/",
+    "frTranslation": "interro (quiz)",
+    "esTranslation": "prueba corta/quiz",
+    "arTranslation": "اختبار قصير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "test",
+    "meaning": "An evaluation to measure knowledge or skills.",
+    "example": "The test covers chapters 3–5.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/test/",
+    "frTranslation": "contrôle/test",
+    "esTranslation": "examen/prueba",
+    "arTranslation": "اختبار",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "exam",
+    "meaning": "A formal, often longer assessment at the end of a unit or term.",
+    "example": "Final exams start next week.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/exam/",
+    "frTranslation": "examen",
+    "esTranslation": "examen",
+    "arTranslation": "امتحان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "midterm",
+    "meaning": "An exam given halfway through a course.",
+    "example": "The midterm counts for 25%.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/midterm/",
+    "frTranslation": "partiel (mi‑semestre)",
+    "esTranslation": "examen parcial",
+    "arTranslation": "اختبار منتصف الفصل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "final (exam)",
+    "meaning": "The last major exam of a course.",
+    "example": "Our final is cumulative.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/final (exam)/",
+    "frTranslation": "examen final",
+    "esTranslation": "examen final",
+    "arTranslation": "الاختبار النهائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "rubric",
+    "meaning": "A scoring guide that lists criteria and levels of performance.",
+    "example": "The rubric explains how essays are graded.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/rubric/",
+    "frTranslation": "grille d’évaluation",
+    "esTranslation": "rúbrica",
+    "arTranslation": "سلم تصحيح/معايير تقييم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "grade",
+    "meaning": "A score that shows how well you performed on work or a course.",
+    "example": "Her grade improved after revision.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/grade/",
+    "frTranslation": "note",
+    "esTranslation": "nota/calificación",
+    "arTranslation": "درجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "mark (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "GPA",
+    "meaning": "Grade point average calculated across courses.",
+    "example": "A 3.7 GPA qualifies for honors.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/GPA/",
+    "frTranslation": "moyenne générale (GPA)",
+    "esTranslation": "promedio (GPA)",
+    "arTranslation": "المعدل التراكمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "pass/fail",
+    "meaning": "A grading system with two outcomes instead of letter grades.",
+    "example": "The lab is graded pass/fail.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/pass/fail/",
+    "frTranslation": "réussi/échoué (système)",
+    "esTranslation": "aprobado/suspenso (sistema)",
+    "arTranslation": "نجاح/رسوب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "curve (grade on a)",
+    "meaning": "To adjust scores so the distribution fits a target pattern.",
+    "example": "The professor graded the test on a curve.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/curve (grade on a)/",
+    "frTranslation": "noter sur la courbe",
+    "esTranslation": "calificar con curva",
+    "arTranslation": "منحنى توزيع الدرجات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "extra credit",
+    "meaning": "Optional work that can raise a student’s grade.",
+    "example": "We can earn extra credit for attending the talk.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/extra credit/",
+    "frTranslation": "points bonus",
+    "esTranslation": "crédito extra",
+    "arTranslation": "نقاط إضافية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "retake",
+    "meaning": "An opportunity to take a test again.",
+    "example": "A retake is offered next week.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/retake/",
+    "frTranslation": "rattrapage (repasser)",
+    "esTranslation": "recuperación (repetición)",
+    "arTranslation": "إعادة الاختبار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "answer key",
+    "meaning": "An official list of correct answers.",
+    "example": "The answer key will be posted online.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/answer key/",
+    "frTranslation": "corrigé",
+    "esTranslation": "clave de respuestas",
+    "arTranslation": "نموذج الإجابة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "assessment"
+    ]
+  },
+  {
+    "text": "cheating",
+    "meaning": "Dishonest behavior to gain an unfair advantage on schoolwork.",
+    "example": "Cheating violates the honor code.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/cheating/",
+    "frTranslation": "triche",
+    "esTranslation": "trampa",
+    "arTranslation": "غشّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "academic integrity"
+    ],
+    "lexicalField": [
+      "School & Learning",
+      "ethics"
+    ]
+  },
+  {
+    "text": "plagiarism",
+    "meaning": "Using someone else’s words or ideas without proper credit.",
+    "example": "Citation helps you avoid plagiarism.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/plagiarism/",
+    "frTranslation": "plagiat",
+    "esTranslation": "plagio",
+    "arTranslation": "سرقة أدبية/انتحال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "ethics"
+    ]
+  },
+  {
+    "text": "honor code",
+    "meaning": "A set of rules about academic integrity students agree to follow.",
+    "example": "We sign the honor code each semester.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/honor code/",
+    "frTranslation": "code d’honneur",
+    "esTranslation": "código de honor",
+    "arTranslation": "ميثاق شرف أكاديمي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "ethics"
+    ]
+  },
+  {
+    "text": "curriculum",
+    "meaning": "The overall set of courses and learning goals for a program.",
+    "example": "The curriculum emphasizes problem‑solving.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/curriculum/",
+    "frTranslation": "programme d’études",
+    "esTranslation": "currículo/plan de estudios",
+    "arTranslation": "منهاج/منهج دراسي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "course",
+    "meaning": "A unit of study on one subject, taught over a term.",
+    "example": "This course meets twice a week.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/course/",
+    "frTranslation": "cours",
+    "esTranslation": "curso/asignatura",
+    "arTranslation": "مقرر/مساق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "credit (academic)",
+    "meaning": "A measure of workload that counts toward completing a degree.",
+    "example": "The lab carries one extra credit.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/credit (academic)/",
+    "frTranslation": "crédit (ECTS, etc.)",
+    "esTranslation": "crédito académico",
+    "arTranslation": "رصيد/وحدة دراسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "prerequisite",
+    "meaning": "A requirement that must be met before taking a course.",
+    "example": "Calculus is a prerequisite for physics.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/prerequisite/",
+    "frTranslation": "prérequis",
+    "esTranslation": "prerrequisito",
+    "arTranslation": "متطلب سابق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "corequisite",
+    "meaning": "A course that must be taken at the same time as another.",
+    "example": "Chemistry lab is a corequisite for lecture.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/corequisite/",
+    "frTranslation": "corequis",
+    "esTranslation": "correquisito",
+    "arTranslation": "متطلب مُصاحب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "elective",
+    "meaning": "A course you choose that is not required in the core.",
+    "example": "Photography is a popular elective.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/elective/",
+    "frTranslation": "option",
+    "esTranslation": "optativa/electiva",
+    "arTranslation": "مادة اختيارية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "major",
+    "meaning": "The main field of study for a degree.",
+    "example": "She declared a biology major.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/major/",
+    "frTranslation": "majeure (spécialité)",
+    "esTranslation": "especialidad (major)",
+    "arTranslation": "تخصّص رئيسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "minor",
+    "meaning": "A secondary field of study.",
+    "example": "He added a music minor.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/minor/",
+    "frTranslation": "mineure (secondaire)",
+    "esTranslation": "menor/secundaria (minor)",
+    "arTranslation": "تخصّص فرعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "program"
+    ]
+  },
+  {
+    "text": "semester",
+    "meaning": "A half‑year academic term, typically 15–16 weeks.",
+    "example": "The fall semester begins in September.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/semester/",
+    "frTranslation": "semestre",
+    "esTranslation": "semestre",
+    "arTranslation": "فصل دراسي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "trimester",
+    "meaning": "An academic term that divides the year into three parts.",
+    "example": "Report cards go out each trimester.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/trimester/",
+    "frTranslation": "trimestre",
+    "esTranslation": "trimestre",
+    "arTranslation": "ثلاثي/ثلث السنة الدراسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "quarter system",
+    "meaning": "A calendar dividing the academic year into four terms.",
+    "example": "On the quarter system, courses move quickly.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/quarter system/",
+    "frTranslation": "système en trimestres (quarters)",
+    "esTranslation": "sistema trimestral (quarters)",
+    "arTranslation": "نظام الأرباع الدراسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "registration",
+    "meaning": "The process of enrolling in courses for a term.",
+    "example": "Registration opens next Monday.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/registration/",
+    "frTranslation": "inscription (administrative)",
+    "esTranslation": "matrícula/inscripción",
+    "arTranslation": "تسجيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "waitlist",
+    "meaning": "A list of students hoping to get into a full course.",
+    "example": "I joined the waitlist for chemistry.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/waitlist/",
+    "frTranslation": "liste d’attente",
+    "esTranslation": "lista de espera",
+    "arTranslation": "قائمة انتظار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "add/drop period",
+    "meaning": "A window at the start of term when you can change courses without penalty.",
+    "example": "Use the add/drop period to adjust your schedule.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/add/drop period/",
+    "frTranslation": "période d’ajout/abandon",
+    "esTranslation": "periodo de alta/baja",
+    "arTranslation": "فترة الإضافة/الحذف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "withdrawal",
+    "meaning": "Leaving a course after the add/drop period with a ‘W’ on the record.",
+    "example": "Withdrawal may affect your financial aid.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/withdrawal/",
+    "frTranslation": "retrait (d’un cours)",
+    "esTranslation": "retiro (de una clase)",
+    "arTranslation": "انسحاب من المقرر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "attendance",
+    "meaning": "Being present in class; many courses have attendance policies.",
+    "example": "Attendance counts towards the participation grade.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/attendance/",
+    "frTranslation": "assiduité/présence",
+    "esTranslation": "asistencia",
+    "arTranslation": "الحضور",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "absence"
+    ],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "tardy",
+    "meaning": "Arriving late to class.",
+    "example": "Three tardies equal one absence at this school.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/tardy/",
+    "frTranslation": "retard (élève)",
+    "esTranslation": "tardanza",
+    "arTranslation": "تأخر عن الحصة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "detention",
+    "meaning": "A punishment requiring a student to stay after school.",
+    "example": "He received detention for skipping class.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/detention/",
+    "frTranslation": "retenue",
+    "esTranslation": "detención escolar",
+    "arTranslation": "حجز/عقوبة مدرسية بعد الدوام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "discipline"
+    ]
+  },
+  {
+    "text": "assembly",
+    "meaning": "A large meeting of students and staff for announcements or events.",
+    "example": "There’s a safety assembly on Friday.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/assembly/",
+    "frTranslation": "assemblée (scolaire)",
+    "esTranslation": "asamblea escolar",
+    "arTranslation": "تجمّع مدرسي/طابور",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "field trip",
+    "meaning": "An educational trip outside the school.",
+    "example": "The class planned a field trip to the museum.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/field trip/",
+    "frTranslation": "sortie scolaire",
+    "esTranslation": "excursión escolar",
+    "arTranslation": "رحلة مدرسية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "recess",
+    "meaning": "A short break for play and rest during the school day.",
+    "example": "Recess lasts fifteen minutes.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/recess/",
+    "frTranslation": "récréation",
+    "esTranslation": "recreo",
+    "arTranslation": "استراحة/فسحة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "homeroom",
+    "meaning": "A brief daily period for announcements and attendance.",
+    "example": "Report to homeroom before first period.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/homeroom/",
+    "frTranslation": "heure de vie de classe",
+    "esTranslation": "tutoría (inicio del día)",
+    "arTranslation": "غرفة/درس التجمع الصباحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "schedule"
+    ]
+  },
+  {
+    "text": "lecture",
+    "meaning": "A teacher talks while students take notes and ask questions.",
+    "example": "Today’s lecture covers photosynthesis.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/lecture/",
+    "frTranslation": "cours magistral",
+    "esTranslation": "clase magistral",
+    "arTranslation": "محاضرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "seminar",
+    "meaning": "A small class focused on discussion and student presentations.",
+    "example": "The seminar requires weekly reading responses.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/seminar/",
+    "frTranslation": "séminaire",
+    "esTranslation": "seminario",
+    "arTranslation": "حلقة دراسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "workshop",
+    "meaning": "A short, practical session to learn or practice a skill.",
+    "example": "We built circuits in the workshop.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/workshop/",
+    "frTranslation": "atelier (pratique)",
+    "esTranslation": "taller (práctico)",
+    "arTranslation": "ورشة عمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "tutorial",
+    "meaning": "A session that guides students through problems or concepts step by step.",
+    "example": "The tutorial clarified derivatives.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/tutorial/",
+    "frTranslation": "travaux dirigés (TD)/tutoriel",
+    "esTranslation": "tutoría/ejercicio guiado",
+    "arTranslation": "درس إرشادي/عملي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "lab (practical)",
+    "meaning": "Hands‑on class time for experiments or technical tasks.",
+    "example": "Wear gloves during the lab.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/lab (practical)/",
+    "frTranslation": "TP (travaux pratiques)",
+    "esTranslation": "laboratorio (práctica)",
+    "arTranslation": "درس عملي/مختبر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "flipped classroom",
+    "meaning": "Students learn content at home and use class time for problem‑solving.",
+    "example": "The flipped classroom frees time for practice.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/flipped classroom/",
+    "frTranslation": "classe inversée",
+    "esTranslation": "aula invertida",
+    "arTranslation": "صف معكوس",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "project‑based learning",
+    "meaning": "Students learn by planning and completing real‑world projects.",
+    "example": "Project‑based learning culminates in a demo.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/project‑based learning/",
+    "frTranslation": "apprentissage par projet",
+    "esTranslation": "aprendizaje basado en proyectos",
+    "arTranslation": "تعلم قائم على المشروع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "active learning",
+    "meaning": "Teaching that engages students in activities and discussion.",
+    "example": "Active learning boosts retention.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/active learning/",
+    "frTranslation": "apprentissage actif",
+    "esTranslation": "aprendizaje activo",
+    "arTranslation": "تعلم نشط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "formative assessment",
+    "meaning": "Low‑stakes checks for understanding that guide teaching.",
+    "example": "Quizzes provide formative assessment.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/formative assessment/",
+    "frTranslation": "évaluation formative",
+    "esTranslation": "evaluación formativa",
+    "arTranslation": "تقييم تكويني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "summative assessment",
+    "meaning": "High‑stakes evaluation at the end of a unit or course.",
+    "example": "The final project is summative assessment.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/summative assessment/",
+    "frTranslation": "évaluation sommative",
+    "esTranslation": "evaluación sumativa",
+    "arTranslation": "تقييم ختامي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "peer review",
+    "meaning": "Students evaluate each other’s work to give feedback.",
+    "example": "Peer review improved my draft.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/peer review/",
+    "frTranslation": "relecture par les pairs",
+    "esTranslation": "revisión por pares",
+    "arTranslation": "مراجعة الأقران",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "scaffolding",
+    "meaning": "Support given to help students learn new tasks, gradually removed as skill grows.",
+    "example": "Sentence starters offered scaffolding for essays.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/scaffolding/",
+    "frTranslation": "étayage pédagogique",
+    "esTranslation": "andamiaje pedagógico",
+    "arTranslation": "سقالة تعليمية/دعم تدريجي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "differentiation",
+    "meaning": "Adapting instruction to students’ varying needs and levels.",
+    "example": "Differentiation allowed multiple ways to show learning.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/differentiation/",
+    "frTranslation": "différenciation pédagogique",
+    "esTranslation": "diferenciación didáctica",
+    "arTranslation": "تفريد التعليم/تفاضل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "learning objective",
+    "meaning": "A clear statement of what students should know or do after a lesson.",
+    "example": "The learning objective was to compare texts.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/learning objective/",
+    "frTranslation": "objectif d’apprentissage",
+    "esTranslation": "objetivo de aprendizaje",
+    "arTranslation": "هدف تعلم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "learning outcome",
+    "meaning": "A measurable result showing what students have learned.",
+    "example": "Outcomes guide assessment design.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/learning outcome/",
+    "frTranslation": "résultat d’apprentissage",
+    "esTranslation": "resultado de aprendizaje",
+    "arTranslation": "مخرج تعلم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "learning style (debated)",
+    "meaning": "A proposed preference for certain ways of learning; evidence for strict types is limited.",
+    "example": "We varied activities rather than labeling learning styles.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/learning style (debated)/",
+    "frTranslation": "style d’apprentissage (controversé)",
+    "esTranslation": "estilo de aprendizaje (debatido)",
+    "arTranslation": "نمط تعلم (محل جدل)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "blended learning",
+    "meaning": "Combining in‑person and online instruction.",
+    "example": "Blended learning alternates lab and online work.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/blended learning/",
+    "frTranslation": "apprentissage hybride",
+    "esTranslation": "aprendizaje mixto",
+    "arTranslation": "تعلم مدمج",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "method"
+    ]
+  },
+  {
+    "text": "learning management system (LMS)",
+    "meaning": "Software that hosts course materials, assignments, and grades.",
+    "example": "Grades are posted to the LMS weekly.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/learning management system (LMS)/",
+    "frTranslation": "plateforme pédagogique (LMS)",
+    "esTranslation": "plataforma educativa (LMS)",
+    "arTranslation": "نظام إدارة التعلم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "tech"
+    ]
+  },
+  {
+    "text": "MOOC",
+    "meaning": "A massive open online course accessible to large numbers of learners.",
+    "example": "She completed a MOOC in data science.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/MOOC/",
+    "frTranslation": "MOOC (cours en ligne massif)",
+    "esTranslation": "MOOC (curso masivo)",
+    "arTranslation": "دورة جماعية مفتوحة على الإنترنت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "tech"
+    ]
+  },
+  {
+    "text": "study",
+    "meaning": "To learn material by reading, practicing, and reviewing.",
+    "example": "He studied for two hours tonight.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/study/",
+    "frTranslation": "étudier",
+    "esTranslation": "estudiar",
+    "arTranslation": "يذاكر/يدرس",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "revise (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "review",
+    "meaning": "To go over material again to strengthen memory.",
+    "example": "Let’s review key terms before the quiz.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/review/",
+    "frTranslation": "réviser",
+    "esTranslation": "repasar",
+    "arTranslation": "يراجع",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "revise"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "memorize",
+    "meaning": "To learn something so well that you can recall it exactly.",
+    "example": "Actors memorize lines for the play.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/memorize/",
+    "frTranslation": "mémoriser",
+    "esTranslation": "memorizar",
+    "arTranslation": "يحفظ عن ظهر قلب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "learn by heart"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "brainstorm",
+    "meaning": "To generate many ideas quickly without judging them yet.",
+    "example": "We brainstormed topics for the essay.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/brainstorm/",
+    "frTranslation": "faire un remue‑méninges",
+    "esTranslation": "lluvia de ideas",
+    "arTranslation": "عصف ذهني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "outline",
+    "meaning": "To plan the main points and structure before writing.",
+    "example": "Outline your argument before drafting.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/outline/",
+    "frTranslation": "faire un plan",
+    "esTranslation": "hacer un esquema",
+    "arTranslation": "يضع مخططًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "draft",
+    "meaning": "To write the first version of a text.",
+    "example": "I drafted the introduction last night.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/draft/",
+    "frTranslation": "rédiger un brouillon",
+    "esTranslation": "borrador (redactar)",
+    "arTranslation": "مسودة/يصيغ مسودة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "edit",
+    "meaning": "To improve a text by changing words, structure, and clarity.",
+    "example": "We edited the report for flow.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/edit/",
+    "frTranslation": "réviser (corriger)",
+    "esTranslation": "editar (corregir)",
+    "arTranslation": "يحرّر/يحرّر النص",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "revise"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "proofread",
+    "meaning": "To check carefully for errors in grammar, spelling, and formatting.",
+    "example": "Proofread before you submit.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/proofread/",
+    "frTranslation": "relire (corriger)",
+    "esTranslation": "corregir",
+    "arTranslation": "يدقق لغويًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "annotate",
+    "meaning": "To add notes or comments to a text for clarity or analysis.",
+    "example": "Annotate the article with questions.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/annotate/",
+    "frTranslation": "annoter",
+    "esTranslation": "anotar",
+    "arTranslation": "يعلّق/يُشير على الهامش",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "summarize",
+    "meaning": "To state the main ideas briefly.",
+    "example": "Summarize the chapter in five sentences.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/summarize/",
+    "frTranslation": "résumer",
+    "esTranslation": "resumir",
+    "arTranslation": "يُلخّص",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "condense"
+    ],
+    "antonyms": [
+      "expand"
+    ],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "paraphrase",
+    "meaning": "To restate information in your own words while keeping the meaning.",
+    "example": "Paraphrase sources to avoid plagiarism.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/paraphrase/",
+    "frTranslation": "paraphraser",
+    "esTranslation": "parafrasear",
+    "arTranslation": "يعبّر بصياغة أخرى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "cite",
+    "meaning": "To give credit to the source of words or ideas.",
+    "example": "Cite the author and year in APA.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/cite/",
+    "frTranslation": "citer",
+    "esTranslation": "citar",
+    "arTranslation": "يوثّق/يستشهد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "compute",
+    "meaning": "To perform a calculation to find an answer.",
+    "example": "Compute the slope of the line.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/compute/",
+    "frTranslation": "calculer",
+    "esTranslation": "calcular",
+    "arTranslation": "يَحسب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "hypothesize",
+    "meaning": "To propose a testable explanation for observations.",
+    "example": "We hypothesized that light increases growth.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/hypothesize/",
+    "frTranslation": "émettre une hypothèse",
+    "esTranslation": "formular una hipótesis",
+    "arTranslation": "يضع فرضية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "analyze",
+    "meaning": "To examine something in detail to understand it better.",
+    "example": "Analyze the character’s motivation.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/analyze/",
+    "frTranslation": "analyser",
+    "esTranslation": "analizar",
+    "arTranslation": "يحلّل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "synthesize",
+    "meaning": "To combine parts from different sources into a new whole.",
+    "example": "Synthesize findings across studies.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/synthesize/",
+    "frTranslation": "synthétiser",
+    "esTranslation": "sintetizar",
+    "arTranslation": "يُركّب/يولّف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  },
+  {
+    "text": "evaluate",
+    "meaning": "To judge the value or quality of something using criteria.",
+    "example": "Evaluate the strength of the evidence.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/evaluate/",
+    "frTranslation": "évaluer",
+    "esTranslation": "evaluar",
+    "arTranslation": "يُقيّم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "skill"
+    ]
+  }
+]

@@ -1,0 +1,1040 @@
+[
+  {
+    "text": "rule of law",
+    "meaning": "The principle that everyone, including officials, is subject to publicly known laws applied equally.",
+    "example": "Independent courts are essential to the rule of law.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/rule of law/",
+    "frTranslation": "état de droit",
+    "esTranslation": "estado de derecho",
+    "arTranslation": "سيادة القانون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "rule by decree"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "principles"
+    ]
+  },
+  {
+    "text": "separation of powers",
+    "meaning": "Dividing government authority among branches so no single branch becomes too powerful.",
+    "example": "Separation of powers allows the judiciary to check the executive.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/separation of powers/",
+    "frTranslation": "séparation des pouvoirs",
+    "esTranslation": "separación de poderes",
+    "arTranslation": "فصل السلطات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "principles"
+    ]
+  },
+  {
+    "text": "checks and balances",
+    "meaning": "Mechanisms that let branches of government limit each other to prevent abuse.",
+    "example": "Veto power is part of checks and balances.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/checks and balances/",
+    "frTranslation": "freins et contrepoids",
+    "esTranslation": "pesos y contrapesos",
+    "arTranslation": "توازن الضوابط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "principles"
+    ]
+  },
+  {
+    "text": "sovereignty",
+    "meaning": "Supreme authority over a territory and independence from external control.",
+    "example": "The treaty recognized the country's full sovereignty.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/sovereignty/",
+    "frTranslation": "souveraineté",
+    "esTranslation": "soberanía",
+    "arTranslation": "سيادة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "principles"
+    ]
+  },
+  {
+    "text": "federalism",
+    "meaning": "A system where power is shared between a national government and regional governments.",
+    "example": "Federalism lets states tailor education policy.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/federalism/",
+    "frTranslation": "fédéralisme",
+    "esTranslation": "federalismo",
+    "arTranslation": "فيدرالية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "unitary state"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "unitary state",
+    "meaning": "A system where most governing power is held by the central authority.",
+    "example": "In a unitary state, local powers are delegated by the center.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/unitary state/",
+    "frTranslation": "État unitaire",
+    "esTranslation": "estado unitario",
+    "arTranslation": "دولة موحدة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "federalism"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "democracy",
+    "meaning": "Government in which power ultimately comes from the people through free and fair elections.",
+    "example": "A strong civil society supports democracy.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/democracy/",
+    "frTranslation": "démocratie",
+    "esTranslation": "democracia",
+    "arTranslation": "ديمقراطية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "popular government"
+    ],
+    "antonyms": [
+      "autocracy"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "republic",
+    "meaning": "A state where the head of state is not a monarch and officials are elected or appointed.",
+    "example": "The republic elects a president every five years.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/republic/",
+    "frTranslation": "république",
+    "esTranslation": "república",
+    "arTranslation": "جمهورية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "constitutional monarchy",
+    "meaning": "A monarchy limited by a constitution and usually a parliament.",
+    "example": "In a constitutional monarchy, the monarch has ceremonial duties.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/constitutional monarchy/",
+    "frTranslation": "monarchie constitutionnelle",
+    "esTranslation": "monarquía constitucional",
+    "arTranslation": "ملكية دستورية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "authoritarianism",
+    "meaning": "A political system with concentrated power and limited political freedoms.",
+    "example": "Independent media face pressure under authoritarianism.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/authoritarianism/",
+    "frTranslation": "autoritarisme",
+    "esTranslation": "autoritarismo",
+    "arTranslation": "استبداد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "democracy"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "totalitarianism",
+    "meaning": "An extreme form of authoritarian rule that attempts to control all aspects of life.",
+    "example": "The novel depicts the fear of totalitarianism.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/totalitarianism/",
+    "frTranslation": "totalitarisme",
+    "esTranslation": "totalitarismo",
+    "arTranslation": "شمولية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "theocracy",
+    "meaning": "A system where religious leaders or doctrine guide government.",
+    "example": "In a theocracy, clerics hold key offices.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/theocracy/",
+    "frTranslation": "théocratie",
+    "esTranslation": "teocracia",
+    "arTranslation": "ثيوقراطية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "systems"
+    ]
+  },
+  {
+    "text": "liberalism (political)",
+    "meaning": "An ideology emphasizing individual rights, rule of law, and limited government power.",
+    "example": "Freedom of expression is central to political liberalism.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/liberalism (political)/",
+    "frTranslation": "libéralisme (politique)",
+    "esTranslation": "liberalismo (político)",
+    "arTranslation": "ليبرالية سياسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "authoritarianism"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "ideologies"
+    ]
+  },
+  {
+    "text": "conservatism",
+    "meaning": "An ideology favoring tradition, gradual change, and preservation of institutions.",
+    "example": "Fiscal conservatism argues for restrained public spending.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/conservatism/",
+    "frTranslation": "conservatisme",
+    "esTranslation": "conservadurismo",
+    "arTranslation": "محافظة (فكرية)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "ideologies"
+    ]
+  },
+  {
+    "text": "socialism",
+    "meaning": "An ideology that advocates collective or public control over major economic resources.",
+    "example": "Democratic socialism seeks both elections and social ownership.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/socialism/",
+    "frTranslation": "socialisme",
+    "esTranslation": "socialismo",
+    "arTranslation": "اشتراكية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "ideologies"
+    ]
+  },
+  {
+    "text": "populism",
+    "meaning": "A political approach framing politics as a struggle between 'the people' and 'the elite'.",
+    "example": "Populism can arise on the left or right.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/populism/",
+    "frTranslation": "populisme",
+    "esTranslation": "populismo",
+    "arTranslation": "شعبوية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "ideologies"
+    ]
+  },
+  {
+    "text": "nationalism",
+    "meaning": "A belief that a shared national identity should guide political life and state interests.",
+    "example": "Economic nationalism supports domestic industry.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/nationalism/",
+    "frTranslation": "nationalisme",
+    "esTranslation": "nacionalismo",
+    "arTranslation": "قومية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "ideologies"
+    ]
+  },
+  {
+    "text": "pluralism",
+    "meaning": "The recognition and accommodation of diverse groups and viewpoints in politics.",
+    "example": "Media pluralism helps prevent monopolies on information.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/pluralism/",
+    "frTranslation": "pluralisme",
+    "esTranslation": "pluralismo",
+    "arTranslation": "تعددية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "principles"
+    ]
+  },
+  {
+    "text": "civil society",
+    "meaning": "Organizations and associations independent of the state that voice public interests.",
+    "example": "NGOs are part of a vibrant civil society.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/civil society/",
+    "frTranslation": "société civile",
+    "esTranslation": "sociedad civil",
+    "arTranslation": "المجتمع المدني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "principles"
+    ]
+  },
+  {
+    "text": "constitution",
+    "meaning": "The foundational legal document that sets government structure and limits powers.",
+    "example": "The constitution guarantees due process.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/constitution/",
+    "frTranslation": "constitution",
+    "esTranslation": "constitución",
+    "arTranslation": "دستور",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "executive branch",
+    "meaning": "The part of government that implements and enforces laws.",
+    "example": "The executive branch oversees national agencies.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/executive branch/",
+    "frTranslation": "pouvoir exécutif",
+    "esTranslation": "poder ejecutivo",
+    "arTranslation": "السلطة التنفيذية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "legislative branch",
+    "meaning": "The part of government that writes and passes laws.",
+    "example": "The legislative branch debated the budget bill.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/legislative branch/",
+    "frTranslation": "pouvoir législatif",
+    "esTranslation": "poder legislativo",
+    "arTranslation": "السلطة التشريعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "judicial branch",
+    "meaning": "Courts that interpret laws and resolve disputes.",
+    "example": "The judicial branch reviews contested regulations.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/judicial branch/",
+    "frTranslation": "pouvoir judiciaire",
+    "esTranslation": "poder judicial",
+    "arTranslation": "السلطة القضائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "parliament",
+    "meaning": "An elected law‑making body, often with two chambers.",
+    "example": "Parliament introduced a transparency act.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/parliament/",
+    "frTranslation": "parlement",
+    "esTranslation": "parlamento",
+    "arTranslation": "برلمان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "congress",
+    "meaning": "A national legislature, often bicameral.",
+    "example": "Congress approved the stimulus package.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/congress/",
+    "frTranslation": "congrès",
+    "esTranslation": "congreso",
+    "arTranslation": "كونغرس/مجلس تشريعي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "senate",
+    "meaning": "An upper chamber in a bicameral legislature.",
+    "example": "The senate amended the draft law.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/senate/",
+    "frTranslation": "sénat",
+    "esTranslation": "senado",
+    "arTranslation": "مجلس الشيوخ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "lower house",
+    "meaning": "The larger, often more directly representative chamber of a legislature.",
+    "example": "The lower house introduced the tax bill.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/lower house/",
+    "frTranslation": "chambre basse",
+    "esTranslation": "cámara baja",
+    "arTranslation": "المجلس الأدنى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "cabinet",
+    "meaning": "Senior ministers who head departments and advise the head of government.",
+    "example": "The cabinet agreed on the climate plan.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/cabinet/",
+    "frTranslation": "cabinet (gouvernement)",
+    "esTranslation": "gabinete (gobierno)",
+    "arTranslation": "مجلس الوزراء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "prime minister",
+    "meaning": "The head of government in many parliamentary systems.",
+    "example": "The prime minister announced a cabinet reshuffle.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/prime minister/",
+    "frTranslation": "premier(ère) ministre",
+    "esTranslation": "primer(a) ministro(a)",
+    "arTranslation": "رئيس الوزراء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "offices"
+    ]
+  },
+  {
+    "text": "president",
+    "meaning": "Often the head of state, sometimes also head of government, depending on the system.",
+    "example": "The president signed the bill into law.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/president/",
+    "frTranslation": "président(e)",
+    "esTranslation": "presidente",
+    "arTranslation": "رئيس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "offices"
+    ]
+  },
+  {
+    "text": "minister",
+    "meaning": "A member of the cabinet who leads a government department.",
+    "example": "The finance minister presented the budget.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/minister/",
+    "frTranslation": "ministre",
+    "esTranslation": "ministro(a)",
+    "arTranslation": "وزير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "offices"
+    ]
+  },
+  {
+    "text": "governor",
+    "meaning": "The elected head of a subnational unit such as a state or province.",
+    "example": "The governor declared a state of emergency.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/governor/",
+    "frTranslation": "gouverneur(e)",
+    "esTranslation": "gobernador(a)",
+    "arTranslation": "حاكم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "offices"
+    ]
+  },
+  {
+    "text": "mayor",
+    "meaning": "The elected leader of a city or town government.",
+    "example": "The mayor proposed a transit expansion.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/mayor/",
+    "frTranslation": "maire",
+    "esTranslation": "alcalde(sa)",
+    "arTranslation": "عمدة/رئيس البلدية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "offices"
+    ]
+  },
+  {
+    "text": "ombudsman",
+    "meaning": "An independent official who investigates complaints against public bodies.",
+    "example": "The ombudsman reported systemic delays in permits.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/ombudsman/",
+    "frTranslation": "médiateur(trice) public(que)",
+    "esTranslation": "defensor(a) del pueblo",
+    "arTranslation": "وسيط عام/مفوض الشكاوى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "independent agency",
+    "meaning": "A government body with autonomy from direct political control.",
+    "example": "An independent agency regulates broadcasting.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/independent agency/",
+    "frTranslation": "agence indépendante",
+    "esTranslation": "agencia independiente",
+    "arTranslation": "هيئة مستقلة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "institutions"
+    ]
+  },
+  {
+    "text": "judicial review",
+    "meaning": "The power of courts to invalidate laws or actions that violate the constitution.",
+    "example": "The court used judicial review to strike down the ban.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/judicial review/",
+    "frTranslation": "contrôle de constitutionnalité",
+    "esTranslation": "control judicial",
+    "arTranslation": "مراجعة قضائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "courts"
+    ]
+  },
+  {
+    "text": "precedent",
+    "meaning": "A prior decision that guides future cases with similar facts.",
+    "example": "The judge followed precedent from a landmark case.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/precedent/",
+    "frTranslation": "jurisprudence (précédent)",
+    "esTranslation": "precedente judicial",
+    "arTranslation": "سابقة قضائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "courts"
+    ]
+  },
+  {
+    "text": "political party",
+    "meaning": "An organization that seeks to gain political power by winning elections and shaping policy.",
+    "example": "The political party released its platform.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/political party/",
+    "frTranslation": "parti politique",
+    "esTranslation": "partido político",
+    "arTranslation": "حزب سياسي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "platform (political)",
+    "meaning": "A party’s stated positions and priorities.",
+    "example": "Healthcare reform is central to the platform.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/platform (political)/",
+    "frTranslation": "programme (politique)",
+    "esTranslation": "plataforma (política)",
+    "arTranslation": "برنامج سياسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "constituency",
+    "meaning": "A geographic area or group represented by an elected official.",
+    "example": "The MP held a forum for her constituency.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/constituency/",
+    "frTranslation": "circonscription/électorat",
+    "esTranslation": "circunscripción",
+    "arTranslation": "دائرة انتخابية/قاعدة ناخبين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "district (electoral)",
+    "meaning": "A defined area that elects a representative.",
+    "example": "A new district map was proposed.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/district (electoral)/",
+    "frTranslation": "district (électoral)",
+    "esTranslation": "distrito (electoral)",
+    "arTranslation": "منطقة انتخابية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "first-past-the-post",
+    "meaning": "An electoral system where the candidate with the most votes wins, even without a majority.",
+    "example": "First-past-the-post can produce disproportional results.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/first-past-the-post/",
+    "frTranslation": "scrutin uninominal majoritaire à un tour",
+    "esTranslation": "mayoría simple (first-past-the-post)",
+    "arTranslation": "الفوز بالأغلبية البسيطة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "proportional representation"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "proportional representation",
+    "meaning": "Seats are allocated in proportion to each party’s share of the vote.",
+    "example": "Proportional representation encourages multiparty coalitions.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/proportional representation/",
+    "frTranslation": "représentation proportionnelle",
+    "esTranslation": "representación proporcional",
+    "arTranslation": "التمثيل النسبي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "first-past-the-post"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "runoff election",
+    "meaning": "A follow-up vote between top candidates when no one wins a required threshold.",
+    "example": "The runoff election is scheduled for next month.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/runoff election/",
+    "frTranslation": "second tour",
+    "esTranslation": "segunda vuelta",
+    "arTranslation": "جولة إعادة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "primary (election)",
+    "meaning": "An intra-party election to choose a candidate for the general election.",
+    "example": "Turnout surged in the open primary.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/primary (election)/",
+    "frTranslation": "primaire (élection)",
+    "esTranslation": "primaria (elección)",
+    "arTranslation": "انتخابات تمهيدية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "caucus (political)",
+    "meaning": "A meeting of party members to select candidates or set strategy.",
+    "example": "The caucus endorsed a compromise bill.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/caucus (political)/",
+    "frTranslation": "caucus (réunion de parti)",
+    "esTranslation": "caucus (reunión)",
+    "arTranslation": "اجتماع حزبي مغلق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "suffrage",
+    "meaning": "The right to vote in political elections.",
+    "example": "Universal suffrage expanded in the 20th century.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/suffrage/",
+    "frTranslation": "suffrage (droit de vote)",
+    "esTranslation": "sufragio",
+    "arTranslation": "حق التصويت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "universal suffrage",
+    "meaning": "The right of all adult citizens to vote regardless of status.",
+    "example": "Activists campaigned for universal suffrage.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/universal suffrage/",
+    "frTranslation": "suffrage universel",
+    "esTranslation": "sufragio universal",
+    "arTranslation": "اقتراع عام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "disenfranchisement",
+    "meaning": "The removal or denial of voting rights.",
+    "example": "Disenfranchisement can result from strict ID laws.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/disenfranchisement/",
+    "frTranslation": "privation du droit de vote",
+    "esTranslation": "desfranquiciación",
+    "arTranslation": "حرمان من التصويت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "ballot",
+    "meaning": "The paper or electronic method used to cast a vote.",
+    "example": "Voters marked their choices on the ballot.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/ballot/",
+    "frTranslation": "bulletin de vote",
+    "esTranslation": "boleta (papeleta)",
+    "arTranslation": "ورقة اقتراع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "absentee ballot",
+    "meaning": "A ballot submitted by mail or drop‑off when the voter cannot be in person.",
+    "example": "She requested an absentee ballot before traveling.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/absentee ballot/",
+    "frTranslation": "vote par correspondance/absentéisme",
+    "esTranslation": "voto ausente/por correo",
+    "arTranslation": "اقتراع غيابي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "term limit",
+    "meaning": "A legal restriction on how many terms an official may serve.",
+    "example": "Term limits prevent indefinite incumbency.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/term limit/",
+    "frTranslation": "limite de mandat",
+    "esTranslation": "límite de mandato",
+    "arTranslation": "حد فترة الولاية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "campaign finance",
+    "meaning": "How political campaigns raise and spend money under legal rules.",
+    "example": "Campaign finance disclosures increased transparency.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/campaign finance/",
+    "frTranslation": "financement de campagne",
+    "esTranslation": "financiación de campañas",
+    "arTranslation": "تمويل الحملات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "gerrymandering",
+    "meaning": "Manipulating district boundaries to favor a party or group.",
+    "example": "The court struck down the map for partisan gerrymandering.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/gerrymandering/",
+    "frTranslation": "charcutage électoral",
+    "esTranslation": "gerrymandering (manipulación de distritos)",
+    "arTranslation": "إعادة رسم الدوائر بشكل منحاز",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "incumbent",
+    "meaning": "The current officeholder seeking re‑election.",
+    "example": "The incumbent faced a strong challenger.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/incumbent/",
+    "frTranslation": "titulaire sortant(e)",
+    "esTranslation": "titular (en ejercicio)",
+    "arTranslation": "شاغل المنصب الحالي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "swing voter",
+    "meaning": "A person not firmly committed who can be persuaded by campaigns.",
+    "example": "Messaging targeted swing voters in suburbs.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/swing voter/",
+    "frTranslation": "électeur(trice) flottant(e)",
+    "esTranslation": "votante indeciso(a)",
+    "arTranslation": "ناخب متأرجح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "elections"
+    ]
+  },
+  {
+    "text": "statute",
+    "meaning": "A written law enacted by a legislature.",
+    "example": "The statute sets safety standards for factories.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/statute/",
+    "frTranslation": "loi (statut)",
+    "esTranslation": "estatuto/ley",
+    "arTranslation": "قانون مكتوب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "regulation",
+    "meaning": "A rule issued by an executive agency to implement laws.",
+    "example": "The new regulation limits emissions from trucks.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/regulation/",
+    "frTranslation": "règlement",
+    "esTranslation": "reglamento",
+    "arTranslation": "لائحة/تنظيم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "ordinance",
+    "meaning": "A local law passed by a city or municipality.",
+    "example": "The city adopted an outdoor‑dining ordinance.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/ordinance/",
+    "frTranslation": "arrêté/ordonnance municipale",
+    "esTranslation": "ordenanza",
+    "arTranslation": "قرار بلدي/لائحة محلية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "bylaw",
+    "meaning": "Internal rules for an organization or municipality.",
+    "example": "Bylaws require two‑thirds to amend membership rules.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/bylaw/",
+    "frTranslation": "règlement intérieur",
+    "esTranslation": "estatuto interno (bylaw)",
+    "arTranslation": "نظام داخلي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  }
+]

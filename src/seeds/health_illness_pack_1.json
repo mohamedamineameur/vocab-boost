@@ -1,0 +1,1056 @@
+[
+  {
+    "text": "fever",
+    "meaning": "A higher-than-normal body temperature, often due to infection.",
+    "example": "Her fever climbed to 38.5°C overnight.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/fever/",
+    "frTranslation": "fièvre",
+    "esTranslation": "fiebre",
+    "arTranslation": "حمّى",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "pyrexia"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "cough",
+    "meaning": "A reflex that clears the airways of mucus or irritants.",
+    "example": "A dry cough kept him awake at night.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cough/",
+    "frTranslation": "toux",
+    "esTranslation": "tos",
+    "arTranslation": "سعال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "sore throat",
+    "meaning": "Pain or scratchiness in the throat, often worse when swallowing.",
+    "example": "Tea soothed her sore throat.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/sore throat/",
+    "frTranslation": "mal de gorge",
+    "esTranslation": "dolor de garganta",
+    "arTranslation": "التهاب/ألم الحلق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "runny nose",
+    "meaning": "Excess nasal mucus that drips or needs frequent wiping.",
+    "example": "Allergies gave him a runny nose.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/runny nose/",
+    "frTranslation": "nez qui coule",
+    "esTranslation": "goteo nasal",
+    "arTranslation": "سيلان الأنف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "nasal congestion",
+    "meaning": "A blocked feeling in the nose caused by swollen tissues and mucus.",
+    "example": "Steam helped ease the nasal congestion.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/nasal congestion/",
+    "frTranslation": "congestion nasale",
+    "esTranslation": "congestión nasal",
+    "arTranslation": "احتقان أنفي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "shortness of breath",
+    "meaning": "A sensation of not getting enough air or difficulty breathing.",
+    "example": "Climbing stairs caused shortness of breath.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/shortness of breath/",
+    "frTranslation": "essoufflement",
+    "esTranslation": "falta de aire",
+    "arTranslation": "ضيق التنفّس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "chest pain",
+    "meaning": "Discomfort in the chest that can range from sharp to pressure-like.",
+    "example": "He sought care for sudden chest pain.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/chest pain/",
+    "frTranslation": "douleur thoracique",
+    "esTranslation": "dolor de pecho",
+    "arTranslation": "ألم صدري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "headache",
+    "meaning": "Pain in the head or face area of varying intensity.",
+    "example": "Screens triggered a mild headache.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/headache/",
+    "frTranslation": "mal de tête",
+    "esTranslation": "dolor de cabeza",
+    "arTranslation": "صداع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "migraine",
+    "meaning": "A recurrent, throbbing headache often with nausea and light sensitivity.",
+    "example": "She lay in a dark room during the migraine.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/migraine/",
+    "frTranslation": "migraine",
+    "esTranslation": "migraña",
+    "arTranslation": "شقيقة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "dizziness",
+    "meaning": "A lightheaded or spinning feeling that may affect balance.",
+    "example": "He sat down when dizziness started.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/dizziness/",
+    "frTranslation": "étourdissements",
+    "esTranslation": "mareo",
+    "arTranslation": "دوخة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "fatigue",
+    "meaning": "A persistent feeling of tiredness or lack of energy.",
+    "example": "Ongoing fatigue made concentrating difficult.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/fatigue/",
+    "frTranslation": "fatigue",
+    "esTranslation": "fatiga",
+    "arTranslation": "إرهاق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "weakness",
+    "meaning": "Reduced muscle strength or general lack of power.",
+    "example": "After the flu, she felt weakness climbing stairs.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/weakness/",
+    "frTranslation": "faiblesse",
+    "esTranslation": "debilidad",
+    "arTranslation": "ضعف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "nausea",
+    "meaning": "An uneasy feeling in the stomach with an urge to vomit.",
+    "example": "The smell of paint caused nausea.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/nausea/",
+    "frTranslation": "nausée",
+    "esTranslation": "náusea",
+    "arTranslation": "غثيان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "vomiting",
+    "meaning": "Forceful emptying of stomach contents through the mouth.",
+    "example": "He stopped eating after repeated vomiting.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/vomiting/",
+    "frTranslation": "vomissements",
+    "esTranslation": "vómitos",
+    "arTranslation": "تقيؤ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "diarrhea",
+    "meaning": "Loose, watery stools occurring more often than usual.",
+    "example": "Travelers’ diarrhea improved with fluids.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/diarrhea/",
+    "frTranslation": "diarrhée",
+    "esTranslation": "diarrea",
+    "arTranslation": "إسهال",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "constipation",
+    "meaning": "Infrequent or hard-to-pass bowel movements.",
+    "example": "Fiber helped relieve constipation.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/constipation/",
+    "frTranslation": "constipation",
+    "esTranslation": "estreñimiento",
+    "arTranslation": "إمساك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "diarrhea"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "abdominal pain",
+    "meaning": "Pain felt anywhere between the chest and groin.",
+    "example": "He had cramping abdominal pain after a heavy meal.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/abdominal pain/",
+    "frTranslation": "douleur abdominale",
+    "esTranslation": "dolor abdominal",
+    "arTranslation": "ألم بطني",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "back pain",
+    "meaning": "Pain in the upper, middle, or lower back.",
+    "example": "Sitting long hours worsened her back pain.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/back pain/",
+    "frTranslation": "mal de dos",
+    "esTranslation": "dolor de espalda",
+    "arTranslation": "ألم الظهر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "joint pain",
+    "meaning": "Aches or soreness in one or more joints.",
+    "example": "Cold weather aggravated his joint pain.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/joint pain/",
+    "frTranslation": "douleur articulaire",
+    "esTranslation": "dolor articular",
+    "arTranslation": "ألم المفاصل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "swelling",
+    "meaning": "An enlargement due to fluid buildup in tissues.",
+    "example": "Ankle swelling followed the sprain.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/swelling/",
+    "frTranslation": "gonflement",
+    "esTranslation": "hinchazón",
+    "arTranslation": "تورّم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "rash",
+    "meaning": "A noticeable change in skin color or texture.",
+    "example": "A red rash spread across her arms.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/rash/",
+    "frTranslation": "éruption cutanée",
+    "esTranslation": "erupción",
+    "arTranslation": "طفح جلدي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "hives",
+    "meaning": "Raised, itchy welts often caused by an allergic reaction.",
+    "example": "He broke out in hives after peanuts.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/hives/",
+    "frTranslation": "urticaire",
+    "esTranslation": "urticaria",
+    "arTranslation": "شرى/أرتيكاريا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "itching",
+    "meaning": "An unpleasant skin sensation that makes you want to scratch.",
+    "example": "Itching eased with a cool compress.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/itching/",
+    "frTranslation": "démangeaisons",
+    "esTranslation": "picazón",
+    "arTranslation": "حكّة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "bruise",
+    "meaning": "Discoloration from bleeding under the skin after injury.",
+    "example": "A purple bruise formed on her thigh.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/bruise/",
+    "frTranslation": "ecchymose/hématome",
+    "esTranslation": "moretón",
+    "arTranslation": "كدمة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "bleeding",
+    "meaning": "Loss of blood from damaged vessels, external or internal.",
+    "example": "Apply pressure to stop the bleeding.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/bleeding/",
+    "frTranslation": "saignement",
+    "esTranslation": "sangrado",
+    "arTranslation": "نزيف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "palpitations",
+    "meaning": "A sensation of a racing, pounding, or irregular heartbeat.",
+    "example": "Caffeine triggered heart palpitations.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/palpitations/",
+    "frTranslation": "palpitations",
+    "esTranslation": "palpitaciones",
+    "arTranslation": "خفقان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "fainting",
+    "meaning": "A brief loss of consciousness due to reduced blood flow to the brain.",
+    "example": "She had a fainting episode in the heat.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/fainting/",
+    "frTranslation": "évanouissement",
+    "esTranslation": "desmayo",
+    "arTranslation": "إغماء",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "syncope"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "chills",
+    "meaning": "Shivering or goosebumps often accompanying fever.",
+    "example": "Chills started before the fever spiked.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/chills/",
+    "frTranslation": "frissons",
+    "esTranslation": "escalofríos",
+    "arTranslation": "قشعريرة/رجفة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "dehydration",
+    "meaning": "A lack of body water causing thirst, dizziness, or dry mouth.",
+    "example": "Sports drinks helped mild dehydration.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/dehydration/",
+    "frTranslation": "déshydratation",
+    "esTranslation": "deshidratación",
+    "arTranslation": "جفاف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "insomnia",
+    "meaning": "Difficulty falling or staying asleep.",
+    "example": "Stress led to weeks of insomnia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/insomnia/",
+    "frTranslation": "insomnie",
+    "esTranslation": "insomnio",
+    "arTranslation": "أرق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "restful sleep"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "symptom"
+    ]
+  },
+  {
+    "text": "common cold",
+    "meaning": "A mild viral infection of the upper airways causing runny nose and cough.",
+    "example": "He stayed home with a common cold.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/common cold/",
+    "frTranslation": "rhume",
+    "esTranslation": "resfriado común",
+    "arTranslation": "زُكام",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "cold"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "influenza",
+    "meaning": "A contagious viral illness with high fever, aches, and fatigue.",
+    "example": "Influenza kept her in bed for three days.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/influenza/",
+    "frTranslation": "grippe",
+    "esTranslation": "gripe (influenza)",
+    "arTranslation": "إنفلونزا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "flu"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "allergy",
+    "meaning": "An immune reaction to harmless substances like pollen or food.",
+    "example": "Spring pollen triggered his allergy symptoms.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/allergy/",
+    "frTranslation": "allergie",
+    "esTranslation": "alergia",
+    "arTranslation": "حساسية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "asthma",
+    "meaning": "A chronic airway disorder causing wheezing and shortness of breath.",
+    "example": "She used an inhaler during an asthma flare.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/asthma/",
+    "frTranslation": "asthme",
+    "esTranslation": "asma",
+    "arTranslation": "ربو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "bronchitis",
+    "meaning": "Inflammation of the bronchial tubes, often causing cough with mucus.",
+    "example": "Bronchitis followed his winter cold.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/bronchitis/",
+    "frTranslation": "bronchite",
+    "esTranslation": "bronquitis",
+    "arTranslation": "التهاب الشعب الهوائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "pneumonia",
+    "meaning": "An infection that inflames the air sacs of the lungs.",
+    "example": "Antibiotics treated her bacterial pneumonia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/pneumonia/",
+    "frTranslation": "pneumonie",
+    "esTranslation": "neumonía",
+    "arTranslation": "التهاب رئوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "hypertension",
+    "meaning": "Consistently high blood pressure that strains the heart and vessels.",
+    "example": "Diet changes lowered his hypertension.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/hypertension/",
+    "frTranslation": "hypertension",
+    "esTranslation": "hipertensión",
+    "arTranslation": "ارتفاع ضغط الدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "high blood pressure"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "type 2 diabetes",
+    "meaning": "A chronic condition where the body resists insulin or makes too little of it.",
+    "example": "She tracks meals to manage type 2 diabetes.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/type 2 diabetes/",
+    "frTranslation": "diabète de type 2",
+    "esTranslation": "diabetes tipo 2",
+    "arTranslation": "داء السكري من النوع الثاني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "anemia",
+    "meaning": "A low red blood cell or hemoglobin level causing fatigue and pallor.",
+    "example": "Iron deficiency led to mild anemia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/anemia/",
+    "frTranslation": "anémie",
+    "esTranslation": "anemia",
+    "arTranslation": "فقر الدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "hypothyroidism",
+    "meaning": "An underactive thyroid gland that slows metabolism.",
+    "example": "Hypothyroidism made her feel cold and tired.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/hypothyroidism/",
+    "frTranslation": "hypothyroïdie",
+    "esTranslation": "hipotiroidismo",
+    "arTranslation": "قصور الغدة الدرقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "hyperthyroidism"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "hyperthyroidism",
+    "meaning": "An overactive thyroid that speeds up metabolism.",
+    "example": "Her hyperthyroidism caused weight loss and tremor.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/hyperthyroidism/",
+    "frTranslation": "hyperthyroïdie",
+    "esTranslation": "hipertiroidismo",
+    "arTranslation": "فرط نشاط الغدة الدرقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "hypothyroidism"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "gastroesophageal reflux (GERD)",
+    "meaning": "Stomach acid frequently flows back into the esophagus, causing heartburn.",
+    "example": "Late meals worsened his GERD symptoms.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/gastroesophageal reflux (GERD)/",
+    "frTranslation": "reflux gastro-œsophagien (RGO)",
+    "esTranslation": "reflujo gastroesofágico (ERGE)",
+    "arTranslation": "ارتجاع معدي مريئي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "acid reflux"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "peptic ulcer",
+    "meaning": "An open sore in the stomach or duodenum often related to H. pylori or NSAIDs.",
+    "example": "She was treated for a peptic ulcer.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/peptic ulcer/",
+    "frTranslation": "ulcère gastroduodénal",
+    "esTranslation": "úlcera péptica",
+    "arTranslation": "قرحة هضمية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "kidney stone",
+    "meaning": "A hard deposit formed in the kidneys that can cause severe flank pain.",
+    "example": "A small kidney stone passed on its own.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/kidney stone/",
+    "frTranslation": "calcul rénal",
+    "esTranslation": "cálculo renal",
+    "arTranslation": "حصى الكلى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "urinary tract infection",
+    "meaning": "A bacterial infection affecting the bladder or urinary tract.",
+    "example": "Burning urination signaled a urinary tract infection.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/urinary tract infection/",
+    "frTranslation": "infection urinaire",
+    "esTranslation": "infección urinaria",
+    "arTranslation": "التهاب المسالك البولية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "UTI"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "otitis media",
+    "meaning": "A middle-ear infection common in children.",
+    "example": "The child cried from otitis media pain.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/otitis media/",
+    "frTranslation": "otite moyenne",
+    "esTranslation": "otitis media",
+    "arTranslation": "التهاب الأذن الوسطى",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "ear infection"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "sinusitis",
+    "meaning": "Inflammation of the sinuses causing facial pressure and congestion.",
+    "example": "Steam inhalation eased her sinusitis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/sinusitis/",
+    "frTranslation": "sinusite",
+    "esTranslation": "sinusitis",
+    "arTranslation": "التهاب الجيوب الأنفية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "dermatitis (eczema)",
+    "meaning": "An itchy, inflamed skin condition with dry, scaly patches.",
+    "example": "Moisturizer calmed his eczema.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/dermatitis (eczema)/",
+    "frTranslation": "dermatite (eczéma)",
+    "esTranslation": "dermatitis (eccema)",
+    "arTranslation": "التهاب الجلد (إكزيما)",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "atopic dermatitis"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "psoriasis",
+    "meaning": "A chronic skin disease with red, scaly plaques due to rapid cell turnover.",
+    "example": "Psoriasis flared in cold weather.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/psoriasis/",
+    "frTranslation": "psoriasis",
+    "esTranslation": "psoriasis",
+    "arTranslation": "صدفية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "acne",
+    "meaning": "A skin condition where hair follicles clog with oil and dead cells.",
+    "example": "Hormonal changes triggered acne breakouts.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/acne/",
+    "frTranslation": "acné",
+    "esTranslation": "acné",
+    "arTranslation": "حبّ الشباب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "obesity",
+    "meaning": "Excess body fat that increases health risks.",
+    "example": "Her doctor discussed options for obesity management.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/obesity/",
+    "frTranslation": "obésité",
+    "esTranslation": "obesidad",
+    "arTranslation": "سمنة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "osteoporosis",
+    "meaning": "Weakened bones that are more likely to fracture.",
+    "example": "Calcium and exercise help with osteoporosis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/osteoporosis/",
+    "frTranslation": "ostéoporose",
+    "esTranslation": "osteoporosis",
+    "arTranslation": "هشاشة العظام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "osteoarthritis",
+    "meaning": "Degeneration of joint cartilage causing pain and stiffness.",
+    "example": "Knee osteoarthritis made stairs difficult.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/osteoarthritis/",
+    "frTranslation": "arthrose (ostéoarthrite)",
+    "esTranslation": "artrosis (osteoartritis)",
+    "arTranslation": "الفصال العظمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "heart attack",
+    "meaning": "A sudden blockage of blood flow to part of the heart muscle.",
+    "example": "Chest pressure signaled a possible heart attack.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/heart attack/",
+    "frTranslation": "crise cardiaque",
+    "esTranslation": "ataque cardíaco",
+    "arTranslation": "نوبة قلبية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "myocardial infarction"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "stroke",
+    "meaning": "A disruption of blood supply to the brain causing sudden neurological deficits.",
+    "example": "Facial droop is a warning sign of stroke.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/stroke/",
+    "frTranslation": "accident vasculaire cérébral",
+    "esTranslation": "accidente cerebrovascular",
+    "arTranslation": "سكتة دماغية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "cerebrovascular accident"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "cancer",
+    "meaning": "Diseases where abnormal cells grow uncontrollably and can spread.",
+    "example": "Family history increased her cancer screening needs.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cancer/",
+    "frTranslation": "cancer",
+    "esTranslation": "cáncer",
+    "arTranslation": "سرطان",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "malignant tumor"
+    ],
+    "antonyms": [
+      "benign tumor"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "gastroenteritis",
+    "meaning": "An infection causing vomiting and diarrhea, often from contaminated food or water.",
+    "example": "Gastroenteritis spread through the camp.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/gastroenteritis/",
+    "frTranslation": "gastro-entérite",
+    "esTranslation": "gastroenteritis",
+    "arTranslation": "التهاب المعدة والأمعاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "sprain",
+    "meaning": "An injury where ligaments are stretched or torn.",
+    "example": "An ankle sprain occurred during the game.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/sprain/",
+    "frTranslation": "entorse",
+    "esTranslation": "esguince",
+    "arTranslation": "التواء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "fracture",
+    "meaning": "A broken bone that may require immobilization or surgery.",
+    "example": "An X-ray confirmed a wrist fracture.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/fracture/",
+    "frTranslation": "fracture",
+    "esTranslation": "fractura",
+    "arTranslation": "كسر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "condition"
+    ]
+  },
+  {
+    "text": "COVID-19",
+    "meaning": "A respiratory illness caused by the SARS‑CoV‑2 coronavirus.",
+    "example": "Loss of smell was an early sign of COVID-19.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/COVID-19/",
+    "frTranslation": "COVID-19",
+    "esTranslation": "COVID-19",
+    "arTranslation": "كوفيد-19",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  }
+]

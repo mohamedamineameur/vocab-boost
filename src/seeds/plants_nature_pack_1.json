@@ -1,0 +1,694 @@
+[
+  {
+    "text": "oak",
+    "meaning": "A long-lived hardwood tree known for sturdy timber and acorns.",
+    "example": "An oak shaded the farmhouse with broad branches.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/oak/",
+    "frTranslation": "chêne",
+    "esTranslation": "roble",
+    "arTranslation": "بلوط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "quercus"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "maple",
+    "meaning": "A deciduous tree with lobed leaves; some species produce maple syrup.",
+    "example": "In autumn, the maple blazed scarlet and gold.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/maple/",
+    "frTranslation": "érable",
+    "esTranslation": "arce",
+    "arTranslation": "قيقب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "pine",
+    "meaning": "An evergreen conifer with needle-like leaves and woody cones.",
+    "example": "Pine trees perfumed the air after rain.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/pine/",
+    "frTranslation": "pin",
+    "esTranslation": "pino",
+    "arTranslation": "صنوبر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "conifer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "birch",
+    "meaning": "A slender tree with peeling white bark and delicate leaves.",
+    "example": "A stand of birch glowed in the evening light.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/birch/",
+    "frTranslation": "bouleau",
+    "esTranslation": "abedul",
+    "arTranslation": "شجرة البتولا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "willow",
+    "meaning": "A moisture-loving tree with long, drooping branches.",
+    "example": "Children played beneath the willow by the pond.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/willow/",
+    "frTranslation": "saule",
+    "esTranslation": "sauce/sauce llorón",
+    "arTranslation": "صفصاف",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "weeping willow (type)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "cedar",
+    "meaning": "An aromatic conifer whose rot-resistant wood is used for chests and shingles.",
+    "example": "They sided the cabin with cedar.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/cedar/",
+    "frTranslation": "cèdre",
+    "esTranslation": "cedro",
+    "arTranslation": "أرز (سدر)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "spruce",
+    "meaning": "A conifer with sharp needles and hanging cones, common in boreal forests.",
+    "example": "A spruce tree stood beside the trail.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/spruce/",
+    "frTranslation": "épicéa",
+    "esTranslation": "abeto",
+    "arTranslation": "شجرة التنوب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "fir",
+    "meaning": "A conifer often used as a Christmas tree, with upright cones.",
+    "example": "We decorated a fir with lights and ornaments.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/fir/",
+    "frTranslation": "sapin",
+    "esTranslation": "abeto (navideño)",
+    "arTranslation": "شجرة الشوح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "cherry tree",
+    "meaning": "A fruit tree that bears sweet or sour cherries and spring blossoms.",
+    "example": "The cherry tree bloomed in pale pink.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/cherry tree/",
+    "frTranslation": "cerisier",
+    "esTranslation": "cerezo",
+    "arTranslation": "شجرة الكرز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "apple tree",
+    "meaning": "A small deciduous tree cultivated for edible apples.",
+    "example": "We picked apples from the old apple tree.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/apple tree/",
+    "frTranslation": "pommier",
+    "esTranslation": "manzano",
+    "arTranslation": "شجرة التفاح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "olive tree",
+    "meaning": "A Mediterranean tree with gray leaves that yields oil-rich fruit.",
+    "example": "The olive tree has been pruned for centuries.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/olive tree/",
+    "frTranslation": "olivier",
+    "esTranslation": "olivo",
+    "arTranslation": "شجرة الزيتون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "palm",
+    "meaning": "A tropical tree with a crown of large leaves atop an unbranched trunk.",
+    "example": "Palms lined the sunny boulevard.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/palm/",
+    "frTranslation": "palmier",
+    "esTranslation": "palmera",
+    "arTranslation": "نخلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "baobab",
+    "meaning": "An African tree with a massive trunk that stores water.",
+    "example": "The baobab towered over the savanna.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/baobab/",
+    "frTranslation": "baobab",
+    "esTranslation": "baobab",
+    "arTranslation": "شجرة الباوباب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "eucalyptus",
+    "meaning": "A fast-growing Australian tree with aromatic leaves.",
+    "example": "Koalas feed on eucalyptus leaves.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/eucalyptus/",
+    "frTranslation": "eucalyptus",
+    "esTranslation": "eucalipto",
+    "arTranslation": "أوكالبتوس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "cypress",
+    "meaning": "A conifer with scale-like leaves, often planted in cemeteries and hedges.",
+    "example": "A row of cypress trees bordered the lane.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/cypress/",
+    "frTranslation": "cyprès",
+    "esTranslation": "ciprés",
+    "arTranslation": "سرو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "aspen",
+    "meaning": "A poplar whose leaves tremble in the breeze due to flattened stems.",
+    "example": "Aspen leaves quivered with a soft rustle.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/aspen/",
+    "frTranslation": "peuplier faux-tremble",
+    "esTranslation": "álamo temblón",
+    "arTranslation": "حور رجّاف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "beech",
+    "meaning": "A smooth-barked hardwood with dense shade and edible nuts.",
+    "example": "The trail wound through beech woods.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/beech/",
+    "frTranslation": "hêtre",
+    "esTranslation": "haya",
+    "arTranslation": "زان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "poplar",
+    "meaning": "A fast-growing tree with tall, narrow form and fluttering leaves.",
+    "example": "Poplars shelter the field from wind.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/poplar/",
+    "frTranslation": "peuplier",
+    "esTranslation": "álamo/chopo",
+    "arTranslation": "حور",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "plane tree",
+    "meaning": "A broad-canopied city tree with mottled bark and tolerance of pollution.",
+    "example": "Plane trees lined the boulevard.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/plane tree/",
+    "frTranslation": "platane",
+    "esTranslation": "plátano (árbol)",
+    "arTranslation": "دلب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "sycamore (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "magnolia",
+    "meaning": "An ornamental tree with large, fragrant blossoms.",
+    "example": "A magnolia opened waxy white flowers.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/magnolia/",
+    "frTranslation": "magnolia",
+    "esTranslation": "magnolia",
+    "arTranslation": "ماغنوليا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "tree"
+    ]
+  },
+  {
+    "text": "rose",
+    "meaning": "A thorny shrub with layered, fragrant blossoms symbolizing love.",
+    "example": "She planted a rose along the fence.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/rose/",
+    "frTranslation": "rose",
+    "esTranslation": "rosa",
+    "arTranslation": "وردة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "tulip",
+    "meaning": "A bulb flower with cup-shaped petals that blooms in spring.",
+    "example": "Tulips colored the garden in April.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/tulip/",
+    "frTranslation": "tulipe",
+    "esTranslation": "tulipán",
+    "arTranslation": "زنبق التوليب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "daisy",
+    "meaning": "A simple flower with a yellow disc and white rays.",
+    "example": "A daisy chain circled her wrist.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/daisy/",
+    "frTranslation": "marguerite/pâquerette",
+    "esTranslation": "margarita",
+    "arTranslation": "أقحوان/بابونج بري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "sunflower",
+    "meaning": "A tall plant with a large flower head that tracks the sun.",
+    "example": "Sunflowers faced east at dawn.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/sunflower/",
+    "frTranslation": "tournesol",
+    "esTranslation": "girasol",
+    "arTranslation": "دوّار الشمس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "lily",
+    "meaning": "A showy flower with six petals, often used in bouquets.",
+    "example": "The lily scented the room strongly.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/lily/",
+    "frTranslation": "lys",
+    "esTranslation": "lirio",
+    "arTranslation": "زنبق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "orchid",
+    "meaning": "A diverse plant family with intricate, long-lived blossoms.",
+    "example": "Her orchid produced a second spike of flowers.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/orchid/",
+    "frTranslation": "orchidée",
+    "esTranslation": "orquídea",
+    "arTranslation": "سحلبية/أوركيد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "jasmine",
+    "meaning": "A climbing shrub with sweet-scented white or yellow flowers.",
+    "example": "Jasmine perfumed the courtyard at night.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/jasmine/",
+    "frTranslation": "jasmin",
+    "esTranslation": "jazmín",
+    "arTranslation": "ياسمين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "lavender",
+    "meaning": "A purple-flowering herb prized for fragrance and calming oil.",
+    "example": "She dried lavender for sachets.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/lavender/",
+    "frTranslation": "lavande",
+    "esTranslation": "lavanda",
+    "arTranslation": "لافندر/خُزامى",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "peony",
+    "meaning": "A perennial with large, ruffled blooms that open in late spring.",
+    "example": "The peony collapsed under the rain’s weight.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/peony/",
+    "frTranslation": "pivoine",
+    "esTranslation": "peonía",
+    "arTranslation": "الفاوانيا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "hibiscus",
+    "meaning": "A tropical shrub with broad, trumpet-shaped blossoms.",
+    "example": "Hibiscus tea is made from its calyces.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/hibiscus/",
+    "frTranslation": "hibiscus",
+    "esTranslation": "hibisco",
+    "arTranslation": "الكركديه/خطمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "marigold",
+    "meaning": "A bright annual whose petals are used in dye and pest control.",
+    "example": "Marigolds edged the vegetable beds.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/marigold/",
+    "frTranslation": "souci/tagète",
+    "esTranslation": "caléndula",
+    "arTranslation": "الأقحوان الماريغولد/البكورية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "calendula"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "carnation",
+    "meaning": "A fragrant cut flower with frilled petals and long vase life.",
+    "example": "Carnations lasted two weeks in water.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/carnation/",
+    "frTranslation": "œillet",
+    "esTranslation": "clavel",
+    "arTranslation": "قرنفل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "chrysanthemum",
+    "meaning": "An autumn-blooming plant with many petal forms used for festivals.",
+    "example": "Chrysanthemums filled the market stalls.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/chrysanthemum/",
+    "frTranslation": "chrysanthème",
+    "esTranslation": "crisantemo",
+    "arTranslation": "أقحوان مزهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "mum (US)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "iris",
+    "meaning": "A sword-leaved plant with bearded or crested flowers.",
+    "example": "An iris unfolded purple petals by the pond.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/iris/",
+    "frTranslation": "iris",
+    "esTranslation": "iris",
+    "arTranslation": "سوسن/قِرطاسيا (إقليمياً)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "daffodil",
+    "meaning": "A spring bulb with a trumpet-like corona, often yellow.",
+    "example": "Daffodils dotted the hillside in March.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/daffodil/",
+    "frTranslation": "jonquille/narcisse",
+    "esTranslation": "narciso",
+    "arTranslation": "نرجس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "lotus",
+    "meaning": "An aquatic plant whose leaves and flowers float on still water.",
+    "example": "A lotus opened at sunrise on the pond.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/lotus/",
+    "frTranslation": "lotus",
+    "esTranslation": "loto",
+    "arTranslation": "لوتس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "poppy",
+    "meaning": "A delicate flower with papery petals; seeds are edible.",
+    "example": "Red poppies swayed in the wind.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/poppy/",
+    "frTranslation": "coquelicot/pavot",
+    "esTranslation": "amapola",
+    "arTranslation": "خشخاش/شقائق النعمان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "violet",
+    "meaning": "A low plant with heart-shaped leaves and purple flowers.",
+    "example": "We spotted violets under the hedge.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/violet/",
+    "frTranslation": "violette",
+    "esTranslation": "violeta",
+    "arTranslation": "بنفسج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "camellia",
+    "meaning": "An evergreen shrub with glossy leaves and rose-like blooms.",
+    "example": "The camellia flowered in winter.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/camellia/",
+    "frTranslation": "camélia",
+    "esTranslation": "camelia",
+    "arTranslation": "كاميليا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  },
+  {
+    "text": "dahlia",
+    "meaning": "A tuberous plant producing geometric blooms in many forms.",
+    "example": "Her prize dahlia won at the fair.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/dahlia/",
+    "frTranslation": "dahlia",
+    "esTranslation": "dalia",
+    "arTranslation": "داليا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "flower"
+    ]
+  }
+]

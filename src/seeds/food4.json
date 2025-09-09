@@ -1,0 +1,767 @@
+[
+  {
+    "text": "ricotta",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought ricotta at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ricotta/",
+    "frTranslation": "ricotta",
+    "esTranslation": "ricota",
+    "arTranslation": "ريكوتا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "mozzarella",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought mozzarella at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mozzarella/",
+    "frTranslation": "mozzarella",
+    "esTranslation": "mozzarella",
+    "arTranslation": "موزاريلا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "water",
+    "meaning": "A beverage.",
+    "example": "I ordered a water.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/water/",
+    "frTranslation": "eau",
+    "esTranslation": "agua",
+    "arTranslation": "ماء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "tea",
+    "meaning": "A beverage.",
+    "example": "I ordered a tea.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tea/",
+    "frTranslation": "thé",
+    "esTranslation": "té",
+    "arTranslation": "شاي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "coffee",
+    "meaning": "A beverage.",
+    "example": "I ordered a coffee.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/coffee/",
+    "frTranslation": "café",
+    "esTranslation": "café",
+    "arTranslation": "قهوة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "juice",
+    "meaning": "A beverage.",
+    "example": "I ordered a juice.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/juice/",
+    "frTranslation": "jus",
+    "esTranslation": "jugo/zumo",
+    "arTranslation": "عصير",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "milkshake",
+    "meaning": "A beverage.",
+    "example": "I ordered a milkshake.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/milkshake/",
+    "frTranslation": "milkshake",
+    "esTranslation": "batido/malteada",
+    "arTranslation": "ميلك شيك",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "smoothie",
+    "meaning": "A beverage.",
+    "example": "I ordered a smoothie.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/smoothie/",
+    "frTranslation": "smoothie",
+    "esTranslation": "batido/smoothie",
+    "arTranslation": "سموذي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "soda",
+    "meaning": "A beverage.",
+    "example": "I ordered a soda.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/soda/",
+    "frTranslation": "soda",
+    "esTranslation": "refresco",
+    "arTranslation": "مشروب غازي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "lemonade",
+    "meaning": "A beverage.",
+    "example": "I ordered a lemonade.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/lemonade/",
+    "frTranslation": "limonade",
+    "esTranslation": "limonada",
+    "arTranslation": "ليمونادة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "sparkling water",
+    "meaning": "A beverage.",
+    "example": "I ordered a sparkling water.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/sparkling water/",
+    "frTranslation": "eau pétillante",
+    "esTranslation": "agua con gas",
+    "arTranslation": "ماء غازي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "beer",
+    "meaning": "A beverage.",
+    "example": "I ordered a beer.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/beer/",
+    "frTranslation": "bière",
+    "esTranslation": "cerveza",
+    "arTranslation": "بيرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "wine",
+    "meaning": "A beverage.",
+    "example": "I ordered a wine.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/wine/",
+    "frTranslation": "vin",
+    "esTranslation": "vino",
+    "arTranslation": "نبيذ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "champagne",
+    "meaning": "A beverage.",
+    "example": "I ordered a champagne.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/champagne/",
+    "frTranslation": "champagne",
+    "esTranslation": "champán",
+    "arTranslation": "شمبانيا",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "cocktail",
+    "meaning": "A beverage.",
+    "example": "I ordered a cocktail.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cocktail/",
+    "frTranslation": "cocktail",
+    "esTranslation": "cóctel",
+    "arTranslation": "كوكتيل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "espresso",
+    "meaning": "A beverage.",
+    "example": "I ordered a espresso.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/espresso/",
+    "frTranslation": "expresso",
+    "esTranslation": "espresso",
+    "arTranslation": "إسبرسو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "latte",
+    "meaning": "A beverage.",
+    "example": "I ordered a latte.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/latte/",
+    "frTranslation": "latte",
+    "esTranslation": "latte",
+    "arTranslation": "لاتيه",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "cappuccino",
+    "meaning": "A beverage.",
+    "example": "I ordered a cappuccino.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cappuccino/",
+    "frTranslation": "cappuccino",
+    "esTranslation": "capuchino",
+    "arTranslation": "كابوتشينو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "cocoa",
+    "meaning": "A beverage.",
+    "example": "I ordered a cocoa.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cocoa/",
+    "frTranslation": "cacao",
+    "esTranslation": "cacao",
+    "arTranslation": "كاكاو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "hot chocolate",
+    "meaning": "A beverage.",
+    "example": "I ordered a hot chocolate.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/hot chocolate/",
+    "frTranslation": "chocolat chaud",
+    "esTranslation": "chocolate caliente",
+    "arTranslation": "شوكولاتة ساخنة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "iced tea",
+    "meaning": "A beverage.",
+    "example": "I ordered a iced tea.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/iced tea/",
+    "frTranslation": "thé glacé",
+    "esTranslation": "té helado",
+    "arTranslation": "شاي مثلج",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "herbal tea",
+    "meaning": "A beverage.",
+    "example": "I ordered a herbal tea.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/herbal tea/",
+    "frTranslation": "tisane",
+    "esTranslation": "infusión",
+    "arTranslation": "شاي أعشاب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "apple juice",
+    "meaning": "A beverage.",
+    "example": "I ordered a apple juice.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/apple juice/",
+    "frTranslation": "jus de pomme",
+    "esTranslation": "jugo de manzana",
+    "arTranslation": "عصير تفاح",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "orange juice",
+    "meaning": "A beverage.",
+    "example": "I ordered a orange juice.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/orange juice/",
+    "frTranslation": "jus d'orange",
+    "esTranslation": "jugo de naranja",
+    "arTranslation": "عصير برتقال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "red wine",
+    "meaning": "A beverage.",
+    "example": "I ordered a red wine.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/red wine/",
+    "frTranslation": "vin rouge",
+    "esTranslation": "vino tinto",
+    "arTranslation": "نبيذ أحمر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "white wine",
+    "meaning": "A beverage.",
+    "example": "I ordered a white wine.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/white wine/",
+    "frTranslation": "vin blanc",
+    "esTranslation": "vino blanco",
+    "arTranslation": "نبيذ أبيض",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "rose wine",
+    "meaning": "A beverage.",
+    "example": "I ordered a rose wine.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/rose wine/",
+    "frTranslation": "rosé",
+    "esTranslation": "rosado",
+    "arTranslation": "نبيذ وردي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "drink"
+    ]
+  },
+  {
+    "text": "cake",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of cake?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cake/",
+    "frTranslation": "gâteau",
+    "esTranslation": "pastel/torta",
+    "arTranslation": "كعكة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "pie",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of pie?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pie/",
+    "frTranslation": "tarte",
+    "esTranslation": "pastel/pai",
+    "arTranslation": "فطيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "cookie",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of cookie?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cookie/",
+    "frTranslation": "cookie/biscuit",
+    "esTranslation": "galleta",
+    "arTranslation": "بسكويت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "chocolate",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of chocolate?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/chocolate/",
+    "frTranslation": "chocolat",
+    "esTranslation": "chocolate",
+    "arTranslation": "شوكلاتة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "pudding",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of pudding?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pudding/",
+    "frTranslation": "pudding",
+    "esTranslation": "pudín",
+    "arTranslation": "بودينغ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "candy",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of candy?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/candy/",
+    "frTranslation": "bonbon",
+    "esTranslation": "caramelo/dulce",
+    "arTranslation": "حلوى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "doughnut",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of doughnut?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/doughnut/",
+    "frTranslation": "beignet",
+    "esTranslation": "dona/rosquilla",
+    "arTranslation": "دونات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "muffin",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of muffin?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/muffin/",
+    "frTranslation": "muffin",
+    "esTranslation": "muffin/magdalena",
+    "arTranslation": "مافن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "brownie",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of brownie?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/brownie/",
+    "frTranslation": "brownie",
+    "esTranslation": "brownie",
+    "arTranslation": "براوني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "tart",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of tart?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tart/",
+    "frTranslation": "tartelette",
+    "esTranslation": "tarta",
+    "arTranslation": "تارت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "custard",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of custard?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/custard/",
+    "frTranslation": "crème anglaise/flan",
+    "esTranslation": "natillas/flan",
+    "arTranslation": "كاسترد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "croissant",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of croissant?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/croissant/",
+    "frTranslation": "croissant",
+    "esTranslation": "croissant",
+    "arTranslation": "كرواسون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "baguette",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of baguette?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/baguette/",
+    "frTranslation": "baguette",
+    "esTranslation": "baguette",
+    "arTranslation": "باغيت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "biscuit (scone)",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of biscuit (scone)?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/biscuit (scone)/",
+    "frTranslation": "scone",
+    "esTranslation": "bizcocho/scone",
+    "arTranslation": "بسكويت إنجليزي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "cupcake",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of cupcake?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cupcake/",
+    "frTranslation": "cupcake",
+    "esTranslation": "cupcake",
+    "arTranslation": "كب كيك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "pastry",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of pastry?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pastry/",
+    "frTranslation": "pâtisserie",
+    "esTranslation": "pastelito",
+    "arTranslation": "معجنات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "waffle",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of waffle?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/waffle/",
+    "frTranslation": "gaufre",
+    "esTranslation": "waffle/gofre",
+    "arTranslation": "وافل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  },
+  {
+    "text": "pancake",
+    "meaning": "A dessert or baked good.",
+    "example": "Would you like a piece of pancake?",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pancake/",
+    "frTranslation": "crêpe/pancake",
+    "esTranslation": "panqueque",
+    "arTranslation": "فطيرة/بان كيك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dessert/baked"
+    ]
+  }
+]

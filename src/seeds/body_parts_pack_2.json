@@ -1,0 +1,717 @@
+[
+  {
+    "text": "collarbone",
+    "meaning": "A slender S-shaped bone that links the shoulder to the sternum.",
+    "example": "She fractured her collarbone in a fall.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/collarbone/",
+    "frTranslation": "clavicule",
+    "esTranslation": "clavícula",
+    "arTranslation": "ترقوة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "clavicle"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "shoulder blade",
+    "meaning": "A flat triangular bone on the back that anchors shoulder muscles.",
+    "example": "The shoulder blade moves when you raise your arm.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/shoulder blade/",
+    "frTranslation": "omoplate/Scapula",
+    "esTranslation": "omóplato/escápula",
+    "arTranslation": "لوح الكتف",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "scapula"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "upper arm",
+    "meaning": "The section of the arm between the shoulder and the elbow.",
+    "example": "He felt sore in the upper arm after the shot.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/upper arm/",
+    "frTranslation": "bras (haut)",
+    "esTranslation": "brazo (superior)",
+    "arTranslation": "الجزء العلوي من الذراع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "brachium (anat.)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "forearm",
+    "meaning": "The part of the arm between the elbow and the wrist.",
+    "example": "She wore a bracelet on her forearm.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/forearm/",
+    "frTranslation": "avant-bras",
+    "esTranslation": "antebrazo",
+    "arTranslation": "الساعد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "elbow",
+    "meaning": "The joint between the upper arm and forearm that bends the arm.",
+    "example": "He leaned on his elbow while reading.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/elbow/",
+    "frTranslation": "coude",
+    "esTranslation": "codo",
+    "arTranslation": "مِرفَق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "wrist",
+    "meaning": "The joint that connects the hand to the forearm.",
+    "example": "She strapped a watch around her wrist.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/wrist/",
+    "frTranslation": "poignet",
+    "esTranslation": "muñeca",
+    "arTranslation": "معصم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "palm",
+    "meaning": "The inner surface of the hand between the wrist and the fingers.",
+    "example": "He placed the coin on his open palm.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/palm/",
+    "frTranslation": "paume",
+    "esTranslation": "palma",
+    "arTranslation": "راحَة اليد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "hand",
+    "meaning": "The end part of the arm used for grasping and touching.",
+    "example": "Wash your hands before eating.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hand/",
+    "frTranslation": "main",
+    "esTranslation": "mano",
+    "arTranslation": "يد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "finger",
+    "meaning": "One of the five digits of the hand used for fine manipulation.",
+    "example": "She cut her finger while slicing bread.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/finger/",
+    "frTranslation": "doigt",
+    "esTranslation": "dedo",
+    "arTranslation": "إصبع",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "digit (hand)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "thumb",
+    "meaning": "The first, opposable digit of the hand crucial for grip.",
+    "example": "A strong thumb helps you hold tools.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/thumb/",
+    "frTranslation": "pouce",
+    "esTranslation": "pulgar",
+    "arTranslation": "إبهام",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "index finger",
+    "meaning": "The finger next to the thumb, often used for pointing.",
+    "example": "He tapped the screen with his index finger.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/index finger/",
+    "frTranslation": "index",
+    "esTranslation": "índice",
+    "arTranslation": "السبابة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "forefinger",
+      "pointer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "middle finger",
+    "meaning": "The longest finger located at the center of the hand.",
+    "example": "She wore a ring on her middle finger.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/middle finger/",
+    "frTranslation": "majeur",
+    "esTranslation": "dedo medio",
+    "arTranslation": "الأوسط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "ring finger",
+    "meaning": "The finger between the middle and little finger, often used for wedding rings.",
+    "example": "His ring finger felt tight after the flight.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ring finger/",
+    "frTranslation": "annulaire",
+    "esTranslation": "anular",
+    "arTranslation": "البنصر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "little finger",
+    "meaning": "The smallest finger on the outer edge of the hand.",
+    "example": "He injured his little finger during practice.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/little finger/",
+    "frTranslation": "auriculaire",
+    "esTranslation": "meñique",
+    "arTranslation": "الخنصر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "pinky"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "knuckle",
+    "meaning": "The bony joint of a finger where it bends.",
+    "example": "Her knuckles cracked as she stretched.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/knuckle/",
+    "frTranslation": "articulation du doigt",
+    "esTranslation": "nudillo",
+    "arTranslation": "عُقلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "fingernail",
+    "meaning": "The hard plate of keratin that covers the tip of a finger.",
+    "example": "Paint your fingernails only when they’re clean and dry.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/fingernail/",
+    "frTranslation": "ongle (de la main)",
+    "esTranslation": "uña (de la mano)",
+    "arTranslation": "ظُفر اليد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "cuticle",
+    "meaning": "The thin layer of skin at the base of the nail that protects new growth.",
+    "example": "Apply oil to soften the cuticles.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/cuticle/",
+    "frTranslation": "cuticule",
+    "esTranslation": "cutícula",
+    "arTranslation": "جلدة الظفر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "tendon",
+    "meaning": "A tough band of tissue that connects muscle to bone.",
+    "example": "Overuse can inflame a tendon near the wrist.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/tendon/",
+    "frTranslation": "tendon",
+    "esTranslation": "tendón",
+    "arTranslation": "وتر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "ligament",
+    "meaning": "A strong band of tissue that connects bones at a joint.",
+    "example": "A torn ligament can destabilize the elbow.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ligament/",
+    "frTranslation": "ligament",
+    "esTranslation": "ligamento",
+    "arTranslation": "رباط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "biceps",
+    "meaning": "The front upper-arm muscle that flexes the elbow.",
+    "example": "He strengthened his biceps with curls.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/biceps/",
+    "frTranslation": "biceps",
+    "esTranslation": "bíceps",
+    "arTranslation": "عضلة ذات الرأسين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "triceps"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "triceps",
+    "meaning": "The back upper-arm muscle that straightens the elbow.",
+    "example": "Dips target the triceps.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/triceps/",
+    "frTranslation": "triceps",
+    "esTranslation": "tríceps",
+    "arTranslation": "عضلة ثلاثية الرؤوس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "biceps"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "radius (bone)",
+    "meaning": "One of the two forearm bones; it rotates around the ulna to turn the hand.",
+    "example": "The radius fractured near the wrist.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/radius (bone)/",
+    "frTranslation": "radius (os)",
+    "esTranslation": "radio (hueso)",
+    "arTranslation": "عظم الكُعبرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "ulna (contrast)"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "ulna (bone)",
+    "meaning": "The inner forearm bone that forms the elbow’s hinge with the humerus.",
+    "example": "Impact bruised the ulna near the elbow.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ulna (bone)/",
+    "frTranslation": "ulna/cubitus",
+    "esTranslation": "cúbito/ulna",
+    "arTranslation": "عظم الزند",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "radius (contrast)"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "carpal bones",
+    "meaning": "The eight small bones of the wrist that allow complex movements.",
+    "example": "Carpal bones can be sprained by a fall.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/carpal bones/",
+    "frTranslation": "os du carpe",
+    "esTranslation": "huesos del carpo",
+    "arTranslation": "عظام الرسغ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "metacarpals",
+    "meaning": "The five long bones of the hand between the wrist and the fingers.",
+    "example": "A boxer broke a metacarpal during a punch.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/metacarpals/",
+    "frTranslation": "métacarpiens",
+    "esTranslation": "metacarpianos",
+    "arTranslation": "سلاميات راحة اليد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "humerus",
+    "meaning": "The long bone of the upper arm extending from shoulder to elbow.",
+    "example": "The humerus showed a clean fracture line.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/humerus/",
+    "frTranslation": "humérus",
+    "esTranslation": "húmero",
+    "arTranslation": "عظم العضد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "rotator cuff",
+    "meaning": "A group of shoulder muscles and tendons that stabilize the joint.",
+    "example": "A torn rotator cuff can limit overhead reach.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/rotator cuff/",
+    "frTranslation": "coiffe des rotateurs",
+    "esTranslation": "manguito rotador",
+    "arTranslation": "الكُفّة المدورة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "armpit",
+    "meaning": "The hollow under the shoulder where the arm joins the torso.",
+    "example": "He applied deodorant to the armpit area.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/armpit/",
+    "frTranslation": "aisselle",
+    "esTranslation": "axila",
+    "arTranslation": "إبط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "axilla"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "vein (arm)",
+    "meaning": "A blood vessel that carries deoxygenated blood back toward the heart.",
+    "example": "A nurse found a vein in his arm for the IV.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/vein (arm)/",
+    "frTranslation": "veine (bras)",
+    "esTranslation": "vena (brazo)",
+    "arTranslation": "وريد (الذراع)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "artery"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "artery (arm)",
+    "meaning": "A blood vessel that carries oxygen-rich blood away from the heart.",
+    "example": "Pressure stopped bleeding from a cut artery.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/artery (arm)/",
+    "frTranslation": "artère (bras)",
+    "esTranslation": "arteria (brazo)",
+    "arTranslation": "شريان (الذراع)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "vein"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "hand tendon (flexor)",
+    "meaning": "A forearm tendon that bends the fingers and thumb.",
+    "example": "A damaged flexor tendon limits grip strength.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hand tendon (flexor)/",
+    "frTranslation": "tendon fléchisseur",
+    "esTranslation": "tendón flexor",
+    "arTranslation": "وتر مثنٍ لليد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "hand tendon (extensor)",
+    "meaning": "A tendon that straightens the fingers and thumb.",
+    "example": "Therapy helped the extensor tendon glide smoothly.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hand tendon (extensor)/",
+    "frTranslation": "tendon extenseur",
+    "esTranslation": "tendón extensor",
+    "arTranslation": "وتر باسط لليد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "median nerve",
+    "meaning": "A major nerve that passes through the carpal tunnel to the hand.",
+    "example": "Compression of the median nerve causes tingling in the thumb and index.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/median nerve/",
+    "frTranslation": "nerf médian",
+    "esTranslation": "nervio mediano",
+    "arTranslation": "العصب المتوسط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "hand"
+    ]
+  },
+  {
+    "text": "ulnar nerve",
+    "meaning": "A nerve that runs along the inner elbow and into the hand.",
+    "example": "Hitting the ulnar nerve creates a 'funny bone' sensation.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ulnar nerve/",
+    "frTranslation": "nerf ulnaire",
+    "esTranslation": "nervio cubital",
+    "arTranslation": "العصب الزندي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "funny bone (colloq.)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  },
+  {
+    "text": "hip",
+    "meaning": "The joint where the thigh bone meets the pelvis.",
+    "example": "He felt tightness in his right hip after sitting.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hip/",
+    "frTranslation": "hanche",
+    "esTranslation": "cadera",
+    "arTranslation": "ورك",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "pelvis",
+    "meaning": "The bony ring that supports the spine and anchors the legs.",
+    "example": "The pelvis protects parts of the urinary and reproductive systems.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/pelvis/",
+    "frTranslation": "bassin/pelvis",
+    "esTranslation": "pelvis",
+    "arTranslation": "حوض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "buttocks",
+    "meaning": "The rounded parts at the back of the hips formed by gluteal muscles.",
+    "example": "He slipped and landed on his buttocks.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/buttocks/",
+    "frTranslation": "fesses",
+    "esTranslation": "nalgas",
+    "arTranslation": "أرداف/مؤخرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "glutes"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "thigh",
+    "meaning": "The part of the leg between the hip and the knee.",
+    "example": "Her thigh muscles burned after squats.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/thigh/",
+    "frTranslation": "cuisse",
+    "esTranslation": "muslo",
+    "arTranslation": "فخذ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "quadriceps",
+    "meaning": "The four-part muscle at the front of the thigh that straightens the knee.",
+    "example": "Cycling strengthens the quadriceps.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/quadriceps/",
+    "frTranslation": "quadriceps",
+    "esTranslation": "cuádriceps",
+    "arTranslation": "عضلة الفخذ الرباعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "hamstrings"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  },
+  {
+    "text": "hamstrings",
+    "meaning": "A group of three muscles at the back of the thigh that bend the knee.",
+    "example": "He strained his hamstrings during a sprint.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hamstrings/",
+    "frTranslation": "ischio-jambiers",
+    "esTranslation": "isquiotibiales",
+    "arTranslation": "أوتار المأبض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "quadriceps"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "lower limb"
+    ]
+  }
+]

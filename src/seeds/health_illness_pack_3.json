@@ -1,0 +1,1043 @@
+[
+  {
+    "text": "MRI",
+    "meaning": "Imaging that uses magnetic fields to show detailed soft tissues.",
+    "example": "MRI revealed a torn ligament.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/MRI/",
+    "frTranslation": "IRM (imagerie par résonance magnétique)",
+    "esTranslation": "RM (resonancia magnética)",
+    "arTranslation": "تصوير بالرنين المغناطيسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "ultrasound",
+    "meaning": "Imaging with high-frequency sound waves to visualize organs or a fetus.",
+    "example": "An ultrasound checked the gallbladder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/ultrasound/",
+    "frTranslation": "échographie",
+    "esTranslation": "ecografía",
+    "arTranslation": "تصوير بالموجات فوق الصوتية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "colonoscopy",
+    "meaning": "A camera examination of the colon to detect polyps or inflammation.",
+    "example": "A colonoscopy removed two small polyps.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/colonoscopy/",
+    "frTranslation": "coloscopie",
+    "esTranslation": "colonoscopia",
+    "arTranslation": "منظار القولون",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "endoscopy (upper)",
+    "meaning": "A procedure using a flexible camera to view the esophagus, stomach, and duodenum.",
+    "example": "Upper endoscopy investigated reflux symptoms.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/endoscopy (upper)/",
+    "frTranslation": "endoscopie (digestive haute)",
+    "esTranslation": "endoscopia (alta)",
+    "arTranslation": "تنظير علوي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "biopsy",
+    "meaning": "Removal of a small tissue sample for microscopic examination.",
+    "example": "A skin biopsy confirmed the diagnosis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/biopsy/",
+    "frTranslation": "biopsie",
+    "esTranslation": "biopsia",
+    "arTranslation": "خزعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "Pap smear",
+    "meaning": "A screening test that collects cervical cells to detect precancerous changes.",
+    "example": "Her Pap smear results were normal.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/Pap smear/",
+    "frTranslation": "frottis (Pap)",
+    "esTranslation": "citología (Papanicolaou)",
+    "arTranslation": "مسحة عنق الرحم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "urinalysis",
+    "meaning": "A test of urine to look for infection, sugar, blood, or protein.",
+    "example": "Urinalysis suggested a urinary infection.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/urinalysis/",
+    "frTranslation": "analyse d’urine",
+    "esTranslation": "análisis de orina",
+    "arTranslation": "تحليل البول",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "vaccination",
+    "meaning": "Administration of a vaccine to train the immune system against a disease.",
+    "example": "Annual vaccination reduces flu risk.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/vaccination/",
+    "frTranslation": "vaccination",
+    "esTranslation": "vacunación",
+    "arTranslation": "تطعيم/تلقيح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "infection (contrast)"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "antibiotic therapy",
+    "meaning": "Use of antibiotics to treat bacterial infections.",
+    "example": "The clinic started antibiotic therapy for strep.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antibiotic therapy/",
+    "frTranslation": "antibiothérapie",
+    "esTranslation": "terapia antibiótica",
+    "arTranslation": "علاج بالمضادات الحيوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "antiviral therapy",
+    "meaning": "Use of antiviral drugs to reduce the severity or duration of viral illness.",
+    "example": "Antiviral therapy began within 48 hours of symptoms.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antiviral therapy/",
+    "frTranslation": "traitement antiviral",
+    "esTranslation": "terapia antiviral",
+    "arTranslation": "علاج بمضادات الفيروسات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "pain management",
+    "meaning": "Strategies to reduce pain using medicines, therapy, or procedures.",
+    "example": "A plan combined exercise with pain management.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/pain management/",
+    "frTranslation": "prise en charge de la douleur",
+    "esTranslation": "manejo del dolor",
+    "arTranslation": "تدبير الألم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "physiotherapy",
+    "meaning": "Therapy that restores movement and function through exercises and manual care.",
+    "example": "Physiotherapy improved her shoulder range.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/physiotherapy/",
+    "frTranslation": "kinésithérapie",
+    "esTranslation": "fisioterapia",
+    "arTranslation": "علاج فيزيائي/طبيعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "psychotherapy (CBT)",
+    "meaning": "A structured talk therapy that changes unhelpful thoughts and behaviors.",
+    "example": "CBT reduced panic symptoms over time.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/psychotherapy (CBT)/",
+    "frTranslation": "psychothérapie (TCC)",
+    "esTranslation": "psicoterapia (TCC)",
+    "arTranslation": "علاج نفسي (العلاج المعرفي السلوكي)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "surgery",
+    "meaning": "A medical procedure involving operative techniques to treat disease or injury.",
+    "example": "Surgery repaired the torn meniscus.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/surgery/",
+    "frTranslation": "chirurgie",
+    "esTranslation": "cirugía",
+    "arTranslation": "جراحة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "stitches (suturing)",
+    "meaning": "Threading skin edges together to close a wound.",
+    "example": "A nurse removed the stitches after a week.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/stitches (suturing)/",
+    "frTranslation": "points de suture",
+    "esTranslation": "puntos de sutura",
+    "arTranslation": "غُرز (خياطة جراحية)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "cast (immobilization)",
+    "meaning": "A rigid shell that holds a broken bone still while it heals.",
+    "example": "He wore a cast for six weeks.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cast (immobilization)/",
+    "frTranslation": "plâtre (immobilisation)",
+    "esTranslation": "yeso (inmovilización)",
+    "arTranslation": "جبس لتثبيت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "CPR (cardiopulmonary resuscitation)",
+    "meaning": "An emergency technique of chest compressions and breaths to maintain circulation.",
+    "example": "A bystander performed CPR until help arrived.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/CPR (cardiopulmonary resuscitation)/",
+    "frTranslation": "RCP (réanimation cardio-respiratoire)",
+    "esTranslation": "RCP (reanimación cardiopulmonar)",
+    "arTranslation": "الإنعاش القلبي الرئوي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "insulin injection",
+    "meaning": "Delivering insulin to lower blood sugar in diabetes.",
+    "example": "He learned proper insulin injection technique.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/insulin injection/",
+    "frTranslation": "injection d’insuline",
+    "esTranslation": "inyección de insulina",
+    "arTranslation": "حقنة إنسولين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "dialysis",
+    "meaning": "A process that removes waste and excess fluid when kidneys fail.",
+    "example": "Dialysis sessions were scheduled three times weekly.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/dialysis/",
+    "frTranslation": "dialyse",
+    "esTranslation": "diálisis",
+    "arTranslation": "غسيل الكلى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "radiation therapy",
+    "meaning": "Use of high-energy radiation to damage or kill cancer cells.",
+    "example": "Radiation therapy targeted the tumor precisely.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/radiation therapy/",
+    "frTranslation": "radiothérapie",
+    "esTranslation": "radioterapia",
+    "arTranslation": "العلاج الإشعاعي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "chemotherapy",
+    "meaning": "Drugs that kill or slow the growth of cancer cells throughout the body.",
+    "example": "Chemotherapy caused temporary hair loss.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/chemotherapy/",
+    "frTranslation": "chimiothérapie",
+    "esTranslation": "quimioterapia",
+    "arTranslation": "العلاج الكيميائي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "inhaler (bronchodilator)",
+    "meaning": "A device that delivers medicine to open narrowed airways.",
+    "example": "He kept an inhaler for sudden wheeze.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/inhaler (bronchodilator)/",
+    "frTranslation": "inhalateur (bronchodilatateur)",
+    "esTranslation": "inhalador (broncodilatador)",
+    "arTranslation": "بخّاخ موسّع للقصبات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "antibiotic",
+    "meaning": "A drug that stops bacteria from growing or kills them.",
+    "example": "The doctor prescribed an antibiotic for the infection.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antibiotic/",
+    "frTranslation": "antibiotique",
+    "esTranslation": "antibiótico",
+    "arTranslation": "مضاد حيوي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "antiviral (contrast)"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antiviral",
+    "meaning": "A drug that inhibits viruses from replicating.",
+    "example": "An antiviral shortened the flu course.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antiviral/",
+    "frTranslation": "antiviral",
+    "esTranslation": "antiviral",
+    "arTranslation": "مضاد فيروسات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antifungal",
+    "meaning": "A drug that treats infections caused by fungi.",
+    "example": "Topical antifungal cream cleared the rash.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antifungal/",
+    "frTranslation": "antifongique",
+    "esTranslation": "antifúngico",
+    "arTranslation": "مضاد فطريات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antihistamine",
+    "meaning": "A drug that blocks histamine to relieve allergy symptoms.",
+    "example": "An antihistamine reduced sneezing.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antihistamine/",
+    "frTranslation": "antihistaminique",
+    "esTranslation": "antihistamínico",
+    "arTranslation": "مضاد هيستامين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "NSAID (anti-inflammatory)",
+    "meaning": "A nonsteroidal drug that reduces pain, fever, and inflammation.",
+    "example": "NSAIDs helped with joint pain.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/NSAID (anti-inflammatory)/",
+    "frTranslation": "AINS (anti-inflammatoire)",
+    "esTranslation": "AINE (antiinflamatorio)",
+    "arTranslation": "مضاد التهاب غير ستيرويدي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "corticosteroid",
+    "meaning": "A steroid hormone that reduces immune activity and inflammation.",
+    "example": "A short course of corticosteroids calmed the flare.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/corticosteroid/",
+    "frTranslation": "corticoïde",
+    "esTranslation": "corticosteroide",
+    "arTranslation": "كورتيكوستيرويد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "analgesic",
+    "meaning": "A medicine that relieves pain.",
+    "example": "She took an over-the-counter analgesic.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/analgesic/",
+    "frTranslation": "antalgique/analgésique",
+    "esTranslation": "analgésico",
+    "arTranslation": "مسكّن ألم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antipyretic",
+    "meaning": "A drug used to lower fever.",
+    "example": "An antipyretic reduced the child’s temperature.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antipyretic/",
+    "frTranslation": "antipyrétique",
+    "esTranslation": "antipirético",
+    "arTranslation": "خافض حرارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antidepressant (SSRI)",
+    "meaning": "A medication that increases serotonin levels to treat depression and anxiety.",
+    "example": "Her SSRI improved mood after several weeks.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antidepressant (SSRI)/",
+    "frTranslation": "antidépresseur (ISRS)",
+    "esTranslation": "antidepresivo (ISRS)",
+    "arTranslation": "مضاد اكتئاب (مثبّط استرداد السيروتونين)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "anxiolytic (benzodiazepine)",
+    "meaning": "A sedative that relieves acute anxiety by enhancing GABA activity.",
+    "example": "The clinic limited benzodiazepines to short-term use.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/anxiolytic (benzodiazepine)/",
+    "frTranslation": "anxiolytique (benzodiazépine)",
+    "esTranslation": "ansiolítico (benzodiacepina)",
+    "arTranslation": "مزيل قلق (بنزوديازيبين)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antipsychotic",
+    "meaning": "A drug that treats psychosis and stabilizes mood in some disorders.",
+    "example": "An antipsychotic reduced hallucinations.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antipsychotic/",
+    "frTranslation": "antipsychotique",
+    "esTranslation": "antipsicótico",
+    "arTranslation": "مضاد ذهان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antacid",
+    "meaning": "A substance that neutralizes stomach acid to relieve heartburn.",
+    "example": "He chewed an antacid after spicy food.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antacid/",
+    "frTranslation": "antiacide",
+    "esTranslation": "antiácido",
+    "arTranslation": "مضاد حموضة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "proton pump inhibitor (PPI)",
+    "meaning": "A drug that powerfully reduces stomach acid production.",
+    "example": "A PPI was prescribed for severe reflux.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/proton pump inhibitor (PPI)/",
+    "frTranslation": "inhibiteur de la pompe à protons (IPP)",
+    "esTranslation": "inhibidor de bomba de protones (IBP)",
+    "arTranslation": "مثبّط مضخة البروتون",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "antihypertensive (ACE inhibitor)",
+    "meaning": "A blood-pressure–lowering drug that relaxes arteries by blocking ACE.",
+    "example": "An ACE inhibitor lowered his readings.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/antihypertensive (ACE inhibitor)/",
+    "frTranslation": "antihypertenseur (IEC)",
+    "esTranslation": "antihipertensivo (IECA)",
+    "arTranslation": "خافض ضغط (مثبّط الإنزيم المحوّل)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "statin",
+    "meaning": "A drug that lowers LDL cholesterol by inhibiting liver synthesis.",
+    "example": "A statin reduced his cardiovascular risk.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/statin/",
+    "frTranslation": "statine",
+    "esTranslation": "estatinas",
+    "arTranslation": "ستاتين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "medication"
+    ]
+  },
+  {
+    "text": "come down with",
+    "meaning": "To become ill with a particular disease or condition.",
+    "example": "She came down with the flu after the trip.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/come down with/",
+    "frTranslation": "attraper (tomber malade de)",
+    "esTranslation": "coger/contraer",
+    "arTranslation": "أُصابُ بـ",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "contract",
+      "develop"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "fight off",
+    "meaning": "To resist an illness so it doesn’t take hold or gets milder.",
+    "example": "He fought off a cold by resting early.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/fight off/",
+    "frTranslation": "combattre (repousser)",
+    "esTranslation": "luchar contra",
+    "arTranslation": "مقاومة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "ward off"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "pass out",
+    "meaning": "To faint or lose consciousness temporarily.",
+    "example": "He passed out in the heat on the platform.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/pass out/",
+    "frTranslation": "perdre connaissance",
+    "esTranslation": "desmayarse",
+    "arTranslation": "الإغماء",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "faint"
+    ],
+    "antonyms": [
+      "come to"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "come to",
+    "meaning": "To regain consciousness after fainting or anesthesia.",
+    "example": "She came to a few minutes later.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/come to/",
+    "frTranslation": "revenir à soi",
+    "esTranslation": "recobrar el sentido",
+    "arTranslation": "يستعيد الوعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "pass out"
+    ],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "throw up",
+    "meaning": "To vomit.",
+    "example": "He threw up after the bad oysters.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/throw up/",
+    "frTranslation": "vomir (familier)",
+    "esTranslation": "vomitar",
+    "arTranslation": "يتقيّأ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "be sick"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "break out (in a rash)",
+    "meaning": "To suddenly develop a skin rash or pimples.",
+    "example": "She broke out in hives after the medicine.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/break out (in a rash)/",
+    "frTranslation": "faire une éruption (de boutons)",
+    "esTranslation": "salirle un sarpullido",
+    "arTranslation": "يَنْتَشِرُ طفحٌ جلدي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "flare up",
+    "meaning": "For a chronic condition to worsen suddenly.",
+    "example": "Her eczema flared up in winter.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/flare up/",
+    "frTranslation": "s’enflammer (rechute)",
+    "esTranslation": "recrudecer",
+    "arTranslation": "يتفاقم/يشتعل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "swell up",
+    "meaning": "For a body part to become larger due to fluid or inflammation.",
+    "example": "His ankle swelled up after the twist.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/swell up/",
+    "frTranslation": "gonfler",
+    "esTranslation": "hincharse",
+    "arTranslation": "يتورّم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "clear up (symptoms)",
+    "meaning": "For symptoms to disappear or improve.",
+    "example": "The rash cleared up in two days.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/clear up (symptoms)/",
+    "frTranslation": "disparaître/s’estomper",
+    "esTranslation": "remitir/clarificarse",
+    "arTranslation": "تتحسّن/تختفي الأعراض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "resolve"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "keep down (food)",
+    "meaning": "To avoid vomiting after eating or drinking.",
+    "example": "She could barely keep down liquids.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/keep down (food)/",
+    "frTranslation": "garder (ne pas vomir)",
+    "esTranslation": "retener (la comida)",
+    "arTranslation": "يحتفظ بالطعام دون قيء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "cut down on",
+    "meaning": "To reduce the amount of something unhealthy.",
+    "example": "He cut down on sugar and salt.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cut down on/",
+    "frTranslation": "réduire sa consommation de",
+    "esTranslation": "reducir el consumo de",
+    "arTranslation": "يُقَلّل من",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "work out",
+    "meaning": "To exercise for fitness or health.",
+    "example": "They work out three times a week.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/work out/",
+    "frTranslation": "faire de l’exercice",
+    "esTranslation": "hacer ejercicio",
+    "arTranslation": "يتمرّن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "warm up",
+    "meaning": "To prepare the body for exercise with light activity.",
+    "example": "Jog slowly to warm up the muscles.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/warm up/",
+    "frTranslation": "s’échauffer",
+    "esTranslation": "calentar",
+    "arTranslation": "الإحماء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "cool down",
+    "meaning": "To return the body to rest with gentle activity after exercise.",
+    "example": "Stretch to cool down after running.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cool down/",
+    "frTranslation": "récupérer (après effort)",
+    "esTranslation": "enfriar/recuperar",
+    "arTranslation": "تبريد الجسم بعد التمرين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "check up on",
+    "meaning": "To see how someone’s health is progressing.",
+    "example": "A nurse checked up on him after surgery.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/check up on/",
+    "frTranslation": "prendre des nouvelles / vérifier l’état de",
+    "esTranslation": "ver cómo está / revisar",
+    "arTranslation": "الاطمئنان على",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "follow up (with)",
+    "meaning": "To continue care or contact after an initial visit.",
+    "example": "Please follow up with your doctor next week.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/follow up (with)/",
+    "frTranslation": "assurer le suivi (avec)",
+    "esTranslation": "dar seguimiento (con)",
+    "arTranslation": "متابعة (مع)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stick to (a diet/plan)",
+    "meaning": "To continue following a plan without deviating.",
+    "example": "He stuck to a low-salt diet.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/stick to (a diet/plan)/",
+    "frTranslation": "s’en tenir à",
+    "esTranslation": "ceñirse a",
+    "arTranslation": "الالتزام بـ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "taper off (medication)",
+    "meaning": "To reduce a drug dose slowly to avoid withdrawal or relapse.",
+    "example": "They tapered off the steroid over a week.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/taper off (medication)/",
+    "frTranslation": "diminuer progressivement",
+    "esTranslation": "reducir gradualmente",
+    "arTranslation": "يُخَفِّف الجرعة تدريجياً",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "wean off",
+    "meaning": "To gradually stop using a medication or substance.",
+    "example": "She weaned off caffeine over a month.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/wean off/",
+    "frTranslation": "sevrer de",
+    "esTranslation": "deshabituar de",
+    "arTranslation": "فطام/فطم عن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "build up (immunity/fitness)",
+    "meaning": "To increase strength or defenses over time.",
+    "example": "Regular vaccines help build up immunity.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/build up (immunity/fitness)/",
+    "frTranslation": "renforcer (immunité/forme)",
+    "esTranslation": "fortalecer (inmunidad/condición)",
+    "arTranslation": "يبني/يعزّز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "first aid kit",
+    "meaning": "A portable collection of basic medical supplies for emergencies.",
+    "example": "They kept a first aid kit in the car.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/first aid kit/",
+    "frTranslation": "trousse de premiers secours",
+    "esTranslation": "botiquín de primeros auxilios",
+    "arTranslation": "حقيبة الإسعافات الأولية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "emergency kit"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "prevention"
+    ]
+  },
+  {
+    "text": "wound care",
+    "meaning": "Cleaning, protecting, and monitoring a cut or injury to promote healing.",
+    "example": "Proper wound care prevented infection.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/wound care/",
+    "frTranslation": "soins des plaies",
+    "esTranslation": "cuidado de heridas",
+    "arTranslation": "العناية بالجروح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "treatment"
+    ]
+  },
+  {
+    "text": "telemedicine",
+    "meaning": "Healthcare provided remotely via phone or video technology.",
+    "example": "She scheduled a telemedicine visit for follow-up.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/telemedicine/",
+    "frTranslation": "télémédecine",
+    "esTranslation": "telemedicina",
+    "arTranslation": "الطب عن بُعد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "health services"
+    ]
+  }
+]

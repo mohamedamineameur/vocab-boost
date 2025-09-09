@@ -1,0 +1,8 @@
+.env
+docker-compose.yml
+
+dist/
+
+init-multiple-dbs.sh
+node_modules/
+

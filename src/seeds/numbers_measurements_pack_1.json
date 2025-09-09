@@ -1,0 +1,1200 @@
+[
+  {
+    "text": "zero",
+    "meaning": "The number zero used for counting and quantities.",
+    "example": "There are zero items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/zero/",
+    "frTranslation": "zéro",
+    "esTranslation": "cero",
+    "arTranslation": "صفر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "one",
+    "meaning": "The number one used for counting and quantities.",
+    "example": "There are one items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/one/",
+    "frTranslation": "un",
+    "esTranslation": "uno",
+    "arTranslation": "واحد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "two",
+    "meaning": "The number two used for counting and quantities.",
+    "example": "There are two items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/two/",
+    "frTranslation": "deux",
+    "esTranslation": "dos",
+    "arTranslation": "اثنان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "three",
+    "meaning": "The number three used for counting and quantities.",
+    "example": "There are three items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/three/",
+    "frTranslation": "trois",
+    "esTranslation": "tres",
+    "arTranslation": "ثلاثة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "four",
+    "meaning": "The number four used for counting and quantities.",
+    "example": "There are four items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/four/",
+    "frTranslation": "quatre",
+    "esTranslation": "cuatro",
+    "arTranslation": "أربعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "five",
+    "meaning": "The number five used for counting and quantities.",
+    "example": "There are five items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/five/",
+    "frTranslation": "cinq",
+    "esTranslation": "cinco",
+    "arTranslation": "خمسة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "six",
+    "meaning": "The number six used for counting and quantities.",
+    "example": "There are six items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/six/",
+    "frTranslation": "six",
+    "esTranslation": "seis",
+    "arTranslation": "ستة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "seven",
+    "meaning": "The number seven used for counting and quantities.",
+    "example": "There are seven items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/seven/",
+    "frTranslation": "sept",
+    "esTranslation": "siete",
+    "arTranslation": "سبعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "eight",
+    "meaning": "The number eight used for counting and quantities.",
+    "example": "There are eight items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/eight/",
+    "frTranslation": "huit",
+    "esTranslation": "ocho",
+    "arTranslation": "ثمانية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "nine",
+    "meaning": "The number nine used for counting and quantities.",
+    "example": "There are nine items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/nine/",
+    "frTranslation": "neuf",
+    "esTranslation": "nueve",
+    "arTranslation": "تسعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "ten",
+    "meaning": "The number ten used for counting and quantities.",
+    "example": "There are ten items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ten/",
+    "frTranslation": "dix",
+    "esTranslation": "diez",
+    "arTranslation": "عشرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "eleven",
+    "meaning": "The number eleven used for counting and quantities.",
+    "example": "There are eleven items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/eleven/",
+    "frTranslation": "onze",
+    "esTranslation": "once",
+    "arTranslation": "أحد عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "twelve",
+    "meaning": "The number twelve used for counting and quantities.",
+    "example": "There are twelve items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/twelve/",
+    "frTranslation": "douze",
+    "esTranslation": "doce",
+    "arTranslation": "اثنا عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "thirteen",
+    "meaning": "The number thirteen used for counting and quantities.",
+    "example": "There are thirteen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/thirteen/",
+    "frTranslation": "treize",
+    "esTranslation": "trece",
+    "arTranslation": "ثلاثة عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "fourteen",
+    "meaning": "The number fourteen used for counting and quantities.",
+    "example": "There are fourteen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/fourteen/",
+    "frTranslation": "quatorze",
+    "esTranslation": "catorce",
+    "arTranslation": "أربعة عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "fifteen",
+    "meaning": "The number fifteen used for counting and quantities.",
+    "example": "There are fifteen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/fifteen/",
+    "frTranslation": "quinze",
+    "esTranslation": "quince",
+    "arTranslation": "خمسة عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "sixteen",
+    "meaning": "The number sixteen used for counting and quantities.",
+    "example": "There are sixteen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/sixteen/",
+    "frTranslation": "seize",
+    "esTranslation": "dieciséis",
+    "arTranslation": "ستة عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "seventeen",
+    "meaning": "The number seventeen used for counting and quantities.",
+    "example": "There are seventeen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/seventeen/",
+    "frTranslation": "dix-sept",
+    "esTranslation": "diecisiete",
+    "arTranslation": "سبعة عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "eighteen",
+    "meaning": "The number eighteen used for counting and quantities.",
+    "example": "There are eighteen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/eighteen/",
+    "frTranslation": "dix-huit",
+    "esTranslation": "dieciocho",
+    "arTranslation": "ثمانية عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "nineteen",
+    "meaning": "The number nineteen used for counting and quantities.",
+    "example": "There are nineteen items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/nineteen/",
+    "frTranslation": "dix-neuf",
+    "esTranslation": "diecinueve",
+    "arTranslation": "تسعة عشر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "twenty",
+    "meaning": "The number twenty used for counting and quantities.",
+    "example": "There are twenty items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/twenty/",
+    "frTranslation": "vingt",
+    "esTranslation": "veinte",
+    "arTranslation": "عشرون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "thirty",
+    "meaning": "The number thirty used for counting and quantities.",
+    "example": "There are thirty items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/thirty/",
+    "frTranslation": "trente",
+    "esTranslation": "treinta",
+    "arTranslation": "ثلاثون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "forty",
+    "meaning": "The number forty used for counting and quantities.",
+    "example": "There are forty items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/forty/",
+    "frTranslation": "quarante",
+    "esTranslation": "cuarenta",
+    "arTranslation": "أربعون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "fifty",
+    "meaning": "The number fifty used for counting and quantities.",
+    "example": "There are fifty items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/fifty/",
+    "frTranslation": "cinquante",
+    "esTranslation": "cincuenta",
+    "arTranslation": "خمسون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "sixty",
+    "meaning": "The number sixty used for counting and quantities.",
+    "example": "There are sixty items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/sixty/",
+    "frTranslation": "soixante",
+    "esTranslation": "sesenta",
+    "arTranslation": "ستون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "seventy",
+    "meaning": "The number seventy used for counting and quantities.",
+    "example": "There are seventy items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/seventy/",
+    "frTranslation": "soixante-dix",
+    "esTranslation": "setenta",
+    "arTranslation": "سبعون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "eighty",
+    "meaning": "The number eighty used for counting and quantities.",
+    "example": "There are eighty items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/eighty/",
+    "frTranslation": "quatre-vingts",
+    "esTranslation": "ochenta",
+    "arTranslation": "ثمانون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "ninety",
+    "meaning": "The number ninety used for counting and quantities.",
+    "example": "There are ninety items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ninety/",
+    "frTranslation": "quatre-vingt-dix",
+    "esTranslation": "noventa",
+    "arTranslation": "تسعون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "hundred",
+    "meaning": "The number hundred used for counting and quantities.",
+    "example": "There are hundred items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/hundred/",
+    "frTranslation": "cent",
+    "esTranslation": "cien/ciento",
+    "arTranslation": "مئة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "thousand",
+    "meaning": "The number thousand used for counting and quantities.",
+    "example": "There are thousand items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/thousand/",
+    "frTranslation": "mille",
+    "esTranslation": "mil",
+    "arTranslation": "ألف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "million",
+    "meaning": "The number million used for counting and quantities.",
+    "example": "There are million items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/million/",
+    "frTranslation": "million",
+    "esTranslation": "millón",
+    "arTranslation": "مليون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "billion",
+    "meaning": "The number billion used for counting and quantities.",
+    "example": "There are billion items on the shelf.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/billion/",
+    "frTranslation": "milliard* (FR) / billion",
+    "esTranslation": "mil millones / billón (según país)",
+    "arTranslation": "مليار",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "numerals"
+    ]
+  },
+  {
+    "text": "first (1st)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the first (1st).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/first (1st)/",
+    "frTranslation": "premier/première",
+    "esTranslation": "primero/a (1.º)",
+    "arTranslation": "الأول",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "third (3rd)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the third (3rd).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/third (3rd)/",
+    "frTranslation": "troisième",
+    "esTranslation": "tercero/a (3.º)",
+    "arTranslation": "الثالث",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "fourth (4th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the fourth (4th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/fourth (4th)/",
+    "frTranslation": "quatrième",
+    "esTranslation": "cuarto/a (4.º)",
+    "arTranslation": "الرابع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "fifth (5th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the fifth (5th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/fifth (5th)/",
+    "frTranslation": "cinquième",
+    "esTranslation": "quinto/a (5.º)",
+    "arTranslation": "الخامس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "sixth (6th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the sixth (6th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/sixth (6th)/",
+    "frTranslation": "sixième",
+    "esTranslation": "sexto/a (6.º)",
+    "arTranslation": "السادس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "seventh (7th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the seventh (7th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/seventh (7th)/",
+    "frTranslation": "septième",
+    "esTranslation": "séptimo/a (7.º)",
+    "arTranslation": "السابع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "eighth (8th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the eighth (8th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/eighth (8th)/",
+    "frTranslation": "huitième",
+    "esTranslation": "octavo/a (8.º)",
+    "arTranslation": "الثامن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "ninth (9th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the ninth (9th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ninth (9th)/",
+    "frTranslation": "neuvième",
+    "esTranslation": "noveno/a (9.º)",
+    "arTranslation": "التاسع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "tenth (10th)",
+    "meaning": "An ordinal number showing position or order.",
+    "example": "Her birthday is on the tenth (10th).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/tenth (10th)/",
+    "frTranslation": "dixième",
+    "esTranslation": "décimo/a (10.º)",
+    "arTranslation": "العاشر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ordinals"
+    ]
+  },
+  {
+    "text": "add",
+    "meaning": "To combine numbers to find a total.",
+    "example": "Add the figures in column B.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/add/",
+    "frTranslation": "additionner",
+    "esTranslation": "sumar",
+    "arTranslation": "يجمع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "sum",
+    "meaning": "The result of adding numbers.",
+    "example": "The sum of 7 and 8 is 15.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/sum/",
+    "frTranslation": "somme",
+    "esTranslation": "suma",
+    "arTranslation": "مجموع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "subtract",
+    "meaning": "To take one number away from another.",
+    "example": "Subtract expenses from revenue.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/subtract/",
+    "frTranslation": "soustraire",
+    "esTranslation": "restar",
+    "arTranslation": "يطرح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "difference",
+    "meaning": "The result of subtracting one number from another.",
+    "example": "The difference is only two points.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/difference/",
+    "frTranslation": "différence",
+    "esTranslation": "diferencia",
+    "arTranslation": "الفرق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "multiply",
+    "meaning": "To add a number to itself a certain number of times.",
+    "example": "Multiply length by width for area.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/multiply/",
+    "frTranslation": "multiplier",
+    "esTranslation": "multiplicar",
+    "arTranslation": "يضرب (حسابيًا)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "product",
+    "meaning": "The result of multiplication.",
+    "example": "The product of 6 and 4 is 24.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/product/",
+    "frTranslation": "produit",
+    "esTranslation": "producto",
+    "arTranslation": "ناتج الضرب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "divide",
+    "meaning": "To split into equal parts or groups.",
+    "example": "Divide the bill by four.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/divide/",
+    "frTranslation": "diviser",
+    "esTranslation": "dividir",
+    "arTranslation": "يقسم (حسابيًا)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "quotient",
+    "meaning": "The result of division.",
+    "example": "The quotient is 5 when 20 is divided by 4.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/quotient/",
+    "frTranslation": "quotient",
+    "esTranslation": "cociente",
+    "arTranslation": "خارج القسمة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "remainder",
+    "meaning": "What is left after division when numbers don’t divide evenly.",
+    "example": "20 ÷ 6 has a remainder of 2.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/remainder/",
+    "frTranslation": "reste",
+    "esTranslation": "residuo",
+    "arTranslation": "باقي القسمة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "arithmetic"
+    ]
+  },
+  {
+    "text": "fraction",
+    "meaning": "A number that expresses parts of a whole.",
+    "example": "One half is the fraction 1/2.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/fraction/",
+    "frTranslation": "fraction",
+    "esTranslation": "fracción",
+    "arTranslation": "كسر (رياضي)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "fractions"
+    ]
+  },
+  {
+    "text": "numerator",
+    "meaning": "The top number of a fraction showing how many parts are taken.",
+    "example": "In 3/5, the numerator is 3.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/numerator/",
+    "frTranslation": "numérateur",
+    "esTranslation": "numerador",
+    "arTranslation": "البسط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "fractions"
+    ]
+  },
+  {
+    "text": "denominator",
+    "meaning": "The bottom number of a fraction showing total equal parts.",
+    "example": "In 3/5, the denominator is 5.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/denominator/",
+    "frTranslation": "dénominateur",
+    "esTranslation": "denominador",
+    "arTranslation": "المقام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "fractions"
+    ]
+  },
+  {
+    "text": "improper fraction",
+    "meaning": "A fraction where the numerator is equal to or greater than the denominator.",
+    "example": "9/4 is an improper fraction.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/improper fraction/",
+    "frTranslation": "fraction impropre",
+    "esTranslation": "fracción impropia",
+    "arTranslation": "كسر غير حقيقي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "fractions"
+    ]
+  },
+  {
+    "text": "mixed number",
+    "meaning": "A whole number and a fraction together.",
+    "example": "2 1/4 is a mixed number.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/mixed number/",
+    "frTranslation": "nombre mixte",
+    "esTranslation": "número mixto",
+    "arTranslation": "عدد كسري مختلط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "fractions"
+    ]
+  },
+  {
+    "text": "reduce (a fraction)",
+    "meaning": "To simplify a fraction to lowest terms.",
+    "example": "Reduce 4/8 to 1/2.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/reduce (a fraction)/",
+    "frTranslation": "réduire (une fraction)",
+    "esTranslation": "simplificar (una fracción)",
+    "arTranslation": "يبسّط الكسر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "fractions"
+    ]
+  },
+  {
+    "text": "decimal",
+    "meaning": "A number written with a decimal point to show tenths, hundredths, etc.",
+    "example": "0.75 is a decimal equal to 3/4.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/decimal/",
+    "frTranslation": "décimal",
+    "esTranslation": "decimal",
+    "arTranslation": "عشري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "decimals"
+    ]
+  },
+  {
+    "text": "decimal point",
+    "meaning": "The dot that separates whole numbers from fractional parts.",
+    "example": "Write 3.14 with a decimal point.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/decimal point/",
+    "frTranslation": "virgule (décimale)",
+    "esTranslation": "punto decimal",
+    "arTranslation": "فاصلة عشرية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "decimals"
+    ]
+  },
+  {
+    "text": "place value",
+    "meaning": "The value a digit has because of its position in a number.",
+    "example": "The 5 in 250 stands for fifty.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/place value/",
+    "frTranslation": "valeur de position",
+    "esTranslation": "valor posicional",
+    "arTranslation": "قيمة المنزلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "decimals"
+    ]
+  },
+  {
+    "text": "percent",
+    "meaning": "One part in a hundred, shown with the percent sign.",
+    "example": "A 10 percent discount saves money.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/percent/",
+    "frTranslation": "pour cent (%)",
+    "esTranslation": "por ciento (%)",
+    "arTranslation": "بالمئة (%)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "percent"
+    ]
+  },
+  {
+    "text": "percentage point",
+    "meaning": "A unit for the arithmetic difference between two percentages.",
+    "example": "Inflation rose from 2% to 5%, a three-percentage-point jump.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/percentage point/",
+    "frTranslation": "point de pourcentage",
+    "esTranslation": "punto porcentual",
+    "arTranslation": "نقطة مئوية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "percent"
+    ]
+  },
+  {
+    "text": "basis point (bps)",
+    "meaning": "One hundredth of a percent (0.01%).",
+    "example": "Rates increased by 25 bps (0.25%).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/basis point (bps)/",
+    "frTranslation": "point de base (pb)",
+    "esTranslation": "punto básico (pb)",
+    "arTranslation": "نقطة أساس",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "percent"
+    ]
+  },
+  {
+    "text": "ratio",
+    "meaning": "A comparison of two quantities by division.",
+    "example": "The ratio of water to rice is 2:1.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ratio/",
+    "frTranslation": "ratio/rapport",
+    "esTranslation": "razón/relación",
+    "arTranslation": "نسبة/معدل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ratios"
+    ]
+  },
+  {
+    "text": "proportion",
+    "meaning": "An equation that states two ratios are equal.",
+    "example": "Keep the sauce in the same proportion when scaling.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/proportion/",
+    "frTranslation": "proportion",
+    "esTranslation": "proporción",
+    "arTranslation": "تناسب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ratios"
+    ]
+  },
+  {
+    "text": "rate",
+    "meaning": "A ratio comparing two different units (e.g., km per hour).",
+    "example": "The heart rate was 72 beats per minute.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/rate/",
+    "frTranslation": "taux",
+    "esTranslation": "tasa/ritmo",
+    "arTranslation": "معدل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ratios"
+    ]
+  },
+  {
+    "text": "unit rate",
+    "meaning": "A rate with a denominator of one unit.",
+    "example": "The car uses 6 liters per 100 km; find the unit rate per km.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/unit rate/",
+    "frTranslation": "taux unitaire",
+    "esTranslation": "tasa unitaria",
+    "arTranslation": "معدل لكل وحدة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "ratios"
+    ]
+  },
+  {
+    "text": "even number",
+    "meaning": "An integer divisible by 2.",
+    "example": "8 is an even number.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/even number/",
+    "frTranslation": "nombre pair",
+    "esTranslation": "número par",
+    "arTranslation": "عدد زوجي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "odd number"
+    ],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "odd number",
+    "meaning": "An integer not divisible by 2.",
+    "example": "7 is an odd number.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/odd number/",
+    "frTranslation": "nombre impair",
+    "esTranslation": "número impar",
+    "arTranslation": "عدد فردي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "even number"
+    ],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "prime number",
+    "meaning": "A number greater than 1 with exactly two factors: 1 and itself.",
+    "example": "13 is a prime number.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/prime number/",
+    "frTranslation": "nombre premier",
+    "esTranslation": "número primo",
+    "arTranslation": "عدد أولي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "composite number"
+    ],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "composite number",
+    "meaning": "A number with more than two positive factors.",
+    "example": "12 is a composite number.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/composite number/",
+    "frTranslation": "nombre composé",
+    "esTranslation": "número compuesto",
+    "arTranslation": "عدد مركب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "prime number"
+    ],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  }
+]

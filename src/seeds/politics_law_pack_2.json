@@ -1,0 +1,1032 @@
+[
+  {
+    "text": "case law",
+    "meaning": "Law developed through judicial decisions rather than statutes.",
+    "example": "Case law clarified employer obligations.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/case law/",
+    "frTranslation": "jurisprudence",
+    "esTranslation": "jurisprudencia",
+    "arTranslation": "قانون قضائي (سوابق)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "litigation",
+    "meaning": "The process of taking legal action in court.",
+    "example": "The company avoided costly litigation by settling early.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/litigation/",
+    "frTranslation": "contentieux (procès)",
+    "esTranslation": "litigio",
+    "arTranslation": "تقاضي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "lawsuit"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "plaintiff",
+    "meaning": "The party who files a lawsuit seeking relief.",
+    "example": "The plaintiff alleged breach of contract.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/plaintiff/",
+    "frTranslation": "demandeur(se)",
+    "esTranslation": "demandante",
+    "arTranslation": "مدّعٍ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "defendant"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "defendant",
+    "meaning": "The party accused or sued in a legal action.",
+    "example": "The defendant denied all allegations.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/defendant/",
+    "frTranslation": "défendeur(se)",
+    "esTranslation": "demandado(a)",
+    "arTranslation": "مدّعى عليه",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "plaintiff"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "prosecutor",
+    "meaning": "A government lawyer who brings criminal charges.",
+    "example": "The prosecutor presented forensic evidence.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/prosecutor/",
+    "frTranslation": "procureur(e)",
+    "esTranslation": "fiscal",
+    "arTranslation": "مدّعٍ عام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "defense attorney",
+    "meaning": "A lawyer who represents the accused in criminal cases.",
+    "example": "The defense attorney challenged the confession.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/defense attorney/",
+    "frTranslation": "avocat(e) de la défense",
+    "esTranslation": "abogado(a) defensor(a)",
+    "arTranslation": "محامي الدفاع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "judge",
+    "meaning": "An official who presides over court proceedings and issues rulings.",
+    "example": "The judge instructed the jury on the law.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/judge/",
+    "frTranslation": "juge",
+    "esTranslation": "juez(a)",
+    "arTranslation": "قاضٍ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "jury",
+    "meaning": "A group of citizens sworn to reach a verdict based on evidence.",
+    "example": "The jury deliberated for two days.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/jury/",
+    "frTranslation": "jury",
+    "esTranslation": "jurado",
+    "arTranslation": "هيئة المحلفين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "arraignment",
+    "meaning": "The initial court appearance where charges are read and a plea is entered.",
+    "example": "At arraignment, the defendant pleaded not guilty.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/arraignment/",
+    "frTranslation": "mise en accusation (audience)",
+    "esTranslation": "lectura de cargos",
+    "arTranslation": "جلسة توجيه الاتهام",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "indictment",
+    "meaning": "A formal charge issued by a grand jury or prosecutor alleging a crime.",
+    "example": "The indictment listed five counts of fraud.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/indictment/",
+    "frTranslation": "acte d’accusation",
+    "esTranslation": "acusación formal (indictment)",
+    "arTranslation": "لائحة اتهام",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "subpoena",
+    "meaning": "A court order requiring a person to testify or produce evidence.",
+    "example": "The witness complied with the subpoena.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/subpoena/",
+    "frTranslation": "assignation à comparaître",
+    "esTranslation": "citación judicial (subpoena)",
+    "arTranslation": "أمر استدعاء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "warrant",
+    "meaning": "A judicial authorization to arrest, search, or seize property.",
+    "example": "Police obtained a search warrant for the office.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/warrant/",
+    "frTranslation": "mandat (perquisition/arrêt)",
+    "esTranslation": "orden judicial (allanamiento/arresto)",
+    "arTranslation": "مذكرة قضائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "probable cause",
+    "meaning": "Reasonable grounds to believe a person committed a crime or evidence is present.",
+    "example": "The judge found probable cause to issue the warrant.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/probable cause/",
+    "frTranslation": "motifs raisonnables (soupçon)",
+    "esTranslation": "causa probable",
+    "arTranslation": "سبب محتمل معقول",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "burden of proof",
+    "meaning": "The obligation to prove one’s claim or accusation to a required standard.",
+    "example": "In criminal cases, the burden of proof is on the prosecution.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/burden of proof/",
+    "frTranslation": "charge de la preuve",
+    "esTranslation": "carga de la prueba",
+    "arTranslation": "عبء الإثبات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "beyond a reasonable doubt",
+    "meaning": "The highest standard of proof in criminal law.",
+    "example": "The jury was not convinced beyond a reasonable doubt.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/beyond a reasonable doubt/",
+    "frTranslation": "au‑delà de tout doute raisonnable",
+    "esTranslation": "más allá de toda duda razonable",
+    "arTranslation": "ما وراء الشك المعقول",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "preponderance of evidence",
+    "meaning": "A civil standard meaning something is more likely true than not.",
+    "example": "The judge found liability by a preponderance of evidence.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/preponderance of evidence/",
+    "frTranslation": "prépondérance de la preuve",
+    "esTranslation": "preponderancia de la evidencia",
+    "arTranslation": "رجحان الأدلة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "tort",
+    "meaning": "A civil wrong that causes harm and can lead to compensation.",
+    "example": "Negligence is a common tort in injury suits.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/tort/",
+    "frTranslation": "responsabilité délictuelle (tort)",
+    "esTranslation": "agravio (tort)",
+    "arTranslation": "فعل ضار (مسؤولية تقصيرية)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "negligence",
+    "meaning": "Failure to exercise reasonable care, causing harm to another.",
+    "example": "The court found negligence in safety practices.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/negligence/",
+    "frTranslation": "négligence",
+    "esTranslation": "negligencia",
+    "arTranslation": "إهمال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "damages",
+    "meaning": "Money awarded by a court to compensate for loss or injury.",
+    "example": "The jury awarded compensatory damages.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/damages/",
+    "frTranslation": "dommages‑intérêts",
+    "esTranslation": "daños y perjuicios",
+    "arTranslation": "تعويضات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "injunction",
+    "meaning": "A court order requiring a party to do or stop doing something.",
+    "example": "The judge issued an injunction to halt the project.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/injunction/",
+    "frTranslation": "injonction",
+    "esTranslation": "interdicto/medida cautelar",
+    "arTranslation": "أمر قضائي بالمنع/الإلزام",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "class action",
+    "meaning": "A lawsuit filed on behalf of a large group with similar claims.",
+    "example": "Consumers filed a class action over fees.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/class action/",
+    "frTranslation": "action collective",
+    "esTranslation": "demanda colectiva",
+    "arTranslation": "دعوى جماعية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "settlement",
+    "meaning": "An agreement that resolves a dispute without a trial.",
+    "example": "Both sides reached a confidential settlement.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/settlement/",
+    "frTranslation": "règlement à l’amiable",
+    "esTranslation": "acuerdo (extrajudicial)",
+    "arTranslation": "تسوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "mediation",
+    "meaning": "A neutral third party helps disputing sides reach a voluntary agreement.",
+    "example": "Mediation resolved the neighborhood dispute.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/mediation/",
+    "frTranslation": "médiation",
+    "esTranslation": "mediación",
+    "arTranslation": "وساطة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "arbitration",
+    "meaning": "A private process where a neutral arbitrator issues a binding decision.",
+    "example": "The contract requires binding arbitration.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/arbitration/",
+    "frTranslation": "arbitrage",
+    "esTranslation": "arbitraje",
+    "arTranslation": "تحكيم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "discovery",
+    "meaning": "Pretrial exchange of evidence and information between parties.",
+    "example": "Emails were produced during discovery.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/discovery/",
+    "frTranslation": "communication des pièces (discovery)",
+    "esTranslation": "descubrimiento de pruebas",
+    "arTranslation": "إفصاح/اكتشاف الأدلة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "deposition",
+    "meaning": "Sworn, out‑of‑court testimony recorded for later use.",
+    "example": "The witness sat for a four‑hour deposition.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/deposition/",
+    "frTranslation": "déposition (pré‑procès)",
+    "esTranslation": "declaración jurada (deposición)",
+    "arTranslation": "شهادة مُسجلة قبل المحاكمة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "appeal",
+    "meaning": "A request for a higher court to review and change a lower court’s decision.",
+    "example": "The defense filed an appeal immediately.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/appeal/",
+    "frTranslation": "appel",
+    "esTranslation": "apelación",
+    "arTranslation": "استئناف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "procedure"
+    ]
+  },
+  {
+    "text": "appellate court",
+    "meaning": "A court that reviews decisions of lower courts for legal errors.",
+    "example": "The appellate court remanded the case.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/appellate court/",
+    "frTranslation": "cour d’appel",
+    "esTranslation": "tribunal de apelaciones",
+    "arTranslation": "محكمة الاستئناف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "courts"
+    ]
+  },
+  {
+    "text": "human rights",
+    "meaning": "Basic rights and freedoms inherent to all people, such as life, dignity, and equality.",
+    "example": "Advocates documented human rights violations.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/human rights/",
+    "frTranslation": "droits humains",
+    "esTranslation": "derechos humanos",
+    "arTranslation": "حقوق الإنسان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "civil liberties",
+    "meaning": "Freedoms protected from government interference, like speech and religion.",
+    "example": "The court expanded civil liberties protections.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/civil liberties/",
+    "frTranslation": "libertés civiles",
+    "esTranslation": "libertades civiles",
+    "arTranslation": "حريات مدنية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "due process",
+    "meaning": "Fair legal procedures that the government must follow before depriving rights.",
+    "example": "The judge ruled that due process was violated.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/due process/",
+    "frTranslation": "procès équitable / procédure régulière",
+    "esTranslation": "debido proceso",
+    "arTranslation": "الإجراءات القانونية الواجبة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "equal protection",
+    "meaning": "The legal guarantee that the state will not discriminate unfairly among people.",
+    "example": "Voters argued the map denied equal protection.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/equal protection/",
+    "frTranslation": "égale protection (de la loi)",
+    "esTranslation": "igual protección",
+    "arTranslation": "حماية متساوية بموجب القانون",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "freedom of expression",
+    "meaning": "The right to share opinions and information without undue restriction.",
+    "example": "Artists protested to defend freedom of expression.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/freedom of expression/",
+    "frTranslation": "liberté d’expression",
+    "esTranslation": "libertad de expresión",
+    "arTranslation": "حرية التعبير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "privacy",
+    "meaning": "The right to control personal information and be free from unwarranted intrusion.",
+    "example": "New rules protect privacy in digital searches.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/privacy/",
+    "frTranslation": "vie privée",
+    "esTranslation": "privacidad",
+    "arTranslation": "خصوصية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "habeas corpus",
+    "meaning": "A legal action requiring authorities to justify a person’s detention before a court.",
+    "example": "The prisoner petitioned for habeas corpus.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/habeas corpus/",
+    "frTranslation": "habeas corpus",
+    "esTranslation": "habeas corpus",
+    "arTranslation": "أمر إحضار (هابياس كوربوس)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "double jeopardy",
+    "meaning": "A principle that prevents someone from being tried twice for the same offense after acquittal or conviction.",
+    "example": "The appeal was barred by double jeopardy.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/double jeopardy/",
+    "frTranslation": "double incrimination",
+    "esTranslation": "doble incriminación",
+    "arTranslation": "عدم المحاكمة مرتين لنفس الجرم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "freedom of assembly",
+    "meaning": "The right to gather peacefully for protest or discussion.",
+    "example": "Permits regulate time and place of assembly.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/freedom of assembly/",
+    "frTranslation": "liberté de réunion",
+    "esTranslation": "libertad de reunión",
+    "arTranslation": "حرية التجمع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "sufficiency of evidence",
+    "meaning": "A standard assessing whether evidence could support a verdict.",
+    "example": "The court found insufficient evidence for conviction.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/sufficiency of evidence/",
+    "frTranslation": "suffisance de la preuve",
+    "esTranslation": "suficiencia de la prueba",
+    "arTranslation": "كفاية الأدلة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "rights"
+    ]
+  },
+  {
+    "text": "treaty",
+    "meaning": "A formal agreement between states governed by international law.",
+    "example": "The treaty set fishing quotas for the region.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/treaty/",
+    "frTranslation": "traité",
+    "esTranslation": "tratado",
+    "arTranslation": "معاهدة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "convention (international)",
+    "meaning": "A multilateral treaty that sets common standards or rules.",
+    "example": "The labor convention bans forced work.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/convention (international)/",
+    "frTranslation": "convention (internationale)",
+    "esTranslation": "convención (internacional)",
+    "arTranslation": "اتفاقية دولية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "protocol (treaty)",
+    "meaning": "An addition to a treaty that refines or extends obligations.",
+    "example": "Countries signed a protocol to reduce emissions.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/protocol (treaty)/",
+    "frTranslation": "protocole (traité)",
+    "esTranslation": "protocolo (tratado)",
+    "arTranslation": "بروتوكول ملحق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "sanction (economic)",
+    "meaning": "A penalty like trade limits used to influence another state’s behavior.",
+    "example": "The bloc imposed sanctions after the violation.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/sanction (economic)/",
+    "frTranslation": "sanction (économique)",
+    "esTranslation": "sanción (económica)",
+    "arTranslation": "عقوبة اقتصادية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "embargo",
+    "meaning": "A government order restricting trade with a specific country or goods.",
+    "example": "The embargo halted oil shipments.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/embargo/",
+    "frTranslation": "embargo",
+    "esTranslation": "embargo",
+    "arTranslation": "حظر/حظر تجاري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "diplomatic immunity",
+    "meaning": "Protections that shield diplomats from certain laws of the host country.",
+    "example": "Diplomatic immunity prevents arrest for minor offenses.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/diplomatic immunity/",
+    "frTranslation": "immunité diplomatique",
+    "esTranslation": "inmunidad diplomática",
+    "arTranslation": "حصانة دبلوماسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "ambassador",
+    "meaning": "The highest-ranking diplomat representing a country abroad.",
+    "example": "The ambassador met with cultural leaders.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/ambassador/",
+    "frTranslation": "ambassadeur(drice)",
+    "esTranslation": "embajador(a)",
+    "arTranslation": "سفير/سفيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "embassy",
+    "meaning": "The official residence and offices of an ambassador.",
+    "example": "The embassy issued travel advisories.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/embassy/",
+    "frTranslation": "ambassade",
+    "esTranslation": "embajada",
+    "arTranslation": "سفارة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "asylum (political)",
+    "meaning": "Protection granted by a state to someone fleeing persecution.",
+    "example": "The journalist applied for political asylum.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/asylum (political)/",
+    "frTranslation": "asile (politique)",
+    "esTranslation": "asilo (político)",
+    "arTranslation": "لجوء سياسي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "refugee",
+    "meaning": "A person forced to flee their country due to conflict or persecution.",
+    "example": "Refugees crossed the border seeking safety.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/refugee/",
+    "frTranslation": "réfugié(e)",
+    "esTranslation": "refugiado(a)",
+    "arTranslation": "لاجئ/لاجئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "extradition",
+    "meaning": "A process where one state surrenders a suspect to another for trial or punishment.",
+    "example": "The court heard arguments against extradition.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/extradition/",
+    "frTranslation": "extradition",
+    "esTranslation": "extradición",
+    "arTranslation": "تسليم مطلوبين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "international"
+    ]
+  },
+  {
+    "text": "public policy",
+    "meaning": "Government actions and decisions aimed at solving public problems.",
+    "example": "Evidence‑based public policy improves outcomes.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/public policy/",
+    "frTranslation": "politique publique",
+    "esTranslation": "política pública",
+    "arTranslation": "سياسة عامة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "policy"
+    ]
+  },
+  {
+    "text": "lobbying",
+    "meaning": "Attempting to influence officials on specific legislation or rules.",
+    "example": "Transparency laws require disclosure of lobbying.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/lobbying/",
+    "frTranslation": "lobbying (action d’influence)",
+    "esTranslation": "cabildeo/lobbying",
+    "arTranslation": "الضغط السياسي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "policy"
+    ]
+  },
+  {
+    "text": "think tank",
+    "meaning": "An organization that researches policy issues and proposes solutions.",
+    "example": "The think tank published a report on housing.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/think tank/",
+    "frTranslation": "laboratoire d’idées (think tank)",
+    "esTranslation": "centro de pensamiento (think tank)",
+    "arTranslation": "مركز أبحاث سياسات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "policy"
+    ]
+  },
+  {
+    "text": "administrative law",
+    "meaning": "Law governing agencies’ powers, procedures, and judicial review of their actions.",
+    "example": "The court examined the regulation under administrative law.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/administrative law/",
+    "frTranslation": "droit administratif",
+    "esTranslation": "derecho administrativo",
+    "arTranslation": "القانون الإداري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "law"
+    ]
+  },
+  {
+    "text": "run for (office)",
+    "meaning": "To be a candidate in an election for a public position.",
+    "example": "She decided to run for mayor this year.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/run for (office)/",
+    "frTranslation": "se présenter (à une élection)",
+    "esTranslation": "postularse a (un cargo)",
+    "arTranslation": "يترشح لمنصب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "stand for (office)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "stand down / step down",
+    "meaning": "To leave an official position, often before the term ends.",
+    "example": "The minister stepped down after the report.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/stand down / step down/",
+    "frTranslation": "démissionner (d’un poste)",
+    "esTranslation": "renunciar (al cargo)",
+    "arTranslation": "يتنحّى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "vote down",
+    "meaning": "To defeat a proposal by voting against it.",
+    "example": "Lawmakers voted down the amendment.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/vote down/",
+    "frTranslation": "rejeter par vote",
+    "esTranslation": "rechazar por votación",
+    "arTranslation": "يرفض عبر التصويت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "vote through",
+    "meaning": "To pass a proposal by receiving enough votes in favor.",
+    "example": "The committee voted through the bill unanimously.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/vote through/",
+    "frTranslation": "adopter par vote",
+    "esTranslation": "aprobar por votación",
+    "arTranslation": "يعتمد عبر التصويت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "push through (a bill)",
+    "meaning": "To get legislation approved despite resistance or delay.",
+    "example": "Leaders pushed through reforms before recess.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/push through (a bill)/",
+    "frTranslation": "faire passer (un projet de loi)",
+    "esTranslation": "sacar adelante (un proyecto)",
+    "arTranslation": "يدفع بتمرير مشروع قانون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "water down",
+    "meaning": "To weaken the substance of a proposal by removing or softening parts.",
+    "example": "The bill was watered down to gain votes.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/water down/",
+    "frTranslation": "édulcorer/atténuer",
+    "esTranslation": "suavizar/diluir",
+    "arTranslation": "يخفف/يُميّع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "strengthen"
+    ],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "strike down",
+    "meaning": "For a court to invalidate a law or policy as illegal or unconstitutional.",
+    "example": "The court struck down the ban on signage.",
+    "categoryId": "Politics & Law",
+    "pronunciation": "/strike down/",
+    "frTranslation": "invalider/annuler",
+    "esTranslation": "anular (una ley)",
+    "arTranslation": "يبطل قانونًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Politics & Law",
+      "phrasal verb"
+    ]
+  }
+]

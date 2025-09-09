@@ -1,0 +1,956 @@
+[
+  {
+    "text": "apprehension",
+    "meaning": "Uneasy anticipation that something bad might happen.",
+    "example": "She approached the interview with apprehension.",
+    "categoryId": "Emotions",
+    "pronunciation": "/apprehension/",
+    "frTranslation": "appréhension",
+    "esTranslation": "aprehensión",
+    "arTranslation": "قلق مترقّب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "misgiving"
+    ],
+    "antonyms": [
+      "confidence"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "fear"
+    ]
+  },
+  {
+    "text": "surprise",
+    "meaning": "A short, sharp reaction to the unexpected.",
+    "example": "His eyes widened in surprise.",
+    "categoryId": "Emotions",
+    "pronunciation": "/surprise/",
+    "frTranslation": "surprise",
+    "esTranslation": "sorpresa",
+    "arTranslation": "مفاجأة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "arousal"
+    ]
+  },
+  {
+    "text": "shock",
+    "meaning": "A stunned state after a sudden disturbing event.",
+    "example": "The announcement left them in shock.",
+    "categoryId": "Emotions",
+    "pronunciation": "/shock/",
+    "frTranslation": "choc",
+    "esTranslation": "conmoción",
+    "arTranslation": "صدمة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "arousal"
+    ]
+  },
+  {
+    "text": "curiosity",
+    "meaning": "A motivated interest in learning or exploring.",
+    "example": "Curiosity led her to ask careful questions.",
+    "categoryId": "Emotions",
+    "pronunciation": "/curiosity/",
+    "frTranslation": "curiosité",
+    "esTranslation": "curiosidad",
+    "arTranslation": "فضول",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "inquisitiveness"
+    ],
+    "antonyms": [
+      "indifference"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "interest",
+    "meaning": "An engaged focus on a topic or activity.",
+    "example": "The workshop sparked interest in coding.",
+    "categoryId": "Emotions",
+    "pronunciation": "/interest/",
+    "frTranslation": "intérêt",
+    "esTranslation": "interés",
+    "arTranslation": "اهتمام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "boredom"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "inspiration",
+    "meaning": "A sudden uplift that prompts creativity or action.",
+    "example": "The exhibit gave her inspiration to paint.",
+    "categoryId": "Emotions",
+    "pronunciation": "/inspiration/",
+    "frTranslation": "inspiration",
+    "esTranslation": "inspiración",
+    "arTranslation": "إلهام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "discouragement"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "motivation",
+    "meaning": "The drive that energizes and directs behavior.",
+    "example": "Clear goals increased his motivation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/motivation/",
+    "frTranslation": "motivation",
+    "esTranslation": "motivación",
+    "arTranslation": "دافع/تحفيز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "drive"
+    ],
+    "antonyms": [
+      "apathy"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "determination",
+    "meaning": "A firm resolve to keep going despite obstacles.",
+    "example": "Her determination carried the project through.",
+    "categoryId": "Emotions",
+    "pronunciation": "/determination/",
+    "frTranslation": "détermination",
+    "esTranslation": "determinación",
+    "arTranslation": "عزم/إصرار",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "resolve"
+    ],
+    "antonyms": [
+      "resignation"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "courage",
+    "meaning": "A willingness to face fear and act anyway.",
+    "example": "He showed courage by speaking up.",
+    "categoryId": "Emotions",
+    "pronunciation": "/courage/",
+    "frTranslation": "courage",
+    "esTranslation": "coraje/valentía",
+    "arTranslation": "شجاعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bravery"
+    ],
+    "antonyms": [
+      "cowardice"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "virtue"
+    ]
+  },
+  {
+    "text": "confidence",
+    "meaning": "A belief in one’s own abilities.",
+    "example": "Practice built her confidence on stage.",
+    "categoryId": "Emotions",
+    "pronunciation": "/confidence/",
+    "frTranslation": "confiance en soi",
+    "esTranslation": "confianza",
+    "arTranslation": "ثقة بالنفس",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "self-assurance"
+    ],
+    "antonyms": [
+      "self-doubt"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "self"
+    ]
+  },
+  {
+    "text": "tenderness",
+    "meaning": "Gentle warmth and care toward someone vulnerable.",
+    "example": "He held the newborn with tenderness.",
+    "categoryId": "Emotions",
+    "pronunciation": "/tenderness/",
+    "frTranslation": "tendresse",
+    "esTranslation": "ternura",
+    "arTranslation": "رِقّة/حنان",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "warmth"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "lust",
+    "meaning": "A strong physical desire for someone.",
+    "example": "The novel explored lust and restraint.",
+    "categoryId": "Emotions",
+    "pronunciation": "/lust/",
+    "frTranslation": "désir (sexuel)",
+    "esTranslation": "líbido/deseo sexual",
+    "arTranslation": "شهوة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "attachment"
+    ]
+  },
+  {
+    "text": "attachment",
+    "meaning": "An emotional bond of closeness and security.",
+    "example": "Healthy attachment forms in early childhood.",
+    "categoryId": "Emotions",
+    "pronunciation": "/attachment/",
+    "frTranslation": "attachement",
+    "esTranslation": "apego",
+    "arTranslation": "تعلّق",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bond"
+    ],
+    "antonyms": [
+      "detachment"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "attachment"
+    ]
+  },
+  {
+    "text": "belonging",
+    "meaning": "A reassuring sense of being accepted in a group.",
+    "example": "Clubs at school foster belonging.",
+    "categoryId": "Emotions",
+    "pronunciation": "/belonging/",
+    "frTranslation": "sentiment d’appartenance",
+    "esTranslation": "pertenencia",
+    "arTranslation": "انتماء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "alienation"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "alienation",
+    "meaning": "A painful feeling of being cut off from others or oneself.",
+    "example": "He described alienation after moving abroad.",
+    "categoryId": "Emotions",
+    "pronunciation": "/alienation/",
+    "frTranslation": "aliénation",
+    "esTranslation": "alienación",
+    "arTranslation": "اغتراب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "belonging"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "trustworthiness (felt)",
+    "meaning": "Confidence that another will keep promises and act fairly.",
+    "example": "Past help increased her felt trustworthiness toward him.",
+    "categoryId": "Emotions",
+    "pronunciation": "/trustworthiness (felt)/",
+    "frTranslation": "fiabilité (perçue)",
+    "esTranslation": "fiabilidad (percibida)",
+    "arTranslation": "موثوقية (مُدركة)",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "reliability"
+    ],
+    "antonyms": [
+      "unreliability"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "insecurity",
+    "meaning": "An anxious sense of not being good enough or safe.",
+    "example": "Compliments couldn’t erase his insecurity.",
+    "categoryId": "Emotions",
+    "pronunciation": "/insecurity/",
+    "frTranslation": "insécurité",
+    "esTranslation": "inseguridad",
+    "arTranslation": "عدم أمان/قلق ذاتي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "assurance"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "self"
+    ]
+  },
+  {
+    "text": "resentful envy",
+    "meaning": "Envy that hardens into bitterness toward the other person.",
+    "example": "Resentful envy strained their partnership.",
+    "categoryId": "Emotions",
+    "pronunciation": "/resentful envy/",
+    "frTranslation": "envie rancunière",
+    "esTranslation": "envidia resentida",
+    "arTranslation": "حسد ممزوج بالضغينة",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "forgiveness (feeling)",
+    "meaning": "A release of anger and the wish to punish after a hurt.",
+    "example": "Forgiveness brought them peace.",
+    "categoryId": "Emotions",
+    "pronunciation": "/forgiveness (feeling)/",
+    "frTranslation": "pardon (ressenti)",
+    "esTranslation": "perdón (sentido)",
+    "arTranslation": "غفران/مسامحة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "grudge"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "gratification",
+    "meaning": "Immediate pleasure from satisfying a desire.",
+    "example": "Delayed gratification can build discipline.",
+    "categoryId": "Emotions",
+    "pronunciation": "/gratification/",
+    "frTranslation": "gratification",
+    "esTranslation": "gratificación",
+    "arTranslation": "إرضاء/إشباع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "frustration"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "indignation",
+    "meaning": "Anger at perceived moral wrong or injustice.",
+    "example": "News of the scandal sparked indignation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/indignation/",
+    "frTranslation": "indignation",
+    "esTranslation": "indignación",
+    "arTranslation": "سُخْط/استنكار",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "outrage"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "moral"
+    ]
+  },
+  {
+    "text": "outrage",
+    "meaning": "A surge of fierce anger at flagrant injustice.",
+    "example": "The decision provoked public outrage.",
+    "categoryId": "Emotions",
+    "pronunciation": "/outrage/",
+    "frTranslation": "outrage",
+    "esTranslation": "ultraje/indignación",
+    "arTranslation": "غضب عارم/استنكار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "moral"
+    ]
+  },
+  {
+    "text": "consolation",
+    "meaning": "Comfort offered to someone who is upset or grieving.",
+    "example": "Her words provided real consolation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/consolation/",
+    "frTranslation": "consolation",
+    "esTranslation": "consuelo",
+    "arTranslation": "تعزية/مواساة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "comfort"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "compersion",
+    "meaning": "Warm joy felt for another’s joy, even in situations that could evoke jealousy.",
+    "example": "He felt compersion seeing her succeed.",
+    "categoryId": "Emotions",
+    "pronunciation": "/compersion/",
+    "frTranslation": "compersion (empathie joyeuse)",
+    "esTranslation": "compersión",
+    "arTranslation": "فرح تعاطفي",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "empathetic joy"
+    ],
+    "antonyms": [
+      "jealousy"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "awe-inspired humility",
+    "meaning": "A modest self-view arising when confronted with something vast or noble.",
+    "example": "The mountains evoked awe-inspired humility.",
+    "categoryId": "Emotions",
+    "pronunciation": "/awe-inspired humility/",
+    "frTranslation": "humilité inspirée",
+    "esTranslation": "humildad inspirada",
+    "arTranslation": "تواضع مُلهَم",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "virtue"
+    ]
+  },
+  {
+    "text": "calm",
+    "meaning": "A state of relaxed control without agitation.",
+    "example": "Breathing slowly helped him stay calm.",
+    "categoryId": "Emotions",
+    "pronunciation": "/calm/",
+    "frTranslation": "calme",
+    "esTranslation": "calma",
+    "arTranslation": "هدوء",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "tranquility"
+    ],
+    "antonyms": [
+      "anxiety"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "calm"
+    ]
+  },
+  {
+    "text": "peace of mind",
+    "meaning": "A secure, untroubled mental state.",
+    "example": "An emergency plan gave her peace of mind.",
+    "categoryId": "Emotions",
+    "pronunciation": "/peace of mind/",
+    "frTranslation": "paix intérieure",
+    "esTranslation": "tranquilidad mental",
+    "arTranslation": "راحة البال",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "reassurance"
+    ],
+    "antonyms": [
+      "worry"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "calm"
+    ]
+  },
+  {
+    "text": "agitation",
+    "meaning": "Restless, keyed-up distress that makes settling difficult.",
+    "example": "Caffeine increased his agitation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/agitation/",
+    "frTranslation": "agitation",
+    "esTranslation": "agitación",
+    "arTranslation": "هياج/قلق شديد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "serenity"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "arousal"
+    ]
+  },
+  {
+    "text": "restlessness",
+    "meaning": "An urge to move or change due to discomfort or boredom.",
+    "example": "After waiting an hour, restlessness set in.",
+    "categoryId": "Emotions",
+    "pronunciation": "/restlessness/",
+    "frTranslation": "impatience/agitation",
+    "esTranslation": "inquietud",
+    "arTranslation": "قلق/تململ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "contentment"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "arousal"
+    ]
+  },
+  {
+    "text": "tension",
+    "meaning": "A tight, strained feeling in body or mind.",
+    "example": "They felt tension before the verdict.",
+    "categoryId": "Emotions",
+    "pronunciation": "/tension/",
+    "frTranslation": "tension",
+    "esTranslation": "tensión",
+    "arTranslation": "توتر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "strain"
+    ],
+    "antonyms": [
+      "relaxation"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "arousal"
+    ]
+  },
+  {
+    "text": "relaxation",
+    "meaning": "A state of loosening and easing body and mind.",
+    "example": "Music encouraged relaxation before bed.",
+    "categoryId": "Emotions",
+    "pronunciation": "/relaxation/",
+    "frTranslation": "relaxation",
+    "esTranslation": "relajación",
+    "arTranslation": "استرخاء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "tension"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "calm"
+    ]
+  },
+  {
+    "text": "shock (moral)",
+    "meaning": "A stunned moral revulsion at a violation of values.",
+    "example": "They expressed shock at the injustice.",
+    "categoryId": "Emotions",
+    "pronunciation": "/shock (moral)/",
+    "frTranslation": "choc (moral)",
+    "esTranslation": "conmoción moral",
+    "arTranslation": "صدمة أخلاقية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "moral"
+    ]
+  },
+  {
+    "text": "revulsion",
+    "meaning": "A powerful, visceral disgust.",
+    "example": "The cruelty filled them with revulsion.",
+    "categoryId": "Emotions",
+    "pronunciation": "/revulsion/",
+    "frTranslation": "répulsion",
+    "esTranslation": "repulsión",
+    "arTranslation": "اشمئزاز شديد",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "disgust"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "bewilderment",
+    "meaning": "A confused puzzlement at something hard to understand.",
+    "example": "The sudden rule change caused bewilderment.",
+    "categoryId": "Emotions",
+    "pronunciation": "/bewilderment/",
+    "frTranslation": "perplexité",
+    "esTranslation": "perplejidad",
+    "arTranslation": "حيرة شديدة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "perplexity"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "awe-struck wonder",
+    "meaning": "Intense wonder that leaves one hushed or speechless.",
+    "example": "They watched in awe-struck wonder as the aurora danced.",
+    "categoryId": "Emotions",
+    "pronunciation": "/awe-struck wonder/",
+    "frTranslation": "émerveillement stupéfait",
+    "esTranslation": "maravilla asombrada",
+    "arTranslation": "دهشة مبهورة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "annoyance",
+    "meaning": "A mild irritation at a small inconvenience.",
+    "example": "Traffic noise caused annoyance while studying.",
+    "categoryId": "Emotions",
+    "pronunciation": "/annoyance/",
+    "frTranslation": "agacement",
+    "esTranslation": "molestia",
+    "arTranslation": "انزعاج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "irritation"
+    ],
+    "antonyms": [
+      "delight"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "anger"
+    ]
+  },
+  {
+    "text": "irritation",
+    "meaning": "A prickly feeling of being bothered repeatedly.",
+    "example": "His constant tapping led to irritation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/irritation/",
+    "frTranslation": "irritation",
+    "esTranslation": "irritación",
+    "arTranslation": "تهيّج/انزعاج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "anger"
+    ]
+  },
+  {
+    "text": "exasperation",
+    "meaning": "An exhausted anger after repeated frustrations.",
+    "example": "Delays pushed customers to exasperation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/exasperation/",
+    "frTranslation": "exaspération",
+    "esTranslation": "exasperación",
+    "arTranslation": "سخط/استياء شديد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "anger"
+    ]
+  },
+  {
+    "text": "rage",
+    "meaning": "A violent, loss-of-control anger.",
+    "example": "He struggled to rein in his rage.",
+    "categoryId": "Emotions",
+    "pronunciation": "/rage/",
+    "frTranslation": "rage",
+    "esTranslation": "rabia/ira intensa",
+    "arTranslation": "غضب جامح",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "fury"
+    ],
+    "antonyms": [
+      "calm"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "anger"
+    ]
+  },
+  {
+    "text": "indignation (moral)",
+    "meaning": "Anger specifically at unfair or unethical behavior.",
+    "example": "Indignation rose at the biased decision.",
+    "categoryId": "Emotions",
+    "pronunciation": "/indignation (moral)/",
+    "frTranslation": "indignation (morale)",
+    "esTranslation": "indignación (moral)",
+    "arTranslation": "سخط أخلاقي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "anger"
+    ]
+  },
+  {
+    "text": "spite",
+    "meaning": "A mean-spirited desire to hurt or annoy someone.",
+    "example": "Out of spite, he refused to help.",
+    "categoryId": "Emotions",
+    "pronunciation": "/spite/",
+    "frTranslation": "esprit de dépit",
+    "esTranslation": "rencor/saña",
+    "arTranslation": "حِقد/نكاية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "generosity"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "anger"
+    ]
+  },
+  {
+    "text": "anticipation",
+    "meaning": "A lively expectation of something upcoming.",
+    "example": "There was bright anticipation before the concert.",
+    "categoryId": "Emotions",
+    "pronunciation": "/anticipation/",
+    "frTranslation": "attente/anticipation",
+    "esTranslation": "anticipación",
+    "arTranslation": "توقّع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "anticipatory"
+    ]
+  },
+  {
+    "text": "eagerness",
+    "meaning": "Excited readiness to do or have something.",
+    "example": "Eagerness made the hours feel long.",
+    "categoryId": "Emotions",
+    "pronunciation": "/eagerness/",
+    "frTranslation": "empressement",
+    "esTranslation": "ansias/ganas",
+    "arTranslation": "توق/حماسة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "anticipatory"
+    ]
+  },
+  {
+    "text": "discouragement",
+    "meaning": "A loss of confidence or enthusiasm.",
+    "example": "Several rejections led to discouragement.",
+    "categoryId": "Emotions",
+    "pronunciation": "/discouragement/",
+    "frTranslation": "découragement",
+    "esTranslation": "desaliento",
+    "arTranslation": "إحباط/تثبيط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "encouragement"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "despair",
+    "meaning": "A conviction that nothing can improve.",
+    "example": "A sudden layoff plunged him into despair.",
+    "categoryId": "Emotions",
+    "pronunciation": "/despair/",
+    "frTranslation": "désespoir",
+    "esTranslation": "desesperación",
+    "arTranslation": "يأس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "hope"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "reluctance",
+    "meaning": "An unwillingness that resists moving forward.",
+    "example": "She signed with clear reluctance.",
+    "categoryId": "Emotions",
+    "pronunciation": "/reluctance/",
+    "frTranslation": "réticence",
+    "esTranslation": "reticencia",
+    "arTranslation": "تردد/عدم رغبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "hesitation"
+    ],
+    "antonyms": [
+      "eagerness"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "resolve",
+    "meaning": "Firm determination after weighing options.",
+    "example": "They renewed their resolve to finish the course.",
+    "categoryId": "Emotions",
+    "pronunciation": "/resolve/",
+    "frTranslation": "résolution",
+    "esTranslation": "determinación",
+    "arTranslation": "حزم/عزم",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "determination"
+    ],
+    "antonyms": [
+      "indecision"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "cheer up",
+    "meaning": "To become or make someone happier.",
+    "example": "A kind message can cheer someone up.",
+    "categoryId": "Emotions",
+    "pronunciation": "/cheer up/",
+    "frTranslation": "remonter le moral",
+    "esTranslation": "animarse",
+    "arTranslation": "تشجّع/ارفع معنوياتك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "brighten up"
+    ],
+    "antonyms": [
+      "bring down"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "calm down",
+    "meaning": "To relax after being upset or excited.",
+    "example": "He took a breath to calm down.",
+    "categoryId": "Emotions",
+    "pronunciation": "/calm down/",
+    "frTranslation": "se calmer",
+    "esTranslation": "calmarse",
+    "arTranslation": "اهدأ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "cool off",
+    "meaning": "To become less angry or excited.",
+    "example": "They took a walk to cool off.",
+    "categoryId": "Emotions",
+    "pronunciation": "/cool off/",
+    "frTranslation": "se rafraîchir/se calmer",
+    "esTranslation": "enfriarse",
+    "arTranslation": "اهدأ/برد أعصابك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "phrasal verb"
+    ]
+  }
+]

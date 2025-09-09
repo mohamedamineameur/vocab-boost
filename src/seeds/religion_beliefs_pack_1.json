@@ -1,0 +1,1457 @@
+[
+  {
+    "text": "Christianity",
+    "meaning": "A monotheistic religion centered on the life and teachings of Jesus of Nazareth.",
+    "example": "Christianity spread widely through early communities and later missions.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Christianity/",
+    "frTranslation": "christianisme",
+    "esTranslation": "cristianismo",
+    "arTranslation": "المسيحية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Islam",
+    "meaning": "A monotheistic faith based on the Qur’an and the Prophet Muhammad’s example (Sunnah).",
+    "example": "Islam emphasizes prayer, charity, fasting, and pilgrimage.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Islam/",
+    "frTranslation": "islam",
+    "esTranslation": "islam",
+    "arTranslation": "الإسلام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Judaism",
+    "meaning": "An ancient monotheistic tradition rooted in the Hebrew Bible and rabbinic teachings.",
+    "example": "Judaism observes the Sabbath from Friday evening to Saturday evening.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Judaism/",
+    "frTranslation": "judaïsme",
+    "esTranslation": "judaísmo",
+    "arTranslation": "اليهودية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Buddhism",
+    "meaning": "A tradition originating with Siddhartha Gautama that teaches the path to end suffering.",
+    "example": "Meditation is central to many schools of Buddhism.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Buddhism/",
+    "frTranslation": "bouddhisme",
+    "esTranslation": "budismo",
+    "arTranslation": "البوذية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Hinduism",
+    "meaning": "A diverse set of Indian traditions with concepts such as dharma, karma, and moksha.",
+    "example": "Hinduism has many festivals including Diwali and Holi.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Hinduism/",
+    "frTranslation": "hindouisme",
+    "esTranslation": "hinduismo",
+    "arTranslation": "الهندوسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Sikhism",
+    "meaning": "A monotheistic tradition founded by Guru Nanak that emphasizes devotion and service.",
+    "example": "Sikhism practices community kitchens called langar.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Sikhism/",
+    "frTranslation": "sikhisme",
+    "esTranslation": "sijismo",
+    "arTranslation": "السيخية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Taoism (Daoism)",
+    "meaning": "A Chinese tradition that teaches harmony with the Tao, the way of nature.",
+    "example": "Taoism values wu wei—acting with effortless alignment.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Taoism (Daoism)/",
+    "frTranslation": "taoïsme (daoïsme)",
+    "esTranslation": "taoísmo (daoísmo)",
+    "arTranslation": "الطاوية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Confucianism",
+    "meaning": "A philosophical and ethical system stressing virtue, ritual, and social harmony.",
+    "example": "Confucianism highlights duties within family and state.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Confucianism/",
+    "frTranslation": "confucianisme",
+    "esTranslation": "confucianismo",
+    "arTranslation": "الكونفوشيوسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Shinto",
+    "meaning": "Japanese practices centered on kami—sacred spirits in natural and ancestral realms.",
+    "example": "Shinto shrines mark seasonal rites and life events.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Shinto/",
+    "frTranslation": "shintō",
+    "esTranslation": "sintoísmo",
+    "arTranslation": "الشنتوية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Zoroastrianism",
+    "meaning": "An ancient Persian religion teaching a cosmic struggle between truth and falsehood.",
+    "example": "Zoroastrianism honors Ahura Mazda as the wise Lord.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Zoroastrianism/",
+    "frTranslation": "zoroastrisme",
+    "esTranslation": "zoroastrismo",
+    "arTranslation": "الزرادشتية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Baha’i Faith",
+    "meaning": "A modern monotheistic faith emphasizing unity of humanity and progressive revelation.",
+    "example": "The Baha’i Faith promotes global cooperation and equality.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Baha’i Faith/",
+    "frTranslation": "foi bahá’íe",
+    "esTranslation": "fe bahá’í",
+    "arTranslation": "الديانة البهائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "traditions"
+    ]
+  },
+  {
+    "text": "Atheism",
+    "meaning": "A position that denies the existence of deities.",
+    "example": "Atheism may motivate secular ethics grounded in human well‑being.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Atheism/",
+    "frTranslation": "athéisme",
+    "esTranslation": "ateísmo",
+    "arTranslation": "الإلحاد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "theism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "worldviews"
+    ]
+  },
+  {
+    "text": "Agnosticism",
+    "meaning": "The view that the existence of deities is unknown or unknowable.",
+    "example": "Agnosticism separates belief from the limits of knowledge.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Agnosticism/",
+    "frTranslation": "agnosticisme",
+    "esTranslation": "agnosticismo",
+    "arTranslation": "اللاأدرية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "worldviews"
+    ]
+  },
+  {
+    "text": "Humanism",
+    "meaning": "A worldview that centers human dignity, reason, and ethical responsibility.",
+    "example": "Modern humanism supports rights and scientific inquiry.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Humanism/",
+    "frTranslation": "humanisme",
+    "esTranslation": "humanismo",
+    "arTranslation": "الإنسانية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "worldviews"
+    ]
+  },
+  {
+    "text": "Secularism",
+    "meaning": "The principle of separating religious institutions from state authority.",
+    "example": "Secularism protects freedom for and from religion.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/Secularism/",
+    "frTranslation": "laïcité / sécularisme",
+    "esTranslation": "secularismo",
+    "arTranslation": "العَلْمانية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "worldviews"
+    ]
+  },
+  {
+    "text": "monotheism",
+    "meaning": "Belief in a single, supreme deity.",
+    "example": "Monotheism shapes worship, law, and ethics in many traditions.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/monotheism/",
+    "frTranslation": "monothéisme",
+    "esTranslation": "monoteísmo",
+    "arTranslation": "التوحيد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "polytheism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "polytheism",
+    "meaning": "Belief in multiple deities with distinct roles.",
+    "example": "Classical myths illustrate ancient polytheism.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/polytheism/",
+    "frTranslation": "polythéisme",
+    "esTranslation": "politeísmo",
+    "arTranslation": "تعدد الآلهة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "monotheism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "pantheism",
+    "meaning": "The view that the divine and the universe are identical.",
+    "example": "Pantheism sees nature itself as sacred.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/pantheism/",
+    "frTranslation": "panthéisme",
+    "esTranslation": "panteísmo",
+    "arTranslation": "وحدة الوجود (بانثيزم)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "theism",
+    "meaning": "Belief in God or gods who may act in the world.",
+    "example": "Classical theism affirms an eternal, all‑powerful creator.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/theism/",
+    "frTranslation": "théisme",
+    "esTranslation": "teísmo",
+    "arTranslation": "الإيمان بإله/آلهة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "atheism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "deism",
+    "meaning": "Belief in a creator who does not intervene in the universe after creation.",
+    "example": "Some Enlightenment thinkers embraced deism.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/deism/",
+    "frTranslation": "déisme",
+    "esTranslation": "deísmo",
+    "arTranslation": "الربوبية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "transcendence",
+    "meaning": "The quality of being beyond ordinary experience or the material world.",
+    "example": "The hymn speaks of the transcendence of the divine.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/transcendence/",
+    "frTranslation": "transcendance",
+    "esTranslation": "trascendencia",
+    "arTranslation": "تعالي/تجاوز",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "immanence"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "immanence",
+    "meaning": "The presence of the sacred within the world and human life.",
+    "example": "Mystics write about the immanence of the sacred.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/immanence/",
+    "frTranslation": "immanence",
+    "esTranslation": "inmanencia",
+    "arTranslation": "حلول/قرب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "transcendence"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "sacred",
+    "meaning": "Set apart for divine purpose or reverence.",
+    "example": "Shoes are removed in sacred spaces in many cultures.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/sacred/",
+    "frTranslation": "sacré",
+    "esTranslation": "sagrado",
+    "arTranslation": "مقدّس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "holy"
+    ],
+    "antonyms": [
+      "profane"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "profane",
+    "meaning": "Ordinary or secular; not consecrated.",
+    "example": "Using sacred words carelessly can be seen as profane.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/profane/",
+    "frTranslation": "profane",
+    "esTranslation": "profano",
+    "arTranslation": "دنيوي/مدنّس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "sacred"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "orthodoxy",
+    "meaning": "Accepted or traditional doctrine within a community.",
+    "example": "Debate arose over what counts as orthodoxy.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/orthodoxy/",
+    "frTranslation": "orthodoxie",
+    "esTranslation": "ortodoxia",
+    "arTranslation": "أرثوذكسية/اعتقاد قويم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "heterodoxy"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "heterodoxy",
+    "meaning": "Beliefs that differ from the accepted or official position.",
+    "example": "Heterodoxy can spur reform or provoke censure.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/heterodoxy/",
+    "frTranslation": "hétérodoxie",
+    "esTranslation": "heterodoxia",
+    "arTranslation": "مخالفة المألوف عقائديًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "orthodoxy"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "heresy",
+    "meaning": "A teaching condemned as contrary to core doctrine.",
+    "example": "Authorities branded the tract as heresy.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/heresy/",
+    "frTranslation": "hérésie",
+    "esTranslation": "herejía",
+    "arTranslation": "هرطقة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "orthodoxy"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "blasphemy",
+    "meaning": "Speech or acts showing contempt for what is held sacred.",
+    "example": "Some traditions treat blasphemy as a serious offense.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/blasphemy/",
+    "frTranslation": "blasphème",
+    "esTranslation": "blasfemia",
+    "arTranslation": "تجديف",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "sacrilege"
+    ],
+    "antonyms": [
+      "reverence"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "apostasy",
+    "meaning": "Renouncing one’s religious faith or community.",
+    "example": "The memoir narrates a journey into and out of belief.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/apostasy/",
+    "frTranslation": "apostasie",
+    "esTranslation": "apostasía",
+    "arTranslation": "ردّة/ارتداد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "fidelity"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "mysticism",
+    "meaning": "Experiential seeking of union or closeness with ultimate reality.",
+    "example": "Poetry often carries the language of mysticism.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/mysticism/",
+    "frTranslation": "mysticisme",
+    "esTranslation": "misticismo",
+    "arTranslation": "تصوّف/عرفان",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "contemplative spirituality"
+    ],
+    "antonyms": [
+      "rationalism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "asceticism",
+    "meaning": "A disciplined lifestyle of self‑denial to cultivate virtue or focus.",
+    "example": "Monastics practice asceticism through fasting and simplicity.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/asceticism/",
+    "frTranslation": "ascétisme",
+    "esTranslation": "ascetismo",
+    "arTranslation": "زهد/نسك",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "hedonism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "iconoclasm",
+    "meaning": "Opposition to the veneration of images or the destruction of them.",
+    "example": "Iconoclasm reshaped sacred art in some eras.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/iconoclasm/",
+    "frTranslation": "iconoclasme",
+    "esTranslation": "iconoclasia",
+    "arTranslation": "تحطيم الصور/رفض الأيقونات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "veneration"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "idolatry",
+    "meaning": "Worship of images or anything regarded as a god instead of the divine itself.",
+    "example": "Prophets warned communities against idolatry.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/idolatry/",
+    "frTranslation": "idolâtrie",
+    "esTranslation": "idolatría",
+    "arTranslation": "عبادة الأوثان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "aniconism",
+      "monotheism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "syncretism",
+    "meaning": "Blending elements from different traditions into a new practice or belief.",
+    "example": "Folk rituals often display syncretism.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/syncretism/",
+    "frTranslation": "syncrétisme",
+    "esTranslation": "sincretismo",
+    "arTranslation": "توفيقية دينية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "exclusivism",
+      "purism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "ecumenism",
+    "meaning": "Efforts to promote unity and cooperation among Christian denominations.",
+    "example": "Ecumenism fosters shared service projects.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/ecumenism/",
+    "frTranslation": "œcuménisme",
+    "esTranslation": "ecumenismo",
+    "arTranslation": "المسكونية/الوحدة المسيحية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "sectarianism"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "interfaith dialogue",
+    "meaning": "Conversations that build understanding across different religions.",
+    "example": "Interfaith dialogue addressed stereotypes and fears.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/interfaith dialogue/",
+    "frTranslation": "dialogue interreligieux",
+    "esTranslation": "diálogo interreligioso",
+    "arTranslation": "حوار بين الأديان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "concepts"
+    ]
+  },
+  {
+    "text": "ritual",
+    "meaning": "A prescribed sequence of actions performed for religious meaning.",
+    "example": "The ritual marks a transition into adulthood.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/ritual/",
+    "frTranslation": "rituel",
+    "esTranslation": "ritual",
+    "arTranslation": "طقس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "ceremony"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "liturgy",
+    "meaning": "The structured order of public worship.",
+    "example": "The new liturgy includes more congregational singing.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/liturgy/",
+    "frTranslation": "liturgie",
+    "esTranslation": "liturgia",
+    "arTranslation": "طقس عبادي/ليتورجيا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "prayer",
+    "meaning": "Addressing the divine with words, silence, or gesture.",
+    "example": "They paused for prayer before the meal.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/prayer/",
+    "frTranslation": "prière",
+    "esTranslation": "oración",
+    "arTranslation": "صلاة/دعاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "meditation",
+    "meaning": "Focused attention or open awareness to cultivate insight or compassion.",
+    "example": "Daily meditation helped him respond calmly.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/meditation/",
+    "frTranslation": "méditation",
+    "esTranslation": "meditación",
+    "arTranslation": "تأمل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "distraction"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "fasting",
+    "meaning": "Abstaining from food or certain activities for spiritual focus.",
+    "example": "Fasting during a holy season deepened reflection.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/fasting/",
+    "frTranslation": "jeûne",
+    "esTranslation": "ayuno",
+    "arTranslation": "صوم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "feasting"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "alms",
+    "meaning": "Gifts to those in need as an act of compassion or duty.",
+    "example": "The community organized alms for displaced families.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/alms/",
+    "frTranslation": "aumône(s)",
+    "esTranslation": "limosna(s)",
+    "arTranslation": "صدقة/إحسان",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "charity"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "tithing",
+    "meaning": "Giving a set portion of income to religious or charitable purposes.",
+    "example": "They budgeted for tithing each month.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/tithing/",
+    "frTranslation": "dîme (prélèvement)",
+    "esTranslation": "diezmo",
+    "arTranslation": "العُشْر (التبرع)",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "tithe"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "sacrament",
+    "meaning": "A rite understood to convey divine grace in visible form.",
+    "example": "Baptism is a sacrament in many churches.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/sacrament/",
+    "frTranslation": "sacrement",
+    "esTranslation": "sacramento",
+    "arTranslation": "سِرّ مقدّس",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "pilgrimage",
+    "meaning": "A journey to a sacred place for devotion or penance.",
+    "example": "The group began a week‑long pilgrimage on foot.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/pilgrimage/",
+    "frTranslation": "pèlerinage",
+    "esTranslation": "peregrinación",
+    "arTranslation": "حج/زيارة مقدسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "spiritual journey"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "sermon",
+    "meaning": "A talk that explains scripture and applies it to life.",
+    "example": "The sermon connected mercy with everyday choices.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/sermon/",
+    "frTranslation": "sermon/homélie",
+    "esTranslation": "sermón",
+    "arTranslation": "موعظة/عظة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "homily"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "practice"
+    ]
+  },
+  {
+    "text": "scripture",
+    "meaning": "A community’s authoritative sacred writings.",
+    "example": "Monastics memorize portions of scripture daily.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/scripture/",
+    "frTranslation": "écriture(s) sacrée(s)",
+    "esTranslation": "escritura(s) sagrada(s)",
+    "arTranslation": "نص مقدّس/كتاب سماوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "sacred text"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "texts"
+    ]
+  },
+  {
+    "text": "canon (scriptural)",
+    "meaning": "The officially recognized set of texts considered authoritative.",
+    "example": "Debates over the canon shaped early identity.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/canon (scriptural)/",
+    "frTranslation": "canon (biblique)",
+    "esTranslation": "canon (bíblico)",
+    "arTranslation": "قانون الكتاب/الأسفار المعتمدة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "apocrypha"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "texts"
+    ]
+  },
+  {
+    "text": "apocrypha",
+    "meaning": "Religious writings not included in the official canon.",
+    "example": "The apocrypha influenced later art and theology.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/apocrypha/",
+    "frTranslation": "apocryphes",
+    "esTranslation": "apócrifos",
+    "arTranslation": "أسفار غير قانونية/أبوكريفا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "canon"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "texts"
+    ]
+  },
+  {
+    "text": "exegesis",
+    "meaning": "Critical interpretation of scripture based on context and language.",
+    "example": "Good exegesis asks what the passage meant to its first audience.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/exegesis/",
+    "frTranslation": "exégèse",
+    "esTranslation": "exégesis",
+    "arTranslation": "تفسير نصوص مقدّسة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "eisegesis"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "texts"
+    ]
+  },
+  {
+    "text": "hermeneutics",
+    "meaning": "The theory and methods of interpreting texts and meaning.",
+    "example": "Courses in hermeneutics cover symbols and metaphor.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/hermeneutics/",
+    "frTranslation": "herméneutique",
+    "esTranslation": "hermenéutica",
+    "arTranslation": "علم التأويل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "texts"
+    ]
+  },
+  {
+    "text": "theology",
+    "meaning": "Systematic reflection on the nature of God, humanity, and salvation.",
+    "example": "Liberation theology links faith with social justice.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/theology/",
+    "frTranslation": "théologie",
+    "esTranslation": "teología",
+    "arTranslation": "لاهوت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "teaching"
+    ]
+  },
+  {
+    "text": "theodicy",
+    "meaning": "An attempt to reconcile divine goodness with the existence of suffering.",
+    "example": "Her essay surveyed classic theodicies.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/theodicy/",
+    "frTranslation": "théodicée",
+    "esTranslation": "teodicea",
+    "arTranslation": "ثيوديسيا/تبرير عدل الإله",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "teaching"
+    ]
+  },
+  {
+    "text": "sin",
+    "meaning": "An act or condition seen as violating divine law or moral order.",
+    "example": "Teachings on sin are paired with mercy and restoration.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/sin/",
+    "frTranslation": "péché",
+    "esTranslation": "pecado",
+    "arTranslation": "خطيئة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "virtue"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "ethics"
+    ]
+  },
+  {
+    "text": "repentance",
+    "meaning": "Turning away from wrongdoing with sincere regret and a changed path.",
+    "example": "Public repentance accompanied restitution.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/repentance/",
+    "frTranslation": "repentir/repentance",
+    "esTranslation": "arrepentimiento",
+    "arTranslation": "توبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "contrition"
+    ],
+    "antonyms": [
+      "obstinacy"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "ethics"
+    ]
+  },
+  {
+    "text": "forgiveness",
+    "meaning": "Releasing resentment and, when possible, restoring relationship.",
+    "example": "The story explores forgiveness after betrayal.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/forgiveness/",
+    "frTranslation": "pardon",
+    "esTranslation": "perdón",
+    "arTranslation": "مغفرة/صفح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "resentment"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "ethics"
+    ]
+  },
+  {
+    "text": "grace",
+    "meaning": "Unmerited favor or help given by the divine.",
+    "example": "Hymns describe grace as freely given.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/grace/",
+    "frTranslation": "grâce (divine)",
+    "esTranslation": "gracia (divina)",
+    "arTranslation": "نِعمة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "ethics"
+    ]
+  },
+  {
+    "text": "salvation",
+    "meaning": "Deliverance from sin, ignorance, or suffering into a reconciled life.",
+    "example": "Different traditions explain salvation in distinct ways.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/salvation/",
+    "frTranslation": "salut",
+    "esTranslation": "salvación",
+    "arTranslation": "خلاص/نجاة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "deliverance"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "ethics"
+    ]
+  },
+  {
+    "text": "afterlife",
+    "meaning": "Existence believed to continue beyond physical death.",
+    "example": "Beliefs about the afterlife shape funerary customs.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/afterlife/",
+    "frTranslation": "vie après la mort",
+    "esTranslation": "vida después de la muerte",
+    "arTranslation": "حياة بعد الموت",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "hereafter"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "ethics"
+    ]
+  },
+  {
+    "text": "karma",
+    "meaning": "The ethical principle that actions have consequences that shape future experience.",
+    "example": "He framed generosity as good karma.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/karma/",
+    "frTranslation": "karma (karmique)",
+    "esTranslation": "karma",
+    "arTranslation": "كارما/جزاء العمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "asian concepts"
+    ]
+  },
+  {
+    "text": "dharma",
+    "meaning": "Duty, teaching, or cosmic order that sustains right living.",
+    "example": "She asked how to follow her dharma in work.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/dharma/",
+    "frTranslation": "dharma (devoir/ordre)",
+    "esTranslation": "dharma (deber/orden)",
+    "arTranslation": "دارما/واجب/قانون كوني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "asian concepts"
+    ]
+  },
+  {
+    "text": "samsara",
+    "meaning": "The cycle of birth, death, and rebirth characterized by suffering.",
+    "example": "Practice aims to transcend samsara.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/samsara/",
+    "frTranslation": "samsara",
+    "esTranslation": "samsara",
+    "arTranslation": "سَمسارا/دورة الميلاد والموت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "nirvana",
+      "moksha"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "asian concepts"
+    ]
+  },
+  {
+    "text": "nirvana",
+    "meaning": "A liberated state beyond craving and suffering.",
+    "example": "The poem gestures toward the stillness of nirvana.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/nirvana/",
+    "frTranslation": "nirvāṇa",
+    "esTranslation": "nirvana",
+    "arTranslation": "نيرفانا/التحرر من المعاناة",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "liberation"
+    ],
+    "antonyms": [
+      "samsara"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "asian concepts"
+    ]
+  },
+  {
+    "text": "moksha",
+    "meaning": "Release from the cycle of samsara and union with ultimate reality.",
+    "example": "Paths of knowledge, devotion, or action seek moksha.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/moksha/",
+    "frTranslation": "moksha",
+    "esTranslation": "moksha",
+    "arTranslation": "موكشا/الانعتاق",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "liberation"
+    ],
+    "antonyms": [
+      "samsara"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "asian concepts"
+    ]
+  },
+  {
+    "text": "yoga (spiritual)",
+    "meaning": "Disciplines that unite body, mind, and spirit toward realization.",
+    "example": "Chanting and breathwork are part of spiritual yoga.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/yoga (spiritual)/",
+    "frTranslation": "yoga (spirituel)",
+    "esTranslation": "yoga (espiritual)",
+    "arTranslation": "يوغا (روحية)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "asian concepts"
+    ]
+  },
+  {
+    "text": "church (building)",
+    "meaning": "A Christian house of worship.",
+    "example": "The church hosts a food pantry on weekends.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/church (building)/",
+    "frTranslation": "église (bâtiment)",
+    "esTranslation": "iglesia (edificio)",
+    "arTranslation": "كنيسة (مَبنى)",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "mosque",
+    "meaning": "A Muslim place of worship with space for communal prayer.",
+    "example": "The mosque welcomed neighbors for an open house.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/mosque/",
+    "frTranslation": "mosquée",
+    "esTranslation": "mezquita",
+    "arTranslation": "مسجد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "synagogue",
+    "meaning": "A Jewish house of assembly, prayer, and study.",
+    "example": "Volunteers repaired the synagogue’s library.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/synagogue/",
+    "frTranslation": "synagogue",
+    "esTranslation": "sinagoga",
+    "arTranslation": "كنيس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "temple",
+    "meaning": "A sacred building used by various traditions for worship.",
+    "example": "Pilgrims brought offerings to the temple.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/temple/",
+    "frTranslation": "temple",
+    "esTranslation": "templo",
+    "arTranslation": "معبد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "shrine",
+    "meaning": "A site marked by a holy person, relic, or event.",
+    "example": "Candles flickered at a roadside shrine.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/shrine/",
+    "frTranslation": "sanctuaire/autel (petit)",
+    "esTranslation": "santuario",
+    "arTranslation": "مزار/مقام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "altar",
+    "meaning": "A raised table or area used for offerings or rites.",
+    "example": "Flowers were placed on the altar before the service.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/altar/",
+    "frTranslation": "autel",
+    "esTranslation": "altar",
+    "arTranslation": "مذبح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "sanctuary",
+    "meaning": "The holiest area of a worship space; also a place of refuge.",
+    "example": "The choir assembled in the sanctuary.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/sanctuary/",
+    "frTranslation": "sanctuaire",
+    "esTranslation": "santuario",
+    "arTranslation": "مكان مقدّس/ملاذ",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "holy place"
+    ],
+    "antonyms": [
+      "secular space"
+    ],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "monastery",
+    "meaning": "A community where monks or nuns live under religious vows.",
+    "example": "The monastery keeps silence after dusk.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/monastery/",
+    "frTranslation": "monastère",
+    "esTranslation": "monasterio",
+    "arTranslation": "دير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "gurdwara",
+    "meaning": "A Sikh house of worship that offers free community meals.",
+    "example": "Tourists removed their shoes before entering the gurdwara.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/gurdwara/",
+    "frTranslation": "gurdwara",
+    "esTranslation": "gurdwara",
+    "arTranslation": "غوردوارا (معبد سيخي)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "places"
+    ]
+  },
+  {
+    "text": "priest",
+    "meaning": "An ordained minister who leads worship and administers rites.",
+    "example": "The priest offered counsel after the service.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/priest/",
+    "frTranslation": "prêtre",
+    "esTranslation": "sacerdote",
+    "arTranslation": "كاهن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "roles"
+    ]
+  },
+  {
+    "text": "pastor",
+    "meaning": "A Christian minister who shepherds a congregation.",
+    "example": "The pastor prepared the baptism class.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/pastor/",
+    "frTranslation": "pasteur",
+    "esTranslation": "pastor(a)",
+    "arTranslation": "قسّ/راعٍ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "roles"
+    ]
+  },
+  {
+    "text": "imam",
+    "meaning": "A Muslim leader who leads prayers and often offers guidance.",
+    "example": "The imam delivered a sermon on patience.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/imam/",
+    "frTranslation": "imam",
+    "esTranslation": "imán",
+    "arTranslation": "إمام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "roles"
+    ]
+  },
+  {
+    "text": "rabbi",
+    "meaning": "A Jewish teacher and interpreter of law and tradition.",
+    "example": "The rabbi taught a course on Hebrew poetry.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/rabbi/",
+    "frTranslation": "rabbin",
+    "esTranslation": "rabino",
+    "arTranslation": "حاخام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "roles"
+    ]
+  },
+  {
+    "text": "monk",
+    "meaning": "A person who lives by vows of simplicity and service in community.",
+    "example": "A monk guided visitors through the cloister.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/monk/",
+    "frTranslation": "moine",
+    "esTranslation": "monje",
+    "arTranslation": "راهب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "roles"
+    ]
+  },
+  {
+    "text": "nun",
+    "meaning": "A woman who takes vows in a religious order.",
+    "example": "The nun runs a neighborhood clinic.",
+    "categoryId": "Religion & Beliefs",
+    "pronunciation": "/nun/",
+    "frTranslation": "nonne",
+    "esTranslation": "monja",
+    "arTranslation": "راهبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Religion & Beliefs",
+      "roles"
+    ]
+  }
+]

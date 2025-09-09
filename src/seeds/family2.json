@@ -1,0 +1,512 @@
+[
+  {
+    "text": "stepbrother",
+    "meaning": "A family member.",
+    "example": "My stepbrother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/stepbrother/",
+    "frTranslation": "beau-frère (fils du beau-parent)",
+    "esTranslation": "hermanastro",
+    "arTranslation": "أخو الزوج/الزوجة غير الشقيق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "stepsister",
+    "meaning": "A family member.",
+    "example": "My stepsister lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/stepsister/",
+    "frTranslation": "belle-sœur (fille du beau-parent)",
+    "esTranslation": "hermanastra",
+    "arTranslation": "أخت الزوج/الزوجة غير الشقيقة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "half-brother",
+    "meaning": "A family member.",
+    "example": "My half-brother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/half-brother/",
+    "frTranslation": "demi-frère",
+    "esTranslation": "medio hermano",
+    "arTranslation": "أخ غير شقيق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "half-sister",
+    "meaning": "A family member.",
+    "example": "My half-sister lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/half-sister/",
+    "frTranslation": "demi-sœur",
+    "esTranslation": "media hermana",
+    "arTranslation": "أخت غير شقيقة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "godfather",
+    "meaning": "A family member.",
+    "example": "My godfather lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/godfather/",
+    "frTranslation": "parrain",
+    "esTranslation": "padrino",
+    "arTranslation": "عرّاب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "godmother",
+    "meaning": "A family member.",
+    "example": "My godmother lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/godmother/",
+    "frTranslation": "marraine",
+    "esTranslation": "madrina",
+    "arTranslation": "عرّابة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "foster parent",
+    "meaning": "A family member.",
+    "example": "My foster parent lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/foster parent/",
+    "frTranslation": "parent d'accueil",
+    "esTranslation": "padre/madre de acogida",
+    "arTranslation": "والد/والدة حاضن",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "foster child",
+    "meaning": "A family member.",
+    "example": "My foster child lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/foster child/",
+    "frTranslation": "enfant placé",
+    "esTranslation": "niño/a en acogida",
+    "arTranslation": "طفل/طفلة في كفالة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "guardian",
+    "meaning": "A family member.",
+    "example": "My guardian lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/guardian/",
+    "frTranslation": "tuteur/tutrice",
+    "esTranslation": "tutor/a",
+    "arTranslation": "وصي/ولي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "relative",
+    "meaning": "A family member.",
+    "example": "My relative lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/relative/",
+    "frTranslation": "parent/proche (parenté)",
+    "esTranslation": "pariente/familiar",
+    "arTranslation": "قريب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "mother-in-law",
+    "meaning": "A family member.",
+    "example": "My mother-in-law lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/mother-in-law/",
+    "frTranslation": "belle-mère",
+    "esTranslation": "suegra",
+    "arTranslation": "حماة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "father-in-law",
+    "meaning": "A family member.",
+    "example": "My father-in-law lives nearby.",
+    "categoryId": "Family",
+    "pronunciation": "/father-in-law/",
+    "frTranslation": "beau-père",
+    "esTranslation": "suegro",
+    "arTranslation": "حمو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "member"
+    ]
+  },
+  {
+    "text": "engaged",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are engaged.",
+    "categoryId": "Family",
+    "pronunciation": "/engaged/",
+    "frTranslation": "fiancé(e)",
+    "esTranslation": "comprometido/a",
+    "arTranslation": "مخطوب/مخطوبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "fiancé",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are fiancé.",
+    "categoryId": "Family",
+    "pronunciation": "/fiancé/",
+    "frTranslation": "fiancé",
+    "esTranslation": "prometido",
+    "arTranslation": "خطيب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "fiancée",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are fiancée.",
+    "categoryId": "Family",
+    "pronunciation": "/fiancée/",
+    "frTranslation": "fiancée",
+    "esTranslation": "prometida",
+    "arTranslation": "خطِيبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "partner",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are partner.",
+    "categoryId": "Family",
+    "pronunciation": "/partner/",
+    "frTranslation": "partenaire/compagnon",
+    "esTranslation": "pareja",
+    "arTranslation": "شريك/شريكة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "couple",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are couple.",
+    "categoryId": "Family",
+    "pronunciation": "/couple/",
+    "frTranslation": "couple",
+    "esTranslation": "pareja",
+    "arTranslation": "زوجان/ثنائي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "married",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are married.",
+    "categoryId": "Family",
+    "pronunciation": "/married/",
+    "frTranslation": "marié(e)",
+    "esTranslation": "casado/a",
+    "arTranslation": "متزوج/متزوجة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "divorced",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are divorced.",
+    "categoryId": "Family",
+    "pronunciation": "/divorced/",
+    "frTranslation": "divorcé(e)",
+    "esTranslation": "divorciado/a",
+    "arTranslation": "مطلق/مطلقة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "separated",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are separated.",
+    "categoryId": "Family",
+    "pronunciation": "/separated/",
+    "frTranslation": "séparé(e)",
+    "esTranslation": "separado/a",
+    "arTranslation": "منفصل/منفصلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "widowed",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are widowed.",
+    "categoryId": "Family",
+    "pronunciation": "/widowed/",
+    "frTranslation": "veuf/veuve",
+    "esTranslation": "viudo/a",
+    "arTranslation": "أرمل/أرملة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "single",
+    "meaning": "A type of family relationship or status.",
+    "example": "They are single.",
+    "categoryId": "Family",
+    "pronunciation": "/single/",
+    "frTranslation": "célibataire",
+    "esTranslation": "soltero/a",
+    "arTranslation": "أعزب/عزباء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "relationship"
+    ]
+  },
+  {
+    "text": "newborn",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a newborn now.",
+    "categoryId": "Family",
+    "pronunciation": "/newborn/",
+    "frTranslation": "nouveau-né",
+    "esTranslation": "recién nacido",
+    "arTranslation": "مولود جديد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "infant",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a infant now.",
+    "categoryId": "Family",
+    "pronunciation": "/infant/",
+    "frTranslation": "nourrisson/bébé",
+    "esTranslation": "bebé",
+    "arTranslation": "رضيع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "toddler",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a toddler now.",
+    "categoryId": "Family",
+    "pronunciation": "/toddler/",
+    "frTranslation": "tout-petit",
+    "esTranslation": "niño pequeño",
+    "arTranslation": "طفل صغير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "teenager",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a teenager now.",
+    "categoryId": "Family",
+    "pronunciation": "/teenager/",
+    "frTranslation": "adolescent(e)",
+    "esTranslation": "adolescente",
+    "arTranslation": "مراهق/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "adolescent",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a adolescent now.",
+    "categoryId": "Family",
+    "pronunciation": "/adolescent/",
+    "frTranslation": "adolescent(e)",
+    "esTranslation": "adolescente",
+    "arTranslation": "مراهق/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "young adult",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a young adult now.",
+    "categoryId": "Family",
+    "pronunciation": "/young adult/",
+    "frTranslation": "jeune adulte",
+    "esTranslation": "adulto joven",
+    "arTranslation": "شاب/شابّة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "adult",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a adult now.",
+    "categoryId": "Family",
+    "pronunciation": "/adult/",
+    "frTranslation": "adulte",
+    "esTranslation": "adulto",
+    "arTranslation": "بالغ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "middle-aged",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a middle-aged now.",
+    "categoryId": "Family",
+    "pronunciation": "/middle-aged/",
+    "frTranslation": "d'âge mûr",
+    "esTranslation": "de mediana edad",
+    "arTranslation": "في منتصف العمر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  }
+]

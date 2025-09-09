@@ -1,0 +1,696 @@
+[
+  {
+    "text": "back (lower)",
+    "meaning": "The lumbar region prone to muscle strain and disc issues.",
+    "example": "Long sitting can stress the lower back.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/back (lower)/",
+    "frTranslation": "bas du dos",
+    "esTranslation": "zona lumbar",
+    "arTranslation": "أسفل الظهر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "lumbar region"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "torso"
+    ]
+  },
+  {
+    "text": "heart",
+    "meaning": "A muscular organ that pumps blood through the body’s vessels.",
+    "example": "Her heart rate increased during exercise.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/heart/",
+    "frTranslation": "cœur",
+    "esTranslation": "corazón",
+    "arTranslation": "قلب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "aorta",
+    "meaning": "The main artery that carries oxygenated blood from the heart to the body.",
+    "example": "A tear in the aorta is a medical emergency.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/aorta/",
+    "frTranslation": "aorte",
+    "esTranslation": "aorta",
+    "arTranslation": "أبهر/الأورطى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "artery",
+    "meaning": "A blood vessel that moves blood away from the heart under pressure.",
+    "example": "The doctor felt for a pulse in the wrist artery.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/artery/",
+    "frTranslation": "artère",
+    "esTranslation": "arteria",
+    "arTranslation": "شريان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "vein"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "vein",
+    "meaning": "A blood vessel that returns blood toward the heart.",
+    "example": "Varicose veins can appear in the legs.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/vein/",
+    "frTranslation": "veine",
+    "esTranslation": "vena",
+    "arTranslation": "وريد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "artery"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "capillary",
+    "meaning": "A tiny blood vessel where oxygen and nutrients exchange with tissues.",
+    "example": "Capillaries form dense networks in muscles.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/capillary/",
+    "frTranslation": "capillaire",
+    "esTranslation": "capilar",
+    "arTranslation": "شعيرة دموية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "lung",
+    "meaning": "A spongy organ for gas exchange, bringing oxygen in and carbon dioxide out.",
+    "example": "She filled her lungs with fresh air.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/lung/",
+    "frTranslation": "poumon",
+    "esTranslation": "pulmón",
+    "arTranslation": "رئة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "trachea",
+    "meaning": "The windpipe that carries air from the larynx to the bronchi.",
+    "example": "The trachea is held open by C-shaped cartilage rings.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/trachea/",
+    "frTranslation": "trachée",
+    "esTranslation": "tráquea",
+    "arTranslation": "رُغامى/قصبة هوائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "bronchus",
+    "meaning": "One of the two main airways branching from the trachea into the lungs.",
+    "example": "Mucus can clog a bronchus during infection.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/bronchus/",
+    "frTranslation": "bronche",
+    "esTranslation": "bronquio",
+    "arTranslation": "شُعَبة هوائية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "bronchi (plural)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "stomach",
+    "meaning": "A muscular sac that begins the digestion of food with acid and enzymes.",
+    "example": "Spicy food upset his stomach.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/stomach/",
+    "frTranslation": "estomac",
+    "esTranslation": "estómago",
+    "arTranslation": "معدة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "liver",
+    "meaning": "A large organ that processes nutrients, detoxifies blood, and produces bile.",
+    "example": "Alcohol can damage the liver over time.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/liver/",
+    "frTranslation": "foie",
+    "esTranslation": "hígado",
+    "arTranslation": "كبد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "gallbladder",
+    "meaning": "A small sac under the liver that stores and concentrates bile.",
+    "example": "A gallbladder stone can cause sharp pain.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/gallbladder/",
+    "frTranslation": "vésicule biliaire",
+    "esTranslation": "vesícula biliar",
+    "arTranslation": "مرارة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "pancreas",
+    "meaning": "A gland that makes digestive enzymes and hormones like insulin.",
+    "example": "The pancreas releases insulin after meals.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/pancreas/",
+    "frTranslation": "pancréas",
+    "esTranslation": "páncreas",
+    "arTranslation": "بنكرياس",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "spleen",
+    "meaning": "An organ that filters blood and helps fight infection.",
+    "example": "A blow to the left side can injure the spleen.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/spleen/",
+    "frTranslation": "rate",
+    "esTranslation": "bazo",
+    "arTranslation": "طحال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "small intestine",
+    "meaning": "A long coiled tube where most nutrient absorption occurs.",
+    "example": "Food passes from the stomach to the small intestine.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/small intestine/",
+    "frTranslation": "intestin grêle",
+    "esTranslation": "intestino delgado",
+    "arTranslation": "أمعاء دقيقة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "large intestine",
+    "meaning": "The wider final section of the gut that absorbs water and forms stool.",
+    "example": "Fiber helps the large intestine work smoothly.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/large intestine/",
+    "frTranslation": "gros intestin",
+    "esTranslation": "intestino grueso",
+    "arTranslation": "أمعاء غليظة",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "colon"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "appendix",
+    "meaning": "A small tube attached to the large intestine that can become inflamed.",
+    "example": "Appendix pain often starts near the navel then shifts lower right.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/appendix/",
+    "frTranslation": "appendice",
+    "esTranslation": "apéndice",
+    "arTranslation": "الزائدة الدودية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "kidney",
+    "meaning": "One of two organs that filter blood to remove waste and balance fluids.",
+    "example": "Dehydration can strain the kidneys.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/kidney/",
+    "frTranslation": "rein",
+    "esTranslation": "riñón",
+    "arTranslation": "كلية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "ureter",
+    "meaning": "A tube that carries urine from the kidney to the bladder.",
+    "example": "A stone stuck in the ureter can be very painful.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ureter/",
+    "frTranslation": "uretère",
+    "esTranslation": "uréter",
+    "arTranslation": "حالب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "bladder",
+    "meaning": "A muscular sac that stores urine until it is expelled.",
+    "example": "He emptied his bladder before the trip.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/bladder/",
+    "frTranslation": "vessie",
+    "esTranslation": "vejiga",
+    "arTranslation": "مثانة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "urethra",
+    "meaning": "The tube that carries urine from the bladder out of the body.",
+    "example": "An infection can irritate the urethra.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/urethra/",
+    "frTranslation": "urètre",
+    "esTranslation": "uretra",
+    "arTranslation": "إحليل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "esophagus",
+    "meaning": "The muscular tube that moves food from the throat to the stomach.",
+    "example": "The esophagus uses waves of motion called peristalsis.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/esophagus/",
+    "frTranslation": "œsophage",
+    "esTranslation": "esófago",
+    "arTranslation": "مريء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "thyroid gland",
+    "meaning": "A neck gland that regulates metabolism by releasing thyroid hormones.",
+    "example": "An overactive thyroid gland can speed the heartbeat.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/thyroid gland/",
+    "frTranslation": "thyroïde",
+    "esTranslation": "tiroides",
+    "arTranslation": "غدة درقية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "pituitary gland",
+    "meaning": "A pea-sized brain gland that controls many other endocrine glands.",
+    "example": "The pituitary gland is sometimes called the master gland.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/pituitary gland/",
+    "frTranslation": "hypophyse",
+    "esTranslation": "hipófisis",
+    "arTranslation": "الغدة النخامية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "adrenal gland",
+    "meaning": "A gland on top of each kidney that releases stress and salt-balancing hormones.",
+    "example": "The adrenal gland produces adrenaline and cortisol.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/adrenal gland/",
+    "frTranslation": "surrénale",
+    "esTranslation": "glándula suprarrenal",
+    "arTranslation": "غدة كظرية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "diaphragm (pelvic)",
+    "meaning": "Muscles forming the pelvic floor that support pelvic organs.",
+    "example": "Pelvic diaphragm strength helps prevent leakage.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/diaphragm (pelvic)/",
+    "frTranslation": "diaphragme pelvien",
+    "esTranslation": "diafragma pélvico",
+    "arTranslation": "حجاب حاجز حوضي",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "pelvic floor"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "organ"
+    ]
+  },
+  {
+    "text": "brain",
+    "meaning": "The control center of the body that processes information and coordinates actions.",
+    "example": "Her brain processes language quickly.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/brain/",
+    "frTranslation": "cerveau",
+    "esTranslation": "cerebro",
+    "arTranslation": "دماغ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "cerebrum",
+    "meaning": "The largest part of the brain responsible for thought, memory, and voluntary movement.",
+    "example": "The cerebrum includes the cortex with its folds.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/cerebrum/",
+    "frTranslation": "télencéphale (cervelet non)",
+    "esTranslation": "cerebro (cerebrum)",
+    "arTranslation": "المخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "cerebellum",
+    "meaning": "A brain region that coordinates balance and fine movements.",
+    "example": "Damage to the cerebellum can cause tremors.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/cerebellum/",
+    "frTranslation": "cervelet",
+    "esTranslation": "cerebelo",
+    "arTranslation": "المخيخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "brainstem",
+    "meaning": "The brain region that controls vital functions like breathing and heartbeat.",
+    "example": "Reflexes are mediated in the brainstem.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/brainstem/",
+    "frTranslation": "tronc cérébral",
+    "esTranslation": "tronco encefálico",
+    "arTranslation": "جذع الدماغ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "spinal cord",
+    "meaning": "A bundle of nerves running through the spine that transmits signals.",
+    "example": "An injury to the spinal cord can cause paralysis.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/spinal cord/",
+    "frTranslation": "moelle épinière",
+    "esTranslation": "médula espinal",
+    "arTranslation": "نخاع شوكي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "nerve",
+    "meaning": "A fiber bundle that carries electrical signals between the body and the brain.",
+    "example": "The dentist numbed the nerve before drilling.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/nerve/",
+    "frTranslation": "nerf",
+    "esTranslation": "nervio",
+    "arTranslation": "عصب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "neuron",
+    "meaning": "A specialized cell that sends signals through electrical impulses and chemicals.",
+    "example": "Learning strengthens connections between neurons.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/neuron/",
+    "frTranslation": "neurone",
+    "esTranslation": "neurona",
+    "arTranslation": "عصبون/خلية عصبية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "synapse",
+    "meaning": "The junction where one neuron passes a signal to another cell.",
+    "example": "Practice reinforces synapses in motor circuits.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/synapse/",
+    "frTranslation": "synapse",
+    "esTranslation": "sinapsis",
+    "arTranslation": "مشبك عصبي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "hippocampus",
+    "meaning": "A brain structure important for forming new memories and navigation.",
+    "example": "Stress can affect the hippocampus.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hippocampus/",
+    "frTranslation": "hippocampe",
+    "esTranslation": "hipocampo",
+    "arTranslation": "حصين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "optic nerve",
+    "meaning": "The nerve that carries visual information from the eye to the brain.",
+    "example": "Damage to the optic nerve impairs vision.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/optic nerve/",
+    "frTranslation": "nerf optique",
+    "esTranslation": "nervio óptico",
+    "arTranslation": "العصب البصري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "nervous system"
+    ]
+  },
+  {
+    "text": "skin",
+    "meaning": "The body’s largest organ that protects against injury and infection.",
+    "example": "Her skin dries out in winter.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/skin/",
+    "frTranslation": "peau",
+    "esTranslation": "piel",
+    "arTranslation": "جلد",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "integument"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "skin"
+    ]
+  },
+  {
+    "text": "epidermis",
+    "meaning": "The outermost layer of skin that forms a protective barrier.",
+    "example": "A scrape removed only the epidermis.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/epidermis/",
+    "frTranslation": "épiderme",
+    "esTranslation": "epidermis",
+    "arTranslation": "البشرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "skin"
+    ]
+  },
+  {
+    "text": "dermis",
+    "meaning": "The middle skin layer containing blood vessels, nerves, and follicles.",
+    "example": "Bruising occurs in the dermis.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/dermis/",
+    "frTranslation": "derme",
+    "esTranslation": "dermis",
+    "arTranslation": "الأدمة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "skin"
+    ]
+  },
+  {
+    "text": "sweat gland",
+    "meaning": "A skin gland that produces sweat to cool the body.",
+    "example": "Exercise activates many sweat glands.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/sweat gland/",
+    "frTranslation": "glande sudoripare",
+    "esTranslation": "glándula sudorípara",
+    "arTranslation": "غدة عرقية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "skin"
+    ]
+  }
+]

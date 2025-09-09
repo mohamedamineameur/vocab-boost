@@ -1,0 +1,1052 @@
+[
+  {
+    "text": "rain",
+    "meaning": "Liquid water drops falling from clouds.",
+    "example": "Light rain pattered on the window.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/rain/",
+    "frTranslation": "pluie",
+    "esTranslation": "lluvia",
+    "arTranslation": "مطر",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "rainfall"
+    ],
+    "antonyms": [
+      "drought"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "drizzle",
+    "meaning": "Very light rain with tiny droplets that feel misty.",
+    "example": "A cool drizzle soaked our jackets lightly.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/drizzle/",
+    "frTranslation": "bruine/crachin",
+    "esTranslation": "llovizna",
+    "arTranslation": "رذاذ مطر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "misty rain"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "shower",
+    "meaning": "A brief burst of rain that starts and stops suddenly.",
+    "example": "Scattered showers are likely this afternoon.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/shower/",
+    "frTranslation": "averse",
+    "esTranslation": "chubasco/chaparrón",
+    "arTranslation": "زخة مطر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "downpour",
+    "meaning": "A heavy, intense rainfall.",
+    "example": "A sudden downpour flooded the street.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/downpour/",
+    "frTranslation": "pluie torrentielle",
+    "esTranslation": "aguacero",
+    "arTranslation": "غزارة مطر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "cloudburst"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "sprinkle",
+    "meaning": "A very light, brief rainfall.",
+    "example": "Just a sprinkle fell before sunset.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/sprinkle/",
+    "frTranslation": "petite averse",
+    "esTranslation": "llovizna ligera",
+    "arTranslation": "نَضْح/رشّة مطر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "spit (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "sleet",
+    "meaning": "Pellets of ice and slush that form when snow partially melts and refreezes.",
+    "example": "Roads turned slick in the sleet.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/sleet/",
+    "frTranslation": "neige fondue/grésil",
+    "esTranslation": "aguanieve",
+    "arTranslation": "مطر ممزوج بالثلج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "hail",
+    "meaning": "Balls of layered ice produced by strong updrafts in storms.",
+    "example": "Hail dented the car hood.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/hail/",
+    "frTranslation": "grêle",
+    "esTranslation": "granizo",
+    "arTranslation": "بَرَد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "snow",
+    "meaning": "Ice crystals that fall from clouds when air is cold.",
+    "example": "Snow blanketed the fields overnight.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/snow/",
+    "frTranslation": "neige",
+    "esTranslation": "nieve",
+    "arTranslation": "ثلج",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "blizzard",
+    "meaning": "A severe snowstorm with strong winds and very low visibility.",
+    "example": "Travel was impossible during the blizzard.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/blizzard/",
+    "frTranslation": "blizzard/tempête de neige",
+    "esTranslation": "ventisca",
+    "arTranslation": "عاصفة ثلجية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "flurry",
+    "meaning": "A brief, light snowfall with little accumulation.",
+    "example": "Morning flurries gave way to sun.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/flurry/",
+    "frTranslation": "rafale de neige",
+    "esTranslation": "copos/nevadas leves",
+    "arTranslation": "نُثارة ثلجية/هَبَّة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "graupel",
+    "meaning": "Soft, small pellets formed when supercooled droplets freeze on snowflakes.",
+    "example": "Skiers noticed graupel before the front arrived.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/graupel/",
+    "frTranslation": "grésil mou",
+    "esTranslation": "cinarra/granizo blando",
+    "arTranslation": "ثلج حُبيبي (غراوبل)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "freezing rain",
+    "meaning": "Rain that freezes on contact, glazing surfaces with ice.",
+    "example": "Freezing rain coated branches in clear ice.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/freezing rain/",
+    "frTranslation": "pluie verglaçante",
+    "esTranslation": "lluvia helada",
+    "arTranslation": "أمطار متجمّدة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "glaze ice"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "thunderstorm",
+    "meaning": "A storm with lightning, thunder, and often heavy rain or hail.",
+    "example": "A strong thunderstorm rolled in from the west.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/thunderstorm/",
+    "frTranslation": "orage",
+    "esTranslation": "tormenta eléctrica",
+    "arTranslation": "عاصفة رعدية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "cloudburst",
+    "meaning": "An extreme, sudden downpour over a small area.",
+    "example": "A cloudburst overwhelmed the drains.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cloudburst/",
+    "frTranslation": "déluge soudain",
+    "esTranslation": "tromba de agua",
+    "arTranslation": "انهمار مطري مفاجئ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "snowfall",
+    "meaning": "The amount of snow that falls in a period.",
+    "example": "Overnight snowfall reached ten centimeters.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/snowfall/",
+    "frTranslation": "chute de neige",
+    "esTranslation": "nevada",
+    "arTranslation": "تساقط الثلوج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "precipitation"
+    ]
+  },
+  {
+    "text": "cumulus",
+    "meaning": "Puffy, cauliflower-shaped clouds that often signal fair weather.",
+    "example": "Cumulus towers developed by afternoon.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cumulus/",
+    "frTranslation": "cumulus",
+    "esTranslation": "cúmulo",
+    "arTranslation": "سُحُب ركامية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "cumulonimbus",
+    "meaning": "Tall thunderstorm clouds with strong updrafts and an anvil top.",
+    "example": "Lightning flashed within the cumulonimbus.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cumulonimbus/",
+    "frTranslation": "cumulonimbus",
+    "esTranslation": "cumulonimbo",
+    "arTranslation": "سحب ركامية مزنية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "stratus",
+    "meaning": "Low, gray cloud layers that can bring drizzle.",
+    "example": "A blanket of stratus kept the day dull.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/stratus/",
+    "frTranslation": "stratus",
+    "esTranslation": "estrato",
+    "arTranslation": "سحب طبقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "nimbostratus",
+    "meaning": "Thick gray clouds producing steady, widespread rain or snow.",
+    "example": "Nimbostratus covered the region all day.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/nimbostratus/",
+    "frTranslation": "nimbostratus",
+    "esTranslation": "nimbostrato",
+    "arTranslation": "سحب مطرية طبقية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "stratocumulus",
+    "meaning": "Low, lumpy clouds in groups or lines, often dry.",
+    "example": "Sun peeked through stratocumulus gaps.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/stratocumulus/",
+    "frTranslation": "stratocumulus",
+    "esTranslation": "estratocúmulo",
+    "arTranslation": "سحب طبقية ركامية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "altostratus",
+    "meaning": "Mid-level gray sheets that dim the sun and can precede rain.",
+    "example": "A veil of altostratus signaled a warm front.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/altostratus/",
+    "frTranslation": "altostratus",
+    "esTranslation": "altostrato",
+    "arTranslation": "سحب طبقية متوسطة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "altocumulus",
+    "meaning": "Mid-level patches or rolls; a 'mackerel sky' pattern.",
+    "example": "Altocumulus ripples spread at dawn.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/altocumulus/",
+    "frTranslation": "altocumulus",
+    "esTranslation": "altocúmulo",
+    "arTranslation": "سحب ركامية متوسطة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "cirrus",
+    "meaning": "High, wispy ice-crystal clouds that often precede a change in weather.",
+    "example": "Feather-like cirrus streaked the sky.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cirrus/",
+    "frTranslation": "cirrus",
+    "esTranslation": "cirro",
+    "arTranslation": "سحب سمحاقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "cirrostratus",
+    "meaning": "Thin high clouds forming halos around the sun or moon.",
+    "example": "A ring in cirrostratus foretold rain.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cirrostratus/",
+    "frTranslation": "cirrostratus",
+    "esTranslation": "cirrostrato",
+    "arTranslation": "سحب سمحاقية طبقية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "cirrocumulus",
+    "meaning": "High, small white patches in rows or ripples.",
+    "example": "Bands of cirrocumulus marched east.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cirrocumulus/",
+    "frTranslation": "cirrocumulus",
+    "esTranslation": "cirrocúmulo",
+    "arTranslation": "سحب سمحاقية ركامية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "anvil cloud",
+    "meaning": "The flat, spreading top of a mature thunderstorm.",
+    "example": "The anvil cloud spread out downwind.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/anvil cloud/",
+    "frTranslation": "nuage en enclume",
+    "esTranslation": "nube yunque",
+    "arTranslation": "سحابة على شكل سندان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "cloud"
+    ]
+  },
+  {
+    "text": "overcast",
+    "meaning": "A sky completely covered by cloud.",
+    "example": "It stayed overcast until late afternoon.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/overcast/",
+    "frTranslation": "ciel couvert",
+    "esTranslation": "cielo cubierto",
+    "arTranslation": "سماء ملبّدة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cloudy"
+    ],
+    "antonyms": [
+      "clear"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "sky"
+    ]
+  },
+  {
+    "text": "breeze",
+    "meaning": "A light, gentle wind.",
+    "example": "A sea breeze cooled the beach.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/breeze/",
+    "frTranslation": "brise",
+    "esTranslation": "brisa",
+    "arTranslation": "نسيم",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "light wind"
+    ],
+    "antonyms": [
+      "gale"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "gust",
+    "meaning": "A sudden, brief increase in wind speed.",
+    "example": "Wind gusts rocked the trees.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/gust/",
+    "frTranslation": "rafale",
+    "esTranslation": "ráfaga",
+    "arTranslation": "هَبّة ريح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "gale",
+    "meaning": "A very strong wind below storm or hurricane force.",
+    "example": "Ferries were canceled due to gale warnings.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/gale/",
+    "frTranslation": "coup de vent",
+    "esTranslation": "galerna/viento fuerte",
+    "arTranslation": "ريح عاصفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "squall",
+    "meaning": "A sudden, sharp increase in wind often with rain or snow.",
+    "example": "A snow squall cut visibility to zero.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/squall/",
+    "frTranslation": "grain/rafale violente",
+    "esTranslation": "borrasca/ráfaga fuerte",
+    "arTranslation": "عاصفة مفاجئة قصيرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "whirlwind",
+    "meaning": "A fast-spinning column of air that lifts dust or debris.",
+    "example": "A small whirlwind danced across the field.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/whirlwind/",
+    "frTranslation": "tourbillon",
+    "esTranslation": "remolino",
+    "arTranslation": "دوّامة ريح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "dust devil",
+    "meaning": "A sun-heated, ground-level whirlwind that picks up dust.",
+    "example": "A dust devil spun across the parking lot.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/dust devil/",
+    "frTranslation": "tourbillon de poussière",
+    "esTranslation": "diablo de polvo",
+    "arTranslation": "شيطان الغبار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "jet stream",
+    "meaning": "A fast, narrow air current high in the atmosphere that steers weather.",
+    "example": "The jet stream dipped south and cooled the region.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/jet stream/",
+    "frTranslation": "courant-jet",
+    "esTranslation": "corriente en chorro",
+    "arTranslation": "التيار النفاث",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "trade winds",
+    "meaning": "Persistent easterly winds in the tropics.",
+    "example": "Sailors relied on the trade winds.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/trade winds/",
+    "frTranslation": "alizés",
+    "esTranslation": "vientos alisios",
+    "arTranslation": "الرياح التجارية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "monsoon",
+    "meaning": "A seasonal wind pattern that brings wet and dry periods.",
+    "example": "The summer monsoon brings heavy rains.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/monsoon/",
+    "frTranslation": "mousson",
+    "esTranslation": "monzón",
+    "arTranslation": "رياح موسمية/مونسون",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "sea breeze",
+    "meaning": "A daytime wind blowing from sea to land as the coast heats up.",
+    "example": "By noon the sea breeze had set in.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/sea breeze/",
+    "frTranslation": "brise de mer",
+    "esTranslation": "brisa marina",
+    "arTranslation": "نسيم بحري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "land breeze",
+    "meaning": "A nighttime wind blowing from land to sea as land cools.",
+    "example": "Fishermen launched with the land breeze.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/land breeze/",
+    "frTranslation": "brise de terre",
+    "esTranslation": "brisa terrestre",
+    "arTranslation": "نسيم بري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "foehn (chinook)",
+    "meaning": "A warm, dry downslope wind that rapidly raises temperatures.",
+    "example": "A foehn wind melted the snow in hours.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/foehn (chinook)/",
+    "frTranslation": "foehn (chinook)",
+    "esTranslation": "foehn (chinook)",
+    "arTranslation": "رياح الفون/الشينوك",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "chinook"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "wind"
+    ]
+  },
+  {
+    "text": "heatwave",
+    "meaning": "A prolonged period of abnormally high temperatures.",
+    "example": "Cities opened cooling centers during the heatwave.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/heatwave/",
+    "frTranslation": "canicule",
+    "esTranslation": "ola de calor",
+    "arTranslation": "موجة حر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "temperature"
+    ]
+  },
+  {
+    "text": "cold snap",
+    "meaning": "A short spell of suddenly colder weather.",
+    "example": "Pipes burst during the cold snap.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cold snap/",
+    "frTranslation": "vague de froid",
+    "esTranslation": "ola de frío",
+    "arTranslation": "موجة برد مفاجئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "cold spell"
+    ],
+    "antonyms": [
+      "heatwave"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "temperature"
+    ]
+  },
+  {
+    "text": "frost",
+    "meaning": "Ice crystals forming on surfaces when air cools below freezing.",
+    "example": "Frost coated the windshield at dawn.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/frost/",
+    "frTranslation": "gel",
+    "esTranslation": "helada/escarcha",
+    "arTranslation": "صقيع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "temperature"
+    ]
+  },
+  {
+    "text": "humidity",
+    "meaning": "The amount of water vapor in the air.",
+    "example": "High humidity made the room feel stuffy.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/humidity/",
+    "frTranslation": "humidité",
+    "esTranslation": "humedad",
+    "arTranslation": "رطوبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "moisture"
+    ]
+  },
+  {
+    "text": "relative humidity",
+    "meaning": "The percentage of water vapor in air relative to the maximum it can hold at that temperature.",
+    "example": "Relative humidity reached 90% before the storm.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/relative humidity/",
+    "frTranslation": "humidité relative",
+    "esTranslation": "humedad relativa",
+    "arTranslation": "الرطوبة النسبية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "moisture"
+    ]
+  },
+  {
+    "text": "dew point",
+    "meaning": "The temperature at which air becomes saturated and dew forms.",
+    "example": "A high dew point made the morning feel tropical.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/dew point/",
+    "frTranslation": "point de rosée",
+    "esTranslation": "punto de rocío",
+    "arTranslation": "نقطة الندى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "moisture"
+    ]
+  },
+  {
+    "text": "wind chill",
+    "meaning": "The perceived colder temperature caused by wind removing body heat.",
+    "example": "Wind chill made -5°C feel like -15°C.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/wind chill/",
+    "frTranslation": "refroidissement éolien",
+    "esTranslation": "sensación térmica (frío)",
+    "arTranslation": "برودة رياح محسوسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "temperature"
+    ]
+  },
+  {
+    "text": "heat index",
+    "meaning": "The apparent temperature combining heat and humidity.",
+    "example": "The heat index topped 40°C this afternoon.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/heat index/",
+    "frTranslation": "indice de chaleur",
+    "esTranslation": "índice de calor",
+    "arTranslation": "مؤشر الحرارة المحسوسة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "temperature"
+    ]
+  },
+  {
+    "text": "wet-bulb temperature",
+    "meaning": "The lowest temperature reachable by evaporative cooling; key for human survivability.",
+    "example": "Wet-bulb temperature approached dangerous levels.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/wet-bulb temperature/",
+    "frTranslation": "température du thermomètre humide",
+    "esTranslation": "temperatura de bulbo húmedo",
+    "arTranslation": "درجة حرارة البصيلة الرطبة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "moisture"
+    ]
+  },
+  {
+    "text": "temperature inversion",
+    "meaning": "A layer where temperature increases with height, trapping pollution below.",
+    "example": "A temperature inversion kept smog over the city.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/temperature inversion/",
+    "frTranslation": "inversion de température",
+    "esTranslation": "inversión térmica",
+    "arTranslation": "انقلاب حراري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "temperature"
+    ]
+  },
+  {
+    "text": "hurricane",
+    "meaning": "A strong tropical cyclone with sustained winds of 119 km/h (74 mph) or higher in the Atlantic/Eastern Pacific.",
+    "example": "The hurricane tracked parallel to the coast.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/hurricane/",
+    "frTranslation": "ouragan",
+    "esTranslation": "huracán",
+    "arTranslation": "إعصار (مداري)",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "tropical cyclone"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "typhoon",
+    "meaning": "A tropical cyclone of hurricane strength in the Western Pacific.",
+    "example": "The typhoon made landfall overnight.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/typhoon/",
+    "frTranslation": "typhon",
+    "esTranslation": "tifón",
+    "arTranslation": "إعصار مداري (غرب الهادئ)",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "tropical cyclone"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "tropical storm",
+    "meaning": "A tropical cyclone with winds below hurricane strength.",
+    "example": "Watches were issued for the tropical storm.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/tropical storm/",
+    "frTranslation": "tempête tropicale",
+    "esTranslation": "tormenta tropical",
+    "arTranslation": "عاصفة مدارية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "storm surge",
+    "meaning": "An abnormal rise of sea level driven by a storm’s winds and pressure.",
+    "example": "Storm surge flooded low-lying neighborhoods.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/storm surge/",
+    "frTranslation": "onde de tempête",
+    "esTranslation": "marejada ciclónica",
+    "arTranslation": "عاصفة مدّية/زيادة منسوب البحر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hazard"
+    ]
+  },
+  {
+    "text": "tornado",
+    "meaning": "A violently rotating column of air extending from a thunderstorm to the ground.",
+    "example": "A tornado warning sent people to shelters.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/tornado/",
+    "frTranslation": "tornade",
+    "esTranslation": "tornado",
+    "arTranslation": "إعصار قُمعي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "waterspout",
+    "meaning": "A tornado-like vortex over water.",
+    "example": "Boaters spotted a waterspout offshore.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/waterspout/",
+    "frTranslation": "trombe marine",
+    "esTranslation": "manga de agua",
+    "arTranslation": "دوّامة مائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "lightning",
+    "meaning": "A sudden electrical discharge in a storm cloud or to the ground.",
+    "example": "Lightning struck a tree near the field.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/lightning/",
+    "frTranslation": "éclair/foudre",
+    "esTranslation": "rayo/relámpago",
+    "arTranslation": "برق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "thunder",
+    "meaning": "The sound from rapidly heated air expanding after lightning.",
+    "example": "Thunder rattled the windows.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/thunder/",
+    "frTranslation": "tonnerre",
+    "esTranslation": "trueno",
+    "arTranslation": "رعد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "microburst",
+    "meaning": "A sudden, powerful downdraft from a thunderstorm causing damaging straight-line winds.",
+    "example": "The microburst toppled trees across town.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/microburst/",
+    "frTranslation": "micro-rafale descendante",
+    "esTranslation": "microburst",
+    "arTranslation": "اندفاع هوائي هابط قوي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "derecho",
+    "meaning": "A long-lived line of severe thunderstorms producing widespread wind damage.",
+    "example": "A derecho swept across the plains overnight.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/derecho/",
+    "frTranslation": "derecho (tempête en ligne)",
+    "esTranslation": "derecho",
+    "arTranslation": "عاصفة رياح واسعة النطاق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "storm"
+    ]
+  },
+  {
+    "text": "polar vortex",
+    "meaning": "A large, persistent low-pressure system of cold air centered near the poles.",
+    "example": "A disrupted polar vortex sent Arctic air south.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/polar vortex/",
+    "frTranslation": "vortex polaire",
+    "esTranslation": "vórtice polar",
+    "arTranslation": "دوّامة قطبية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "atmosphere"
+    ]
+  }
+]

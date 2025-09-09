@@ -1,0 +1,1064 @@
+[
+  {
+    "text": "mountain",
+    "meaning": "A very high natural elevation of the Earth's surface rising steeply from the surrounding land.",
+    "example": "Clouds gathered around the snow-capped mountain.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/mountain/",
+    "frTranslation": "montagne",
+    "esTranslation": "montaña",
+    "arTranslation": "جبل",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "peak",
+      "mount"
+    ],
+    "antonyms": [
+      "plain"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "hill",
+    "meaning": "A rounded area of higher land, lower than a mountain.",
+    "example": "They picnicked on a grassy hill above town.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/hill/",
+    "frTranslation": "colline",
+    "esTranslation": "colina",
+    "arTranslation": "تلة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "valley (contrast)"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "valley",
+    "meaning": "A low area between hills or mountains, often with a river running through.",
+    "example": "Farms lined the wide valley floor.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/valley/",
+    "frTranslation": "vallée",
+    "esTranslation": "valle",
+    "arTranslation": "وادي",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "dale"
+    ],
+    "antonyms": [
+      "ridge"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "plateau",
+    "meaning": "A broad, flat area of high land elevated above surrounding terrain.",
+    "example": "The plateau ended in dramatic cliffs.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/plateau/",
+    "frTranslation": "plateau",
+    "esTranslation": "meseta/altiplano",
+    "arTranslation": "هضبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "plain",
+    "meaning": "A flat or gently rolling area of low elevation.",
+    "example": "Wheat fields stretched across the plain.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/plain/",
+    "frTranslation": "plaine",
+    "esTranslation": "llanura",
+    "arTranslation": "سهل",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "lowland"
+    ],
+    "antonyms": [
+      "mountain"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "canyon",
+    "meaning": "A deep, narrow valley with steep sides carved by a river.",
+    "example": "The river flashed blue through the canyon.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/canyon/",
+    "frTranslation": "canyon/gorge",
+    "esTranslation": "cañón",
+    "arTranslation": "وادي سحيق/أخدود",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "gorge",
+    "meaning": "A narrow, steep-sided valley formed by erosion.",
+    "example": "Mist rose from the falls within the gorge.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/gorge/",
+    "frTranslation": "gorge",
+    "esTranslation": "desfiladero",
+    "arTranslation": "خانِق",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "ravine"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "cliff",
+    "meaning": "A steep rock face, especially at the edge of the sea or a river.",
+    "example": "Sea birds nested on the high cliff.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/cliff/",
+    "frTranslation": "falaise",
+    "esTranslation": "acantilado",
+    "arTranslation": "جرف صخري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "ridge",
+    "meaning": "A long, narrow elevated landform; the top line of hills or mountains.",
+    "example": "They hiked along the windy ridge.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/ridge/",
+    "frTranslation": "crête",
+    "esTranslation": "cresta",
+    "arTranslation": "حافة/حيد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "valley"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "landform"
+    ]
+  },
+  {
+    "text": "dune",
+    "meaning": "A mound or ridge of sand shaped by wind, common on coasts and deserts.",
+    "example": "Footprints disappeared quickly on the dune.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/dune/",
+    "frTranslation": "dune",
+    "esTranslation": "duna",
+    "arTranslation": "كَثيب رملي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast/desert"
+    ]
+  },
+  {
+    "text": "island",
+    "meaning": "A piece of land completely surrounded by water.",
+    "example": "The island is reachable by ferry.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/island/",
+    "frTranslation": "île",
+    "esTranslation": "isla",
+    "arTranslation": "جزيرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "mainland"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "archipelago",
+    "meaning": "A group or chain of islands clustered together.",
+    "example": "Fishermen sailed among the archipelago's channels.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/archipelago/",
+    "frTranslation": "archipel",
+    "esTranslation": "archipiélago",
+    "arTranslation": "أرخبيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "peninsula",
+    "meaning": "A landform surrounded by water on most sides but connected to mainland.",
+    "example": "The peninsula shelters a calm bay.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/peninsula/",
+    "frTranslation": "péninsule",
+    "esTranslation": "península",
+    "arTranslation": "شبه جزيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "isthmus",
+    "meaning": "A narrow strip of land connecting two larger land areas, with sea on each side.",
+    "example": "A canal was cut across the isthmus.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/isthmus/",
+    "frTranslation": "isthme",
+    "esTranslation": "istmo",
+    "arTranslation": "برزخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "cape",
+    "meaning": "A pointed piece of land that sticks out into the sea.",
+    "example": "Fog horns blew near the rocky cape.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/cape/",
+    "frTranslation": "cap",
+    "esTranslation": "cabo",
+    "arTranslation": "رأس (بحري)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "bay",
+    "meaning": "A broad coastal inlet where the land curves inward.",
+    "example": "Boats sheltered in the quiet bay.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/bay/",
+    "frTranslation": "baie",
+    "esTranslation": "bahía",
+    "arTranslation": "خليج صغير/خليج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "headland (contrast)"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "gulf",
+    "meaning": "A large, deep inlet of the sea almost surrounded by land.",
+    "example": "Warm currents flow through the gulf.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/gulf/",
+    "frTranslation": "golfe",
+    "esTranslation": "golfo",
+    "arTranslation": "خليج كبير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "fjord",
+    "meaning": "A long, deep, narrow sea inlet bordered by steep cliffs, carved by glaciers.",
+    "example": "Waterfalls lined the sides of the fjord.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/fjord/",
+    "frTranslation": "fjord",
+    "esTranslation": "fiordo",
+    "arTranslation": "فيورد/خلجان جليدية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "atoll",
+    "meaning": "A ring-shaped coral reef or island surrounding a lagoon.",
+    "example": "The atoll’s lagoon glowed turquoise.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/atoll/",
+    "frTranslation": "atoll",
+    "esTranslation": "atolón",
+    "arTranslation": "حلقة شعاب مرجانية/أتول",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "delta",
+    "meaning": "A landform at a river's mouth where sediment is deposited in branching channels.",
+    "example": "Rice paddies checker the river delta.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/delta/",
+    "frTranslation": "delta",
+    "esTranslation": "delta",
+    "arTranslation": "دلتا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "river/coast"
+    ]
+  },
+  {
+    "text": "estuary",
+    "meaning": "A coastal area where freshwater mixes with seawater.",
+    "example": "Dolphins swam into the estuary at high tide.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/estuary/",
+    "frTranslation": "estuaire",
+    "esTranslation": "estuario",
+    "arTranslation": "مصبّ/مَصَبٌّ مِلحُيّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "river/coast"
+    ]
+  },
+  {
+    "text": "lagoon",
+    "meaning": "A shallow body of water separated from the sea by barrier islands or reefs.",
+    "example": "Birds fed in the quiet lagoon.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/lagoon/",
+    "frTranslation": "lagon/lagune",
+    "esTranslation": "laguna",
+    "arTranslation": "بحيرة ساحلية/لاجون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "sandbar",
+    "meaning": "A submerged or partly exposed ridge of sand built by waves or currents.",
+    "example": "A sandbar made the channel shallow.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/sandbar/",
+    "frTranslation": "banc de sable",
+    "esTranslation": "barra de arena",
+    "arTranslation": "شريط رملي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast"
+    ]
+  },
+  {
+    "text": "continental shelf",
+    "meaning": "The shallow, gently sloping seabed extending from a continent before the deep ocean.",
+    "example": "Drilling occurs on the continental shelf.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/continental shelf/",
+    "frTranslation": "plateau continental",
+    "esTranslation": "plataforma continental",
+    "arTranslation": "الجرف القاري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ocean"
+    ]
+  },
+  {
+    "text": "trench (ocean)",
+    "meaning": "A long, deep depression in the ocean floor formed at subduction zones.",
+    "example": "The trench reaches depths of over 10 km.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/trench (ocean)/",
+    "frTranslation": "fosse océanique",
+    "esTranslation": "fosa oceánica",
+    "arTranslation": "خندق محيطي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ocean"
+    ]
+  },
+  {
+    "text": "river",
+    "meaning": "A large natural flow of water that moves toward an ocean, lake, or another river.",
+    "example": "The river floods each spring.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/river/",
+    "frTranslation": "rivière/fleuve",
+    "esTranslation": "río",
+    "arTranslation": "نهر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "stream (contrast)"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "stream",
+    "meaning": "A small, narrow flow of water, often feeding into a river.",
+    "example": "Salmon swim upstream in the stream to spawn.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/stream/",
+    "frTranslation": "ruisseau/cours d’eau",
+    "esTranslation": "arroyo/riachuelo",
+    "arTranslation": "جدول/مجرى مائي",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "creek",
+      "brook"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "tributary",
+    "meaning": "A river or stream that flows into a larger river or lake.",
+    "example": "The tributary joins the main river at the bend.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/tributary/",
+    "frTranslation": "affluent",
+    "esTranslation": "afluente",
+    "arTranslation": "رافد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "confluence",
+    "meaning": "The point where two or more rivers meet.",
+    "example": "The confluence creates swirling currents.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/confluence/",
+    "frTranslation": "confluence",
+    "esTranslation": "confluencia",
+    "arTranslation": "ملتقى الأنهار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "headwaters (source)",
+    "meaning": "The upper streams where a river begins.",
+    "example": "Snowmelt feeds the river’s headwaters.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/headwaters (source)/",
+    "frTranslation": "source (amont)",
+    "esTranslation": "nacimiento (cabecera)",
+    "arTranslation": "منابع النهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "source"
+    ],
+    "antonyms": [
+      "mouth"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "river mouth",
+    "meaning": "The place where a river flows into a larger body of water.",
+    "example": "Sediments fan out at the river mouth.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/river mouth/",
+    "frTranslation": "embouchure",
+    "esTranslation": "desembocadura",
+    "arTranslation": "مصبّ النهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "headwaters"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "meander",
+    "meaning": "A winding bend in a river caused by erosion and deposition.",
+    "example": "The river forms wide meanders across the plain.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/meander/",
+    "frTranslation": "méandre",
+    "esTranslation": "meandro",
+    "arTranslation": "تعَرُّج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "oxbow lake",
+    "meaning": "A curved lake formed when a wide meander is cut off from the river.",
+    "example": "The oxbow lake hosts rich birdlife.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/oxbow lake/",
+    "frTranslation": "lac en fer à cheval",
+    "esTranslation": "lago en herradura",
+    "arTranslation": "بحيرة هلالية (قوسية)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "floodplain",
+    "meaning": "Flat land along a river that naturally floods and deposits fertile soil.",
+    "example": "Homes on the floodplain use raised foundations.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/floodplain/",
+    "frTranslation": "plaine inondable",
+    "esTranslation": "llanura de inundación",
+    "arTranslation": "سهل فيضي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "wetland",
+    "meaning": "An area where water saturates the soil, such as marshes or swamps.",
+    "example": "Wetlands filter water and store floods.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/wetland/",
+    "frTranslation": "zone humide",
+    "esTranslation": "humedal",
+    "arTranslation": "أراضي رطبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "marshland"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "marsh",
+    "meaning": "A wetland dominated by grasses and reeds.",
+    "example": "Herons stalked fish in the marsh.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/marsh/",
+    "frTranslation": "marais",
+    "esTranslation": "marisma",
+    "arTranslation": "مستنقع عشبي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "swamp",
+    "meaning": "A wetland dominated by trees and shrubs.",
+    "example": "Cypress knees rose from the swamp water.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/swamp/",
+    "frTranslation": "marécage",
+    "esTranslation": "pantano",
+    "arTranslation": "مستنقع شجري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "bog",
+    "meaning": "An acidic wetland with peat and moss and little drainage.",
+    "example": "Rare plants thrive in the raised bog.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/bog/",
+    "frTranslation": "tourbière",
+    "esTranslation": "turbera",
+    "arTranslation": "مستنقع خثّي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "aquifer",
+    "meaning": "An underground layer of permeable rock that holds groundwater.",
+    "example": "Wells tap the aquifer during dry months.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/aquifer/",
+    "frTranslation": "aquifère",
+    "esTranslation": "acuífero",
+    "arTranslation": "خزّان جوفي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "groundwater",
+    "meaning": "Water stored beneath the Earth's surface in soil and rock.",
+    "example": "Overpumping lowered the groundwater level.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/groundwater/",
+    "frTranslation": "nappe phréatique",
+    "esTranslation": "agua subterránea",
+    "arTranslation": "مياه جوفية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "spring",
+    "meaning": "A natural outflow of groundwater to the surface.",
+    "example": "A clear spring bubbles from the hillside.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/spring/",
+    "frTranslation": "source (résurgence)",
+    "esTranslation": "manantial",
+    "arTranslation": "ينبوع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "reservoir",
+    "meaning": "A man-made lake used to store water.",
+    "example": "The reservoir supplies the city’s drinking water.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/reservoir/",
+    "frTranslation": "réservoir",
+    "esTranslation": "embalse",
+    "arTranslation": "خزان مائي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "watershed (drainage basin)",
+    "meaning": "The land area where all water drains to a common outlet.",
+    "example": "Forest cover protects the upstream watershed.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/watershed (drainage basin)/",
+    "frTranslation": "bassin versant",
+    "esTranslation": "cuenca hidrográfica",
+    "arTranslation": "حوض تصريف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "runoff",
+    "meaning": "Water that flows over land into streams after rain or snowmelt.",
+    "example": "Heavy runoff muddied the river.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/runoff/",
+    "frTranslation": "ruissellement",
+    "esTranslation": "escorrentía",
+    "arTranslation": "جريان سطحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "forest",
+    "meaning": "A large area dominated by trees and undergrowth.",
+    "example": "The forest canopy shaded the trail.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/forest/",
+    "frTranslation": "forêt",
+    "esTranslation": "bosque",
+    "arTranslation": "غابة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "desert"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "rainforest",
+    "meaning": "A dense, biodiverse forest with high rainfall year-round.",
+    "example": "Colorful frogs live in the rainforest leaf litter.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/rainforest/",
+    "frTranslation": "forêt tropicale humide",
+    "esTranslation": "selva/bosque lluvioso",
+    "arTranslation": "غابة مطيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "savanna",
+    "meaning": "A grassland with scattered trees in tropical regions.",
+    "example": "Wildfires shape the African savanna.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/savanna/",
+    "frTranslation": "savane",
+    "esTranslation": "sabana",
+    "arTranslation": "سافانا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "grassland (prairie)",
+    "meaning": "Open areas dominated by grasses with few trees.",
+    "example": "Bison once roamed the North American prairie.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/grassland (prairie)/",
+    "frTranslation": "prairie/steppe",
+    "esTranslation": "pradera/pampa",
+    "arTranslation": "سهل عشبي/براري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "steppe"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "tundra",
+    "meaning": "A cold, treeless plain with permafrost and short-growing plants.",
+    "example": "Wildflowers bloom briefly on the tundra.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/tundra/",
+    "frTranslation": "toundra",
+    "esTranslation": "tundra",
+    "arTranslation": "تندرا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "desert",
+    "meaning": "A dry region with very little precipitation and sparse life.",
+    "example": "Cacti store water in the desert.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/desert/",
+    "frTranslation": "désert",
+    "esTranslation": "desierto",
+    "arTranslation": "صحراء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "rainforest"
+    ],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "chaparral (maquis)",
+    "meaning": "Shrubland adapted to Mediterranean climates with dry summers.",
+    "example": "Chaparral plants resprout after fires.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/chaparral (maquis)/",
+    "frTranslation": "maquis/chaparral",
+    "esTranslation": "matorral (chaparral)",
+    "arTranslation": "أحراج متوسطية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "boreal forest (taiga)",
+    "meaning": "A cold, conifer-dominated forest across high northern latitudes.",
+    "example": "The taiga stores vast amounts of carbon.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/boreal forest (taiga)/",
+    "frTranslation": "forêt boréale (taïga)",
+    "esTranslation": "bosque boreal (taiga)",
+    "arTranslation": "غابة تايغا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "alpine zone",
+    "meaning": "High-elevation environments above the treeline with hardy plants.",
+    "example": "Marmots whistled across the alpine zone.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/alpine zone/",
+    "frTranslation": "zone alpine",
+    "esTranslation": "zona alpina",
+    "arTranslation": "منطقة ألبية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "biome"
+    ]
+  },
+  {
+    "text": "wet meadow",
+    "meaning": "A grass-dominated habitat with saturated soils during part of the year.",
+    "example": "Butterflies clustered in the wet meadow.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/wet meadow/",
+    "frTranslation": "prairie humide",
+    "esTranslation": "pradera húmeda",
+    "arTranslation": "مرج رطب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ecosystem"
+    ]
+  },
+  {
+    "text": "mangrove forest",
+    "meaning": "Coastal forests of salt-tolerant trees with tangled roots.",
+    "example": "Mangrove roots shelter young fish.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/mangrove forest/",
+    "frTranslation": "mangrove",
+    "esTranslation": "mangle",
+    "arTranslation": "غابة مانغروف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "coast/ecosystem"
+    ]
+  },
+  {
+    "text": "coral reef",
+    "meaning": "A biodiverse underwater structure built by coral organisms.",
+    "example": "Snorkelers drifted above the coral reef.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/coral reef/",
+    "frTranslation": "récif corallien",
+    "esTranslation": "arrecife de coral",
+    "arTranslation": "حاجز مرجاني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ocean/ecosystem"
+    ]
+  },
+  {
+    "text": "kelp forest",
+    "meaning": "Underwater forests of large brown algae that provide habitat.",
+    "example": "Sea otters patrol the kelp forest.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/kelp forest/",
+    "frTranslation": "forêt de kelp",
+    "esTranslation": "bosque de kelp",
+    "arTranslation": "غابة عشب البحر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "ocean/ecosystem"
+    ]
+  },
+  {
+    "text": "plate tectonics",
+    "meaning": "The theory that Earth's outer shell is divided into moving plates.",
+    "example": "Plate tectonics explains earthquakes and mountain building.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/plate tectonics/",
+    "frTranslation": "tectonique des plaques",
+    "esTranslation": "tectónica de placas",
+    "arTranslation": "الصفائح التكتونية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "tectonic plate",
+    "meaning": "A rigid slab of Earth's lithosphere that moves over the mantle.",
+    "example": "The boundary between two tectonic plates is active.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/tectonic plate/",
+    "frTranslation": "plaque tectonique",
+    "esTranslation": "placa tectónica",
+    "arTranslation": "صفيحة تكتونية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  },
+  {
+    "text": "fault (geology)",
+    "meaning": "A fracture in rock where blocks have moved past each other.",
+    "example": "Houses were built away from the main fault.",
+    "categoryId": "Geography & Environment",
+    "pronunciation": "/fault (geology)/",
+    "frTranslation": "faille (géologie)",
+    "esTranslation": "falla (geología)",
+    "arTranslation": "فالق/صدع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Geography & Environment",
+      "geology"
+    ]
+  }
+]

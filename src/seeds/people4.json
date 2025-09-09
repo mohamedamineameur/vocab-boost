@@ -1,0 +1,936 @@
+[
+  {
+    "text": "truck driver",
+    "meaning": "A professional who drives heavy goods vehicles over long distances.",
+    "example": "Truck drivers must follow rest schedules.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/truck driver/",
+    "frTranslation": "chauffeur poids lourd",
+    "esTranslation": "camionero/a",
+    "arTranslation": "سائق شاحنة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "bus driver",
+    "meaning": "A person who drives a bus and follows a fixed route.",
+    "example": "The bus driver stopped at every sign.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/bus driver/",
+    "frTranslation": "conducteur/trice de bus",
+    "esTranslation": "chofer/a de autobús",
+    "arTranslation": "سائق حافلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "train conductor",
+    "meaning": "A rail employee who oversees train operations and tickets.",
+    "example": "The train conductor checked our seats.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/train conductor/",
+    "frTranslation": "chef de train/contrôleur",
+    "esTranslation": "revisor/a de tren",
+    "arTranslation": "مراقب قطار",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "ticket inspector"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "pilot",
+    "meaning": "A licensed person who flies aircraft.",
+    "example": "The pilot announced turbulence ahead.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/pilot/",
+    "frTranslation": "pilote",
+    "esTranslation": "piloto",
+    "arTranslation": "طيّار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "flight attendant",
+    "meaning": "Airline crew who ensure passenger safety and comfort.",
+    "example": "A flight attendant demonstrated the safety procedure.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/flight attendant/",
+    "frTranslation": "agent de bord",
+    "esTranslation": "auxiliar de vuelo",
+    "arTranslation": "مضيف/مضيفة طيران",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cabin crew"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "sailor",
+    "meaning": "A person who works on a boat or ship at sea.",
+    "example": "The sailor tied the mooring lines.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/sailor/",
+    "frTranslation": "marin",
+    "esTranslation": "marinero/a",
+    "arTranslation": "بحّار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "seafarer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "ship captain",
+    "meaning": "The commanding officer responsible for a vessel and crew.",
+    "example": "The ship captain plotted a new course.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/ship captain/",
+    "frTranslation": "capitaine de navire",
+    "esTranslation": "capitán/ana de barco",
+    "arTranslation": "قبطان سفينة",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "skipper"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "air traffic controller",
+    "meaning": "An officer who directs aircraft safely in airspace and on runways.",
+    "example": "An air traffic controller cleared the plane to land.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/air traffic controller/",
+    "frTranslation": "contrôleur aérien",
+    "esTranslation": "controlador/a aéreo/a",
+    "arTranslation": "مراقب جوي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "mail carrier",
+    "meaning": "A postal worker who delivers letters and packages.",
+    "example": "The mail carrier arrives before noon.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mail carrier/",
+    "frTranslation": "facteur/factrice",
+    "esTranslation": "cartero/a",
+    "arTranslation": "ساعي بريد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "postman/postwoman"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "courier",
+    "meaning": "A person who transports documents or goods quickly between places.",
+    "example": "The courier delivered legal paperwork.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/courier/",
+    "frTranslation": "coursier/ière",
+    "esTranslation": "mensajero/a",
+    "arTranslation": "مرسال/موصل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "warehouse worker",
+    "meaning": "A worker who receives, stores, and picks goods in a warehouse.",
+    "example": "The warehouse worker scanned the inventory.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/warehouse worker/",
+    "frTranslation": "magasinier/ière",
+    "esTranslation": "trabajador/a de almacén",
+    "arTranslation": "عامل مستودع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "logistician",
+    "meaning": "A professional who plans and coordinates supply chains and distribution.",
+    "example": "A logistician optimized the delivery routes.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/logistician/",
+    "frTranslation": "logisticien/ne",
+    "esTranslation": "logístico/a",
+    "arTranslation": "اختصاصي لوجستيات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "supply chain manager",
+    "meaning": "A manager who oversees sourcing, production, and distribution flows.",
+    "example": "The supply chain manager handled the shortage.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/supply chain manager/",
+    "frTranslation": "responsable chaîne logistique",
+    "esTranslation": "gerente de cadena de suministro",
+    "arTranslation": "مدير سلسلة التوريد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "dispatcher",
+    "meaning": "A coordinator who assigns vehicles or staff to respond to calls.",
+    "example": "The dispatcher sent two trucks to the site.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/dispatcher/",
+    "frTranslation": "répartiteur/trice",
+    "esTranslation": "despachador/a",
+    "arTranslation": "مُنسّق حركة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "transport"
+    ]
+  },
+  {
+    "text": "scientist",
+    "meaning": "A person who systematically researches the natural or social world.",
+    "example": "The scientist tested the hypothesis in the lab.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/scientist/",
+    "frTranslation": "scientifique",
+    "esTranslation": "científico/a",
+    "arTranslation": "عالِم/عالِمة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "researcher"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "biologist",
+    "meaning": "A scientist who studies living organisms and life processes.",
+    "example": "The biologist tracked migratory birds.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/biologist/",
+    "frTranslation": "biologiste/biologiste",
+    "esTranslation": "biólogo/a",
+    "arTranslation": "عالِم أحياء",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "chemist",
+    "meaning": "A scientist who investigates substances, reactions, and properties of matter.",
+    "example": "The chemist synthesized a new compound.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/chemist/",
+    "frTranslation": "chimiste",
+    "esTranslation": "químico/a",
+    "arTranslation": "كيميائي/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "physicist",
+    "meaning": "A scientist who studies matter, energy, and fundamental forces.",
+    "example": "The physicist modeled particle interactions.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/physicist/",
+    "frTranslation": "physicien/ne",
+    "esTranslation": "físico/a",
+    "arTranslation": "فيزيائي/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "astronomer",
+    "meaning": "A scientist who studies celestial objects and the universe.",
+    "example": "An astronomer observed a distant nebula.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/astronomer/",
+    "frTranslation": "astronome",
+    "esTranslation": "astrónomo/a",
+    "arTranslation": "عالِم فلك",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "geologist",
+    "meaning": "A scientist who examines Earth's materials and history.",
+    "example": "The geologist analyzed rock samples.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/geologist/",
+    "frTranslation": "géologue",
+    "esTranslation": "geólogo/a",
+    "arTranslation": "جيولوجي/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "ecologist",
+    "meaning": "A scientist who studies ecosystems and species interactions.",
+    "example": "The ecologist measured biodiversity in the forest.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/ecologist/",
+    "frTranslation": "écologue",
+    "esTranslation": "ecólogo/a",
+    "arTranslation": "عالِم بيئة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "mathematician",
+    "meaning": "A specialist in mathematics who proves theorems or applies models.",
+    "example": "The mathematician presented a new proof.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mathematician/",
+    "frTranslation": "mathématicien/ne",
+    "esTranslation": "matemático/a",
+    "arTranslation": "رياضي/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "statistician",
+    "meaning": "An expert who designs experiments and analyzes data using statistics.",
+    "example": "A statistician calculated confidence intervals.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/statistician/",
+    "frTranslation": "statisticien/ne",
+    "esTranslation": "estadístico/a",
+    "arTranslation": "إحصائي/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "anthropologist",
+    "meaning": "A researcher who studies humans, cultures, and societies across time.",
+    "example": "The anthropologist conducted fieldwork in the village.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/anthropologist/",
+    "frTranslation": "anthropologue",
+    "esTranslation": "antropólogo/a",
+    "arTranslation": "عالِم أنثروبولوجيا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "sociologist",
+    "meaning": "A scholar who analyzes social behavior and institutions.",
+    "example": "The sociologist surveyed voting patterns.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/sociologist/",
+    "frTranslation": "sociologue",
+    "esTranslation": "sociólogo/a",
+    "arTranslation": "عالِم اجتماع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "historian",
+    "meaning": "A researcher who studies and interprets past events.",
+    "example": "The historian examined archival letters.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/historian/",
+    "frTranslation": "historien/ne",
+    "esTranslation": "historiador/a",
+    "arTranslation": "مؤرّخ/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "archaeologist",
+    "meaning": "A scientist who studies human history through material remains.",
+    "example": "Archaeologists excavated an ancient settlement.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/archaeologist/",
+    "frTranslation": "archéologue",
+    "esTranslation": "arqueólogo/a",
+    "arTranslation": "عالِم آثار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "linguist",
+    "meaning": "A specialist who studies language structure, use, and acquisition.",
+    "example": "The linguist documented an endangered language.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/linguist/",
+    "frTranslation": "linguiste",
+    "esTranslation": "lingüista",
+    "arTranslation": "لغوي/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "science"
+    ]
+  },
+  {
+    "text": "leader",
+    "meaning": "A person who guides others toward a goal and makes decisions.",
+    "example": "The team needed a leader to coordinate tasks.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/leader/",
+    "frTranslation": "chef/leader",
+    "esTranslation": "líder",
+    "arTranslation": "قائد/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "head"
+    ],
+    "antonyms": [
+      "follower",
+      "subordinate"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "follower",
+    "meaning": "Someone who accepts the guidance or influence of another.",
+    "example": "Most followers supported the plan after the update.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/follower/",
+    "frTranslation": "suiveur/suiveuse",
+    "esTranslation": "seguidor/a",
+    "arTranslation": "تابع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "leader"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "employer",
+    "meaning": "A person or organization that hires and pays workers.",
+    "example": "The employer offers health insurance to staff.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/employer/",
+    "frTranslation": "employeur",
+    "esTranslation": "empleador/a",
+    "arTranslation": "صاحب عمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "employee"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "employee",
+    "meaning": "A person who works for an employer in exchange for pay.",
+    "example": "Every employee completed safety training.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/employee/",
+    "frTranslation": "employé/e",
+    "esTranslation": "empleado/a",
+    "arTranslation": "موظف/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "staff member",
+      "worker"
+    ],
+    "antonyms": [
+      "employer"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "colleague",
+    "meaning": "A person you work with, especially in a profession or office.",
+    "example": "A colleague covered my shift yesterday.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/colleague/",
+    "frTranslation": "collègue",
+    "esTranslation": "colega",
+    "arTranslation": "زميل عمل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "coworker"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "teammate",
+    "meaning": "A member of the same team working toward a shared goal.",
+    "example": "My teammate handled the presentation.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/teammate/",
+    "frTranslation": "coéquipier/ère",
+    "esTranslation": "compañero/a de equipo",
+    "arTranslation": "زميل فريق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "rival",
+    "meaning": "A person or group competing for the same goal or advantage.",
+    "example": "Their main rival launched a similar product.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/rival/",
+    "frTranslation": "rival/e",
+    "esTranslation": "rival",
+    "arTranslation": "خصم/منافس",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "competitor",
+      "opponent"
+    ],
+    "antonyms": [
+      "ally",
+      "partner"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "friend",
+    "meaning": "A person with whom you share mutual affection and trust.",
+    "example": "A close friend helped me move apartments.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/friend/",
+    "frTranslation": "ami/e",
+    "esTranslation": "amigo/a",
+    "arTranslation": "صديق/ة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "pal",
+      "buddy"
+    ],
+    "antonyms": [
+      "enemy"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "stranger",
+    "meaning": "Someone you do not know.",
+    "example": "Never share personal data with a stranger.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/stranger/",
+    "frTranslation": "inconnu/e",
+    "esTranslation": "desconocido/a",
+    "arTranslation": "غريب/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "acquaintance",
+      "friend"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "neighbor",
+    "meaning": "A person who lives near you.",
+    "example": "Our neighbor waters the plants when we travel.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/neighbor/",
+    "frTranslation": "voisin/e",
+    "esTranslation": "vecino/a",
+    "arTranslation": "جار/جارة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "customer",
+    "meaning": "A person who buys goods or services from a business.",
+    "example": "The customer requested a refund.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/customer/",
+    "frTranslation": "client",
+    "esTranslation": "cliente",
+    "arTranslation": "زبون/عميل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "client",
+      "buyer"
+    ],
+    "antonyms": [
+      "seller",
+      "vendor"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "vendor",
+    "meaning": "A person or company that sells goods or services.",
+    "example": "We negotiated pricing with a new vendor.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/vendor/",
+    "frTranslation": "vendeur/fournisseur",
+    "esTranslation": "vendedor/proveedor",
+    "arTranslation": "بائع/مزوّد",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "supplier",
+      "seller"
+    ],
+    "antonyms": [
+      "customer",
+      "buyer"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "manager",
+    "meaning": "A person who directs a team’s work to meet objectives.",
+    "example": "The manager assigned tasks for the week.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/manager/",
+    "frTranslation": "gestionnaire/manager",
+    "esTranslation": "gerente",
+    "arTranslation": "مدير",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "supervisor"
+    ],
+    "antonyms": [
+      "subordinate"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "subordinate",
+    "meaning": "An employee who reports to a manager or supervisor.",
+    "example": "Her subordinate requested time off.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/subordinate/",
+    "frTranslation": "subordonné/e",
+    "esTranslation": "subordinado/a",
+    "arTranslation": "مرؤوس",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "direct report"
+    ],
+    "antonyms": [
+      "manager",
+      "supervisor"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "apprentice",
+    "meaning": "A trainee who learns a trade from a skilled employer over a period of time.",
+    "example": "The apprentice shadowed the master carpenter.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/apprentice/",
+    "frTranslation": "apprenti/e",
+    "esTranslation": "aprendiz",
+    "arTranslation": "متدرّب/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "trainee"
+    ],
+    "antonyms": [
+      "master"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "master",
+    "meaning": "A highly skilled practitioner or teacher of a trade or art.",
+    "example": "The master tailor cut the fabric precisely.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/master/",
+    "frTranslation": "maître",
+    "esTranslation": "maestro/a",
+    "arTranslation": "معلّم حِرفة",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "expert"
+    ],
+    "antonyms": [
+      "apprentice"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "volunteer",
+    "meaning": "A person who offers services freely without pay.",
+    "example": "Volunteers distributed food at the shelter.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/volunteer/",
+    "frTranslation": "bénévole",
+    "esTranslation": "voluntario/a",
+    "arTranslation": "متطوّع/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "employee (paid)"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "client",
+    "meaning": "A person or organization that receives professional services.",
+    "example": "The client approved the design proposal.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/client/",
+    "frTranslation": "client/e",
+    "esTranslation": "cliente",
+    "arTranslation": "عميل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "customer"
+    ],
+    "antonyms": [
+      "vendor",
+      "supplier"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "people"
+    ]
+  },
+  {
+    "text": "translator",
+    "meaning": "A professional who converts written text from one language to another.",
+    "example": "The translator localized the app into French.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/translator/",
+    "frTranslation": "traducteur/traductrice",
+    "esTranslation": "traductor/a",
+    "arTranslation": "مترجم/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "localizer"
+    ],
+    "antonyms": [
+      "author (original)"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "language"
+    ]
+  },
+  {
+    "text": "interpreter",
+    "meaning": "A language professional who converts spoken language in real time.",
+    "example": "The interpreter relayed questions during the press conference.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/interpreter/",
+    "frTranslation": "interprète",
+    "esTranslation": "intérprete",
+    "arTranslation": "مترجم فوري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "language"
+    ]
+  },
+  {
+    "text": "farmer",
+    "meaning": "A person who grows crops or raises livestock for food and materials.",
+    "example": "The farmer harvested wheat in late summer.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/farmer/",
+    "frTranslation": "agriculteur/agricultrice",
+    "esTranslation": "agricultor/a",
+    "arTranslation": "مزارع/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "grower"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  },
+  {
+    "text": "butcher",
+    "meaning": "A worker who prepares and sells meat cuts.",
+    "example": "The butcher trimmed the steak to order.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/butcher/",
+    "frTranslation": "boucher/ère",
+    "esTranslation": "carnicero/a",
+    "arTranslation": "جزّار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "trades"
+    ]
+  }
+]

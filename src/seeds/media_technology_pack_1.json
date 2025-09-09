@@ -1,0 +1,1364 @@
+[
+  {
+    "text": "smartphone",
+    "meaning": "A handheld device that combines phone, camera, apps, and internet access.",
+    "example": "She edited the clip on her smartphone before posting.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/smartphone/",
+    "frTranslation": "smartphone",
+    "esTranslation": "smartphone",
+    "arTranslation": "هاتف ذكي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "tablet",
+    "meaning": "A thin touchscreen computer larger than a phone and smaller than a laptop.",
+    "example": "He sketches storyboards on a tablet with a stylus.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/tablet/",
+    "frTranslation": "tablette",
+    "esTranslation": "tableta",
+    "arTranslation": "جهاز لوحي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "laptop",
+    "meaning": "A portable personal computer with a built‑in screen and keyboard.",
+    "example": "The editor carries a lightweight laptop when traveling.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/laptop/",
+    "frTranslation": "ordinateur portable",
+    "esTranslation": "portátil",
+    "arTranslation": "حاسوب محمول",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "desktop computer",
+    "meaning": "A personal computer designed to stay on a desk, not for travel.",
+    "example": "The studio renders animations on a desktop computer.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/desktop computer/",
+    "frTranslation": "ordinateur de bureau",
+    "esTranslation": "computadora de escritorio",
+    "arTranslation": "حاسوب مكتبي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "smart TV",
+    "meaning": "A television with built‑in apps and internet connectivity.",
+    "example": "They streamed the documentary on the smart TV.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/smart TV/",
+    "frTranslation": "téléviseur intelligent",
+    "esTranslation": "televisor inteligente",
+    "arTranslation": "تلفاز ذكي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "smartwatch",
+    "meaning": "A wearable device that shows notifications and tracks health metrics.",
+    "example": "Her smartwatch alerted her to stand during the edit session.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/smartwatch/",
+    "frTranslation": "montre connectée",
+    "esTranslation": "reloj inteligente",
+    "arTranslation": "ساعة ذكية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "router",
+    "meaning": "A device that forwards data between networks, usually to connect home devices to the internet.",
+    "example": "Restart the router to fix the dropped connection.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/router/",
+    "frTranslation": "routeur",
+    "esTranslation": "router",
+    "arTranslation": "مُوجِّه (راوتر)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "modem",
+    "meaning": "A device that converts signals from your ISP so your network can access the internet.",
+    "example": "The modem lights indicate the line is up.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/modem/",
+    "frTranslation": "modem",
+    "esTranslation": "módem",
+    "arTranslation": "مودِم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "server",
+    "meaning": "A computer that provides services or resources to other computers over a network.",
+    "example": "The media files are stored on a local server.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/server/",
+    "frTranslation": "serveur",
+    "esTranslation": "servidor",
+    "arTranslation": "خادم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "graphics processing unit (GPU)",
+    "meaning": "A processor specialized for parallel operations, accelerating graphics and AI workloads.",
+    "example": "Rendering times dropped after adding a new GPU.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/graphics processing unit (GPU)/",
+    "frTranslation": "processeur graphique (GPU)",
+    "esTranslation": "unidad de procesamiento gráfico (GPU)",
+    "arTranslation": "معالج رسومي (GPU)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "devices"
+    ]
+  },
+  {
+    "text": "operating system (OS)",
+    "meaning": "The core software that manages hardware and runs applications.",
+    "example": "The new operating system improves battery life.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/operating system (OS)/",
+    "frTranslation": "système d’exploitation (OS)",
+    "esTranslation": "sistema operativo (SO)",
+    "arTranslation": "نظام تشغيل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "application (app)",
+    "meaning": "Software designed to perform a specific task for a user.",
+    "example": "The photo app adds filters with one tap.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/application (app)/",
+    "frTranslation": "application (appli)",
+    "esTranslation": "aplicación (app)",
+    "arTranslation": "تطبيق",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "program"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "firmware",
+    "meaning": "Low‑level software stored on hardware that controls basic functions.",
+    "example": "A firmware update fixed the camera glitch.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/firmware/",
+    "frTranslation": "micrologiciel (firmware)",
+    "esTranslation": "firmware",
+    "arTranslation": "برمجيات ثابتة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "middleware",
+    "meaning": "Software that connects different applications or services so they can communicate.",
+    "example": "The platform uses middleware to unify payments.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/middleware/",
+    "frTranslation": "middleware",
+    "esTranslation": "middleware",
+    "arTranslation": "برمجيات وسيطة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "API (application programming interface)",
+    "meaning": "A defined set of rules that lets one piece of software request data or actions from another.",
+    "example": "The streaming app fetches subtitles via an API.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/API (application programming interface)/",
+    "frTranslation": "API (interface de programmation)",
+    "esTranslation": "API (interfaz de programación)",
+    "arTranslation": "واجهة برمجة تطبيقات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "SDK (software development kit)",
+    "meaning": "A collection of tools and libraries for building software for a specific platform.",
+    "example": "They used the SDK to add in‑app purchases.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/SDK (software development kit)/",
+    "frTranslation": "SDK (kit de développement)",
+    "esTranslation": "SDK (kit de desarrollo)",
+    "arTranslation": "حِزمة تطوير برمجيات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "IDE (integrated development environment)",
+    "meaning": "An application that combines code editing, debugging, and build tools.",
+    "example": "The IDE flagged syntax errors instantly.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/IDE (integrated development environment)/",
+    "frTranslation": "EDI (environnement de développement)",
+    "esTranslation": "IDE (entorno de desarrollo)",
+    "arTranslation": "بيئة تطوير متكاملة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "plugin",
+    "meaning": "A software add‑on that extends another program’s features.",
+    "example": "She installed a noise‑reduction plugin for the DAW.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/plugin/",
+    "frTranslation": "plugin (module d’extension)",
+    "esTranslation": "plugin (complemento)",
+    "arTranslation": "إضافة برمجية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "patch",
+    "meaning": "A software update that fixes bugs or security issues.",
+    "example": "Apply the latest patch before recording.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/patch/",
+    "frTranslation": "correctif (patch)",
+    "esTranslation": "parche",
+    "arTranslation": "رقعة/تحديث تصحيحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "open‑source",
+    "meaning": "Software whose source code is publicly available for use and modification.",
+    "example": "The team chose an open‑source encoder.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/open‑source/",
+    "frTranslation": "open‑source (code ouvert)",
+    "esTranslation": "código abierto",
+    "arTranslation": "مفتوح المصدر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "software"
+    ]
+  },
+  {
+    "text": "website",
+    "meaning": "A collection of web pages served from a domain.",
+    "example": "The festival launched a new website for tickets.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/website/",
+    "frTranslation": "site web",
+    "esTranslation": "sitio web",
+    "arTranslation": "موقع إلكتروني",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "web browser",
+    "meaning": "Software used to access and view websites.",
+    "example": "Try clearing the web browser cache.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/web browser/",
+    "frTranslation": "navigateur web",
+    "esTranslation": "navegador web",
+    "arTranslation": "متصفح ويب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "search engine",
+    "meaning": "A service that indexes the web and returns results to user queries.",
+    "example": "Use specific keywords to help the search engine.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/search engine/",
+    "frTranslation": "moteur de recherche",
+    "esTranslation": "motor de búsqueda",
+    "arTranslation": "محرك بحث",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "URL",
+    "meaning": "The address of a resource on the web.",
+    "example": "Paste the URL into the caption box.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/URL/",
+    "frTranslation": "URL (adresse web)",
+    "esTranslation": "URL (dirección web)",
+    "arTranslation": "عنوان ويب (URL)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "HTTP",
+    "meaning": "A protocol for transferring hypertext data between browser and server.",
+    "example": "The image failed due to an HTTP error.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/HTTP/",
+    "frTranslation": "HTTP",
+    "esTranslation": "HTTP",
+    "arTranslation": "HTTP",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "HTTPS",
+    "meaning": "HTTP with encryption (TLS) to protect data in transit.",
+    "example": "Login pages should always use HTTPS.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/HTTPS/",
+    "frTranslation": "HTTPS",
+    "esTranslation": "HTTPS",
+    "arTranslation": "HTTPS",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "cookie (web)",
+    "meaning": "A small piece of data stored in the browser to remember state or preferences.",
+    "example": "The site asks consent before setting cookies.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/cookie (web)/",
+    "frTranslation": "cookie (web)",
+    "esTranslation": "cookie (web)",
+    "arTranslation": "كوكي (ملف تعريف الارتباط)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "cache (browser)",
+    "meaning": "Local storage of files to speed up page loads.",
+    "example": "Clear the browser cache to fetch the latest assets.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/cache (browser)/",
+    "frTranslation": "cache (navigateur)",
+    "esTranslation": "caché (navegador)",
+    "arTranslation": "ذاكرة وسيطة للمتصفح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "CDN (content delivery network)",
+    "meaning": "A geographically distributed network that serves content from servers closer to users.",
+    "example": "Hosting images on a CDN reduced latency.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/CDN (content delivery network)/",
+    "frTranslation": "CDN (réseau de diffusion)",
+    "esTranslation": "CDN (red de entrega)",
+    "arTranslation": "شبكة توصيل المحتوى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "DNS (domain name system)",
+    "meaning": "A system that translates human‑readable domain names into IP addresses.",
+    "example": "A DNS misconfiguration caused the outage.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/DNS (domain name system)/",
+    "frTranslation": "DNS (système de noms de domaine)",
+    "esTranslation": "DNS (sistema de nombres)",
+    "arTranslation": "نظام اسم النطاق (DNS)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "domain name",
+    "meaning": "A unique, human‑readable address for a website.",
+    "example": "They purchased a short domain name for branding.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/domain name/",
+    "frTranslation": "nom de domaine",
+    "esTranslation": "nombre de dominio",
+    "arTranslation": "اسم نطاق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "web hosting",
+    "meaning": "A service that stores website files and makes them available online.",
+    "example": "We upgraded the web hosting plan for more traffic.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/web hosting/",
+    "frTranslation": "hébergement web",
+    "esTranslation": "alojamiento web",
+    "arTranslation": "استضافة ويب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "web"
+    ]
+  },
+  {
+    "text": "social media platform",
+    "meaning": "A website or app where users share content and interact.",
+    "example": "The campaign targeted two social media platforms.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/social media platform/",
+    "frTranslation": "plateforme de médias sociaux",
+    "esTranslation": "plataforma de redes sociales",
+    "arTranslation": "منصة تواصل اجتماعي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "feed",
+    "meaning": "A constantly updating list of posts curated by time or algorithm.",
+    "example": "Her photo appeared near the top of the feed.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/feed/",
+    "frTranslation": "fil d’actualité",
+    "esTranslation": "feed (muro)",
+    "arTranslation": "خلاصة/موجز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "hashtag",
+    "meaning": "A keyword preceded by # that groups related posts.",
+    "example": "Add a city hashtag to reach local fans.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/hashtag/",
+    "frTranslation": "hashtag (mot‑dièse)",
+    "esTranslation": "hashtag (etiqueta)",
+    "arTranslation": "وسم/هاشتاغ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "mention",
+    "meaning": "Tagging another user or account in a post.",
+    "example": "Thanks for the mention in your review!",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/mention/",
+    "frTranslation": "mention",
+    "esTranslation": "mención",
+    "arTranslation": "إشارة/ذِكر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "influencer",
+    "meaning": "A creator with a large audience who can sway opinions or purchases.",
+    "example": "An influencer unboxed the new headset.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/influencer/",
+    "frTranslation": "influenceur(euse)",
+    "esTranslation": "influencer",
+    "arTranslation": "مؤثّر/مؤثّرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "viral",
+    "meaning": "Spreading extremely quickly online through shares and reposts.",
+    "example": "The dance challenge went viral overnight.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/viral/",
+    "frTranslation": "viral",
+    "esTranslation": "viral",
+    "arTranslation": "فيروسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "algorithmic timeline",
+    "meaning": "A feed ordered by predicted interest rather than strict chronology.",
+    "example": "Algorithmic timelines favor posts with early engagement.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/algorithmic timeline/",
+    "frTranslation": "fil algorithmique",
+    "esTranslation": "línea de tiempo algorítmica",
+    "arTranslation": "خوارزمية ترتيب المنشورات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "engagement rate",
+    "meaning": "Interactions (likes, comments, shares) divided by audience size.",
+    "example": "Short videos lifted the engagement rate.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/engagement rate/",
+    "frTranslation": "taux d’engagement",
+    "esTranslation": "tasa de interacción",
+    "arTranslation": "معدل التفاعل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "content moderation",
+    "meaning": "Processes and policies that review and remove rule‑breaking posts.",
+    "example": "Content moderation reduced harmful comments.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/content moderation/",
+    "frTranslation": "modération de contenu",
+    "esTranslation": "moderación de contenido",
+    "arTranslation": "إشراف على المحتوى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "community guidelines",
+    "meaning": "The platform rules that outline acceptable behavior and content.",
+    "example": "Posts violating community guidelines are taken down.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/community guidelines/",
+    "frTranslation": "règles de communauté",
+    "esTranslation": "normas de la comunidad",
+    "arTranslation": "إرشادات المجتمع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "social"
+    ]
+  },
+  {
+    "text": "malware",
+    "meaning": "Any software designed to disrupt, damage, or gain unauthorized access to systems.",
+    "example": "The attachment contained malware disguised as an invoice.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/malware/",
+    "frTranslation": "maliciel (malware)",
+    "esTranslation": "malware",
+    "arTranslation": "برمجية خبيثة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "computer virus",
+    "meaning": "Malware that attaches to programs and replicates when the host runs.",
+    "example": "A computer virus corrupted the project files.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/computer virus/",
+    "frTranslation": "virus informatique",
+    "esTranslation": "virus informático",
+    "arTranslation": "فيروس حاسوبي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "worm (malware)",
+    "meaning": "Self‑replicating malware that spreads without user action.",
+    "example": "The worm scanned the network for weak passwords.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/worm (malware)/",
+    "frTranslation": "ver (malveillant)",
+    "esTranslation": "gusano (malware)",
+    "arTranslation": "دودة (برمجية)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "ransomware",
+    "meaning": "Malware that encrypts files and demands payment for the key.",
+    "example": "Backups let the station recover from ransomware.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/ransomware/",
+    "frTranslation": "rançongiciel",
+    "esTranslation": "ransomware",
+    "arTranslation": "برمجية فدية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "phishing",
+    "meaning": "A fraudulent attempt to trick users into revealing sensitive information.",
+    "example": "Beware of phishing emails asking for your password.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/phishing/",
+    "frTranslation": "hameçonnage",
+    "esTranslation": "phishing (pesca)",
+    "arTranslation": "تصيّد احتيالي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "two‑factor authentication (2FA)",
+    "meaning": "A login method requiring two proofs of identity, like a password and a code.",
+    "example": "Enable 2FA on all admin accounts.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/two‑factor authentication (2FA)/",
+    "frTranslation": "authentification à deux facteurs (2FA)",
+    "esTranslation": "autenticación de dos factores (2FA)",
+    "arTranslation": "المصادقة الثنائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "encryption",
+    "meaning": "Converting information into a coded form that only authorized parties can read.",
+    "example": "End‑to‑end encryption protects private messages.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/encryption/",
+    "frTranslation": "chiffrement",
+    "esTranslation": "cifrado",
+    "arTranslation": "تشفير",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "VPN (virtual private network)",
+    "meaning": "A secure tunnel that encrypts traffic between your device and a server.",
+    "example": "Use a VPN on public Wi‑Fi.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/VPN (virtual private network)/",
+    "frTranslation": "réseau privé virtuel (VPN)",
+    "esTranslation": "red privada virtual (VPN)",
+    "arTranslation": "شبكة افتراضية خاصة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "firewall",
+    "meaning": "Software or hardware that filters network traffic based on rules.",
+    "example": "The firewall blocked the suspicious port scan.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/firewall/",
+    "frTranslation": "pare‑feu",
+    "esTranslation": "cortafuegos",
+    "arTranslation": "جدار ناري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "zero‑day vulnerability",
+    "meaning": "A previously unknown software flaw that attackers can exploit before a patch exists.",
+    "example": "Vendors rushed to patch the zero‑day vulnerability.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/zero‑day vulnerability/",
+    "frTranslation": "vulnérabilité zero‑day",
+    "esTranslation": "vulnerabilidad de día cero",
+    "arTranslation": "ثغرة يوم الصفر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "penetration test",
+    "meaning": "An authorized simulated attack used to find security weaknesses.",
+    "example": "The pentest uncovered misconfigured access roles.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/penetration test/",
+    "frTranslation": "test d’intrusion",
+    "esTranslation": "prueba de penetración",
+    "arTranslation": "اختبار اختراق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "social engineering",
+    "meaning": "Manipulating people into revealing confidential information or granting access.",
+    "example": "Training helps staff resist social engineering tactics.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/social engineering/",
+    "frTranslation": "ingénierie sociale",
+    "esTranslation": "ingeniería social",
+    "arTranslation": "هندسة اجتماعية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "security"
+    ]
+  },
+  {
+    "text": "dataset",
+    "meaning": "A structured collection of data used for analysis or training.",
+    "example": "The model performed poorly on a biased dataset.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/dataset/",
+    "frTranslation": "jeu de données",
+    "esTranslation": "conjunto de datos",
+    "arTranslation": "مجموعة بيانات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "database",
+    "meaning": "An organized system for storing, retrieving, and managing data.",
+    "example": "User profiles are stored in a relational database.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/database/",
+    "frTranslation": "base de données",
+    "esTranslation": "base de datos",
+    "arTranslation": "قاعدة بيانات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "SQL",
+    "meaning": "A language for querying and manipulating data in relational databases.",
+    "example": "She wrote an SQL query to join three tables.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/SQL/",
+    "frTranslation": "SQL",
+    "esTranslation": "SQL",
+    "arTranslation": "إس كيو إل (SQL)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "NoSQL",
+    "meaning": "A group of non‑relational databases optimized for flexible schemas and scale.",
+    "example": "We chose a NoSQL store for real‑time events.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/NoSQL/",
+    "frTranslation": "NoSQL",
+    "esTranslation": "NoSQL",
+    "arTranslation": "نوسكيو إل (NoSQL)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "data warehouse",
+    "meaning": "A centralized system that aggregates data for analytics and reporting.",
+    "example": "Marketing dashboards query the data warehouse.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/data warehouse/",
+    "frTranslation": "entrepôt de données",
+    "esTranslation": "almacén de datos",
+    "arTranslation": "مستودع بيانات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "data lake",
+    "meaning": "A large repository that stores raw data in its native format until needed.",
+    "example": "Sensor logs stream into a cloud data lake.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/data lake/",
+    "frTranslation": "lac de données",
+    "esTranslation": "lago de datos",
+    "arTranslation": "بحيرة بيانات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "ETL (extract, transform, load)",
+    "meaning": "A process that moves data from sources to a destination after cleaning and reshaping.",
+    "example": "Nightly ETL builds the reporting tables.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/ETL (extract, transform, load)/",
+    "frTranslation": "ETL (extraire, transformer, charger)",
+    "esTranslation": "ETL (extraer, transformar, cargar)",
+    "arTranslation": "استخراج وتحويل وتحميل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "analytics",
+    "meaning": "Examining data to understand performance and inform decisions.",
+    "example": "Analytics showed viewers drop after 30 seconds.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/analytics/",
+    "frTranslation": "analytique",
+    "esTranslation": "analítica",
+    "arTranslation": "تحليلات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "data"
+    ]
+  },
+  {
+    "text": "machine learning (ML)",
+    "meaning": "Algorithms that learn patterns from data to make predictions or decisions.",
+    "example": "They trained a machine learning model to recommend clips.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/machine learning (ML)/",
+    "frTranslation": "apprentissage automatique (ML)",
+    "esTranslation": "aprendizaje automático (ML)",
+    "arTranslation": "تعلم آلي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "AI"
+    ]
+  },
+  {
+    "text": "neural network",
+    "meaning": "A model composed of layers of interconnected nodes that learn complex relationships.",
+    "example": "A neural network identifies instruments in audio.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/neural network/",
+    "frTranslation": "réseau de neurones",
+    "esTranslation": "red neuronal",
+    "arTranslation": "شبكة عصبية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "AI"
+    ]
+  },
+  {
+    "text": "training data",
+    "meaning": "Examples used to teach a model the patterns it should learn.",
+    "example": "Adding diverse training data reduced bias.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/training data/",
+    "frTranslation": "données d’entraînement",
+    "esTranslation": "datos de entrenamiento",
+    "arTranslation": "بيانات تدريب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "AI"
+    ]
+  },
+  {
+    "text": "inference (AI)",
+    "meaning": "The stage when a trained model makes predictions on new inputs.",
+    "example": "On‑device inference lowers latency.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/inference (AI)/",
+    "frTranslation": "inférence (IA)",
+    "esTranslation": "inferencia (IA)",
+    "arTranslation": "استدلال (ذكاء اصطناعي)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "AI"
+    ]
+  },
+  {
+    "text": "bias (AI)",
+    "meaning": "Systematic errors in model outputs that reflect or amplify unfair patterns.",
+    "example": "The team audited the model for demographic bias.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/bias (AI)/",
+    "frTranslation": "biais (IA)",
+    "esTranslation": "sesgo (IA)",
+    "arTranslation": "تحيّز (ذكاء اصطناعي)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "AI"
+    ]
+  },
+  {
+    "text": "prompt engineering",
+    "meaning": "Crafting inputs that reliably guide an AI model to produce useful outputs.",
+    "example": "Clear instructions improved results through prompt engineering.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/prompt engineering/",
+    "frTranslation": "conception d’invite (IA)",
+    "esTranslation": "ingeniería de prompts",
+    "arTranslation": "هندسة الموجهات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "AI"
+    ]
+  },
+  {
+    "text": "podcast",
+    "meaning": "An episodic audio program released on the internet.",
+    "example": "The podcast releases new episodes every Tuesday.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/podcast/",
+    "frTranslation": "podcast",
+    "esTranslation": "podcast",
+    "arTranslation": "بودكاست",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "live stream",
+    "meaning": "Real‑time video or audio broadcast over the internet.",
+    "example": "They hosted a live stream with audience Q&A.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/live stream/",
+    "frTranslation": "diffusion en direct",
+    "esTranslation": "transmisión en vivo",
+    "arTranslation": "بث مباشر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "bitrate",
+    "meaning": "The amount of data processed per second in audio or video.",
+    "example": "A higher bitrate improved image clarity.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/bitrate/",
+    "frTranslation": "débit binaire (bitrate)",
+    "esTranslation": "tasa de bits",
+    "arTranslation": "معدل البت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "resolution",
+    "meaning": "The number of pixels in width × height that make up an image or video.",
+    "example": "The trailer exports at 4K resolution.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/resolution/",
+    "frTranslation": "résolution (image)",
+    "esTranslation": "resolución (imagen)",
+    "arTranslation": "دقة الصورة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "frame rate",
+    "meaning": "How many frames are shown per second in video.",
+    "example": "Action scenes are smoother at a higher frame rate.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/frame rate/",
+    "frTranslation": "fréquence d’images",
+    "esTranslation": "frecuencia de fotogramas",
+    "arTranslation": "معدل الإطارات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "codec",
+    "meaning": "Software or hardware that compresses and decompresses audio or video.",
+    "example": "They switched to a more efficient video codec.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/codec/",
+    "frTranslation": "codec",
+    "esTranslation": "códec",
+    "arTranslation": "ترميز (كودِك)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "container (media)",
+    "meaning": "A file format that packages audio, video, and metadata together.",
+    "example": "MP4 is a common container for web uploads.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/container (media)/",
+    "frTranslation": "conteneur (média)",
+    "esTranslation": "contenedor (media)",
+    "arTranslation": "حاوية وسائط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "thumbnail",
+    "meaning": "A small preview image used to represent a video or article.",
+    "example": "An eye‑catching thumbnail boosts clicks.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/thumbnail/",
+    "frTranslation": "vignette (miniature)",
+    "esTranslation": "miniatura",
+    "arTranslation": "صورة مصغّرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "monetization",
+    "meaning": "Ways of earning money from content, such as ads, subscriptions, or tips.",
+    "example": "They turned on monetization after reaching the threshold.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/monetization/",
+    "frTranslation": "monétisation",
+    "esTranslation": "monetización",
+    "arTranslation": "تحقيق الدخل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "content ID (fingerprinting)",
+    "meaning": "Technology that matches uploads to known works to manage rights.",
+    "example": "The cover song triggered a content ID claim.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/content ID (fingerprinting)/",
+    "frTranslation": "identification de contenu",
+    "esTranslation": "identificación de contenido",
+    "arTranslation": "بصمة المحتوى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "media production"
+    ]
+  },
+  {
+    "text": "headline",
+    "meaning": "The main title of a news article that summarizes or teases the story.",
+    "example": "Editors rewrote the headline for clarity.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/headline/",
+    "frTranslation": "titre (journal)",
+    "esTranslation": "titular",
+    "arTranslation": "عنوان رئيسي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "publishing"
+    ]
+  },
+  {
+    "text": "byline",
+    "meaning": "A line naming the author of an article.",
+    "example": "The byline credits both reporters.",
+    "categoryId": "Media & Technology",
+    "pronunciation": "/byline/",
+    "frTranslation": "signature (auteur)",
+    "esTranslation": "firma (autor)",
+    "arTranslation": "اسم الكاتب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Media & Technology",
+      "publishing"
+    ]
+  }
+]

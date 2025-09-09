@@ -1,0 +1,898 @@
+[
+  {
+    "text": "tertiary color",
+    "meaning": "A color made by mixing a primary with a neighboring secondary.",
+    "example": "Teal is a tertiary color on many wheels.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/tertiary color/",
+    "frTranslation": "couleur tertiaire",
+    "esTranslation": "color terciario",
+    "arTranslation": "لون ثلاثي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "hue",
+    "meaning": "The basic attribute that distinguishes red from blue or green—‘which color’.",
+    "example": "Adjust hue without changing brightness.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/hue/",
+    "frTranslation": "teinte (hue)",
+    "esTranslation": "matiz (hue)",
+    "arTranslation": "صبغة لونية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "saturation",
+    "meaning": "Intensity or purity of a color; low saturation looks grayish.",
+    "example": "Lower saturation for a muted look.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/saturation/",
+    "frTranslation": "saturation",
+    "esTranslation": "saturación",
+    "arTranslation": "تشبّع لوني",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "chroma",
+      "intensity"
+    ],
+    "antonyms": [
+      "desaturation"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "value (brightness)",
+    "meaning": "Lightness or darkness of a color independent of its hue.",
+    "example": "Increase value to lift the mid‑tones.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/value (brightness)/",
+    "frTranslation": "valeur (luminosité)",
+    "esTranslation": "valor (brillo)",
+    "arTranslation": "قيمة/سطوع",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "lightness"
+    ],
+    "antonyms": [
+      "darkness"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "tint",
+    "meaning": "A lighter version of a color produced by adding white.",
+    "example": "Add white to create a tint of blue.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/tint/",
+    "frTranslation": "teinte claire (pastel)",
+    "esTranslation": "tinte claro",
+    "arTranslation": "تفتيح اللون (مزج بالأبيض)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "shade (darker)"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color mixing"
+    ]
+  },
+  {
+    "text": "shade (color)",
+    "meaning": "A darker version of a color produced by adding black.",
+    "example": "Add a touch of black for a shade of green.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/shade (color)/",
+    "frTranslation": "nuance sombre (shade)",
+    "esTranslation": "tono oscuro (shade)",
+    "arTranslation": "تغميق اللون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "tint"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color mixing"
+    ]
+  },
+  {
+    "text": "tone",
+    "meaning": "A variant created by adding gray (both black and white) to a hue.",
+    "example": "Use softer tones for the background.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/tone/",
+    "frTranslation": "ton",
+    "esTranslation": "tono",
+    "arTranslation": "درجة لونية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "value variant"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color mixing"
+    ]
+  },
+  {
+    "text": "contrast",
+    "meaning": "The visual difference between elements (light/dark, complementary hues, or texture).",
+    "example": "High contrast improves readability.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/contrast/",
+    "frTranslation": "contraste",
+    "esTranslation": "contraste",
+    "arTranslation": "تباين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "low contrast"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "complementary colors",
+    "meaning": "Pairs opposite on the color wheel that heighten each other’s intensity.",
+    "example": "Red and green are complementary colors.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/complementary colors/",
+    "frTranslation": "couleurs complémentaires",
+    "esTranslation": "colores complementarios",
+    "arTranslation": "ألوان متكاملة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "analogous colors"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "analogous colors",
+    "meaning": "Colors next to each other on the wheel that blend harmoniously.",
+    "example": "Use analogous colors for a gentle gradient.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/analogous colors/",
+    "frTranslation": "couleurs analogues",
+    "esTranslation": "colores análogos",
+    "arTranslation": "ألوان متجاورة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "complementary colors"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "warm colors",
+    "meaning": "Reds, oranges, and yellows that feel energetic or cozy.",
+    "example": "Warm colors make the space feel smaller.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/warm colors/",
+    "frTranslation": "couleurs chaudes",
+    "esTranslation": "colores cálidos",
+    "arTranslation": "ألوان دافئة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "cool colors"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "cool colors",
+    "meaning": "Blues and greens that feel calm or distant.",
+    "example": "Cool colors enlarge the visual depth.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/cool colors/",
+    "frTranslation": "couleurs froides",
+    "esTranslation": "colores fríos",
+    "arTranslation": "ألوان باردة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "warm colors"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color theory"
+    ]
+  },
+  {
+    "text": "monochrome",
+    "meaning": "A scheme using one hue with variations in value and saturation.",
+    "example": "The brand uses a monochrome palette.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/monochrome/",
+    "frTranslation": "monochrome",
+    "esTranslation": "monocromo",
+    "arTranslation": "أحادي اللون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color schemes"
+    ]
+  },
+  {
+    "text": "gradient",
+    "meaning": "A smooth transition between colors or values.",
+    "example": "Add a gradient from teal to navy.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/gradient/",
+    "frTranslation": "dégradé",
+    "esTranslation": "degradado",
+    "arTranslation": "تدرّج لوني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color schemes"
+    ]
+  },
+  {
+    "text": "palette",
+    "meaning": "The selected set of colors used in a design or painting.",
+    "example": "Pick a limited palette for consistency.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/palette/",
+    "frTranslation": "palette (couleurs)",
+    "esTranslation": "paleta (de colores)",
+    "arTranslation": "لوحة ألوان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "color schemes"
+    ]
+  },
+  {
+    "text": "pigment",
+    "meaning": "A fine colored substance that gives paint or ink its hue.",
+    "example": "Natural pigment yields earthy tones.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/pigment/",
+    "frTranslation": "pigment",
+    "esTranslation": "pigmento",
+    "arTranslation": "صبغة/خضاب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "materials"
+    ]
+  },
+  {
+    "text": "dye",
+    "meaning": "A substance that colors fabric or materials by soaking into them.",
+    "example": "They dyed the cloth a deep indigo.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/dye/",
+    "frTranslation": "teinture",
+    "esTranslation": "tinte",
+    "arTranslation": "صبغة (قماش)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "materials"
+    ]
+  },
+  {
+    "text": "opaque",
+    "meaning": "Not letting light pass through; not transparent.",
+    "example": "Use an opaque layer to hide the sketch.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/opaque/",
+    "frTranslation": "opaque",
+    "esTranslation": "opaco",
+    "arTranslation": "معتم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "transparent"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "optics"
+    ]
+  },
+  {
+    "text": "transparent",
+    "meaning": "Allowing light to pass so objects behind can be seen clearly.",
+    "example": "The vase is transparent glass.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/transparent/",
+    "frTranslation": "transparent",
+    "esTranslation": "transparente",
+    "arTranslation": "شفاف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "opaque"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "optics"
+    ]
+  },
+  {
+    "text": "translucent",
+    "meaning": "Letting light through diffusely so shapes are blurred.",
+    "example": "Frosted film makes a window translucent.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/translucent/",
+    "frTranslation": "translucide",
+    "esTranslation": "translúcido",
+    "arTranslation": "شبه شفاف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "opaque",
+      "transparent (clear)"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "optics"
+    ]
+  },
+  {
+    "text": "matte",
+    "meaning": "Having a dull, non‑shiny surface.",
+    "example": "Choose a matte finish to reduce glare.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/matte/",
+    "frTranslation": "mat",
+    "esTranslation": "mate",
+    "arTranslation": "مطفي/غير لامع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "glossy"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "finish"
+    ]
+  },
+  {
+    "text": "glossy",
+    "meaning": "Shiny and reflective in appearance.",
+    "example": "Glossy paper makes colors pop.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/glossy/",
+    "frTranslation": "brillant",
+    "esTranslation": "brillante",
+    "arTranslation": "لامع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "matte"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "finish"
+    ]
+  },
+  {
+    "text": "metallic",
+    "meaning": "Having the luster of metal with reflective highlights.",
+    "example": "Metallic ink catches the light.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/metallic/",
+    "frTranslation": "métallique",
+    "esTranslation": "metálico",
+    "arTranslation": "معدني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "finish"
+    ]
+  },
+  {
+    "text": "iridescent",
+    "meaning": "Showing changing colors when viewed from different angles.",
+    "example": "The beetle’s shell is iridescent.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/iridescent/",
+    "frTranslation": "irisé",
+    "esTranslation": "iridiscente",
+    "arTranslation": "لؤلؤي/متقزّح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "finish"
+    ]
+  },
+  {
+    "text": "point",
+    "meaning": "An exact location in space with no size or dimension.",
+    "example": "Plot the point where the lines meet.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/point/",
+    "frTranslation": "point",
+    "esTranslation": "punto",
+    "arTranslation": "نقطة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "geometry"
+    ]
+  },
+  {
+    "text": "line",
+    "meaning": "A straight path that extends forever in two directions.",
+    "example": "Draw a line through the center.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/line/",
+    "frTranslation": "droite (ligne)",
+    "esTranslation": "línea",
+    "arTranslation": "خط",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "geometry"
+    ]
+  },
+  {
+    "text": "curve",
+    "meaning": "A smoothly bending line without sharp corners.",
+    "example": "The logo uses a gentle curve.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/curve/",
+    "frTranslation": "courbe",
+    "esTranslation": "curva",
+    "arTranslation": "منحنى",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "geometry"
+    ]
+  },
+  {
+    "text": "angle",
+    "meaning": "The space between two intersecting lines measured in degrees.",
+    "example": "Mark a 60‑degree angle at the corner.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/angle/",
+    "frTranslation": "angle",
+    "esTranslation": "ángulo",
+    "arTranslation": "زاوية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "geometry"
+    ]
+  },
+  {
+    "text": "circle",
+    "meaning": "A set of points equally distant from a center.",
+    "example": "Place the text inside a circle.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/circle/",
+    "frTranslation": "cercle",
+    "esTranslation": "círculo",
+    "arTranslation": "دائرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "ellipse",
+    "meaning": "An oval‑like shape with two focal points.",
+    "example": "Planetary orbits are approximated by an ellipse.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/ellipse/",
+    "frTranslation": "ellipse",
+    "esTranslation": "elipse",
+    "arTranslation": "قطع ناقص/إهليلج",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "oval"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "oval",
+    "meaning": "A rounded shape longer than it is wide.",
+    "example": "She wore an oval pendant.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/oval/",
+    "frTranslation": "ovale",
+    "esTranslation": "óvalo",
+    "arTranslation": "بيضاوي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "circle (perfectly round)"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "triangle",
+    "meaning": "A polygon with three sides and three angles.",
+    "example": "We cut sandwiches into triangles.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/triangle/",
+    "frTranslation": "triangle",
+    "esTranslation": "triángulo",
+    "arTranslation": "مثلث",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "right triangle",
+    "meaning": "A triangle with one 90° angle.",
+    "example": "The ramp forms a right triangle.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/right triangle/",
+    "frTranslation": "triangle rectangle",
+    "esTranslation": "triángulo rectángulo",
+    "arTranslation": "مثلث قائم الزاوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "isosceles triangle",
+    "meaning": "A triangle with two equal sides.",
+    "example": "Fold the paper into an isosceles triangle.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/isosceles triangle/",
+    "frTranslation": "triangle isocèle",
+    "esTranslation": "triángulo isósceles",
+    "arTranslation": "مثلث متساوي الساقين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "equilateral triangle",
+    "meaning": "A triangle with all sides equal.",
+    "example": "The warning sign is an equilateral triangle.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/equilateral triangle/",
+    "frTranslation": "triangle équilatéral",
+    "esTranslation": "triángulo equilátero",
+    "arTranslation": "مثلث متساوي الأضلاع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "square",
+    "meaning": "A polygon with four equal sides and four right angles.",
+    "example": "Arrange photos in a square grid.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/square/",
+    "frTranslation": "carré",
+    "esTranslation": "cuadrado",
+    "arTranslation": "مربع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "rectangle",
+    "meaning": "A quadrilateral with four right angles.",
+    "example": "The table is a long rectangle.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/rectangle/",
+    "frTranslation": "rectangle",
+    "esTranslation": "rectángulo",
+    "arTranslation": "مستطيل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "rhombus (diamond)",
+    "meaning": "A quadrilateral with all sides equal; looks like a tilted square.",
+    "example": "The kite is a bright rhombus.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/rhombus (diamond)/",
+    "frTranslation": "losange (diamant)",
+    "esTranslation": "rombo (diamante)",
+    "arTranslation": "معيّن (شكل ألماسي)",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "diamond"
+    ],
+    "antonyms": [
+      "square (right‑angled)"
+    ],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "parallelogram",
+    "meaning": "A quadrilateral with opposite sides parallel.",
+    "example": "Shade the parallelogram area.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/parallelogram/",
+    "frTranslation": "parallélogramme",
+    "esTranslation": "paralelogramo",
+    "arTranslation": "متوازي الأضلاع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "trapezoid",
+    "meaning": "A quadrilateral with at least one pair of parallel sides.",
+    "example": "The shelf bracket is a small trapezoid.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/trapezoid/",
+    "frTranslation": "trapèze (US: trapezoid)",
+    "esTranslation": "trapecio",
+    "arTranslation": "شبه منحرف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "pentagon",
+    "meaning": "A polygon with five sides.",
+    "example": "Cut stars inside a pentagon frame.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/pentagon/",
+    "frTranslation": "pentagone",
+    "esTranslation": "pentágono",
+    "arTranslation": "خماسي الأضلاع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "hexagon",
+    "meaning": "A polygon with six sides.",
+    "example": "Honeycombs are hexagon cells.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/hexagon/",
+    "frTranslation": "hexagone",
+    "esTranslation": "hexágono",
+    "arTranslation": "سداسي الأضلاع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "octagon",
+    "meaning": "An eight‑sided polygon.",
+    "example": "Stop signs are regular octagons.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/octagon/",
+    "frTranslation": "octogone",
+    "esTranslation": "octágono",
+    "arTranslation": "مثمن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "polygon",
+    "meaning": "A closed 2D figure made of straight line segments.",
+    "example": "Any triangle or hexagon is a polygon.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/polygon/",
+    "frTranslation": "polygone",
+    "esTranslation": "polígono",
+    "arTranslation": "مضلع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "star (shape)",
+    "meaning": "A figure with points radiating from a center, often five‑pointed.",
+    "example": "Clip art adds a star shape.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/star (shape)/",
+    "frTranslation": "étoile (forme)",
+    "esTranslation": "estrella (forma)",
+    "arTranslation": "نجمة (شكل)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "heart (shape)",
+    "meaning": "A stylized symbol of love with two lobes and a taper.",
+    "example": "Place a heart icon beside favorites.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/heart (shape)/",
+    "frTranslation": "cœur (forme)",
+    "esTranslation": "corazón (forma)",
+    "arTranslation": "قلب (شكل)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "crescent",
+    "meaning": "A thin curved shape like a partial moon.",
+    "example": "The logo features a silver crescent.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/crescent/",
+    "frTranslation": "croissant (lune)",
+    "esTranslation": "creciente (luna)",
+    "arTranslation": "هلال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "spiral",
+    "meaning": "A curve that winds around a center getting closer or farther away.",
+    "example": "A fern frond uncurls in a spiral.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/spiral/",
+    "frTranslation": "spirale",
+    "esTranslation": "espiral",
+    "arTranslation": "حلزوني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "shape"
+    ]
+  },
+  {
+    "text": "grid",
+    "meaning": "A regular pattern of intersecting lines forming squares or rectangles.",
+    "example": "Use a grid to align elements.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/grid/",
+    "frTranslation": "grille",
+    "esTranslation": "cuadrícula",
+    "arTranslation": "شبكة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "pattern"
+    ]
+  },
+  {
+    "text": "stripe",
+    "meaning": "A long narrow band of color or texture.",
+    "example": "She wore a navy‑and‑white stripe.",
+    "categoryId": "Colors & Shapes",
+    "pronunciation": "/stripe/",
+    "frTranslation": "rayure",
+    "esTranslation": "raya",
+    "arTranslation": "خط/خطوط",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "band"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Colors & Shapes",
+      "pattern"
+    ]
+  }
+]

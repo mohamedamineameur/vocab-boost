@@ -1,0 +1,1285 @@
+[
+  {
+    "text": "car",
+    "meaning": "A four-wheeled motor vehicle used for personal transport.",
+    "example": "They drove the car to work every day.",
+    "categoryId": "Transportation",
+    "pronunciation": "/car/",
+    "frTranslation": "voiture",
+    "esTranslation": "coche/auto",
+    "arTranslation": "سيارة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "automobile"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "bus",
+    "meaning": "A large road vehicle that carries many passengers along a route.",
+    "example": "Take the 12 bus to the museum.",
+    "categoryId": "Transportation",
+    "pronunciation": "/bus/",
+    "frTranslation": "bus/autocar",
+    "esTranslation": "autobús",
+    "arTranslation": "حافلة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "coach (long-distance bus)",
+    "meaning": "A comfortable long-distance bus with luggage storage.",
+    "example": "The coach leaves at noon for the next city.",
+    "categoryId": "Transportation",
+    "pronunciation": "/coach (long-distance bus)/",
+    "frTranslation": "autocar (interurbain)",
+    "esTranslation": "autobús de larga distancia",
+    "arTranslation": "حافلة بين المدن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "minibus",
+    "meaning": "A small bus that seats fewer passengers than a standard bus.",
+    "example": "A minibus shuttled guests to the venue.",
+    "categoryId": "Transportation",
+    "pronunciation": "/minibus/",
+    "frTranslation": "minibus",
+    "esTranslation": "microbús",
+    "arTranslation": "حافلة صغيرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "tram (streetcar)",
+    "meaning": "A rail vehicle running on tracks laid in city streets.",
+    "example": "The tram glided past the old town.",
+    "categoryId": "Transportation",
+    "pronunciation": "/tram (streetcar)/",
+    "frTranslation": "tramway",
+    "esTranslation": "tranvía",
+    "arTranslation": "ترام/قطار شوارع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "subway (metro)",
+    "meaning": "An underground urban railway for rapid transit.",
+    "example": "We took the subway two stops.",
+    "categoryId": "Transportation",
+    "pronunciation": "/subway (metro)/",
+    "frTranslation": "métro",
+    "esTranslation": "metro/subterráneo",
+    "arTranslation": "مترو الأنفاق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "train",
+    "meaning": "A series of connected rail cars pulled by a locomotive.",
+    "example": "The train arrived on platform 4.",
+    "categoryId": "Transportation",
+    "pronunciation": "/train/",
+    "frTranslation": "train",
+    "esTranslation": "tren",
+    "arTranslation": "قطار",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "high-speed rail",
+    "meaning": "A passenger train system running at very high speeds on special tracks.",
+    "example": "High-speed rail cut the trip to two hours.",
+    "categoryId": "Transportation",
+    "pronunciation": "/high-speed rail/",
+    "frTranslation": "train à grande vitesse",
+    "esTranslation": "tren de alta velocidad",
+    "arTranslation": "قطار فائق السرعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "monorail",
+    "meaning": "A rail system in which the train runs on a single beam or rail.",
+    "example": "The airport monorail links the terminals.",
+    "categoryId": "Transportation",
+    "pronunciation": "/monorail/",
+    "frTranslation": "monorail",
+    "esTranslation": "monorraíl",
+    "arTranslation": "قطار أحادي السكة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "funicular",
+    "meaning": "A steep cable railway where two cars counterbalance each other.",
+    "example": "The funicular climbs to the hilltop fort.",
+    "categoryId": "Transportation",
+    "pronunciation": "/funicular/",
+    "frTranslation": "funiculaire",
+    "esTranslation": "funicular",
+    "arTranslation": "سكة حديد مائلة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "cable car (gondola)",
+    "meaning": "An aerial cabin suspended by cables, used to cross valleys or climb slopes.",
+    "example": "We took a cable car up the mountain.",
+    "categoryId": "Transportation",
+    "pronunciation": "/cable car (gondola)/",
+    "frTranslation": "télécabine",
+    "esTranslation": "telecabina",
+    "arTranslation": "عربة تلفريك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "taxi",
+    "meaning": "A car with a driver that you pay to take you somewhere.",
+    "example": "They hailed a taxi outside the station.",
+    "categoryId": "Transportation",
+    "pronunciation": "/taxi/",
+    "frTranslation": "taxi",
+    "esTranslation": "taxi",
+    "arTranslation": "سيارة أجرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "rideshare",
+    "meaning": "A service that matches drivers and riders through an app.",
+    "example": "We booked a rideshare during the rain.",
+    "categoryId": "Transportation",
+    "pronunciation": "/rideshare/",
+    "frTranslation": "covoiturage/VTC",
+    "esTranslation": "viaje compartido/VTC",
+    "arTranslation": "خدمة تشارك الركوب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "motorcycle",
+    "meaning": "A two-wheeled motor vehicle.",
+    "example": "He commutes by motorcycle in summer.",
+    "categoryId": "Transportation",
+    "pronunciation": "/motorcycle/",
+    "frTranslation": "moto",
+    "esTranslation": "motocicleta",
+    "arTranslation": "دراجة نارية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "moped",
+    "meaning": "A light motorbike with small engine and pedals.",
+    "example": "Students zip around town on mopeds.",
+    "categoryId": "Transportation",
+    "pronunciation": "/moped/",
+    "frTranslation": "cyclomoteur",
+    "esTranslation": "ciclomotor",
+    "arTranslation": "دراجة نارية خفيفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "scooter (kick)",
+    "meaning": "A small platform with wheels pushed by foot.",
+    "example": "Kids rode a scooter to the park.",
+    "categoryId": "Transportation",
+    "pronunciation": "/scooter (kick)/",
+    "frTranslation": "trottinette (sans moteur)",
+    "esTranslation": "patinete (sin motor)",
+    "arTranslation": "سكوتر دفع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "e-scooter",
+    "meaning": "A battery-powered standing scooter for short trips.",
+    "example": "E-scooters are docked on the corner.",
+    "categoryId": "Transportation",
+    "pronunciation": "/e-scooter/",
+    "frTranslation": "trottinette électrique",
+    "esTranslation": "patinete eléctrico",
+    "arTranslation": "سكوتر كهربائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "bicycle",
+    "meaning": "A human-powered vehicle with two wheels.",
+    "example": "She cycles to school on her bicycle.",
+    "categoryId": "Transportation",
+    "pronunciation": "/bicycle/",
+    "frTranslation": "vélo/bicyclette",
+    "esTranslation": "bicicleta",
+    "arTranslation": "دراجة هوائية",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bike"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "e-bike",
+    "meaning": "A bicycle with an electric motor to assist pedaling.",
+    "example": "An e-bike helps on steep hills.",
+    "categoryId": "Transportation",
+    "pronunciation": "/e-bike/",
+    "frTranslation": "vélo électrique",
+    "esTranslation": "bicicleta eléctrica",
+    "arTranslation": "دراجة كهربائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "skateboard",
+    "meaning": "A board on wheels ridden standing up for sport or short travel.",
+    "example": "He commuted a few blocks by skateboard.",
+    "categoryId": "Transportation",
+    "pronunciation": "/skateboard/",
+    "frTranslation": "skateboard",
+    "esTranslation": "monopatín",
+    "arTranslation": "لوح تزلج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "wheelchair",
+    "meaning": "A chair on wheels used by people with limited mobility.",
+    "example": "The station has ramps for wheelchairs.",
+    "categoryId": "Transportation",
+    "pronunciation": "/wheelchair/",
+    "frTranslation": "fauteuil roulant",
+    "esTranslation": "silla de ruedas",
+    "arTranslation": "كرسي متحرك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "mobility scooter",
+    "meaning": "A small electric vehicle that helps people with mobility needs get around.",
+    "example": "He uses a mobility scooter for errands.",
+    "categoryId": "Transportation",
+    "pronunciation": "/mobility scooter/",
+    "frTranslation": "scooter de mobilité",
+    "esTranslation": "scooter de movilidad",
+    "arTranslation": "سكوتر لذوي الاحتياجات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "carriage (horse-drawn)",
+    "meaning": "A horse-drawn vehicle used historically or for tours.",
+    "example": "Tourists booked a carriage ride through the park.",
+    "categoryId": "Transportation",
+    "pronunciation": "/carriage (horse-drawn)/",
+    "frTranslation": "calèche/fiacre",
+    "esTranslation": "carruaje",
+    "arTranslation": "عربة تجرها الخيل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "van",
+    "meaning": "A medium-sized vehicle used to carry people or goods.",
+    "example": "The band toured in a van.",
+    "categoryId": "Transportation",
+    "pronunciation": "/van/",
+    "frTranslation": "fourgon/van",
+    "esTranslation": "furgoneta",
+    "arTranslation": "شاحنة صغيرة/فان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "truck (lorry)",
+    "meaning": "A motor vehicle designed to carry heavy goods.",
+    "example": "Trucks deliver produce overnight.",
+    "categoryId": "Transportation",
+    "pronunciation": "/truck (lorry)/",
+    "frTranslation": "camion",
+    "esTranslation": "camión",
+    "arTranslation": "شاحنة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "lorry (UK)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "pickup truck",
+    "meaning": "A truck with an open cargo bed at the back.",
+    "example": "They hauled lumber in a pickup truck.",
+    "categoryId": "Transportation",
+    "pronunciation": "/pickup truck/",
+    "frTranslation": "pick-up",
+    "esTranslation": "camioneta pickup",
+    "arTranslation": "بيك أب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "forklift",
+    "meaning": "A small industrial vehicle that lifts pallets with forks.",
+    "example": "A forklift moved the crates into the warehouse.",
+    "categoryId": "Transportation",
+    "pronunciation": "/forklift/",
+    "frTranslation": "chariot élévateur",
+    "esTranslation": "montacargas",
+    "arTranslation": "رافعة شوكية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "land"
+    ]
+  },
+  {
+    "text": "ferry",
+    "meaning": "A boat or ship that carries people and vehicles across water on a schedule.",
+    "example": "We caught the morning ferry to the island.",
+    "categoryId": "Transportation",
+    "pronunciation": "/ferry/",
+    "frTranslation": "ferry/bac",
+    "esTranslation": "ferri/transbordador",
+    "arTranslation": "عبّارة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "speedboat",
+    "meaning": "A fast motorboat for travel or sport.",
+    "example": "A speedboat towed the water-skiers.",
+    "categoryId": "Transportation",
+    "pronunciation": "/speedboat/",
+    "frTranslation": "vedette/bateau rapide",
+    "esTranslation": "lancha rápida",
+    "arTranslation": "زورق سريع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "yacht",
+    "meaning": "A large boat used for pleasure cruising or racing.",
+    "example": "Guests boarded a yacht for the reception.",
+    "categoryId": "Transportation",
+    "pronunciation": "/yacht/",
+    "frTranslation": "yacht",
+    "esTranslation": "yate",
+    "arTranslation": "يخت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "sailboat",
+    "meaning": "A boat propelled mainly by sails and wind.",
+    "example": "They crossed the bay in a sailboat.",
+    "categoryId": "Transportation",
+    "pronunciation": "/sailboat/",
+    "frTranslation": "voilier",
+    "esTranslation": "velero",
+    "arTranslation": "قارب شراعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "canoe",
+    "meaning": "A narrow, open boat paddled by hand.",
+    "example": "We rented a canoe for the lake.",
+    "categoryId": "Transportation",
+    "pronunciation": "/canoe/",
+    "frTranslation": "canoë",
+    "esTranslation": "canoa",
+    "arTranslation": "زورق صغير/كانو",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "kayak",
+    "meaning": "A small, closed-deck paddling boat steered with a double-bladed paddle.",
+    "example": "She kayaked along the coast.",
+    "categoryId": "Transportation",
+    "pronunciation": "/kayak/",
+    "frTranslation": "kayak",
+    "esTranslation": "kayak",
+    "arTranslation": "قارب كاياك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "cargo ship",
+    "meaning": "A large ship that carries goods in containers or bulk.",
+    "example": "Cargo ships anchored outside the port.",
+    "categoryId": "Transportation",
+    "pronunciation": "/cargo ship/",
+    "frTranslation": "navire cargo",
+    "esTranslation": "buque de carga",
+    "arTranslation": "سفينة شحن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "container ship",
+    "meaning": "A ship designed to carry standardized shipping containers.",
+    "example": "The container ship held thousands of TEUs.",
+    "categoryId": "Transportation",
+    "pronunciation": "/container ship/",
+    "frTranslation": "porte-conteneurs",
+    "esTranslation": "portacontenedores",
+    "arTranslation": "سفينة حاويات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "cruise ship",
+    "meaning": "A large passenger vessel offering leisure voyages.",
+    "example": "The cruise ship docked at dawn.",
+    "categoryId": "Transportation",
+    "pronunciation": "/cruise ship/",
+    "frTranslation": "paquebot de croisière",
+    "esTranslation": "crucero",
+    "arTranslation": "سفينة سياحية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "hovercraft",
+    "meaning": "A vehicle that rides on a cushion of air over water or land.",
+    "example": "The hovercraft crossed the marsh quickly.",
+    "categoryId": "Transportation",
+    "pronunciation": "/hovercraft/",
+    "frTranslation": "aéroglisseur",
+    "esTranslation": "aerodeslizador",
+    "arTranslation": "زورق هوائي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "submarine",
+    "meaning": "A vessel that operates underwater.",
+    "example": "A research submarine explored the trench.",
+    "categoryId": "Transportation",
+    "pronunciation": "/submarine/",
+    "frTranslation": "sous-marin",
+    "esTranslation": "submarino",
+    "arTranslation": "غواصة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "water"
+    ]
+  },
+  {
+    "text": "airplane",
+    "meaning": "A powered aircraft with fixed wings.",
+    "example": "The airplane took off on time.",
+    "categoryId": "Transportation",
+    "pronunciation": "/airplane/",
+    "frTranslation": "avion",
+    "esTranslation": "avión",
+    "arTranslation": "طائرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "air"
+    ]
+  },
+  {
+    "text": "jet",
+    "meaning": "A fast airplane powered by jet engines.",
+    "example": "The jet cruised above the clouds.",
+    "categoryId": "Transportation",
+    "pronunciation": "/jet/",
+    "frTranslation": "avion à réaction",
+    "esTranslation": "jet",
+    "arTranslation": "طائرة نفاثة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "air"
+    ]
+  },
+  {
+    "text": "helicopter",
+    "meaning": "An aircraft that lifts off vertically using rotating blades.",
+    "example": "A helicopter landed on the hospital roof.",
+    "categoryId": "Transportation",
+    "pronunciation": "/helicopter/",
+    "frTranslation": "hélicoptère",
+    "esTranslation": "helicóptero",
+    "arTranslation": "مروحية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "air"
+    ]
+  },
+  {
+    "text": "glider",
+    "meaning": "A light aircraft without an engine that soars on rising air.",
+    "example": "Thermals kept the glider aloft.",
+    "categoryId": "Transportation",
+    "pronunciation": "/glider/",
+    "frTranslation": "planeur",
+    "esTranslation": "planeador",
+    "arTranslation": "طائرة شراعية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "air"
+    ]
+  },
+  {
+    "text": "blimp (airship)",
+    "meaning": "A lighter-than-air craft with a gas-filled envelope and engines.",
+    "example": "A blimp hovered over the stadium.",
+    "categoryId": "Transportation",
+    "pronunciation": "/blimp (airship)/",
+    "frTranslation": "dirigeable (souple)",
+    "esTranslation": "dirigible",
+    "arTranslation": "منطاد/بالون موجه",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "air"
+    ]
+  },
+  {
+    "text": "drone (UAV)",
+    "meaning": "An unmanned aircraft piloted remotely or by onboard systems.",
+    "example": "Delivery trials used a small drone.",
+    "categoryId": "Transportation",
+    "pronunciation": "/drone (UAV)/",
+    "frTranslation": "drone (UAV)",
+    "esTranslation": "dron (UAV)",
+    "arTranslation": "طائرة بدون طيار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "air"
+    ]
+  },
+  {
+    "text": "station",
+    "meaning": "A place where buses or trains regularly stop and passengers board.",
+    "example": "Meet me at the central station.",
+    "categoryId": "Transportation",
+    "pronunciation": "/station/",
+    "frTranslation": "gare/station",
+    "esTranslation": "estación",
+    "arTranslation": "محطة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "platform",
+    "meaning": "The raised area alongside tracks where passengers board trains.",
+    "example": "Wait on platform 2 for the express.",
+    "categoryId": "Transportation",
+    "pronunciation": "/platform/",
+    "frTranslation": "quai (plateforme)",
+    "esTranslation": "andén",
+    "arTranslation": "رصيف/منصة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "track (rail)",
+    "meaning": "The metal rails on which trains run.",
+    "example": "Maintenance closed one track overnight.",
+    "categoryId": "Transportation",
+    "pronunciation": "/track (rail)/",
+    "frTranslation": "voie ferrée",
+    "esTranslation": "vía férrea",
+    "arTranslation": "سِكة حديد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "depot",
+    "meaning": "A facility where vehicles are stored and serviced.",
+    "example": "Buses return to the depot after midnight.",
+    "categoryId": "Transportation",
+    "pronunciation": "/depot/",
+    "frTranslation": "dépôt (bus/train)",
+    "esTranslation": "depósito (cocheras)",
+    "arTranslation": "مرأب/مستودع مركبات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "terminal",
+    "meaning": "A building where a journey begins or ends, especially at airports and ports.",
+    "example": "Follow signs to Terminal B.",
+    "categoryId": "Transportation",
+    "pronunciation": "/terminal/",
+    "frTranslation": "terminal",
+    "esTranslation": "terminal",
+    "arTranslation": "مبنى ركاب/محطة نهائية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "runway",
+    "meaning": "A long strip where airplanes take off and land.",
+    "example": "The runway reopened after inspection.",
+    "categoryId": "Transportation",
+    "pronunciation": "/runway/",
+    "frTranslation": "piste (aéroport)",
+    "esTranslation": "pista de despegue/aterrizaje",
+    "arTranslation": "مدرج الطائرات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "taxiway",
+    "meaning": "A path that connects runways with terminals and hangars.",
+    "example": "Aircraft waited on the taxiway for clearance.",
+    "categoryId": "Transportation",
+    "pronunciation": "/taxiway/",
+    "frTranslation": "voie de circulation (aéroport)",
+    "esTranslation": "rodaje (pista)",
+    "arTranslation": "مسار تحرّك الطائرات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "gate (airport)",
+    "meaning": "The numbered area where passengers board a flight.",
+    "example": "Boarding starts soon at gate 23.",
+    "categoryId": "Transportation",
+    "pronunciation": "/gate (airport)/",
+    "frTranslation": "porte d’embarquement",
+    "esTranslation": "puerta de embarque",
+    "arTranslation": "بوابة الصعود للطائرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "jet bridge",
+    "meaning": "An enclosed, movable walkway connecting the gate to the aircraft door.",
+    "example": "We walked through the jet bridge into the plane.",
+    "categoryId": "Transportation",
+    "pronunciation": "/jet bridge/",
+    "frTranslation": "passerelle télescopique",
+    "esTranslation": "pasarela (finger)",
+    "arTranslation": "جسر ركاب طائرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "hangar",
+    "meaning": "A large building for storing and servicing aircraft.",
+    "example": "The hangar sheltered the small jets.",
+    "categoryId": "Transportation",
+    "pronunciation": "/hangar/",
+    "frTranslation": "hangar",
+    "esTranslation": "hangar",
+    "arTranslation": "حظيرة طائرات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "port (harbor)",
+    "meaning": "A sheltered place on the coast where ships dock and transfer goods or people.",
+    "example": "The port handles thousands of containers daily.",
+    "categoryId": "Transportation",
+    "pronunciation": "/port (harbor)/",
+    "frTranslation": "port",
+    "esTranslation": "puerto",
+    "arTranslation": "ميناء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "pier (dock)",
+    "meaning": "A platform extending over water for loading, fishing, or walking.",
+    "example": "The ferry departs from the far pier.",
+    "categoryId": "Transportation",
+    "pronunciation": "/pier (dock)/",
+    "frTranslation": "jetée/quai",
+    "esTranslation": "muelle",
+    "arTranslation": "رصيف بحري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "lock (canal)",
+    "meaning": "A chamber in a canal where water level is raised or lowered to lift boats.",
+    "example": "We watched the lock fill and the boat rise.",
+    "categoryId": "Transportation",
+    "pronunciation": "/lock (canal)/",
+    "frTranslation": "écluse",
+    "esTranslation": "esclusa",
+    "arTranslation": "هويس/قفل مائي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "toll booth",
+    "meaning": "A roadside kiosk where drivers pay to use a road or bridge.",
+    "example": "Slow for the toll booth ahead.",
+    "categoryId": "Transportation",
+    "pronunciation": "/toll booth/",
+    "frTranslation": "péage (cabine)",
+    "esTranslation": "peaje (cabina)",
+    "arTranslation": "كشك تحصيل رسوم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "service area (rest stop)",
+    "meaning": "A stop along a highway with fuel, toilets, and food.",
+    "example": "We pulled into a service area for coffee.",
+    "categoryId": "Transportation",
+    "pronunciation": "/service area (rest stop)/",
+    "frTranslation": "aire de service",
+    "esTranslation": "área de servicio",
+    "arTranslation": "استراحة طريق/خدمات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "park-and-ride",
+    "meaning": "A parking lot at a transit station where drivers leave cars and ride public transport.",
+    "example": "They met at the park-and-ride lot.",
+    "categoryId": "Transportation",
+    "pronunciation": "/park-and-ride/",
+    "frTranslation": "parc-relais",
+    "esTranslation": "estacionamiento disuasorio",
+    "arTranslation": "موقف السيارات والتحويل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "interchange (junction)",
+    "meaning": "A complex road connection where highways cross using ramps.",
+    "example": "Take the next interchange for Route 7.",
+    "categoryId": "Transportation",
+    "pronunciation": "/interchange (junction)/",
+    "frTranslation": "échangeur (routier)",
+    "esTranslation": "intercambio (nudo vial)",
+    "arTranslation": "تقاطع طرق سريع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "bus lane",
+    "meaning": "A lane reserved for buses to improve speed and reliability.",
+    "example": "Cars cannot enter the bus lane during rush hour.",
+    "categoryId": "Transportation",
+    "pronunciation": "/bus lane/",
+    "frTranslation": "voie bus",
+    "esTranslation": "carril bus",
+    "arTranslation": "مسار الحافلات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "bike lane",
+    "meaning": "A marked road lane designated for cyclists.",
+    "example": "The bike lane is protected by bollards.",
+    "categoryId": "Transportation",
+    "pronunciation": "/bike lane/",
+    "frTranslation": "piste cyclable",
+    "esTranslation": "carril bici",
+    "arTranslation": "مسار دراجات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "HOV lane",
+    "meaning": "A lane reserved for vehicles with multiple occupants to reduce congestion.",
+    "example": "We used the HOV lane with three people in the car.",
+    "categoryId": "Transportation",
+    "pronunciation": "/HOV lane/",
+    "frTranslation": "voie réservée covoiturage",
+    "esTranslation": "carril VAO",
+    "arTranslation": "مسار المركبات متعددة الركاب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "hard shoulder",
+    "meaning": "A narrow strip beside a motorway for emergencies.",
+    "example": "The van pulled onto the hard shoulder.",
+    "categoryId": "Transportation",
+    "pronunciation": "/hard shoulder/",
+    "frTranslation": "bas-côté (autoroute)",
+    "esTranslation": "arcén duro",
+    "arTranslation": "كتف الطريق (عرضي)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "median (central reservation)",
+    "meaning": "A strip separating lanes of traffic moving in opposite directions.",
+    "example": "Flowers were planted along the median.",
+    "categoryId": "Transportation",
+    "pronunciation": "/median (central reservation)/",
+    "frTranslation": "terre-plein central",
+    "esTranslation": "mediana",
+    "arTranslation": "جزيرة وسطية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "guardrail",
+    "meaning": "A strong barrier along the road’s edge to prevent vehicles leaving the roadway.",
+    "example": "The car scraped the guardrail on the curve.",
+    "categoryId": "Transportation",
+    "pronunciation": "/guardrail/",
+    "frTranslation": "glissière de sécurité",
+    "esTranslation": "barrera de seguridad",
+    "arTranslation": "حاجز أمان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "infrastructure"
+    ]
+  },
+  {
+    "text": "traffic light",
+    "meaning": "A signal with red, yellow, and green lights that controls vehicle flow.",
+    "example": "Turn right after the traffic light.",
+    "categoryId": "Transportation",
+    "pronunciation": "/traffic light/",
+    "frTranslation": "feu tricolore",
+    "esTranslation": "semáforo",
+    "arTranslation": "إشارة ضوئية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "stop sign",
+    "meaning": "A roadside sign that requires drivers to come to a full stop.",
+    "example": "He halted at the stop sign.",
+    "categoryId": "Transportation",
+    "pronunciation": "/stop sign/",
+    "frTranslation": "panneau STOP",
+    "esTranslation": "señal de stop",
+    "arTranslation": "إشارة توقف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "yield sign",
+    "meaning": "A sign telling drivers to slow and give way to others.",
+    "example": "Merge carefully at the yield sign.",
+    "categoryId": "Transportation",
+    "pronunciation": "/yield sign/",
+    "frTranslation": "cédez le passage",
+    "esTranslation": "ceda el paso",
+    "arTranslation": "إشارة أفسح الطريق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "speed limit",
+    "meaning": "The maximum legal speed for a road.",
+    "example": "The speed limit drops to 50 here.",
+    "categoryId": "Transportation",
+    "pronunciation": "/speed limit/",
+    "frTranslation": "limite de vitesse",
+    "esTranslation": "límite de velocidad",
+    "arTranslation": "السرعة القصوى",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "speed bump",
+    "meaning": "A raised strip across a road to slow vehicles.",
+    "example": "Slow down for the speed bump.",
+    "categoryId": "Transportation",
+    "pronunciation": "/speed bump/",
+    "frTranslation": "dos d’âne (ralentisseur)",
+    "esTranslation": "lomo de burro",
+    "arTranslation": "مطبة/مطبّ سرعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "crosswalk",
+    "meaning": "A marked place where pedestrians cross a street.",
+    "example": "Stop for people in the crosswalk.",
+    "categoryId": "Transportation",
+    "pronunciation": "/crosswalk/",
+    "frTranslation": "passage piéton",
+    "esTranslation": "paso de peatones",
+    "arTranslation": "ممر مشاة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "roundabout",
+    "meaning": "A circular junction where traffic flows around a central island.",
+    "example": "Yield to traffic already in the roundabout.",
+    "categoryId": "Transportation",
+    "pronunciation": "/roundabout/",
+    "frTranslation": "rond-point",
+    "esTranslation": "rotonda",
+    "arTranslation": "دوّار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "traffic jam (congestion)",
+    "meaning": "A line of slow or stopped cars due to heavy traffic.",
+    "example": "We got stuck in a traffic jam downtown.",
+    "categoryId": "Transportation",
+    "pronunciation": "/traffic jam (congestion)/",
+    "frTranslation": "embouteillage",
+    "esTranslation": "atasco",
+    "arTranslation": "اختناق مروري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "gridlock"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  }
+]

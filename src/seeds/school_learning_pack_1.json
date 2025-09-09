@@ -1,0 +1,1377 @@
+[
+  {
+    "text": "student",
+    "meaning": "A person who is learning at a school, college, or university.",
+    "example": "Each student handed in the assignment on time.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/student/",
+    "frTranslation": "élève/étudiant(e)",
+    "esTranslation": "estudiante/alumno(a)",
+    "arTranslation": "طالب",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "pupil",
+      "learner"
+    ],
+    "antonyms": [
+      "teacher"
+    ],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "classmate",
+    "meaning": "A person who is in the same class as you.",
+    "example": "I partnered with my classmate for the lab.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/classmate/",
+    "frTranslation": "camarade de classe",
+    "esTranslation": "compañero(a) de clase",
+    "arTranslation": "زميل صف",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "peer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "teacher",
+    "meaning": "A person who teaches students in a school.",
+    "example": "The teacher explained fractions with blocks.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/teacher/",
+    "frTranslation": "enseignant(e)/professeur(e) (école)",
+    "esTranslation": "maestro(a)/profesor(a)",
+    "arTranslation": "معلّم/مدرّس",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "instructor"
+    ],
+    "antonyms": [
+      "student"
+    ],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "professor",
+    "meaning": "A senior academic who teaches and conducts research at a university.",
+    "example": "Our professor holds office hours on Tuesdays.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/professor/",
+    "frTranslation": "professeur (université)",
+    "esTranslation": "profesor(a) (universidad)",
+    "arTranslation": "أستاذ جامعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "academic"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "principal",
+    "meaning": "The head of a school responsible for leadership and discipline.",
+    "example": "The principal addressed the assembly.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/principal/",
+    "frTranslation": "proviseur/directeur(trice)",
+    "esTranslation": "director(a)",
+    "arTranslation": "مدير المدرسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "dean",
+    "meaning": "A senior official in a college or faculty who oversees programs and students.",
+    "example": "The dean approved my course waiver.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/dean/",
+    "frTranslation": "doyen(ne)",
+    "esTranslation": "decano(a)",
+    "arTranslation": "عميد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "counselor (school)",
+    "meaning": "A staff member who helps students with academic plans and well‑being.",
+    "example": "I met the counselor to discuss colleges.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/counselor (school)/",
+    "frTranslation": "conseiller(ère) d’orientation",
+    "esTranslation": "orientador(a) escolar",
+    "arTranslation": "مرشد/مستشار مدرسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "advisor"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "advisor (academic)",
+    "meaning": "A teacher who guides students in choosing courses and meeting requirements.",
+    "example": "Your advisor signs the registration form.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/advisor (academic)/",
+    "frTranslation": "conseiller(ère) pédagogique",
+    "esTranslation": "asesor(a) académico(a)",
+    "arTranslation": "مستشار أكاديمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "tutor",
+    "meaning": "A person who gives one‑to‑one or small‑group teaching.",
+    "example": "A math tutor helped me with algebra.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/tutor/",
+    "frTranslation": "tuteur/tutrice",
+    "esTranslation": "tutor(a)",
+    "arTranslation": "مُعلّم خاص",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "mentor",
+    "meaning": "An experienced person who guides a student’s growth and choices.",
+    "example": "Her mentor encouraged her to apply for research.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/mentor/",
+    "frTranslation": "mentor/mentor(e)",
+    "esTranslation": "mentor(a)",
+    "arTranslation": "مُرشِد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "teaching assistant (TA)",
+    "meaning": "A graduate student who helps teach labs, lead discussions, or grade.",
+    "example": "The TA held an extra review session.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/teaching assistant (TA)/",
+    "frTranslation": "assistant(e) d’enseignement (AE)",
+    "esTranslation": "ayudante de cátedra (TA)",
+    "arTranslation": "مساعد تدريس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "librarian",
+    "meaning": "A specialist who manages the library and helps people find resources.",
+    "example": "Ask the librarian about citation tools.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/librarian/",
+    "frTranslation": "bibliothécaire",
+    "esTranslation": "bibliotecario(a)",
+    "arTranslation": "أمين مكتبة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "registrar",
+    "meaning": "The office in charge of student records, transcripts, and enrollment.",
+    "example": "The registrar updated my transcript.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/registrar/",
+    "frTranslation": "service de scolarité (responsable)",
+    "esTranslation": "secretaría académica (registros)",
+    "arTranslation": "مسجّل/قسم التسجيل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "proctor",
+    "meaning": "A person who supervises students during an exam to prevent cheating.",
+    "example": "The proctor checked our IDs.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/proctor/",
+    "frTranslation": "surveillant(e) d’examen",
+    "esTranslation": "vigilante de examen",
+    "arTranslation": "مراقب امتحان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "alumnus/alumna (alumni)",
+    "meaning": "A former student who has graduated from a school or university.",
+    "example": "Alumni returned for the reunion.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/alumnus/alumna (alumni)/",
+    "frTranslation": "ancien(ne) élève/étudiant(e)",
+    "esTranslation": "exalumno(a)",
+    "arTranslation": "خريج/خريجة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "cohort",
+    "meaning": "A group of students progressing through a program together.",
+    "example": "Our cohort meets weekly for seminars.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/cohort/",
+    "frTranslation": "promotion/cohorte",
+    "esTranslation": "cohorte",
+    "arTranslation": "دفعة/فوج",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "substitute teacher",
+    "meaning": "A teacher who takes a class when the regular teacher is absent.",
+    "example": "A substitute teacher covered chemistry today.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/substitute teacher/",
+    "frTranslation": "remplaçant(e)",
+    "esTranslation": "profesor(a) sustituto(a)",
+    "arTranslation": "معلّم بديل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "school nurse",
+    "meaning": "A nurse who provides basic health care in a school.",
+    "example": "The school nurse checked his temperature.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/school nurse/",
+    "frTranslation": "infirmier(ère) scolaire",
+    "esTranslation": "enfermero(a) escolar",
+    "arTranslation": "ممرّض/ة المدرسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "class representative",
+    "meaning": "A student chosen to speak for the class to teachers or administration.",
+    "example": "The class representative gathered feedback.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/class representative/",
+    "frTranslation": "délégué(e) de classe",
+    "esTranslation": "delegado(a) de clase",
+    "arTranslation": "مندوب الصف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "people"
+    ]
+  },
+  {
+    "text": "classroom",
+    "meaning": "A room where lessons are taught.",
+    "example": "The classroom has rows of desks.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/classroom/",
+    "frTranslation": "salle de classe",
+    "esTranslation": "aula",
+    "arTranslation": "قسم/صف دراسي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "lecture hall",
+    "meaning": "A large room designed for lectures to big groups.",
+    "example": "The lecture hall seats three hundred.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/lecture hall/",
+    "frTranslation": "amphi/salle de cours magistral",
+    "esTranslation": "aula magna",
+    "arTranslation": "قاعة محاضرات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "laboratory (lab)",
+    "meaning": "A room for scientific experiments and practical work.",
+    "example": "Wear goggles in the laboratory.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/laboratory (lab)/",
+    "frTranslation": "laboratoire",
+    "esTranslation": "laboratorio",
+    "arTranslation": "مختبر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "library",
+    "meaning": "A place with books, media, and study areas.",
+    "example": "We met in the quiet library.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/library/",
+    "frTranslation": "bibliothèque",
+    "esTranslation": "biblioteca",
+    "arTranslation": "مكتبة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "auditorium",
+    "meaning": "A large hall for assemblies, concerts, and talks.",
+    "example": "The award ceremony filled the auditorium.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/auditorium/",
+    "frTranslation": "auditorium",
+    "esTranslation": "auditorio",
+    "arTranslation": "مدرج/قاعة عروض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "cafeteria",
+    "meaning": "A dining area where students buy and eat meals.",
+    "example": "Lunch starts early in the cafeteria.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/cafeteria/",
+    "frTranslation": "cafétéria",
+    "esTranslation": "cafetería",
+    "arTranslation": "كافتيريا/مطعم المدرسة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "gymnasium",
+    "meaning": "A large room for indoor sports and PE classes.",
+    "example": "Exams were held in the gymnasium.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/gymnasium/",
+    "frTranslation": "gymnase",
+    "esTranslation": "gimnasio (polideportivo)",
+    "arTranslation": "صالة رياضية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "playground",
+    "meaning": "An outdoor area where children play during breaks.",
+    "example": "Kids crowded the playground at recess.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/playground/",
+    "frTranslation": "cour de récréation",
+    "esTranslation": "patio de recreo",
+    "arTranslation": "ساحة لعب/استراحة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "nurse’s office",
+    "meaning": "A room where the school nurse provides care.",
+    "example": "He waited in the nurse’s office with an ice pack.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/nurse’s office/",
+    "frTranslation": "infirmerie",
+    "esTranslation": "enfermería (escolar)",
+    "arTranslation": "عيادة المدرسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "staff room",
+    "meaning": "A room where teachers prepare lessons and take breaks.",
+    "example": "Teachers met briefly in the staff room.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/staff room/",
+    "frTranslation": "salle des professeurs",
+    "esTranslation": "sala de profesores",
+    "arTranslation": "غرفة المعلمين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "locker",
+    "meaning": "A narrow storage compartment for personal items at school.",
+    "example": "She kept her books in the top locker.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/locker/",
+    "frTranslation": "casier",
+    "esTranslation": "casillero/taquilla",
+    "arTranslation": "خزانة (مدرسية)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "campus",
+    "meaning": "The grounds and buildings of a college or university.",
+    "example": "Bikes are the best way to cross campus.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/campus/",
+    "frTranslation": "campus",
+    "esTranslation": "campus",
+    "arTranslation": "حَرَم جامعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "quadrangle (quad)",
+    "meaning": "An open square on campus surrounded by buildings.",
+    "example": "Graduation photos were taken on the quad.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/quadrangle (quad)/",
+    "frTranslation": "cour intérieure (quad)",
+    "esTranslation": "patio central (quad)",
+    "arTranslation": "ساحة الحرم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "computer lab",
+    "meaning": "A room with computers for classes or study.",
+    "example": "The computer lab stays open late.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/computer lab/",
+    "frTranslation": "salle informatique",
+    "esTranslation": "sala de informática",
+    "arTranslation": "مختبر حاسوب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "makerspace",
+    "meaning": "A workshop with tools like 3D printers and laser cutters for projects.",
+    "example": "Robotics club meets in the makerspace.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/makerspace/",
+    "frTranslation": "fablab/atelier numérique",
+    "esTranslation": "makerspace/fablab",
+    "arTranslation": "مختبر صنّاع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "study hall",
+    "meaning": "A scheduled school period for quiet study.",
+    "example": "I finished homework during study hall.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/study hall/",
+    "frTranslation": "étude surveillée",
+    "esTranslation": "sala de estudio",
+    "arTranslation": "قاعة دراسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "office hours",
+    "meaning": "Set times when instructors meet students to answer questions.",
+    "example": "Ask about the project during office hours.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/office hours/",
+    "frTranslation": "permanence des enseignants",
+    "esTranslation": "horario de atención (profesores)",
+    "arTranslation": "ساعات استقبال الأستاذ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "field",
+    "meaning": "An outdoor area used for sports or research activities.",
+    "example": "We collected soil samples in the field.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/field/",
+    "frTranslation": "terrain (sport/plein air)",
+    "esTranslation": "campo (deporte)",
+    "arTranslation": "ملعب/حقل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "place"
+    ]
+  },
+  {
+    "text": "mathematics (math)",
+    "meaning": "The study of numbers, shapes, and patterns.",
+    "example": "Math homework focused on fractions.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/mathematics (math)/",
+    "frTranslation": "mathématiques (maths)",
+    "esTranslation": "matemáticas",
+    "arTranslation": "رياضيات",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "algebra",
+    "meaning": "A branch of math dealing with symbols and rules for manipulating them.",
+    "example": "We solved linear equations in algebra.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/algebra/",
+    "frTranslation": "algèbre",
+    "esTranslation": "álgebra",
+    "arTranslation": "الجبر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "geometry",
+    "meaning": "The study of points, lines, angles, and shapes.",
+    "example": "Geometry proved the triangles congruent.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/geometry/",
+    "frTranslation": "géométrie",
+    "esTranslation": "geometría",
+    "arTranslation": "الهندسة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "calculus",
+    "meaning": "The study of change and accumulation using derivatives and integrals.",
+    "example": "Calculus models population growth.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/calculus/",
+    "frTranslation": "calcul différentiel et intégral",
+    "esTranslation": "cálculo",
+    "arTranslation": "حساب التفاضل والتكامل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "statistics",
+    "meaning": "The science of collecting, analyzing, and interpreting data.",
+    "example": "We ran a t‑test in statistics.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/statistics/",
+    "frTranslation": "statistiques",
+    "esTranslation": "estadística",
+    "arTranslation": "إحصاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "computer science",
+    "meaning": "The study of computation, algorithms, and systems.",
+    "example": "Loops and arrays were covered in computer science.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/computer science/",
+    "frTranslation": "informatique",
+    "esTranslation": "informática (ciencias)",
+    "arTranslation": "علوم الحاسوب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "physics",
+    "meaning": "The study of matter, energy, and their interactions.",
+    "example": "Physics lab measured acceleration.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/physics/",
+    "frTranslation": "physique",
+    "esTranslation": "física",
+    "arTranslation": "فيزياء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "chemistry",
+    "meaning": "The study of substances, their properties, and reactions.",
+    "example": "We balanced equations in chemistry.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/chemistry/",
+    "frTranslation": "chimie",
+    "esTranslation": "química",
+    "arTranslation": "كيمياء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "biology",
+    "meaning": "The study of living organisms.",
+    "example": "Biology class dissected a plant stem.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/biology/",
+    "frTranslation": "biologie",
+    "esTranslation": "biología",
+    "arTranslation": "أحياء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "literature",
+    "meaning": "Written works like novels and poems studied for meaning and style.",
+    "example": "We compared themes in English literature.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/literature/",
+    "frTranslation": "littérature",
+    "esTranslation": "literatura",
+    "arTranslation": "أدب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "language arts",
+    "meaning": "School subjects focused on reading, writing, and communication.",
+    "example": "Language arts emphasized persuasive writing.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/language arts/",
+    "frTranslation": "français/lettres (langue)",
+    "esTranslation": "lengua y literatura",
+    "arTranslation": "لغة وآداب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "history",
+    "meaning": "The study of past events and societies.",
+    "example": "Our history project covered the Silk Road.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/history/",
+    "frTranslation": "histoire",
+    "esTranslation": "historia",
+    "arTranslation": "تاريخ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "geography",
+    "meaning": "The study of places, environments, and spatial relationships.",
+    "example": "Geography examined urban growth.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/geography/",
+    "frTranslation": "géographie",
+    "esTranslation": "geografía",
+    "arTranslation": "جغرافيا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "civics",
+    "meaning": "The study of citizenship, government, and civic duties.",
+    "example": "Civics explained how elections work.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/civics/",
+    "frTranslation": "éducation civique",
+    "esTranslation": "cívica/educación cívica",
+    "arTranslation": "تربية مدنية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "economics",
+    "meaning": "The study of how people use resources and respond to incentives.",
+    "example": "Economics discussed supply and demand.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/economics/",
+    "frTranslation": "économie",
+    "esTranslation": "economía",
+    "arTranslation": "اقتصاد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "art",
+    "meaning": "Creative subjects like drawing, painting, and sculpture.",
+    "example": "Art class explored color mixing.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/art/",
+    "frTranslation": "arts plastiques",
+    "esTranslation": "arte",
+    "arTranslation": "فن",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "music",
+    "meaning": "The art of organizing sound in time.",
+    "example": "Music rehearsal prepared for the concert.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/music/",
+    "frTranslation": "musique",
+    "esTranslation": "música",
+    "arTranslation": "موسيقى",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "drama (theater)",
+    "meaning": "Acting and stagecraft studied and performed.",
+    "example": "Drama students blocked the scene.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/drama (theater)/",
+    "frTranslation": "théâtre",
+    "esTranslation": "teatro (drama)",
+    "arTranslation": "مسرح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "physical education (PE)",
+    "meaning": "Exercise and sports to develop fitness and teamwork.",
+    "example": "Physical education focused on agility drills.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/physical education (PE)/",
+    "frTranslation": "éducation physique (EPS)",
+    "esTranslation": "educación física",
+    "arTranslation": "تربية بدنية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "foreign language",
+    "meaning": "The study of languages other than one’s native tongue.",
+    "example": "She chose Spanish as her foreign language.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/foreign language/",
+    "frTranslation": "langue étrangère",
+    "esTranslation": "lengua extranjera",
+    "arTranslation": "لغة أجنبية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "philosophy",
+    "meaning": "The study of fundamental questions about knowledge, ethics, and reality.",
+    "example": "Philosophy debated free will.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/philosophy/",
+    "frTranslation": "philosophie",
+    "esTranslation": "filosofía",
+    "arTranslation": "فلسفة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "psychology",
+    "meaning": "The scientific study of behavior and mind.",
+    "example": "Psychology covered memory and attention.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/psychology/",
+    "frTranslation": "psychologie",
+    "esTranslation": "psicología",
+    "arTranslation": "علم النفس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "subject"
+    ]
+  },
+  {
+    "text": "textbook",
+    "meaning": "A book used as the standard source for a course.",
+    "example": "The textbook includes practice problems.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/textbook/",
+    "frTranslation": "manuel scolaire",
+    "esTranslation": "libro de texto",
+    "arTranslation": "كتاب مدرسي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "notebook",
+    "meaning": "A set of blank pages bound together for taking notes.",
+    "example": "Keep a separate notebook for lab work.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/notebook/",
+    "frTranslation": "cahier",
+    "esTranslation": "cuaderno",
+    "arTranslation": "دفتر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "workbook",
+    "meaning": "A book with practice exercises and spaces to write answers.",
+    "example": "The workbook has answer keys at the back.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/workbook/",
+    "frTranslation": "cahier d’exercices",
+    "esTranslation": "cuaderno de ejercicios",
+    "arTranslation": "كُرّاس تمارين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "handout",
+    "meaning": "A printed page given to students with notes or tasks.",
+    "example": "The handout summarizes key formulas.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/handout/",
+    "frTranslation": "feuille (distribuée)",
+    "esTranslation": "hoja informativa",
+    "arTranslation": "نشرة/ورقة توزيع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "worksheet",
+    "meaning": "A page listing questions or tasks to complete.",
+    "example": "Pair up to finish the worksheet.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/worksheet/",
+    "frTranslation": "fiche d’exercice",
+    "esTranslation": "hoja de ejercicios",
+    "arTranslation": "ورقة عمل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "syllabus",
+    "meaning": "A document outlining topics, policies, and due dates for a course.",
+    "example": "Read the syllabus before the first class.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/syllabus/",
+    "frTranslation": "plan de cours",
+    "esTranslation": "programa (de la asignatura)",
+    "arTranslation": "خطة المقرر/المنهج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "assignment",
+    "meaning": "A task given by a teacher, often graded.",
+    "example": "Our assignment is to write a summary.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/assignment/",
+    "frTranslation": "devoir",
+    "esTranslation": "tarea",
+    "arTranslation": "واجب/مهمة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "homework",
+    "meaning": "Schoolwork to be done at home.",
+    "example": "He finishes homework after dinner.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/homework/",
+    "frTranslation": "devoirs",
+    "esTranslation": "tarea para casa",
+    "arTranslation": "واجب منزلي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "project",
+    "meaning": "A larger piece of work requiring research and creation.",
+    "example": "The project includes a presentation.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/project/",
+    "frTranslation": "projet",
+    "esTranslation": "proyecto",
+    "arTranslation": "مشروع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "essay",
+    "meaning": "A short piece of writing that presents a point of view.",
+    "example": "Draft your essay before the weekend.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/essay/",
+    "frTranslation": "rédaction/essai",
+    "esTranslation": "ensayo",
+    "arTranslation": "مقال/موضوع إنشائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "lab report",
+    "meaning": "A write‑up describing methods, results, and conclusions of an experiment.",
+    "example": "Submit the lab report by Friday.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/lab report/",
+    "frTranslation": "rapport de laboratoire",
+    "esTranslation": "informe de laboratorio",
+    "arTranslation": "تقرير مخبري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "thesis",
+    "meaning": "A long research paper submitted for a degree; also the main claim of an essay.",
+    "example": "Her thesis analyzes bilingual education.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/thesis/",
+    "frTranslation": "mémoire/thèse",
+    "esTranslation": "tesis",
+    "arTranslation": "أطروحة/رسالة علمية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "dissertation",
+    "meaning": "A substantial original research work for a doctoral degree.",
+    "example": "He defended his dissertation last spring.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/dissertation/",
+    "frTranslation": "thèse de doctorat",
+    "esTranslation": "disertación/tesis doctoral",
+    "arTranslation": "أطروحة دكتوراه",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "citation",
+    "meaning": "A reference to a source used in your writing.",
+    "example": "Each quote needs a proper citation.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/citation/",
+    "frTranslation": "citation (référence)",
+    "esTranslation": "citación/referencia",
+    "arTranslation": "استشهاد/مرجع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "bibliography",
+    "meaning": "A list of sources consulted or cited in a work.",
+    "example": "Format the bibliography in APA style.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/bibliography/",
+    "frTranslation": "bibliographie",
+    "esTranslation": "bibliografía",
+    "arTranslation": "قائمة مراجع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "flashcards",
+    "meaning": "Small cards used to practice facts or vocabulary.",
+    "example": "He drilled verbs with flashcards.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/flashcards/",
+    "frTranslation": "cartes mémoire",
+    "esTranslation": "tarjetas de memoria/flashcards",
+    "arTranslation": "بطاقات مراجعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "whiteboard",
+    "meaning": "A smooth board written on with special markers.",
+    "example": "The teacher drew a chart on the whiteboard.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/whiteboard/",
+    "frTranslation": "tableau blanc",
+    "esTranslation": "pizarra blanca",
+    "arTranslation": "سبورة بيضاء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "marker",
+    "meaning": "A pen with a felt tip used on whiteboards or paper.",
+    "example": "We need fresh markers for class.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/marker/",
+    "frTranslation": "feutre (marqueur)",
+    "esTranslation": "marcador/rotulador",
+    "arTranslation": "قلم تحبير/ماركر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "chalk",
+    "meaning": "A soft white stick used for writing on blackboards.",
+    "example": "Chalk dust covered the tray.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/chalk/",
+    "frTranslation": "craie",
+    "esTranslation": "tiza",
+    "arTranslation": "طبشور/طباشير",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "eraser",
+    "meaning": "A small object used to remove pencil or chalk marks.",
+    "example": "Use an eraser to fix mistakes.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/eraser/",
+    "frTranslation": "gomme",
+    "esTranslation": "borrador/goma",
+    "arTranslation": "ممحاة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  },
+  {
+    "text": "highlighter",
+    "meaning": "A bright pen used to emphasize important text.",
+    "example": "Highlight definitions with a highlighter.",
+    "categoryId": "School & Learning",
+    "pronunciation": "/highlighter/",
+    "frTranslation": "surligneur",
+    "esTranslation": "resaltador",
+    "arTranslation": "قلم تمييز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "School & Learning",
+      "materials"
+    ]
+  }
+]

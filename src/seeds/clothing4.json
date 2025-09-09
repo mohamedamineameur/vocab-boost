@@ -1,0 +1,512 @@
+[
+  {
+    "text": "polka dots",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like polka dots patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/polka dots/",
+    "frTranslation": "à pois",
+    "esTranslation": "de lunares",
+    "arTranslation": "منقط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "floral",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like floral patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/floral/",
+    "frTranslation": "fleuri",
+    "esTranslation": "floral",
+    "arTranslation": "مزهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "solid color",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like solid color patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/solid color/",
+    "frTranslation": "uni",
+    "esTranslation": "liso",
+    "arTranslation": "سادة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "houndstooth",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like houndstooth patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/houndstooth/",
+    "frTranslation": "pied-de-poule",
+    "esTranslation": "pata de gallo",
+    "arTranslation": "نقشة هوندستوث",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "camouflage",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like camouflage patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/camouflage/",
+    "frTranslation": "camouflage",
+    "esTranslation": "camuflaje",
+    "arTranslation": "تمويه",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "checkered",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like checkered patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/checkered/",
+    "frTranslation": "damier",
+    "esTranslation": "ajedrezado",
+    "arTranslation": "مربعات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "zipper",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The zipper is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/zipper/",
+    "frTranslation": "fermeture éclair",
+    "esTranslation": "cremallera",
+    "arTranslation": "سحاب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "button",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The button is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/button/",
+    "frTranslation": "bouton",
+    "esTranslation": "botón",
+    "arTranslation": "زر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "snap",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The snap is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/snap/",
+    "frTranslation": "pression",
+    "esTranslation": "broche",
+    "arTranslation": "كبسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "buckle",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The buckle is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/buckle/",
+    "frTranslation": "boucle",
+    "esTranslation": "hebilla",
+    "arTranslation": "مشبك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "laces",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The laces is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/laces/",
+    "frTranslation": "lacets",
+    "esTranslation": "cordones",
+    "arTranslation": "أربطة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "Velcro",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The Velcro is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/Velcro/",
+    "frTranslation": "Velcro",
+    "esTranslation": "velcro",
+    "arTranslation": "فيلكرو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "hem",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The hem is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/hem/",
+    "frTranslation": "ourlet",
+    "esTranslation": "dobladillo",
+    "arTranslation": "حاشية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "seam",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The seam is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/seam/",
+    "frTranslation": "couture",
+    "esTranslation": "costura",
+    "arTranslation": "خياطة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "cuff",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The cuff is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/cuff/",
+    "frTranslation": "poignet",
+    "esTranslation": "puño",
+    "arTranslation": "حافة الكم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "collar",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The collar is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/collar/",
+    "frTranslation": "col",
+    "esTranslation": "cuello",
+    "arTranslation": "ياقة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "pocket",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The pocket is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/pocket/",
+    "frTranslation": "poche",
+    "esTranslation": "bolsillo",
+    "arTranslation": "جيب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "hanger",
+    "meaning": "A part or fastener found on clothing.",
+    "example": "The hanger is loose; can you fix it?",
+    "categoryId": "Clothing",
+    "pronunciation": "/hanger/",
+    "frTranslation": "cintre",
+    "esTranslation": "percha",
+    "arTranslation": "علاقة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "part/fastener"
+    ]
+  },
+  {
+    "text": "try on",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to try on these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/try on/",
+    "frTranslation": "essayer (un vêtement)",
+    "esTranslation": "probarse",
+    "arTranslation": "يجرب على",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "take off",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to take off these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/take off/",
+    "frTranslation": "enlever",
+    "esTranslation": "quitarse",
+    "arTranslation": "يخلع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "put on",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to put on these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/put on/",
+    "frTranslation": "mettre",
+    "esTranslation": "ponerse",
+    "arTranslation": "يرتدي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "dress up",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to dress up these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/dress up/",
+    "frTranslation": "se mettre sur son 31",
+    "esTranslation": "arreglarse",
+    "arTranslation": "يتأنق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "dress down",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to dress down these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/dress down/",
+    "frTranslation": "s'habiller décontracté",
+    "esTranslation": "vestirse informal",
+    "arTranslation": "يرتدي ملابس بسيطة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "zip up",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to zip up these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/zip up/",
+    "frTranslation": "fermer la fermeture éclair",
+    "esTranslation": "subir la cremallera",
+    "arTranslation": "يغلق السحاب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "button up",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to button up these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/button up/",
+    "frTranslation": "boutonner",
+    "esTranslation": "abotonarse",
+    "arTranslation": "يزرر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "roll up (sleeves)",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to roll up (sleeves) these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/roll up (sleeves)/",
+    "frTranslation": "remonter (les manches)",
+    "esTranslation": "remangarse",
+    "arTranslation": "يشمّر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "throw on",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to throw on these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/throw on/",
+    "frTranslation": "enfiler rapidement",
+    "esTranslation": "ponerse rápido",
+    "arTranslation": "يرتدي بسرعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "hang up",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to hang up these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/hang up/",
+    "frTranslation": "accrocher",
+    "esTranslation": "colgar",
+    "arTranslation": "يعلّق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "wear out",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to wear out these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/wear out/",
+    "frTranslation": "user/abîmer",
+    "esTranslation": "desgastarse",
+    "arTranslation": "يبلى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "fit into",
+    "meaning": "A phrasal verb used when talking about clothing.",
+    "example": "I need to fit into these jeans.",
+    "categoryId": "Clothing",
+    "pronunciation": "/fit into/",
+    "frTranslation": "rentrer dans",
+    "esTranslation": "entrar en",
+    "arTranslation": "يتسع ل/يدخل في",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "phrasal-verb"
+    ]
+  }
+]

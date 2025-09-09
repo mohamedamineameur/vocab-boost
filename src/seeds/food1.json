@@ -1,0 +1,767 @@
+[
+  {
+    "text": "apple",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate an apple with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/apple/",
+    "frTranslation": "pomme",
+    "esTranslation": "manzana",
+    "arTranslation": "تفاحة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "banana",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a banana with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/banana/",
+    "frTranslation": "banane",
+    "esTranslation": "banana",
+    "arTranslation": "موز",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "orange",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate an orange with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/orange/",
+    "frTranslation": "orange",
+    "esTranslation": "naranja",
+    "arTranslation": "برتقال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "strawberry",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a strawberry with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/strawberry/",
+    "frTranslation": "fraise",
+    "esTranslation": "fresa",
+    "arTranslation": "فراولة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "grape",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a grape with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/grape/",
+    "frTranslation": "raisin",
+    "esTranslation": "uva",
+    "arTranslation": "عنب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "watermelon",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a watermelon with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/watermelon/",
+    "frTranslation": "pastèque",
+    "esTranslation": "sandía",
+    "arTranslation": "بطيخ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "lemon",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a lemon with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/lemon/",
+    "frTranslation": "citron",
+    "esTranslation": "limón",
+    "arTranslation": "ليمون",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "lime",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a lime with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/lime/",
+    "frTranslation": "citron vert",
+    "esTranslation": "lima",
+    "arTranslation": "ليمون أخضر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "cherry",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a cherry with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cherry/",
+    "frTranslation": "cerise",
+    "esTranslation": "cereza",
+    "arTranslation": "كرز",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "peach",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a peach with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/peach/",
+    "frTranslation": "pêche",
+    "esTranslation": "durazno",
+    "arTranslation": "خوخ",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "pear",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a pear with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pear/",
+    "frTranslation": "poire",
+    "esTranslation": "pera",
+    "arTranslation": "كمثرى",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "pineapple",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a pineapple with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pineapple/",
+    "frTranslation": "ananas",
+    "esTranslation": "piña",
+    "arTranslation": "أناناس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "mango",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a mango with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mango/",
+    "frTranslation": "mangue",
+    "esTranslation": "mango",
+    "arTranslation": "مانجو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "blueberry",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a blueberry with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/blueberry/",
+    "frTranslation": "myrtille",
+    "esTranslation": "arándano",
+    "arTranslation": "توت أزرق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "raspberry",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a raspberry with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/raspberry/",
+    "frTranslation": "framboise",
+    "esTranslation": "frambuesa",
+    "arTranslation": "توت علّيق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "avocado",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate an avocado with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/avocado/",
+    "frTranslation": "avocat",
+    "esTranslation": "aguacate",
+    "arTranslation": "أفوكادو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "kiwi",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a kiwi with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/kiwi/",
+    "frTranslation": "kiwi",
+    "esTranslation": "kiwi",
+    "arTranslation": "كيوي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "pomegranate",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a pomegranate with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pomegranate/",
+    "frTranslation": "grenade",
+    "esTranslation": "granada",
+    "arTranslation": "رمان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "grapefruit",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a grapefruit with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/grapefruit/",
+    "frTranslation": "pamplemousse",
+    "esTranslation": "pomelo",
+    "arTranslation": "جريب فروت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "apricot",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate an apricot with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/apricot/",
+    "frTranslation": "abricot",
+    "esTranslation": "albaricoque",
+    "arTranslation": "مشمش",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "plum",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a plum with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/plum/",
+    "frTranslation": "prune",
+    "esTranslation": "ciruela",
+    "arTranslation": "برقوق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "blackberry",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a blackberry with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/blackberry/",
+    "frTranslation": "mûre",
+    "esTranslation": "mora",
+    "arTranslation": "توت أسود",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "fig",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a fig with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/fig/",
+    "frTranslation": "figue",
+    "esTranslation": "higo",
+    "arTranslation": "تين",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "date",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a date with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/date/",
+    "frTranslation": "datte",
+    "esTranslation": "dátil",
+    "arTranslation": "تمر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "coconut",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a coconut with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/coconut/",
+    "frTranslation": "noix de coco",
+    "esTranslation": "coco",
+    "arTranslation": "جوز الهند",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "papaya",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a papaya with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/papaya/",
+    "frTranslation": "papaye",
+    "esTranslation": "papaya",
+    "arTranslation": "بابايا",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "melon",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a melon with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/melon/",
+    "frTranslation": "melon",
+    "esTranslation": "melón",
+    "arTranslation": "شمام",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "nectarine",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a nectarine with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/nectarine/",
+    "frTranslation": "nectarine",
+    "esTranslation": "nectarina",
+    "arTranslation": "نكتارين",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "passion fruit",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a passion fruit with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/passion fruit/",
+    "frTranslation": "fruit de la passion",
+    "esTranslation": "maracuyá",
+    "arTranslation": "فاكهة العشق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "tangerine",
+    "meaning": "A type of fruit commonly eaten as food.",
+    "example": "I ate a tangerine with breakfast.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tangerine/",
+    "frTranslation": "mandarine",
+    "esTranslation": "mandarina",
+    "arTranslation": "يوسفي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "fruit"
+    ]
+  },
+  {
+    "text": "tomato",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added tomato to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tomato/",
+    "frTranslation": "tomate",
+    "esTranslation": "tomate",
+    "arTranslation": "طماطم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "potato",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added potato to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/potato/",
+    "frTranslation": "pomme de terre",
+    "esTranslation": "patata",
+    "arTranslation": "بطاطا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "onion",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added onion to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/onion/",
+    "frTranslation": "oignon",
+    "esTranslation": "cebolla",
+    "arTranslation": "بصل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "garlic",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added garlic to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/garlic/",
+    "frTranslation": "ail",
+    "esTranslation": "ajo",
+    "arTranslation": "ثوم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "carrot",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added carrot to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/carrot/",
+    "frTranslation": "carotte",
+    "esTranslation": "zanahoria",
+    "arTranslation": "جزر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "cucumber",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added cucumber to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cucumber/",
+    "frTranslation": "concombre",
+    "esTranslation": "pepino",
+    "arTranslation": "خيار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "lettuce",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added lettuce to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/lettuce/",
+    "frTranslation": "laitue",
+    "esTranslation": "lechuga",
+    "arTranslation": "خس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "spinach",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added spinach to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/spinach/",
+    "frTranslation": "épinards",
+    "esTranslation": "espinacas",
+    "arTranslation": "سبانخ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "broccoli",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added broccoli to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/broccoli/",
+    "frTranslation": "brocoli",
+    "esTranslation": "brócoli",
+    "arTranslation": "بروكلي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "cauliflower",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added cauliflower to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cauliflower/",
+    "frTranslation": "chou-fleur",
+    "esTranslation": "coliflor",
+    "arTranslation": "قرنبيط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "bell pepper",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added bell pepper to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bell pepper/",
+    "frTranslation": "poivron",
+    "esTranslation": "pimiento",
+    "arTranslation": "فلفل حلو",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "mushroom",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added mushroom to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mushroom/",
+    "frTranslation": "champignon",
+    "esTranslation": "champiñón",
+    "arTranslation": "فطر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "zucchini",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added zucchini to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/zucchini/",
+    "frTranslation": "courgette",
+    "esTranslation": "calabacín",
+    "arTranslation": "كوسا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "eggplant",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added eggplant to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/eggplant/",
+    "frTranslation": "aubergine",
+    "esTranslation": "berenjena",
+    "arTranslation": "باذنجان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "cabbage",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added cabbage to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cabbage/",
+    "frTranslation": "chou",
+    "esTranslation": "repollo",
+    "arTranslation": "كرنب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  }
+]

@@ -1,0 +1,708 @@
+[
+  {
+    "text": "head",
+    "meaning": "The upper part of the body that contains the brain and the main sense organs.",
+    "example": "He wore a hat to protect his head from the sun.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/head/",
+    "frTranslation": "tête",
+    "esTranslation": "cabeza",
+    "arTranslation": "رأس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "skull",
+    "meaning": "The bony structure that encases and protects the brain.",
+    "example": "The helmet shields the skull in case of a fall.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/skull/",
+    "frTranslation": "crâne",
+    "esTranslation": "cráneo",
+    "arTranslation": "جمجمة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "cranium"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "face",
+    "meaning": "The front part of the head, including the eyes, nose, and mouth.",
+    "example": "She washed her face with cool water.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/face/",
+    "frTranslation": "visage",
+    "esTranslation": "rostro/cara",
+    "arTranslation": "وجه",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "countenance"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "forehead",
+    "meaning": "The area between the hairline and the eyebrows.",
+    "example": "Sweat ran down his forehead after the run.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/forehead/",
+    "frTranslation": "front",
+    "esTranslation": "frente",
+    "arTranslation": "جبين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "temple",
+    "meaning": "The flat area on the side of the head behind the eyes.",
+    "example": "He rubbed his temple to ease the headache.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/temple/",
+    "frTranslation": "tempe",
+    "esTranslation": "sien",
+    "arTranslation": "صدغ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "scalp",
+    "meaning": "The skin covering the top of the head where hair grows.",
+    "example": "Massage the scalp to improve circulation.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/scalp/",
+    "frTranslation": "cuir chevelu",
+    "esTranslation": "cuero cabelludo",
+    "arTranslation": "فروة الرأس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "hair",
+    "meaning": "Strands growing from the scalp and other parts of the body.",
+    "example": "Her hair curls naturally in humid weather.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/hair/",
+    "frTranslation": "cheveux",
+    "esTranslation": "pelo/cabello",
+    "arTranslation": "شَعر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "eyebrow",
+    "meaning": "A strip of hair above the eye that helps divert sweat and express emotion.",
+    "example": "He raised an eyebrow in surprise.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/eyebrow/",
+    "frTranslation": "sourcil",
+    "esTranslation": "ceja",
+    "arTranslation": "حاجب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "eyelash",
+    "meaning": "A short hair that grows at the edge of the eyelid and protects the eye.",
+    "example": "An eyelash fell onto her cheek.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/eyelash/",
+    "frTranslation": "cil",
+    "esTranslation": "pestaña",
+    "arTranslation": "هدب/رمش",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "eyelid",
+    "meaning": "A thin fold of skin that covers and protects the eye.",
+    "example": "Your eyelid blinks automatically to keep the eye moist.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/eyelid/",
+    "frTranslation": "paupière",
+    "esTranslation": "párpado",
+    "arTranslation": "جفن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "eye",
+    "meaning": "The organ of sight that detects light and sends signals to the brain.",
+    "example": "Her left eye is slightly nearsighted.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/eye/",
+    "frTranslation": "œil",
+    "esTranslation": "ojo",
+    "arTranslation": "عين",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "iris",
+    "meaning": "The colored ring of muscle that controls the size of the pupil.",
+    "example": "Light made his iris contract.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/iris/",
+    "frTranslation": "iris",
+    "esTranslation": "iris",
+    "arTranslation": "قزحية العين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "pupil",
+    "meaning": "The opening in the center of the iris through which light enters the eye.",
+    "example": "In darkness, your pupil widens to let in more light.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/pupil/",
+    "frTranslation": "pupille",
+    "esTranslation": "pupila",
+    "arTranslation": "بؤبؤ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "cornea",
+    "meaning": "The transparent front layer of the eye that helps focus light.",
+    "example": "A scratch on the cornea can be very painful.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/cornea/",
+    "frTranslation": "cornée",
+    "esTranslation": "córnea",
+    "arTranslation": "قرنية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "nose",
+    "meaning": "The external organ used for breathing and smelling.",
+    "example": "Her nose felt cold in the winter air.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/nose/",
+    "frTranslation": "nez",
+    "esTranslation": "nariz",
+    "arTranslation": "أنف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "nostril",
+    "meaning": "One of the two external openings of the nose.",
+    "example": "He pinched his nostrils to stop the bleeding.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/nostril/",
+    "frTranslation": "narine",
+    "esTranslation": "fosa nasal",
+    "arTranslation": "منخر/فتحة الأنف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "cheek",
+    "meaning": "The fleshy side of the face below the eye and between the nose and ear.",
+    "example": "She kissed the baby’s cheek.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/cheek/",
+    "frTranslation": "joue",
+    "esTranslation": "mejilla",
+    "arTranslation": "خد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "cheekbone",
+    "meaning": "The prominent bone under the eye that shapes the cheek.",
+    "example": "He bruised his cheekbone during the game.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/cheekbone/",
+    "frTranslation": "pommette",
+    "esTranslation": "pómulo",
+    "arTranslation": "عظم الوجنة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "zygomatic bone"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "jaw",
+    "meaning": "The bony structure that holds the teeth and moves to chew.",
+    "example": "His jaw tightened when he was stressed.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/jaw/",
+    "frTranslation": "mâchoire",
+    "esTranslation": "mandíbula/quijada",
+    "arTranslation": "فك",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "mandible (lower jaw)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "chin",
+    "meaning": "The protruding part of the face below the lower lip.",
+    "example": "He rested his chin on his hand.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/chin/",
+    "frTranslation": "menton",
+    "esTranslation": "barbilla/mentón",
+    "arTranslation": "ذقن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "mouth",
+    "meaning": "The opening in the face used for eating, speaking, and breathing.",
+    "example": "Keep your mouth closed while chewing.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/mouth/",
+    "frTranslation": "bouche",
+    "esTranslation": "boca",
+    "arTranslation": "فم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "lip",
+    "meaning": "One of the two soft edges that form the mouth opening.",
+    "example": "Cold air chapped her lips.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/lip/",
+    "frTranslation": "lèvre",
+    "esTranslation": "labio",
+    "arTranslation": "شفّة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "face"
+    ]
+  },
+  {
+    "text": "tongue",
+    "meaning": "A muscular organ in the mouth used for tasting, swallowing, and speech.",
+    "example": "He burned his tongue on hot soup.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/tongue/",
+    "frTranslation": "langue",
+    "esTranslation": "lengua",
+    "arTranslation": "لسان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "tooth",
+    "meaning": "A hard structure in the mouth used for biting and chewing food.",
+    "example": "The dentist filled a hole in her tooth.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/tooth/",
+    "frTranslation": "dent",
+    "esTranslation": "diente",
+    "arTranslation": "سنّ/ضرس",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "teeth (plural)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "incisor",
+    "meaning": "A front tooth with a sharp edge for cutting food.",
+    "example": "The chip affected his upper incisor.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/incisor/",
+    "frTranslation": "incisive",
+    "esTranslation": "incisivo",
+    "arTranslation": "قاطع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "molar"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "canine",
+    "meaning": "A pointed tooth used for tearing food.",
+    "example": "Her canine tooth emerged slightly crooked.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/canine/",
+    "frTranslation": "canine",
+    "esTranslation": "canino",
+    "arTranslation": "ناب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "cuspid"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "molar",
+    "meaning": "A large back tooth with a broad surface for grinding food.",
+    "example": "He chews mostly with his molars.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/molar/",
+    "frTranslation": "molaire",
+    "esTranslation": "molar",
+    "arTranslation": "ضرس طاحن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "incisor"
+    ],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "gum",
+    "meaning": "The soft tissue that surrounds the base of the teeth.",
+    "example": "Flossing keeps your gums healthy.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/gum/",
+    "frTranslation": "gencive",
+    "esTranslation": "encía",
+    "arTranslation": "لثة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "gingiva"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "palate",
+    "meaning": "The roof of the mouth separating the oral and nasal cavities.",
+    "example": "A high palate can affect speech sounds.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/palate/",
+    "frTranslation": "palais",
+    "esTranslation": "paladar",
+    "arTranslation": "حنك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "uvula",
+    "meaning": "The small, soft projection hanging at the back of the soft palate.",
+    "example": "His uvula was swollen from the infection.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/uvula/",
+    "frTranslation": "luette/uvule",
+    "esTranslation": "úvula",
+    "arTranslation": "اللهاة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "mouth"
+    ]
+  },
+  {
+    "text": "ear",
+    "meaning": "The organ of hearing and balance with outer, middle, and inner parts.",
+    "example": "Her ears popped during the flight.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ear/",
+    "frTranslation": "oreille",
+    "esTranslation": "oreja/oído",
+    "arTranslation": "أذن",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "earlobe",
+    "meaning": "The soft fleshy lower part of the outer ear.",
+    "example": "She wears studs in each earlobe.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/earlobe/",
+    "frTranslation": "lobe de l’oreille",
+    "esTranslation": "lóbulos de la oreja",
+    "arTranslation": "شحمة الأذن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "ear canal",
+    "meaning": "The passage that carries sound from the outer ear to the eardrum.",
+    "example": "Water trapped in the ear canal can cause discomfort.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/ear canal/",
+    "frTranslation": "canal auditif",
+    "esTranslation": "canal auditivo",
+    "arTranslation": "قناة سمعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "auditory canal"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "eardrum",
+    "meaning": "A thin membrane that vibrates with sound waves to transmit hearing.",
+    "example": "A sudden blast can rupture the eardrum.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/eardrum/",
+    "frTranslation": "tympan",
+    "esTranslation": "tímpano",
+    "arTranslation": "طبلة الأذن",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tympanic membrane"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "head"
+    ]
+  },
+  {
+    "text": "neck",
+    "meaning": "The part that connects the head to the torso and houses major vessels.",
+    "example": "He stretched his neck after working at the desk.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/neck/",
+    "frTranslation": "cou",
+    "esTranslation": "cuello",
+    "arTranslation": "عنق/رقبة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "neck"
+    ]
+  },
+  {
+    "text": "throat",
+    "meaning": "The passage behind the mouth that leads to the esophagus and larynx.",
+    "example": "Her throat felt sore all day.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/throat/",
+    "frTranslation": "gorge",
+    "esTranslation": "garganta",
+    "arTranslation": "حلق",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "pharynx (region)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "neck"
+    ]
+  },
+  {
+    "text": "tonsil",
+    "meaning": "One of two lymphatic tissues at the back of the throat that help fight infection.",
+    "example": "His tonsils were inflamed and swollen.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/tonsil/",
+    "frTranslation": "amygdale (tonsille)",
+    "esTranslation": "amígdala (tonsila)",
+    "arTranslation": "لوزة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "neck"
+    ]
+  },
+  {
+    "text": "vocal cords",
+    "meaning": "Two folds in the larynx that vibrate to produce voice.",
+    "example": "Overuse can strain the vocal cords.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/vocal cords/",
+    "frTranslation": "cordes vocales",
+    "esTranslation": "cuerdas vocales",
+    "arTranslation": "الأحبال الصوتية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "neck"
+    ]
+  },
+  {
+    "text": "Adam’s apple",
+    "meaning": "The visible bump on the front of the larynx, usually larger in males.",
+    "example": "His Adam’s apple moved as he swallowed.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/Adam’s apple/",
+    "frTranslation": "pomme d’Adam",
+    "esTranslation": "nuez de Adán",
+    "arTranslation": "تفاحة آدم",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "laryngeal prominence"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "neck"
+    ]
+  },
+  {
+    "text": "shoulder",
+    "meaning": "The joint connecting the arm to the torso, allowing wide range of motion.",
+    "example": "He dislocated his shoulder playing basketball.",
+    "categoryId": "Body Parts",
+    "pronunciation": "/shoulder/",
+    "frTranslation": "épaule",
+    "esTranslation": "hombro",
+    "arTranslation": "كتف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Body Parts",
+      "upper limb"
+    ]
+  }
+]

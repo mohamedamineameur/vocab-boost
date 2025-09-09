@@ -1,0 +1,1028 @@
+[
+  {
+    "text": "accounts receivable (AR)",
+    "meaning": "Money owed by customers for sales made on credit.",
+    "example": "We accelerated AR collections with reminders.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/accounts receivable (AR)/",
+    "frTranslation": "créances clients",
+    "esTranslation": "cuentas por cobrar",
+    "arTranslation": "حسابات القبض",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "accounts payable (AP)",
+    "meaning": "Money a company owes suppliers for goods and services received.",
+    "example": "Stretching AP improved cash on hand.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/accounts payable (AP)/",
+    "frTranslation": "dettes fournisseurs",
+    "esTranslation": "cuentas por pagar",
+    "arTranslation": "حسابات الدائنين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "depreciation",
+    "meaning": "An expense that allocates the cost of a tangible asset over its useful life.",
+    "example": "Depreciation lowered taxable income.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/depreciation/",
+    "frTranslation": "amortissement (immobilisations)",
+    "esTranslation": "depreciación",
+    "arTranslation": "اهتلاك/استهلاك أصل ثابت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "amortization",
+    "meaning": "The gradual expensing of intangible assets or the scheduled repayment of a loan.",
+    "example": "Amortization of patents was $1M.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/amortization/",
+    "frTranslation": "amortissement (immatériel)",
+    "esTranslation": "amortización",
+    "arTranslation": "إطفاء (الأصول غير الملموسة)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "capital expenditure (Capex)",
+    "meaning": "Money spent to buy or upgrade long-term assets like equipment or buildings.",
+    "example": "Capex peaked during the factory buildout.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/capital expenditure (Capex)/",
+    "frTranslation": "dépenses d’investissement (Capex)",
+    "esTranslation": "gasto de capital (Capex)",
+    "arTranslation": "إنفاق رأسمالي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "return on investment (ROI)",
+    "meaning": "A ratio indicating profit relative to the cost of an investment.",
+    "example": "SEO delivered the highest ROI this quarter.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/return on investment (ROI)/",
+    "frTranslation": "retour sur investissement (ROI)",
+    "esTranslation": "retorno de inversión (ROI)",
+    "arTranslation": "عائد الاستثمار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "break-even point",
+    "meaning": "The level of sales where total revenue equals total costs—no profit or loss.",
+    "example": "We hit break-even at 5,000 units per month.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/break-even point/",
+    "frTranslation": "point mort (seuil de rentabilité)",
+    "esTranslation": "punto de equilibrio",
+    "arTranslation": "نقطة التعادل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "valuation",
+    "meaning": "An estimate of how much a company is worth.",
+    "example": "The startup’s valuation doubled after traction.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/valuation/",
+    "frTranslation": "valorisation",
+    "esTranslation": "valoración",
+    "arTranslation": "تقييم الشركة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "dividend",
+    "meaning": "A payment of profits to shareholders.",
+    "example": "The board declared a modest dividend.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/dividend/",
+    "frTranslation": "dividende",
+    "esTranslation": "dividendo",
+    "arTranslation": "توزيعات أرباح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "initial public offering (IPO)",
+    "meaning": "The first sale of company shares to the public on a stock exchange.",
+    "example": "They filed for an IPO after years of growth.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/initial public offering (IPO)/",
+    "frTranslation": "introduction en bourse (IPO)",
+    "esTranslation": "oferta pública inicial (OPI)",
+    "arTranslation": "طرح عام أولي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "finance"
+    ]
+  },
+  {
+    "text": "target market",
+    "meaning": "The specific group of people a product is designed for.",
+    "example": "Our target market is mid-sized retailers.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/target market/",
+    "frTranslation": "marché cible",
+    "esTranslation": "mercado objetivo",
+    "arTranslation": "السوق المستهدف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "value proposition",
+    "meaning": "A concise statement of the benefit a product delivers and why it’s better.",
+    "example": "The value proposition stresses speed and savings.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/value proposition/",
+    "frTranslation": "proposition de valeur",
+    "esTranslation": "propuesta de valor",
+    "arTranslation": "عرض القيمة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "positioning",
+    "meaning": "How a brand is placed in the customer’s mind relative to competitors.",
+    "example": "We refreshed positioning for the new segment.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/positioning/",
+    "frTranslation": "positionnement",
+    "esTranslation": "posicionamiento",
+    "arTranslation": "تموضع المنتج/العلامة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "brand equity",
+    "meaning": "Consumer perception that adds value to a brand beyond its features.",
+    "example": "Consistent service strengthened brand equity.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/brand equity/",
+    "frTranslation": "capital de marque",
+    "esTranslation": "equidad de marca",
+    "arTranslation": "قيمة العلامة التجارية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "lead (sales)",
+    "meaning": "A potential customer who has shown interest.",
+    "example": "We generated 500 leads from the webinar.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/lead (sales)/",
+    "frTranslation": "piste commerciale/prospect",
+    "esTranslation": "cliente potencial",
+    "arTranslation": "عميل محتمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "lead generation",
+    "meaning": "Activities that attract and capture potential customers.",
+    "example": "Content marketing fuels lead generation.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/lead generation/",
+    "frTranslation": "génération de leads",
+    "esTranslation": "generación de leads",
+    "arTranslation": "توليد العملاء المحتملين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "lead nurturing",
+    "meaning": "Ongoing communication to move prospects toward a purchase.",
+    "example": "Email sequences improved lead nurturing.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/lead nurturing/",
+    "frTranslation": "nurturing (maturation) de leads",
+    "esTranslation": "nutrición de leads",
+    "arTranslation": "رعاية العملاء المحتملين",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "conversion rate",
+    "meaning": "The percentage of visitors or leads who take a desired action.",
+    "example": "The new checkout doubled the conversion rate.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/conversion rate/",
+    "frTranslation": "taux de conversion",
+    "esTranslation": "tasa de conversión",
+    "arTranslation": "معدل التحويل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "customer acquisition cost (CAC)",
+    "meaning": "Average cost to win a new customer, including marketing and sales spend.",
+    "example": "Lower CAC improved unit economics.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/customer acquisition cost (CAC)/",
+    "frTranslation": "coût d’acquisition client (CAC)",
+    "esTranslation": "costo de adquisición de clientes (CAC)",
+    "arTranslation": "تكلفة اكتساب العميل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "customer lifetime value (CLV)",
+    "meaning": "Estimated total profit from a customer over the entire relationship.",
+    "example": "We pursue customers with high CLV.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/customer lifetime value (CLV)/",
+    "frTranslation": "valeur vie client (CLV)",
+    "esTranslation": "valor del tiempo de vida del cliente (CLV)",
+    "arTranslation": "قيمة عمر العميل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "sales funnel",
+    "meaning": "The staged path from awareness to purchase.",
+    "example": "We removed friction at the funnel’s middle.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/sales funnel/",
+    "frTranslation": "entonnoir de vente",
+    "esTranslation": "embudo de ventas",
+    "arTranslation": "قِمع المبيعات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "upsell",
+    "meaning": "To sell a higher-priced version or add-on to an existing customer.",
+    "example": "Support agents are trained to upsell plans.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/upsell/",
+    "frTranslation": "montée en gamme (upsell)",
+    "esTranslation": "venta adicional (upsell)",
+    "arTranslation": "بيع ترقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "downsell"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "cross-sell",
+    "meaning": "To sell related products alongside the main purchase.",
+    "example": "Bundles make cross-sell easier.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/cross-sell/",
+    "frTranslation": "vente croisée",
+    "esTranslation": "venta cruzada",
+    "arTranslation": "بيع منتج مكمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "sales"
+    ]
+  },
+  {
+    "text": "account-based marketing (ABM)",
+    "meaning": "A strategy that targets specific high-value companies with tailored campaigns.",
+    "example": "ABM shortened enterprise sales cycles.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/account-based marketing (ABM)/",
+    "frTranslation": "marketing basé sur les comptes (ABM)",
+    "esTranslation": "marketing basado en cuentas (ABM)",
+    "arTranslation": "تسويق قائم على الحسابات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "net promoter score (NPS)",
+    "meaning": "A metric of customer loyalty based on likelihood to recommend.",
+    "example": "NPS improved after the new onboarding.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/net promoter score (NPS)/",
+    "frTranslation": "score de recommandation (NPS)",
+    "esTranslation": "índice neto de recomendación (NPS)",
+    "arTranslation": "مؤشر الترويج الصافي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "market share",
+    "meaning": "A company’s sales as a percentage of total industry sales.",
+    "example": "We gained market share in 2025.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/market share/",
+    "frTranslation": "part de marché",
+    "esTranslation": "cuota de mercado",
+    "arTranslation": "حصة سوقية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "marketing"
+    ]
+  },
+  {
+    "text": "deliverable",
+    "meaning": "A tangible output that must be completed to meet project goals.",
+    "example": "The prototype is a key deliverable for Q2.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/deliverable/",
+    "frTranslation": "livrable",
+    "esTranslation": "entregable",
+    "arTranslation": "ناتج/مُسَلَّم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "milestone",
+    "meaning": "A significant checkpoint marking progress in a project.",
+    "example": "Beta launch is the next milestone.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/milestone/",
+    "frTranslation": "jalon",
+    "esTranslation": "hito",
+    "arTranslation": "معلم رئيسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "scope",
+    "meaning": "The defined work and boundaries of a project.",
+    "example": "We froze scope to avoid delays.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/scope/",
+    "frTranslation": "périmètre (du projet)",
+    "esTranslation": "alcance",
+    "arTranslation": "نطاق العمل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "scope creep"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "scope creep",
+    "meaning": "Uncontrolled growth of project requirements after work has started.",
+    "example": "Scope creep threatened the schedule.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/scope creep/",
+    "frTranslation": "dérive de périmètre",
+    "esTranslation": "creep de alcance",
+    "arTranslation": "توسع غير منضبط للنطاق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "dependency",
+    "meaning": "A relationship where one task relies on another to start or finish.",
+    "example": "We mapped critical dependencies in the plan.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/dependency/",
+    "frTranslation": "dépendance (tâches)",
+    "esTranslation": "dependencia",
+    "arTranslation": "اعتماد (بين المهام)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "critical path",
+    "meaning": "The longest chain of dependent tasks that determines project duration.",
+    "example": "Delays on the critical path extend the whole project.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/critical path/",
+    "frTranslation": "chemin critique",
+    "esTranslation": "camino crítico",
+    "arTranslation": "المسار الحرج",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "Gantt chart",
+    "meaning": "A timeline chart showing tasks, durations, and overlaps.",
+    "example": "The Gantt chart clarified resource conflicts.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/Gantt chart/",
+    "frTranslation": "diagramme de Gantt",
+    "esTranslation": "diagrama de Gantt",
+    "arTranslation": "مخطط غانت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "risk register",
+    "meaning": "A document that logs risks, likelihood, impact, and responses.",
+    "example": "Update the risk register after testing.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/risk register/",
+    "frTranslation": "registre des risques",
+    "esTranslation": "registro de riesgos",
+    "arTranslation": "سجل المخاطر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "change request",
+    "meaning": "A formal proposal to alter scope, schedule, or cost.",
+    "example": "All change requests need sponsor approval.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/change request/",
+    "frTranslation": "demande de changement",
+    "esTranslation": "solicitud de cambio",
+    "arTranslation": "طلب تغيير",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "retro (retrospective)",
+    "meaning": "A meeting to reflect on what went well and what to improve after a sprint.",
+    "example": "We actioned three items from the retro.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/retro (retrospective)/",
+    "frTranslation": "rétrospective",
+    "esTranslation": "retrospectiva",
+    "arTranslation": "اجتماع مراجعة بعد السبرنت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "backlog",
+    "meaning": "An ordered list of tasks or features waiting to be worked on.",
+    "example": "The product backlog was reprioritized.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/backlog/",
+    "frTranslation": "backlog (liste de tâches)",
+    "esTranslation": "backlog/lista de pendientes",
+    "arTranslation": "سجل التراكم/المهام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "stand-up (daily)",
+    "meaning": "A short daily meeting where each person shares progress and blockers.",
+    "example": "Keep the stand-up under fifteen minutes.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/stand-up (daily)/",
+    "frTranslation": "réunion debout (quotidienne)",
+    "esTranslation": "reunión diaria (stand-up)",
+    "arTranslation": "اجتماع يومي قصير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "stakeholder",
+    "meaning": "Anyone with an interest in the outcome of a project or decision.",
+    "example": "We consulted stakeholders early.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/stakeholder/",
+    "frTranslation": "partie prenante",
+    "esTranslation": "parte interesada",
+    "arTranslation": "طرف ذو مصلحة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "escalation",
+    "meaning": "Raising an issue to higher authority when it cannot be resolved at the current level.",
+    "example": "We triggered an escalation to unblock access.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/escalation/",
+    "frTranslation": "escalade",
+    "esTranslation": "escalamiento",
+    "arTranslation": "تصعيد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "operations"
+    ]
+  },
+  {
+    "text": "onboarding",
+    "meaning": "The process of welcoming and training new employees.",
+    "example": "Structured onboarding reduces time to productivity.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/onboarding/",
+    "frTranslation": "intégration (nouvel employé)",
+    "esTranslation": "inducción (onboarding)",
+    "arTranslation": "إدماج/استيعاب موظف جديد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "offboarding",
+    "meaning": "Steps taken when an employee leaves, including knowledge transfer and access removal.",
+    "example": "Offboarding includes an exit interview.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/offboarding/",
+    "frTranslation": "procédure de départ",
+    "esTranslation": "proceso de salida (offboarding)",
+    "arTranslation": "إجراءات مغادرة الموظف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "performance review",
+    "meaning": "A periodic assessment of an employee’s work and goals.",
+    "example": "Her performance review highlighted mentoring.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/performance review/",
+    "frTranslation": "entretien d’évaluation",
+    "esTranslation": "evaluación de desempeño",
+    "arTranslation": "تقييم الأداء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "promotion",
+    "meaning": "A move to a higher position with more responsibility or pay.",
+    "example": "He earned a promotion to senior manager.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/promotion/",
+    "frTranslation": "promotion",
+    "esTranslation": "ascenso",
+    "arTranslation": "ترقية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "demotion"
+    ],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "raise (pay increase)",
+    "meaning": "An increase in an employee’s pay.",
+    "example": "Annual raises are tied to performance.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/raise (pay increase)/",
+    "frTranslation": "augmentation (salariale)",
+    "esTranslation": "aumento de sueldo",
+    "arTranslation": "زيادة راتب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "benefits",
+    "meaning": "Non-wage compensation such as health insurance, vacation, or retirement plans.",
+    "example": "Our benefits include paid parental leave.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/benefits/",
+    "frTranslation": "avantages sociaux",
+    "esTranslation": "prestaciones (laborales)",
+    "arTranslation": "مزايا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "severance",
+    "meaning": "Money and support provided when employment ends involuntarily.",
+    "example": "The package offered eight weeks of severance.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/severance/",
+    "frTranslation": "indemnité de départ",
+    "esTranslation": "indemnización por despido",
+    "arTranslation": "تعويض نهاية الخدمة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "probation period",
+    "meaning": "A trial period to evaluate a new hire’s fit and performance.",
+    "example": "The probation period lasts three months.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/probation period/",
+    "frTranslation": "période d’essai",
+    "esTranslation": "período de prueba",
+    "arTranslation": "فترة تجريبية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "overtime",
+    "meaning": "Work time beyond the standard hours, often paid at a higher rate.",
+    "example": "Overtime must be approved in advance.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/overtime/",
+    "frTranslation": "heures supplémentaires",
+    "esTranslation": "horas extra",
+    "arTranslation": "ساعات إضافية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "payroll",
+    "meaning": "The process of calculating and distributing employee pay.",
+    "example": "Payroll closes on the 25th each month.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/payroll/",
+    "frTranslation": "paie (service de)",
+    "esTranslation": "nómina (planilla)",
+    "arTranslation": "كشف رواتب/إدارة الأجور",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "code of conduct",
+    "meaning": "A set of rules about ethical and professional behavior at work.",
+    "example": "Violations of the code of conduct are investigated.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/code of conduct/",
+    "frTranslation": "code de conduite",
+    "esTranslation": "código de conducta",
+    "arTranslation": "ميثاق السلوك",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "harassment policy",
+    "meaning": "Rules and procedures to prevent and respond to workplace harassment.",
+    "example": "Training on the harassment policy is annual.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/harassment policy/",
+    "frTranslation": "politique de lutte contre le harcèlement",
+    "esTranslation": "política contra el acoso",
+    "arTranslation": "سياسة مكافحة التحرش",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "diversity and inclusion (D&I)",
+    "meaning": "Efforts to build a workforce that reflects different backgrounds and ensures fairness.",
+    "example": "D&I goals are part of leadership reviews.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/diversity and inclusion (D&I)/",
+    "frTranslation": "diversité et inclusion (D&I)",
+    "esTranslation": "diversidad e inclusión (D&I)",
+    "arTranslation": "التنوع والشمول",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "hybrid work",
+    "meaning": "A schedule mixing remote and in-office work.",
+    "example": "Hybrid work requires clear communication norms.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/hybrid work/",
+    "frTranslation": "travail hybride",
+    "esTranslation": "trabajo híbrido",
+    "arTranslation": "عمل هجين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "remote work",
+    "meaning": "Working from a location outside the office.",
+    "example": "Remote work widened our talent pool.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/remote work/",
+    "frTranslation": "télétravail",
+    "esTranslation": "trabajo remoto",
+    "arTranslation": "عمل عن بُعد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "HR"
+    ]
+  },
+  {
+    "text": "procurement",
+    "meaning": "The function of sourcing goods and services and negotiating contracts.",
+    "example": "Procurement launched a reverse auction.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/procurement/",
+    "frTranslation": "approvisionnement/achats",
+    "esTranslation": "abastecimiento/compras",
+    "arTranslation": "المشتريات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "vendor",
+    "meaning": "A company that sells goods or services to another company.",
+    "example": "We evaluated three vendors for CRM.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/vendor/",
+    "frTranslation": "fournisseur",
+    "esTranslation": "proveedor",
+    "arTranslation": "مُورِّد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "supplier",
+    "meaning": "A company providing inputs such as raw materials or components.",
+    "example": "Our main supplier is based nearby.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/supplier/",
+    "frTranslation": "fournisseur (amont)",
+    "esTranslation": "proveedor (insumos)",
+    "arTranslation": "مزوّد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "distributor",
+    "meaning": "A business that buys products and resells them to retailers or resellers.",
+    "example": "The distributor serves regional stores.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/distributor/",
+    "frTranslation": "distributeur",
+    "esTranslation": "distribuidor",
+    "arTranslation": "موزّع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  },
+  {
+    "text": "wholesaler",
+    "meaning": "A merchant who sells goods in bulk to retailers.",
+    "example": "We switched to a new wholesaler.",
+    "categoryId": "Work & Business",
+    "pronunciation": "/wholesaler/",
+    "frTranslation": "grossiste",
+    "esTranslation": "mayorista",
+    "arTranslation": "تاجر جملة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Work & Business",
+      "supply chain"
+    ]
+  }
+]

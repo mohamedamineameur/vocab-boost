@@ -1,0 +1,512 @@
+[
+  {
+    "text": "traditional",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a traditional family.",
+    "categoryId": "Family",
+    "pronunciation": "/traditional/",
+    "frTranslation": "traditionnel(le)",
+    "esTranslation": "tradicional",
+    "arTranslation": "تقليدي/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "modern",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a modern family.",
+    "categoryId": "Family",
+    "pronunciation": "/modern/",
+    "frTranslation": "moderne",
+    "esTranslation": "moderno/a",
+    "arTranslation": "حديث/عصري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "large",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a large family.",
+    "categoryId": "Family",
+    "pronunciation": "/large/",
+    "frTranslation": "nombreux (famille nombreuse)",
+    "esTranslation": "numerosa",
+    "arTranslation": "كبيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "small",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a small family.",
+    "categoryId": "Family",
+    "pronunciation": "/small/",
+    "frTranslation": "petite",
+    "esTranslation": "pequeña",
+    "arTranslation": "صغيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "bring up",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often bring up in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/bring up/",
+    "frTranslation": "élever (un enfant)",
+    "esTranslation": "criar",
+    "arTranslation": "يربّي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "grow up",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often grow up in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/grow up/",
+    "frTranslation": "grandir",
+    "esTranslation": "crecer",
+    "arTranslation": "يكبر/ينشأ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "get along (with)",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often get along (with) in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/get along (with)/",
+    "frTranslation": "bien s'entendre (avec)",
+    "esTranslation": "llevarse bien (con)",
+    "arTranslation": "ينسجم مع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "fall out (with)",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often fall out (with) in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/fall out (with)/",
+    "frTranslation": "se fâcher/se brouiller (avec)",
+    "esTranslation": "pelearse (con)",
+    "arTranslation": "يختلف مع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "make up (with)",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often make up (with) in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/make up (with)/",
+    "frTranslation": "se réconcilier (avec)",
+    "esTranslation": "reconciliarse (con)",
+    "arTranslation": "يتصالح مع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "look after",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often look after in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/look after/",
+    "frTranslation": "s'occuper de",
+    "esTranslation": "cuidar de",
+    "arTranslation": "يعتني بـ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "take care of",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often take care of in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/take care of/",
+    "frTranslation": "prendre soin de",
+    "esTranslation": "ocuparse de/cuidar a",
+    "arTranslation": "يعتني بـ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "take after",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often take after in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/take after/",
+    "frTranslation": "tenir de",
+    "esTranslation": "salir a/parecerse a",
+    "arTranslation": "يشبه",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "get together",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often get together in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/get together/",
+    "frTranslation": "se réunir",
+    "esTranslation": "reunirse",
+    "arTranslation": "يجتمع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "split up",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often split up in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/split up/",
+    "frTranslation": "se séparer",
+    "esTranslation": "separarse",
+    "arTranslation": "ينفصل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "settle down",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often settle down in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/settle down/",
+    "frTranslation": "se poser/s'installer",
+    "esTranslation": "sentar cabeza/establecerse",
+    "arTranslation": "يستقر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "move out",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often move out in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/move out/",
+    "frTranslation": "déménager (quitter le foyer)",
+    "esTranslation": "mudarse (de casa)",
+    "arTranslation": "ينتقل من البيت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "move back in",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often move back in in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/move back in/",
+    "frTranslation": "revenir vivre (chez)",
+    "esTranslation": "volver a vivir (con)",
+    "arTranslation": "يعود للسكن مع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "run in the family",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often run in the family in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/run in the family/",
+    "frTranslation": "être de famille",
+    "esTranslation": "ser cosa de familia",
+    "arTranslation": "يجري في العائلة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "look up to",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often look up to in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/look up to/",
+    "frTranslation": "admirer",
+    "esTranslation": "admirar",
+    "arTranslation": "يُعجب بـ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "look down on",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often look down on in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/look down on/",
+    "frTranslation": "mépriser",
+    "esTranslation": "menospreciar",
+    "arTranslation": "يحتقر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "tell off",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often tell off in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/tell off/",
+    "frTranslation": "réprimander",
+    "esTranslation": "regañar",
+    "arTranslation": "يؤنب/يوبخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "pick on",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often pick on in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/pick on/",
+    "frTranslation": "embêter/harceler",
+    "esTranslation": "meterse con",
+    "arTranslation": "يُضايق",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "come from",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often come from in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/come from/",
+    "frTranslation": "venir de",
+    "esTranslation": "venir de",
+    "arTranslation": "ينحدر من",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "take in",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often take in in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/take in/",
+    "frTranslation": "accueillir",
+    "esTranslation": "acoger",
+    "arTranslation": "يؤوي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "pass away",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often pass away in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/pass away/",
+    "frTranslation": "décéder",
+    "esTranslation": "fallecer",
+    "arTranslation": "يتوفى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "pass on",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often pass on in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/pass on/",
+    "frTranslation": "transmettre/décéder",
+    "esTranslation": "pasar/transmitir",
+    "arTranslation": "ينقل/يتوفى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "name after",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often name after in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/name after/",
+    "frTranslation": "nommer d'après",
+    "esTranslation": "poner nombre en honor a",
+    "arTranslation": "يسمّي على اسم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "take to",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often take to in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/take to/",
+    "frTranslation": "s'attacher à",
+    "esTranslation": "coger cariño a",
+    "arTranslation": "يألف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "reach out (to)",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often reach out (to) in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/reach out (to)/",
+    "frTranslation": "contacter/se tourner vers",
+    "esTranslation": "contactar a",
+    "arTranslation": "يتواصل مع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "text": "pitch in",
+    "meaning": "A phrasal verb commonly used when talking about family.",
+    "example": "Families often pitch in in tough times.",
+    "categoryId": "Family",
+    "pronunciation": "/pitch in/",
+    "frTranslation": "donner un coup de main",
+    "esTranslation": "echar una mano",
+    "arTranslation": "يساهم/يساعد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "phrasal-verb"
+    ]
+  }
+]

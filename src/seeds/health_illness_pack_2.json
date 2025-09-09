@@ -1,0 +1,1034 @@
+[
+  {
+    "text": "tuberculosis",
+    "meaning": "A bacterial infection that usually affects the lungs and can be contagious.",
+    "example": "A TB skin test screened for tuberculosis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/tuberculosis/",
+    "frTranslation": "tuberculose",
+    "esTranslation": "tuberculosis",
+    "arTranslation": "سلّ",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "TB"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "malaria",
+    "meaning": "A mosquito-borne parasitic disease causing fever cycles and anemia.",
+    "example": "Prophylaxis helps prevent malaria when traveling.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/malaria/",
+    "frTranslation": "paludisme/malaria",
+    "esTranslation": "malaria",
+    "arTranslation": "ملاريا",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "measles",
+    "meaning": "A highly contagious viral disease with fever, cough, and a blotchy rash.",
+    "example": "Measles outbreaks occur where vaccination is low.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/measles/",
+    "frTranslation": "rougeole",
+    "esTranslation": "sarampión",
+    "arTranslation": "حصبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "chickenpox",
+    "meaning": "A contagious disease causing itchy blisters; caused by varicella-zoster virus.",
+    "example": "Children with chickenpox should avoid scratching.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/chickenpox/",
+    "frTranslation": "varicelle",
+    "esTranslation": "varicela",
+    "arTranslation": "جدري الماء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "mumps",
+    "meaning": "A viral infection that causes painful swelling of the salivary glands.",
+    "example": "Mumps can make chewing painful.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/mumps/",
+    "frTranslation": "oreillons",
+    "esTranslation": "paperas",
+    "arTranslation": "نكاف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "rubella",
+    "meaning": "A mild viral illness dangerous in pregnancy due to birth defect risk.",
+    "example": "Rubella vaccination protects pregnant populations.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/rubella/",
+    "frTranslation": "rubéole",
+    "esTranslation": "rubéola",
+    "arTranslation": "الحصبة الألمانية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "pertussis (whooping cough)",
+    "meaning": "A bacterial infection causing severe coughing fits with a 'whoop' sound.",
+    "example": "Infants are especially vulnerable to pertussis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/pertussis (whooping cough)/",
+    "frTranslation": "coqueluche",
+    "esTranslation": "tos ferina",
+    "arTranslation": "السعال الديكي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "dengue fever",
+    "meaning": "A mosquito-borne viral illness causing high fever, aches, and sometimes bleeding.",
+    "example": "Mosquito control reduces dengue risk.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/dengue fever/",
+    "frTranslation": "dengue",
+    "esTranslation": "dengue",
+    "arTranslation": "حمّى الضنك",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "Zika virus",
+    "meaning": "A mosquito-borne virus linked to birth defects when contracted during pregnancy.",
+    "example": "Travel advisories warned about Zika virus.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/Zika virus/",
+    "frTranslation": "virus Zika",
+    "esTranslation": "virus del Zika",
+    "arTranslation": "فيروس زيكا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "cholera",
+    "meaning": "A severe diarrheal disease from Vibrio bacteria due to unsafe water.",
+    "example": "Oral rehydration treats cholera dehydration.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cholera/",
+    "frTranslation": "choléra",
+    "esTranslation": "cólera",
+    "arTranslation": "كوليرا",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "typhoid fever",
+    "meaning": "A systemic infection by Salmonella Typhi causing sustained fever and abdominal pain.",
+    "example": "A vaccine helps prevent typhoid fever when traveling.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/typhoid fever/",
+    "frTranslation": "fièvre typhoïde",
+    "esTranslation": "fiebre tifoidea",
+    "arTranslation": "حمّى التيفوئيد",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "strep throat",
+    "meaning": "A sore throat caused by group A Streptococcus bacteria.",
+    "example": "A rapid test confirmed strep throat.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/strep throat/",
+    "frTranslation": "angine streptococcique",
+    "esTranslation": "faringitis estreptocócica",
+    "arTranslation": "التهاب الحلق العقدي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "mononucleosis",
+    "meaning": "A viral illness causing fatigue, fever, and swollen glands; 'mono'.",
+    "example": "Mononucleosis kept him tired for weeks.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/mononucleosis/",
+    "frTranslation": "mononucléose",
+    "esTranslation": "mononucleosis",
+    "arTranslation": "داء كثرة الوحيدات",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "mono"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "Lyme disease",
+    "meaning": "A tick-borne infection that can cause a bull’s-eye rash and joint pain.",
+    "example": "Early antibiotics help with Lyme disease.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/Lyme disease/",
+    "frTranslation": "maladie de Lyme",
+    "esTranslation": "enfermedad de Lyme",
+    "arTranslation": "داء لايم",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "rabies",
+    "meaning": "A deadly viral infection from animal bites affecting the nervous system.",
+    "example": "Post-exposure shots prevent rabies after a bite.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/rabies/",
+    "frTranslation": "rage",
+    "esTranslation": "rabia",
+    "arTranslation": "داء الكلب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "tetanus",
+    "meaning": "A bacterial toxin illness causing severe muscle spasms and lockjaw.",
+    "example": "A booster protects against tetanus.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/tetanus/",
+    "frTranslation": "tétanos",
+    "esTranslation": "tétanos",
+    "arTranslation": "الكزاز",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "polio",
+    "meaning": "A viral disease that can cause paralysis; preventable by vaccination.",
+    "example": "Decades of campaigns reduced polio cases worldwide.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/polio/",
+    "frTranslation": "poliomyélite",
+    "esTranslation": "poliomielitis",
+    "arTranslation": "شلل الأطفال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "shingles",
+    "meaning": "A painful blistering rash due to reactivation of the chickenpox virus.",
+    "example": "An antiviral shortened the course of shingles.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/shingles/",
+    "frTranslation": "zona (zona/feu de Saint-Antoine)",
+    "esTranslation": "culebrilla (herpes zóster)",
+    "arTranslation": "الهربس النطاقي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "herpes zoster"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "infectious disease"
+    ]
+  },
+  {
+    "text": "coronary artery disease",
+    "meaning": "Narrowing of heart arteries by plaque, reducing blood flow to the heart.",
+    "example": "Exercise and diet help manage coronary artery disease.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/coronary artery disease/",
+    "frTranslation": "maladie coronarienne",
+    "esTranslation": "enfermedad coronaria",
+    "arTranslation": "مرض الشريان التاجي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "ischemic heart disease"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "COPD",
+    "meaning": "A progressive lung disease (chronic bronchitis and/or emphysema) that limits airflow.",
+    "example": "Smoking is the main risk factor for COPD.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/COPD/",
+    "frTranslation": "BPCO (broncho-pneumopathie chronique obstructive)",
+    "esTranslation": "EPOC (enfermedad pulmonar obstructiva crónica)",
+    "arTranslation": "مرض الانسداد الرئوي المزمن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "chronic kidney disease",
+    "meaning": "Gradual loss of kidney function over time.",
+    "example": "Diabetes is a leading cause of chronic kidney disease.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/chronic kidney disease/",
+    "frTranslation": "maladie rénale chronique",
+    "esTranslation": "enfermedad renal crónica",
+    "arTranslation": "مرض الكلى المزمن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "cirrhosis",
+    "meaning": "Scarring of the liver that impairs its function.",
+    "example": "Alcohol and hepatitis can lead to cirrhosis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/cirrhosis/",
+    "frTranslation": "cirrhose",
+    "esTranslation": "cirrosis",
+    "arTranslation": "تشمّع الكبد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "epilepsy",
+    "meaning": "A disorder with recurrent unprovoked seizures.",
+    "example": "Medication helped control his epilepsy.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/epilepsy/",
+    "frTranslation": "épilepsie",
+    "esTranslation": "epilepsia",
+    "arTranslation": "صرع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "Parkinson’s disease",
+    "meaning": "A neurodegenerative disorder causing tremor, stiffness, and slowed movement.",
+    "example": "Parkinson’s disease can affect balance and speech.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/Parkinson’s disease/",
+    "frTranslation": "maladie de Parkinson",
+    "esTranslation": "enfermedad de Parkinson",
+    "arTranslation": "مرض باركنسون",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "Alzheimer’s disease",
+    "meaning": "A progressive brain disease causing memory loss and cognitive decline.",
+    "example": "Her father was diagnosed with Alzheimer’s disease.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/Alzheimer’s disease/",
+    "frTranslation": "maladie d’Alzheimer",
+    "esTranslation": "enfermedad de Alzheimer",
+    "arTranslation": "داء ألزهايمر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "multiple sclerosis",
+    "meaning": "An autoimmune disease where the immune system damages nerve coverings.",
+    "example": "Multiple sclerosis can flare and remit over years.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/multiple sclerosis/",
+    "frTranslation": "sclérose en plaques",
+    "esTranslation": "esclerosis múltiple",
+    "arTranslation": "التصلّب المتعدّد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "celiac disease",
+    "meaning": "An immune reaction to gluten that damages the small intestine.",
+    "example": "A strict gluten-free diet treats celiac disease.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/celiac disease/",
+    "frTranslation": "maladie cœliaque",
+    "esTranslation": "enfermedad celíaca",
+    "arTranslation": "داء الزُلاقي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "Crohn’s disease",
+    "meaning": "A form of inflammatory bowel disease that can affect any part of the gut.",
+    "example": "Crohn’s disease caused abdominal cramps and weight loss.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/Crohn’s disease/",
+    "frTranslation": "maladie de Crohn",
+    "esTranslation": "enfermedad de Crohn",
+    "arTranslation": "داء كرون",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "ulcerative colitis",
+    "meaning": "Inflammation limited to the colon causing bloody diarrhea and urgency.",
+    "example": "Ulcerative colitis flared during stressful times.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/ulcerative colitis/",
+    "frTranslation": "rectocolite hémorragique",
+    "esTranslation": "colitis ulcerosa",
+    "arTranslation": "التهاب القولون التقرّحي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "hyperlipidemia",
+    "meaning": "High levels of fats (cholesterol or triglycerides) in the blood.",
+    "example": "Diet changes helped reduce hyperlipidemia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/hyperlipidemia/",
+    "frTranslation": "hyperlipidémie",
+    "esTranslation": "hiperlipidemia",
+    "arTranslation": "ارتفاع الدهون في الدم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "peripheral artery disease",
+    "meaning": "Narrowed leg arteries that cause pain when walking.",
+    "example": "He developed calf pain from peripheral artery disease.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/peripheral artery disease/",
+    "frTranslation": "artériopathie des membres inférieurs",
+    "esTranslation": "enfermedad arterial periférica",
+    "arTranslation": "مرض الشرايين الطرفية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "sleep apnea",
+    "meaning": "Repeated breathing pauses during sleep that reduce oxygen.",
+    "example": "A CPAP device treated his sleep apnea.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/sleep apnea/",
+    "frTranslation": "apnée du sommeil",
+    "esTranslation": "apnea del sueño",
+    "arTranslation": "انقطاع التنفس أثناء النوم",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "autoimmune thyroiditis",
+    "meaning": "Immune attack on the thyroid gland leading to hypo- or hyperfunction.",
+    "example": "Tests confirmed autoimmune thyroiditis.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/autoimmune thyroiditis/",
+    "frTranslation": "thyroïdite auto-immune",
+    "esTranslation": "tiroiditis autoinmune",
+    "arTranslation": "التهاب الغدة الدرقية بالمناعة الذاتية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "chronic disease"
+    ]
+  },
+  {
+    "text": "major depressive disorder",
+    "meaning": "A mood disorder with persistent sadness, loss of interest, and impaired function.",
+    "example": "Treatment for major depressive disorder may include therapy and medication.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/major depressive disorder/",
+    "frTranslation": "dépression majeure (TDM)",
+    "esTranslation": "trastorno depresivo mayor",
+    "arTranslation": "اضطراب اكتئابي جسيم",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "depression"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "generalized anxiety disorder",
+    "meaning": "Excessive, hard-to-control worry about various aspects of life for months.",
+    "example": "She was diagnosed with generalized anxiety disorder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/generalized anxiety disorder/",
+    "frTranslation": "trouble anxieux généralisé",
+    "esTranslation": "trastorno de ansiedad generalizada",
+    "arTranslation": "اضطراب القلق المعمّم",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "panic attack",
+    "meaning": "A sudden episode of intense fear with physical symptoms like a racing heart.",
+    "example": "Breathing exercises helped during a panic attack.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/panic attack/",
+    "frTranslation": "attaque de panique",
+    "esTranslation": "ataque de pánico",
+    "arTranslation": "نوبة هلع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "social anxiety disorder",
+    "meaning": "Marked fear of social situations due to worry about scrutiny or embarrassment.",
+    "example": "He avoided parties because of social anxiety disorder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/social anxiety disorder/",
+    "frTranslation": "phobie sociale",
+    "esTranslation": "trastorno de ansiedad social",
+    "arTranslation": "اضطراب القلق الاجتماعي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "specific phobia",
+    "meaning": "Intense fear of a particular object or situation, out of proportion to danger.",
+    "example": "Flying was difficult due to a specific phobia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/specific phobia/",
+    "frTranslation": "phobie spécifique",
+    "esTranslation": "fobia específica",
+    "arTranslation": "رُهاب محدّد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "obsessive–compulsive disorder",
+    "meaning": "Intrusive thoughts and repetitive behaviors performed to reduce anxiety.",
+    "example": "Therapy reduced compulsions in OCD.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/obsessive–compulsive disorder/",
+    "frTranslation": "trouble obsessionnel-compulsif",
+    "esTranslation": "trastorno obsesivo-compulsivo",
+    "arTranslation": "اضطراب الوسواس القهري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "post-traumatic stress disorder",
+    "meaning": "Ongoing distress after a trauma with flashbacks, avoidance, and hyperarousal.",
+    "example": "PTSD symptoms improved with counseling.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/post-traumatic stress disorder/",
+    "frTranslation": "état de stress post-traumatique",
+    "esTranslation": "trastorno de estrés postraumático",
+    "arTranslation": "اضطراب ما بعد الصدمة",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "PTSD"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "bipolar disorder",
+    "meaning": "A mood disorder with episodes of depression and mania or hypomania.",
+    "example": "Medication helped stabilize bipolar disorder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/bipolar disorder/",
+    "frTranslation": "trouble bipolaire",
+    "esTranslation": "trastorno bipolar",
+    "arTranslation": "اضطراب ثنائي القطب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "schizophrenia",
+    "meaning": "A psychotic disorder with hallucinations, delusions, and cognitive changes.",
+    "example": "Early support benefits people with schizophrenia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/schizophrenia/",
+    "frTranslation": "schizophrénie",
+    "esTranslation": "esquizofrenia",
+    "arTranslation": "فصام",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "ADHD",
+    "meaning": "A neurodevelopmental condition with inattention and/or hyperactivity-impulsivity.",
+    "example": "Classroom accommodations helped his ADHD.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/ADHD/",
+    "frTranslation": "TDAH",
+    "esTranslation": "TDAH",
+    "arTranslation": "اضطراب فرط الحركة وتشتت الانتباه",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "autism spectrum disorder",
+    "meaning": "A neurodevelopmental condition affecting communication and behavior in diverse ways.",
+    "example": "She received support for autism spectrum disorder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/autism spectrum disorder/",
+    "frTranslation": "trouble du spectre de l’autisme",
+    "esTranslation": "trastorno del espectro autista",
+    "arTranslation": "اضطراب طيف التوحد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "burnout",
+    "meaning": "Work-related exhaustion with cynicism and reduced effectiveness.",
+    "example": "Time off helped recover from burnout.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/burnout/",
+    "frTranslation": "épuisement professionnel",
+    "esTranslation": "agotamiento (burnout)",
+    "arTranslation": "الاحتراق الوظيفي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "stress",
+    "meaning": "A state of mental or physical tension in response to challenges.",
+    "example": "Daily walks reduced his stress.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/stress/",
+    "frTranslation": "stress",
+    "esTranslation": "estrés",
+    "arTranslation": "توتر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "anorexia nervosa",
+    "meaning": "An eating disorder marked by restrictive intake and distorted body image.",
+    "example": "Treatment for anorexia nervosa involved a care team.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/anorexia nervosa/",
+    "frTranslation": "anorexie mentale",
+    "esTranslation": "anorexia nerviosa",
+    "arTranslation": "قهم عصبي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "bulimia nervosa",
+    "meaning": "An eating disorder with binge eating and compensatory behaviors like purging.",
+    "example": "Therapy helped reduce bulimia nervosa episodes.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/bulimia nervosa/",
+    "frTranslation": "boulimie",
+    "esTranslation": "bulimia nerviosa",
+    "arTranslation": "نهام عصبي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "body dysmorphic disorder",
+    "meaning": "Preoccupation with perceived flaws in appearance causing distress.",
+    "example": "He sought help for body dysmorphic disorder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/body dysmorphic disorder/",
+    "frTranslation": "dysmorphophobie",
+    "esTranslation": "trastorno dismórfico corporal",
+    "arTranslation": "اضطراب التشوّه الجسمي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "substance use disorder",
+    "meaning": "Problematic use of alcohol or drugs leading to impairment or distress.",
+    "example": "Counseling supported recovery from substance use disorder.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/substance use disorder/",
+    "frTranslation": "trouble lié à l’usage de substances",
+    "esTranslation": "trastorno por consumo de sustancias",
+    "arTranslation": "اضطراب تعاطي المواد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "postpartum depression",
+    "meaning": "Depression occurring after childbirth with mood and bonding challenges.",
+    "example": "Her provider screened for postpartum depression.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/postpartum depression/",
+    "frTranslation": "dépression post-partum",
+    "esTranslation": "depresión posparto",
+    "arTranslation": "اكتئاب ما بعد الولادة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "self-harm (non-suicidal)",
+    "meaning": "Deliberate self-injury without suicidal intent, often to cope with distress.",
+    "example": "They discussed safer coping strategies for self-harm urges.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/self-harm (non-suicidal)/",
+    "frTranslation": "automutilation (non suicidaire)",
+    "esTranslation": "autolesión (no suicida)",
+    "arTranslation": "إيذاء ذاتي غير انتحاري",
+    "level": "advancedLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "mental health"
+    ]
+  },
+  {
+    "text": "blood pressure reading",
+    "meaning": "Measurement of the force of blood against artery walls using a cuff.",
+    "example": "Her blood pressure reading was 120/80.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/blood pressure reading/",
+    "frTranslation": "prise de tension",
+    "esTranslation": "toma de presión arterial",
+    "arTranslation": "قياس ضغط الدم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "pulse oximetry",
+    "meaning": "A fingertip sensor that estimates blood oxygen saturation.",
+    "example": "Pulse oximetry showed 98% saturation.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/pulse oximetry/",
+    "frTranslation": "oxymétrie de pouls",
+    "esTranslation": "oximetría de pulso",
+    "arTranslation": "قياس التأكسج النبضي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "complete blood count (CBC)",
+    "meaning": "A blood test measuring red cells, white cells, and platelets.",
+    "example": "The CBC indicated mild anemia.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/complete blood count (CBC)/",
+    "frTranslation": "numération formule sanguine (NFS)",
+    "esTranslation": "hemograma completo",
+    "arTranslation": "تعداد دم كامل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "blood glucose test",
+    "meaning": "A test that measures sugar levels in the blood.",
+    "example": "He did a fasting blood glucose test.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/blood glucose test/",
+    "frTranslation": "test de glycémie",
+    "esTranslation": "prueba de glucosa en sangre",
+    "arTranslation": "اختبار سكر الدم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "electrocardiogram (ECG)",
+    "meaning": "A recording of the heart’s electrical activity.",
+    "example": "The ECG showed a normal rhythm.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/electrocardiogram (ECG)/",
+    "frTranslation": "électrocardiogramme (ECG)",
+    "esTranslation": "electrocardiograma (ECG)",
+    "arTranslation": "تخطيط قلب كهربائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "echocardiogram",
+    "meaning": "An ultrasound of the heart that shows structure and pumping.",
+    "example": "An echocardiogram assessed valve function.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/echocardiogram/",
+    "frTranslation": "échocardiographie",
+    "esTranslation": "ecocardiograma",
+    "arTranslation": "تصوير صدى القلب",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "X-ray",
+    "meaning": "Imaging that uses low-dose radiation to view bones and some tissues.",
+    "example": "An X-ray confirmed the fracture.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/X-ray/",
+    "frTranslation": "radiographie",
+    "esTranslation": "radiografía",
+    "arTranslation": "أشعّة سينية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  },
+  {
+    "text": "CT scan",
+    "meaning": "Cross-sectional imaging using X-rays and computer processing.",
+    "example": "The CT scan detected a small nodule.",
+    "categoryId": "Health & Illness",
+    "pronunciation": "/CT scan/",
+    "frTranslation": "scanner (TDM)",
+    "esTranslation": "tomografía computarizada (TC)",
+    "arTranslation": "تصوير مقطعي محوسب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Health & Illness",
+      "diagnostic"
+    ]
+  }
+]

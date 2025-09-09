@@ -1,0 +1,1252 @@
+[
+  {
+    "text": "clarity",
+    "meaning": "Ease with which something can be understood.",
+    "example": "Short sentences improve clarity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/clarity/",
+    "frTranslation": "clarté",
+    "esTranslation": "claridad",
+    "arTranslation": "وضوح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "ambiguity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  },
+  {
+    "text": "value",
+    "meaning": "The importance or usefulness ascribed to something.",
+    "example": "We weighed the long-term value of the program.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/value/",
+    "frTranslation": "valeur",
+    "esTranslation": "valor",
+    "arTranslation": "قيمة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "worth"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "utility",
+    "meaning": "Usefulness in achieving desired outcomes.",
+    "example": "Policy should maximize overall utility.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/utility/",
+    "frTranslation": "utilité",
+    "esTranslation": "utilidad",
+    "arTranslation": "منفعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "harm"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "cost",
+    "meaning": "What must be given up to obtain something.",
+    "example": "Consider the opportunity cost of delay.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/cost/",
+    "frTranslation": "coût",
+    "esTranslation": "costo",
+    "arTranslation": "تكلفة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "benefit",
+    "meaning": "An advantage or positive effect gained from an action.",
+    "example": "The benefits outweighed the risks.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/benefit/",
+    "frTranslation": "bénéfice",
+    "esTranslation": "beneficio",
+    "arTranslation": "فائدة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "harm"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "harm",
+    "meaning": "Damage or negative impact to a person or system.",
+    "example": "We screened for potential harm in the study.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/harm/",
+    "frTranslation": "préjudice",
+    "esTranslation": "daño",
+    "arTranslation": "ضرر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "benefit"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "duty",
+    "meaning": "A moral or legal obligation to act in a certain way.",
+    "example": "Doctors have a duty of care.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/duty/",
+    "frTranslation": "devoir",
+    "esTranslation": "deber",
+    "arTranslation": "واجب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "obligation"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "obligation",
+    "meaning": "A requirement to do something because of law, promise, or morality.",
+    "example": "Debt creates a repayment obligation.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/obligation/",
+    "frTranslation": "obligation",
+    "esTranslation": "obligación",
+    "arTranslation": "التزام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "responsibility",
+    "meaning": "Being answerable for actions and their effects.",
+    "example": "Leaders share responsibility for outcomes.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/responsibility/",
+    "frTranslation": "responsabilité",
+    "esTranslation": "responsabilidad",
+    "arTranslation": "مسؤولية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "accountability"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "accountability",
+    "meaning": "Expectation to justify actions and accept consequences.",
+    "example": "Transparent reporting improves accountability.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/accountability/",
+    "frTranslation": "redevabilité",
+    "esTranslation": "rendición de cuentas",
+    "arTranslation": "المساءلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "integrity",
+    "meaning": "Adherence to moral and ethical principles even when costly.",
+    "example": "She maintained integrity under pressure.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/integrity/",
+    "frTranslation": "intégrité",
+    "esTranslation": "integridad",
+    "arTranslation": "نزاهة/استقامة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "corruption"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "honesty",
+    "meaning": "Truthfulness and refusal to deceive.",
+    "example": "Honesty builds trust with clients.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/honesty/",
+    "frTranslation": "honnêteté",
+    "esTranslation": "honestidad",
+    "arTranslation": "صدق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "dishonesty"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "fairness",
+    "meaning": "Impartial and just treatment without favoritism.",
+    "example": "We audited hiring for fairness.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/fairness/",
+    "frTranslation": "équité",
+    "esTranslation": "equidad",
+    "arTranslation": "إنصاف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "bias",
+      "injustice"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "justice",
+    "meaning": "Moral rightness and equitable distribution of benefits and burdens.",
+    "example": "Social justice addresses systemic barriers.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/justice/",
+    "frTranslation": "justice",
+    "esTranslation": "justicia",
+    "arTranslation": "عدالة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "injustice"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "equality",
+    "meaning": "The state of being the same in status, rights, or opportunities.",
+    "example": "Equality before the law is fundamental.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/equality/",
+    "frTranslation": "égalité",
+    "esTranslation": "igualdad",
+    "arTranslation": "مساواة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "inequality"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "equity",
+    "meaning": "Fairness adjusted for differing needs and contexts.",
+    "example": "Equity may require additional support for some groups.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/equity/",
+    "frTranslation": "équité",
+    "esTranslation": "equidad",
+    "arTranslation": "إنصاف/عدالة توزيعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "uniformity only"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "freedom",
+    "meaning": "The ability to act or choose without undue restraint.",
+    "example": "Freedom of expression protects dissent.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/freedom/",
+    "frTranslation": "liberté",
+    "esTranslation": "libertad",
+    "arTranslation": "حرية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "constraint"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "autonomy",
+    "meaning": "Self-governance; the capacity to make informed, uncoerced choices.",
+    "example": "Patients’ autonomy includes informed consent.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/autonomy/",
+    "frTranslation": "autonomie",
+    "esTranslation": "autonomía",
+    "arTranslation": "استقلالية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "consent",
+    "meaning": "Voluntary agreement to participate or allow something.",
+    "example": "Researchers must obtain consent from participants.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/consent/",
+    "frTranslation": "consentement",
+    "esTranslation": "consentimiento",
+    "arTranslation": "موافقة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "coercion"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "privacy",
+    "meaning": "Control over access to personal information and spaces.",
+    "example": "Settings let users manage privacy.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/privacy/",
+    "frTranslation": "vie privée",
+    "esTranslation": "privacidad",
+    "arTranslation": "خصوصية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "surveillance"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "dignity",
+    "meaning": "Inherent worth deserving respect and humane treatment.",
+    "example": "Healthcare policy should protect dignity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/dignity/",
+    "frTranslation": "dignité",
+    "esTranslation": "dignidad",
+    "arTranslation": "كرامة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "respect",
+    "meaning": "Regard for the feelings, rights, or traditions of others.",
+    "example": "We show respect by listening actively.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/respect/",
+    "frTranslation": "respect",
+    "esTranslation": "respeto",
+    "arTranslation": "احترام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "disrespect"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "trust",
+    "meaning": "Belief in the reliability or honesty of someone or something.",
+    "example": "Transparent decisions build trust.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/trust/",
+    "frTranslation": "confiance",
+    "esTranslation": "confianza",
+    "arTranslation": "ثقة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "mistrust"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "loyalty",
+    "meaning": "Faithful support to a person, group, or principle.",
+    "example": "Conflicts of loyalty can arise at work.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/loyalty/",
+    "frTranslation": "loyauté",
+    "esTranslation": "lealtad",
+    "arTranslation": "ولاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "empathy",
+    "meaning": "Capacity to understand and share another’s feelings.",
+    "example": "Empathy improves conflict resolution.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/empathy/",
+    "frTranslation": "empathie",
+    "esTranslation": "empatía",
+    "arTranslation": "تعاطف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "indifference"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "compassion",
+    "meaning": "Concern for suffering combined with a wish to help.",
+    "example": "Compassion guided the response to the crisis.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/compassion/",
+    "frTranslation": "compassion",
+    "esTranslation": "compasión",
+    "arTranslation": "رحمة/رأفة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "altruism",
+    "meaning": "Acting for the benefit of others, sometimes at a cost to oneself.",
+    "example": "Volunteers showed remarkable altruism.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/altruism/",
+    "frTranslation": "altruisme",
+    "esTranslation": "altruismo",
+    "arTranslation": "إيثار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "selfishness"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "greed",
+    "meaning": "Excessive desire for wealth or advantage.",
+    "example": "Greed undermined the partnership.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/greed/",
+    "frTranslation": "cupidité",
+    "esTranslation": "codicia",
+    "arTranslation": "جشع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "generosity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "corruption",
+    "meaning": "Abuse of entrusted power for private gain.",
+    "example": "Anti-corruption policies increased accountability.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/corruption/",
+    "frTranslation": "corruption",
+    "esTranslation": "corrupción",
+    "arTranslation": "فساد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "ethics"
+    ]
+  },
+  {
+    "text": "power",
+    "meaning": "Capacity to influence outcomes or others’ behavior.",
+    "example": "Power without accountability breeds abuse.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/power/",
+    "frTranslation": "pouvoir",
+    "esTranslation": "poder",
+    "arTranslation": "قوّة/نفوذ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "powerlessness"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "authority",
+    "meaning": "Legitimate power recognized by those who obey it.",
+    "example": "Teachers have authority to set rules.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/authority/",
+    "frTranslation": "autorité",
+    "esTranslation": "autoridad",
+    "arTranslation": "سلطة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "illegitimacy"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "legitimacy",
+    "meaning": "Rightful acceptance of authority or rules.",
+    "example": "Participation can increase legitimacy.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/legitimacy/",
+    "frTranslation": "légitimité",
+    "esTranslation": "legitimidad",
+    "arTranslation": "شرعية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "governance",
+    "meaning": "Structures and processes for decision-making and control.",
+    "example": "Good governance balances transparency and efficiency.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/governance/",
+    "frTranslation": "gouvernance",
+    "esTranslation": "gobernanza",
+    "arTranslation": "حوكمة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "policy",
+    "meaning": "A deliberate system of principles to guide decisions.",
+    "example": "The new policy limits data retention.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/policy/",
+    "frTranslation": "politique (mesure)",
+    "esTranslation": "política (medida)",
+    "arTranslation": "سياسة (إجراء)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "rights",
+    "meaning": "Entitlements that individuals hold against others or the state.",
+    "example": "Freedom of assembly is among basic rights.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/rights/",
+    "frTranslation": "droits",
+    "esTranslation": "derechos",
+    "arTranslation": "حقوق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "law",
+    "meaning": "Rules enforced by institutions to regulate behavior.",
+    "example": "No one is above the law.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/law/",
+    "frTranslation": "droit/loi",
+    "esTranslation": "ley",
+    "arTranslation": "قانون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "norm",
+    "meaning": "An expected pattern of behavior in a group.",
+    "example": "Greeting with a handshake is a norm in some cultures.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/norm/",
+    "frTranslation": "norme",
+    "esTranslation": "norma",
+    "arTranslation": "قاعدة/معيار اجتماعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "culture",
+    "meaning": "Shared beliefs, practices, and artifacts of a group.",
+    "example": "Company culture shapes decisions.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/culture/",
+    "frTranslation": "culture",
+    "esTranslation": "cultura",
+    "arTranslation": "ثقافة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "diversity",
+    "meaning": "Presence of differences within a setting (e.g., backgrounds, ideas).",
+    "example": "Diversity improves creativity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/diversity/",
+    "frTranslation": "diversité",
+    "esTranslation": "diversidad",
+    "arTranslation": "تنوع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "homogeneity"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "inclusion",
+    "meaning": "Active effort to ensure people can participate fully.",
+    "example": "Inclusion policies support accessibility.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/inclusion/",
+    "frTranslation": "inclusion",
+    "esTranslation": "inclusión",
+    "arTranslation": "شمول",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "cohesion",
+    "meaning": "Strength of bonds that keep a group united.",
+    "example": "Shared goals build cohesion.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/cohesion/",
+    "frTranslation": "cohésion",
+    "esTranslation": "cohesión",
+    "arTranslation": "تماسك",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "fragmentation"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "conflict",
+    "meaning": "Perceived incompatibility of goals or values.",
+    "example": "Mediation resolved the conflict.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/conflict/",
+    "frTranslation": "conflit",
+    "esTranslation": "conflicto",
+    "arTranslation": "نزاع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "agreement",
+      "harmony"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "cooperation",
+    "meaning": "Working together toward shared goals.",
+    "example": "Cooperation increased output.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/cooperation/",
+    "frTranslation": "coopération",
+    "esTranslation": "cooperación",
+    "arTranslation": "تعاون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "competition"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "competition",
+    "meaning": "Rivalry for scarce resources or recognition.",
+    "example": "Healthy competition can spur innovation.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/competition/",
+    "frTranslation": "concurrence",
+    "esTranslation": "competencia",
+    "arTranslation": "منافسة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "cooperation"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "negotiation",
+    "meaning": "A process of reaching agreement through discussion.",
+    "example": "Skilled negotiation found common ground.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/negotiation/",
+    "frTranslation": "négociation",
+    "esTranslation": "negociación",
+    "arTranslation": "تفاوض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "compromise",
+    "meaning": "Agreement in which each side gives up something.",
+    "example": "They reached a workable compromise.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/compromise/",
+    "frTranslation": "compromis",
+    "esTranslation": "compromiso",
+    "arTranslation": "حلّ وسط/تسوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "society"
+    ]
+  },
+  {
+    "text": "attention",
+    "meaning": "Selective focus on some stimuli while ignoring others.",
+    "example": "Notifications compete for our attention.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/attention/",
+    "frTranslation": "attention",
+    "esTranslation": "atención",
+    "arTranslation": "انتباه",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "perception",
+    "meaning": "The process of organizing and interpreting sensory information.",
+    "example": "Perception can be fooled by optical illusions.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/perception/",
+    "frTranslation": "perception",
+    "esTranslation": "percepción",
+    "arTranslation": "إدراك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "memory",
+    "meaning": "Ability to store and retrieve information over time.",
+    "example": "A mnemonic helps memory.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/memory/",
+    "frTranslation": "mémoire",
+    "esTranslation": "memoria",
+    "arTranslation": "ذاكرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "learning",
+    "meaning": "Change in knowledge or behavior based on experience.",
+    "example": "Learning accelerates with feedback.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/learning/",
+    "frTranslation": "apprentissage",
+    "esTranslation": "aprendizaje",
+    "arTranslation": "تعلّم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "creativity",
+    "meaning": "Ability to generate novel and useful ideas.",
+    "example": "Constraints can spark creativity.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/creativity/",
+    "frTranslation": "créativité",
+    "esTranslation": "creatividad",
+    "arTranslation": "إبداع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "imagination",
+    "meaning": "Forming new images or ideas not present to the senses.",
+    "example": "Children’s imagination is vivid.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/imagination/",
+    "frTranslation": "imagination",
+    "esTranslation": "imaginación",
+    "arTranslation": "خيال",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "intuition",
+    "meaning": "Fast, experience-based judgment without conscious reasoning.",
+    "example": "Intuition can guide first drafts.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/intuition/",
+    "frTranslation": "intuition",
+    "esTranslation": "intuición",
+    "arTranslation": "حدس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "analysis (slow reasoning)"
+    ],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "reasoning",
+    "meaning": "Deliberate thinking to reach conclusions from premises.",
+    "example": "Strong reasoning supports the case.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/reasoning/",
+    "frTranslation": "raisonnement",
+    "esTranslation": "razonamiento",
+    "arTranslation": "استدلال/تفكير منطقي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "emotion",
+    "meaning": "A complex response involving feelings, physiology, and thoughts.",
+    "example": "Emotion influences decision-making.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/emotion/",
+    "frTranslation": "émotion",
+    "esTranslation": "emoción",
+    "arTranslation": "انفعال/عاطفة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "motivation",
+    "meaning": "Forces that energize and direct behavior toward goals.",
+    "example": "Intrinsic motivation beats external rewards.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/motivation/",
+    "frTranslation": "motivation",
+    "esTranslation": "motivación",
+    "arTranslation": "دافع/تحفيز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "habit",
+    "meaning": "A learned routine performed with little conscious thought.",
+    "example": "Morning exercise became a habit.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/habit/",
+    "frTranslation": "habitude",
+    "esTranslation": "hábito",
+    "arTranslation": "عادة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "mindset",
+    "meaning": "A set of beliefs that frames how one interprets situations.",
+    "example": "A growth mindset treats mistakes as learning.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/mindset/",
+    "frTranslation": "état d’esprit",
+    "esTranslation": "mentalidad",
+    "arTranslation": "عقلية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "self-control",
+    "meaning": "Ability to regulate impulses to achieve long-term goals.",
+    "example": "Taking a pause builds self-control.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/self-control/",
+    "frTranslation": "maîtrise de soi",
+    "esTranslation": "autocontrol",
+    "arTranslation": "ضبط النفس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "heuristic",
+    "meaning": "A mental shortcut that simplifies decisions but can bias them.",
+    "example": "Availability is a common heuristic.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/heuristic/",
+    "frTranslation": "heuristique",
+    "esTranslation": "heurística",
+    "arTranslation": "استدلال مبسّط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "metacognition",
+    "meaning": "Awareness and regulation of one’s own thinking processes.",
+    "example": "Planning and monitoring are metacognitive skills.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/metacognition/",
+    "frTranslation": "métacognition",
+    "esTranslation": "metacognición",
+    "arTranslation": "ما وراء المعرفة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "psychology"
+    ]
+  },
+  {
+    "text": "language",
+    "meaning": "A system of symbols and rules used for communication.",
+    "example": "Language shapes how we frame problems.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/language/",
+    "frTranslation": "langage",
+    "esTranslation": "lenguaje",
+    "arTranslation": "لغة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "meaning",
+    "meaning": "What a sign or utterance stands for in a context.",
+    "example": "The same gesture can have different meanings.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/meaning/",
+    "frTranslation": "signification",
+    "esTranslation": "significado",
+    "arTranslation": "معنى",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "definition",
+    "meaning": "A precise statement of the essential nature of something.",
+    "example": "We refined the product definition.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/definition/",
+    "frTranslation": "définition",
+    "esTranslation": "definición",
+    "arTranslation": "تعريف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "reference",
+    "meaning": "The relation by which words connect to things in the world.",
+    "example": "Pronouns need a clear reference.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/reference/",
+    "frTranslation": "référence",
+    "esTranslation": "referencia",
+    "arTranslation": "إشارة/مرجع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "representation",
+    "meaning": "The depiction or model that stands in for something else.",
+    "example": "Charts are visual representations of data.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/representation/",
+    "frTranslation": "représentation",
+    "esTranslation": "representación",
+    "arTranslation": "تمثيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "symbol",
+    "meaning": "A sign that arbitrarily stands for an idea or object.",
+    "example": "The dove is a symbol of peace.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/symbol/",
+    "frTranslation": "symbole",
+    "esTranslation": "símbolo",
+    "arTranslation": "رمز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "metaphor",
+    "meaning": "A figure that describes one thing by speaking of another.",
+    "example": "‘Time is money’ is a common metaphor.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/metaphor/",
+    "frTranslation": "métaphore",
+    "esTranslation": "metáfora",
+    "arTranslation": "استعارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "analogy",
+    "meaning": "A comparison that highlights structural similarity.",
+    "example": "We used an analogy to teach the concept.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/analogy/",
+    "frTranslation": "analogie",
+    "esTranslation": "analogía",
+    "arTranslation": "قياس (تناظُر)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "semiotics"
+    ]
+  },
+  {
+    "text": "narrative",
+    "meaning": "A structured account of events with characters and causality.",
+    "example": "The brand narrative centers on reliability.",
+    "categoryId": "Abstract Concepts",
+    "pronunciation": "/narrative/",
+    "frTranslation": "récit/narration",
+    "esTranslation": "narrativa/relato",
+    "arTranslation": "سرد/حكاية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Abstract Concepts",
+      "communication"
+    ]
+  }
+]

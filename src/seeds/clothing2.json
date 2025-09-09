@@ -1,0 +1,512 @@
+[
+  {
+    "text": "turtleneck",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a turtleneck today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/turtleneck/",
+    "frTranslation": "col roulé",
+    "esTranslation": "cuello alto",
+    "arTranslation": "كنزة برقبة عالية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "henley",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a henley today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/henley/",
+    "frTranslation": "henley",
+    "esTranslation": "henley",
+    "arTranslation": "قميص هنلي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "culottes",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a culottes today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/culottes/",
+    "frTranslation": "jupe-culotte",
+    "esTranslation": "culottes",
+    "arTranslation": "سروال كولوت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "cargo pants",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a cargo pants today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/cargo pants/",
+    "frTranslation": "pantalon cargo",
+    "esTranslation": "pantalones cargo",
+    "arTranslation": "بنطال كارغو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "pencil skirt",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a pencil skirt today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/pencil skirt/",
+    "frTranslation": "jupe crayon",
+    "esTranslation": "falda lápiz",
+    "arTranslation": "تنورة قلم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "slip dress",
+    "meaning": "An item of clothing worn on the body.",
+    "example": "I'm wearing a slip dress today.",
+    "categoryId": "Clothing",
+    "pronunciation": "/slip dress/",
+    "frTranslation": "robe nuisette",
+    "esTranslation": "vestido lencero",
+    "arTranslation": "فستان سليب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "garment"
+    ]
+  },
+  {
+    "text": "belt",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a belt to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/belt/",
+    "frTranslation": "ceinture",
+    "esTranslation": "cinturón",
+    "arTranslation": "حزام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "hat",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a hat to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/hat/",
+    "frTranslation": "chapeau",
+    "esTranslation": "sombrero",
+    "arTranslation": "قبعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "cap",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a cap to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/cap/",
+    "frTranslation": "casquette",
+    "esTranslation": "gorra",
+    "arTranslation": "قبعة بيسبول",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "beanie",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a beanie to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/beanie/",
+    "frTranslation": "bonnet",
+    "esTranslation": "gorro",
+    "arTranslation": "قبعة صوف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "scarf",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a scarf to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/scarf/",
+    "frTranslation": "écharpe/foulard",
+    "esTranslation": "bufanda/pañuelo",
+    "arTranslation": "وشاح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "gloves",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a gloves to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/gloves/",
+    "frTranslation": "gants",
+    "esTranslation": "guantes",
+    "arTranslation": "قفازات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "mittens",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a mittens to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/mittens/",
+    "frTranslation": "moufles",
+    "esTranslation": "manoplas",
+    "arTranslation": "قفازات بدون أصابع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "tie",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a tie to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/tie/",
+    "frTranslation": "cravate",
+    "esTranslation": "corbata",
+    "arTranslation": "ربطة عنق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "bow tie",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a bow tie to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/bow tie/",
+    "frTranslation": "nœud papillon",
+    "esTranslation": "pajarita",
+    "arTranslation": "ربطة عنق فراشية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "sunglasses",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a sunglasses to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/sunglasses/",
+    "frTranslation": "lunettes de soleil",
+    "esTranslation": "gafas de sol",
+    "arTranslation": "نظارات شمسية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "watch",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a watch to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/watch/",
+    "frTranslation": "montre",
+    "esTranslation": "reloj",
+    "arTranslation": "ساعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "necklace",
+    "meaning": "An accessory worn with clothing.",
+    "example": "She added a necklace to complete the look.",
+    "categoryId": "Clothing",
+    "pronunciation": "/necklace/",
+    "frTranslation": "collier",
+    "esTranslation": "collar",
+    "arTranslation": "قلادة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "accessory"
+    ]
+  },
+  {
+    "text": "shoes",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new shoes.",
+    "categoryId": "Clothing",
+    "pronunciation": "/shoes/",
+    "frTranslation": "chaussures",
+    "esTranslation": "zapatos",
+    "arTranslation": "أحذية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "sneakers",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new sneakers.",
+    "categoryId": "Clothing",
+    "pronunciation": "/sneakers/",
+    "frTranslation": "baskets",
+    "esTranslation": "zapatillas",
+    "arTranslation": "حذاء رياضي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "boots",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new boots.",
+    "categoryId": "Clothing",
+    "pronunciation": "/boots/",
+    "frTranslation": "bottes",
+    "esTranslation": "botas",
+    "arTranslation": "بوت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "ankle boots",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new ankle boots.",
+    "categoryId": "Clothing",
+    "pronunciation": "/ankle boots/",
+    "frTranslation": "bottines",
+    "esTranslation": "botines",
+    "arTranslation": "بوت قصير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "high heels",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new high heels.",
+    "categoryId": "Clothing",
+    "pronunciation": "/high heels/",
+    "frTranslation": "talons hauts",
+    "esTranslation": "tacones altos",
+    "arTranslation": "كعب عالٍ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "sandals",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new sandals.",
+    "categoryId": "Clothing",
+    "pronunciation": "/sandals/",
+    "frTranslation": "sandales",
+    "esTranslation": "sandalias",
+    "arTranslation": "صنادل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "flip-flops",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new flip-flops.",
+    "categoryId": "Clothing",
+    "pronunciation": "/flip-flops/",
+    "frTranslation": "tongs",
+    "esTranslation": "chanclas",
+    "arTranslation": "شبشب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "loafers",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new loafers.",
+    "categoryId": "Clothing",
+    "pronunciation": "/loafers/",
+    "frTranslation": "mocassins",
+    "esTranslation": "mocasines",
+    "arTranslation": "لوفر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "oxfords",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new oxfords.",
+    "categoryId": "Clothing",
+    "pronunciation": "/oxfords/",
+    "frTranslation": "richelieus",
+    "esTranslation": "oxfords",
+    "arTranslation": "أوكسفورد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "slippers",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new slippers.",
+    "categoryId": "Clothing",
+    "pronunciation": "/slippers/",
+    "frTranslation": "pantoufles",
+    "esTranslation": "pantuflas",
+    "arTranslation": "نعال منزلية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "clogs",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new clogs.",
+    "categoryId": "Clothing",
+    "pronunciation": "/clogs/",
+    "frTranslation": "sabots",
+    "esTranslation": "zuecos",
+    "arTranslation": "قباقيب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  },
+  {
+    "text": "espadrilles",
+    "meaning": "Footwear worn on the feet.",
+    "example": "He bought new espadrilles.",
+    "categoryId": "Clothing",
+    "pronunciation": "/espadrilles/",
+    "frTranslation": "espadrilles",
+    "esTranslation": "alpargatas",
+    "arTranslation": "إسبادريل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "footwear"
+    ]
+  }
+]

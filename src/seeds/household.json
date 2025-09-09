@@ -1,0 +1,2308 @@
+[
+  {
+    "text": "chair",
+    "meaning": "A piece of furniture for one person to sit on.",
+    "example": "She pulled up a chair to the table.",
+    "categoryId": "Household",
+    "pronunciation": "/tʃeər/",
+    "frTranslation": "chaise",
+    "esTranslation": "silla",
+    "arTranslation": "كرسي",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "seat",
+      "stool"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "furniture",
+      "living room"
+    ]
+  },
+  {
+    "text": "table",
+    "meaning": "A piece of furniture with a flat top and legs.",
+    "example": "Dinner is served on the table.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈteɪ.bəl/",
+    "frTranslation": "table",
+    "esTranslation": "mesa",
+    "arTranslation": "طاولة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "desk",
+      "counter"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "furniture",
+      "dining"
+    ]
+  },
+  {
+    "text": "sofa",
+    "meaning": "A long, comfortable seat with a back and usually arms.",
+    "example": "They relaxed on the sofa after work.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈsoʊ.fə/",
+    "frTranslation": "canapé",
+    "esTranslation": "sofá",
+    "arTranslation": "أريكة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "couch",
+      "settee"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "furniture",
+      "living room"
+    ]
+  },
+  {
+    "text": "bed",
+    "meaning": "A piece of furniture for sleeping on.",
+    "example": "He made the bed in the morning.",
+    "categoryId": "Household",
+    "pronunciation": "/bɛd/",
+    "frTranslation": "lit",
+    "esTranslation": "cama",
+    "arTranslation": "سرير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "bunk"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "furniture",
+      "bedroom"
+    ]
+  },
+  {
+    "text": "mattress",
+    "meaning": "A soft pad for sleeping that lies on a bed frame.",
+    "example": "The new mattress is very comfortable.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈmæt.rəs/",
+    "frTranslation": "matelas",
+    "esTranslation": "colchón",
+    "arTranslation": "مرتبة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bed pad"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bedroom",
+      "bedding"
+    ]
+  },
+  {
+    "text": "pillow",
+    "meaning": "A soft cushion for the head while sleeping.",
+    "example": "She fluffed the pillow.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈpɪl.oʊ/",
+    "frTranslation": "oreiller",
+    "esTranslation": "almohada",
+    "arTranslation": "وسادة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cushion"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bedroom",
+      "bedding"
+    ]
+  },
+  {
+    "text": "blanket",
+    "meaning": "A warm cover for a bed.",
+    "example": "He pulled a blanket over his legs.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈblæŋ.kɪt/",
+    "frTranslation": "couverture",
+    "esTranslation": "manta",
+    "arTranslation": "بطانية",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "throw"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bedding",
+      "living room"
+    ]
+  },
+  {
+    "text": "sheet",
+    "meaning": "A large cloth used to cover a mattress.",
+    "example": "She changed the bed sheet.",
+    "categoryId": "Household",
+    "pronunciation": "/ʃiːt/",
+    "frTranslation": "drap",
+    "esTranslation": "sábana",
+    "arTranslation": "ملاءة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "bedsheet"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bedding",
+      "bedroom"
+    ]
+  },
+  {
+    "text": "wardrobe",
+    "meaning": "A tall cabinet for storing clothes.",
+    "example": "Her wardrobe is full of dresses.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈwɔːr.droʊb/",
+    "frTranslation": "armoire",
+    "esTranslation": "guardarropa",
+    "arTranslation": "خزانة ملابس",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "closet"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "bedroom"
+    ]
+  },
+  {
+    "text": "closet",
+    "meaning": "A small room or space for storing clothes and other items.",
+    "example": "He hung his coat in the closet.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈklɒz.ɪt/",
+    "frTranslation": "placard",
+    "esTranslation": "armario",
+    "arTranslation": "خزانة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "wardrobe"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "hallway"
+    ]
+  },
+  {
+    "text": "drawer",
+    "meaning": "A sliding storage compartment in furniture.",
+    "example": "She put the cutlery in the top drawer.",
+    "categoryId": "Household",
+    "pronunciation": "/drɔːr/",
+    "frTranslation": "tiroir",
+    "esTranslation": "cajón",
+    "arTranslation": "درج",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "sliding tray"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "furniture"
+    ]
+  },
+  {
+    "text": "dresser",
+    "meaning": "A chest of drawers for storing clothes.",
+    "example": "The socks are in the dresser.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈdrɛs.ər/",
+    "frTranslation": "commode",
+    "esTranslation": "cómoda",
+    "arTranslation": "خزانة أدراج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "chest of drawers"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "bedroom"
+    ]
+  },
+  {
+    "text": "nightstand",
+    "meaning": "A small bedside table.",
+    "example": "He placed the lamp on the nightstand.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈnaɪt.stænd/",
+    "frTranslation": "table de chevet",
+    "esTranslation": "mesita de noche",
+    "arTranslation": "طاولة جانبية",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bedside table"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bedroom",
+      "furniture"
+    ]
+  },
+  {
+    "text": "shelf",
+    "meaning": "A flat board for holding items.",
+    "example": "Books are on the top shelf.",
+    "categoryId": "Household",
+    "pronunciation": "/ʃɛlf/",
+    "frTranslation": "étagère",
+    "esTranslation": "estante",
+    "arTranslation": "رف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "rack"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "furniture"
+    ]
+  },
+  {
+    "text": "bookshelf",
+    "meaning": "A set of shelves for books.",
+    "example": "She organized the novels on the bookshelf.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈbʊk.ʃɛlf/",
+    "frTranslation": "bibliothèque",
+    "esTranslation": "estantería de libros",
+    "arTranslation": "مكتبة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bookcase"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "living room"
+    ]
+  },
+  {
+    "text": "cabinet",
+    "meaning": "A cupboard or storage unit with doors or drawers.",
+    "example": "Glasses are in the kitchen cabinet.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkæb.ɪ.nɪt/",
+    "frTranslation": "armoire",
+    "esTranslation": "gabinete",
+    "arTranslation": "خزانة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cupboard"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "cupboard",
+    "meaning": "A piece of furniture with shelves and doors for storage.",
+    "example": "The plates are in the cupboard.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkʌb.ərd/",
+    "frTranslation": "placard (cuisine)",
+    "esTranslation": "armario (cocina)",
+    "arTranslation": "خزانة مطبخ",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "cabinet"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "pantry",
+    "meaning": "A small room or cupboard for food storage.",
+    "example": "Canned goods are in the pantry.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈpæn.tri/",
+    "frTranslation": "garde-manger",
+    "esTranslation": "despensa",
+    "arTranslation": "مخزن المؤن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "larder"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "storage",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "fridge",
+    "meaning": "An appliance that keeps food cold.",
+    "example": "The milk is in the fridge.",
+    "categoryId": "Household",
+    "pronunciation": "/frɪdʒ/",
+    "frTranslation": "frigo",
+    "esTranslation": "nevera",
+    "arTranslation": "ثلاجة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "refrigerator"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "freezer",
+    "meaning": "An appliance for freezing food.",
+    "example": "Put the ice cream in the freezer.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈfriː.zər/",
+    "frTranslation": "congélateur",
+    "esTranslation": "congelador",
+    "arTranslation": "مجمد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "deep freeze"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "stove",
+    "meaning": "A kitchen appliance for cooking with heat.",
+    "example": "The soup is simmering on the stove.",
+    "categoryId": "Household",
+    "pronunciation": "/stoʊv/",
+    "frTranslation": "cuisinière",
+    "esTranslation": "estufa",
+    "arTranslation": "موقد",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "cooktop",
+      "range"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "oven",
+    "meaning": "A chamber for baking or roasting.",
+    "example": "Bake the cake in the oven.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈʌv.ən/",
+    "frTranslation": "four",
+    "esTranslation": "horno",
+    "arTranslation": "فرن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cooker"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "microwave",
+    "meaning": "An electric oven that heats food quickly.",
+    "example": "He warmed the leftovers in the microwave.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈmaɪ.kroʊ.weɪv/",
+    "frTranslation": "micro-ondes",
+    "esTranslation": "microondas",
+    "arTranslation": "ميكروويف",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "microwave oven"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "kettle",
+    "meaning": "A container for boiling water.",
+    "example": "The kettle is boiling.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkɛt.əl/",
+    "frTranslation": "bouilloire",
+    "esTranslation": "hervidor",
+    "arTranslation": "غلاية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "teapot (electric)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "toaster",
+    "meaning": "An appliance that toasts bread.",
+    "example": "The toaster burned the toast.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtoʊ.stər/",
+    "frTranslation": "grille-pain",
+    "esTranslation": "tostadora",
+    "arTranslation": "محمصة خبز",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bread toaster"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "blender",
+    "meaning": "An appliance for mixing or puréeing food.",
+    "example": "She made a smoothie with a blender.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈblɛn.dər/",
+    "frTranslation": "mixeur",
+    "esTranslation": "licuadora",
+    "arTranslation": "خلاط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "mixer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "dishwasher",
+    "meaning": "A machine that washes dishes.",
+    "example": "Load the plates into the dishwasher.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈdɪʃˌwɔː.ʃər/",
+    "frTranslation": "lave-vaisselle",
+    "esTranslation": "lavavajillas",
+    "arTranslation": "غسالة صحون",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "dish washer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "appliance",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "sink",
+    "meaning": "A basin for washing with a water supply.",
+    "example": "Rinse the vegetables in the sink.",
+    "categoryId": "Household",
+    "pronunciation": "/sɪŋk/",
+    "frTranslation": "évier",
+    "esTranslation": "fregadero",
+    "arTranslation": "حوض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "basin"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "bathroom"
+    ]
+  },
+  {
+    "text": "faucet",
+    "meaning": "A device that controls the flow of water.",
+    "example": "Turn off the faucet after use.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈfɔː.sɪt/",
+    "frTranslation": "robinet",
+    "esTranslation": "grifo",
+    "arTranslation": "صنبور",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "tap"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "bathroom"
+    ]
+  },
+  {
+    "text": "counter",
+    "meaning": "A flat surface for preparing food.",
+    "example": "Chop the onions on the counter.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkaʊn.tər/",
+    "frTranslation": "plan de travail",
+    "esTranslation": "encimera",
+    "arTranslation": "سطح عمل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "countertop"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen"
+    ]
+  },
+  {
+    "text": "cutting board",
+    "meaning": "A board used to cut food safely.",
+    "example": "Use a cutting board to slice bread.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkʌt.ɪŋ bɔːrd/",
+    "frTranslation": "planche à découper",
+    "esTranslation": "tabla de cortar",
+    "arTranslation": "لوح تقطيع",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "chopping board"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen"
+    ]
+  },
+  {
+    "text": "pot",
+    "meaning": "A deep round container for cooking.",
+    "example": "Boil the pasta in a pot.",
+    "categoryId": "Household",
+    "pronunciation": "/pɒt/",
+    "frTranslation": "casserole",
+    "esTranslation": "olla",
+    "arTranslation": "قدر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "saucepan"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "cookware"
+    ]
+  },
+  {
+    "text": "pan",
+    "meaning": "A shallow metal container for frying.",
+    "example": "Fry the eggs in a pan.",
+    "categoryId": "Household",
+    "pronunciation": "/pæn/",
+    "frTranslation": "poêle",
+    "esTranslation": "sartén",
+    "arTranslation": "مقلاة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "frying pan"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "cookware"
+    ]
+  },
+  {
+    "text": "spatula",
+    "meaning": "A flat tool for flipping or spreading food.",
+    "example": "Flip the pancakes with a spatula.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈspætʃ.ʊ.lə/",
+    "frTranslation": "spatule",
+    "esTranslation": "espátula",
+    "arTranslation": "ملعقة مسطحة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "turner"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "utensil"
+    ]
+  },
+  {
+    "text": "knife",
+    "meaning": "A tool with a sharp blade for cutting.",
+    "example": "Use a sharp knife to slice tomatoes.",
+    "categoryId": "Household",
+    "pronunciation": "/naɪf/",
+    "frTranslation": "couteau",
+    "esTranslation": "cuchillo",
+    "arTranslation": "سكين",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "blade"
+    ],
+    "antonyms": [
+      "dull knife"
+    ],
+    "lexicalField": [
+      "kitchen",
+      "utensil"
+    ]
+  },
+  {
+    "text": "fork",
+    "meaning": "A utensil with prongs for eating.",
+    "example": "He ate the salad with a fork.",
+    "categoryId": "Household",
+    "pronunciation": "/fɔːrk/",
+    "frTranslation": "fourchette",
+    "esTranslation": "tenedor",
+    "arTranslation": "شوكة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "table fork"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "utensil"
+    ]
+  },
+  {
+    "text": "spoon",
+    "meaning": "A utensil with a shallow bowl for eating or serving.",
+    "example": "Stir the tea with a spoon.",
+    "categoryId": "Household",
+    "pronunciation": "/spuːn/",
+    "frTranslation": "cuillère",
+    "esTranslation": "cuchara",
+    "arTranslation": "ملعقة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "tablespoon",
+      "teaspoon"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "utensil"
+    ]
+  },
+  {
+    "text": "plate",
+    "meaning": "A flat dish to serve food.",
+    "example": "He placed the steak on a plate.",
+    "categoryId": "Household",
+    "pronunciation": "/pleɪt/",
+    "frTranslation": "assiette",
+    "esTranslation": "plato",
+    "arTranslation": "طبق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "dish"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "tableware"
+    ]
+  },
+  {
+    "text": "bowl",
+    "meaning": "A round deep dish used for food or liquids.",
+    "example": "She ate cereal from a bowl.",
+    "categoryId": "Household",
+    "pronunciation": "/boʊl/",
+    "frTranslation": "bol",
+    "esTranslation": "cuenco",
+    "arTranslation": "وعاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "basin"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "tableware"
+    ]
+  },
+  {
+    "text": "mug",
+    "meaning": "A large cup with a handle.",
+    "example": "He drank coffee from a mug.",
+    "categoryId": "Household",
+    "pronunciation": "/mʌg/",
+    "frTranslation": "mug/tasse",
+    "esTranslation": "taza (mug)",
+    "arTranslation": "قدح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cup"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "tableware"
+    ]
+  },
+  {
+    "text": "glass",
+    "meaning": "A drinking container made of glass.",
+    "example": "Pour some water into a glass.",
+    "categoryId": "Household",
+    "pronunciation": "/ɡlæs/",
+    "frTranslation": "verre",
+    "esTranslation": "vaso",
+    "arTranslation": "كأس",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tumbler"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "tableware"
+    ]
+  },
+  {
+    "text": "trash can",
+    "meaning": "A container for garbage.",
+    "example": "Throw the peels in the trash can.",
+    "categoryId": "Household",
+    "pronunciation": "/træʃ kæn/",
+    "frTranslation": "poubelle",
+    "esTranslation": "cubo de basura",
+    "arTranslation": "سلة قمامة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "bin",
+      "garbage can"
+    ],
+    "antonyms": [
+      "recycling bin"
+    ],
+    "lexicalField": [
+      "cleaning",
+      "utility"
+    ]
+  },
+  {
+    "text": "recycling bin",
+    "meaning": "A container for recyclable materials.",
+    "example": "Put cardboard in the recycling bin.",
+    "categoryId": "Household",
+    "pronunciation": "/rɪˈsaɪ.klɪŋ bɪn/",
+    "frTranslation": "bac de recyclage",
+    "esTranslation": "contenedor de reciclaje",
+    "arTranslation": "سلة إعادة تدوير",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "blue bin"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "utility",
+      "environment"
+    ]
+  },
+  {
+    "text": "broom",
+    "meaning": "A brush with a long handle for sweeping.",
+    "example": "Sweep the kitchen with a broom.",
+    "categoryId": "Household",
+    "pronunciation": "/bruːm/",
+    "frTranslation": "balai",
+    "esTranslation": "escoba",
+    "arTranslation": "مكنسة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "brush"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "utility"
+    ]
+  },
+  {
+    "text": "mop",
+    "meaning": "A tool for washing floors.",
+    "example": "Use the mop for the spilled juice.",
+    "categoryId": "Household",
+    "pronunciation": "/mɒp/",
+    "frTranslation": "serpillière",
+    "esTranslation": "mopa/fregona",
+    "arTranslation": "ممسحة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "floor mop"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "utility"
+    ]
+  },
+  {
+    "text": "bucket",
+    "meaning": "A round open container for carrying liquids.",
+    "example": "Fill the bucket with water.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈbʌk.ɪt/",
+    "frTranslation": "seau",
+    "esTranslation": "cubo",
+    "arTranslation": "دلو",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "pail"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "utility"
+    ]
+  },
+  {
+    "text": "dustpan",
+    "meaning": "A flat pan for collecting dust swept with a broom.",
+    "example": "Sweep the crumbs into the dustpan.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈdʌst.pæn/",
+    "frTranslation": "ramasse-poussière",
+    "esTranslation": "recogedor",
+    "arTranslation": "مجرفة غبار",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "pan"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "utility"
+    ]
+  },
+  {
+    "text": "duster",
+    "meaning": "A tool for removing dust from surfaces.",
+    "example": "She cleaned the shelves with a duster.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈdʌs.tər/",
+    "frTranslation": "plumeau",
+    "esTranslation": "plumero",
+    "arTranslation": "منفضة غبار",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "dust cloth"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning"
+    ]
+  },
+  {
+    "text": "vacuum cleaner",
+    "meaning": "A machine used to clean floors by suction.",
+    "example": "Vacuum the carpet with the vacuum cleaner.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈvæk.juːm ˌkliː.nər/",
+    "frTranslation": "aspirateur",
+    "esTranslation": "aspiradora",
+    "arTranslation": "مكنسة كهربائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "vacuum",
+      "hoover"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "appliance"
+    ]
+  },
+  {
+    "text": "iron",
+    "meaning": "A device used to remove wrinkles from clothes.",
+    "example": "Heat the iron before pressing the shirt.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈaɪ.ən/",
+    "frTranslation": "fer à repasser",
+    "esTranslation": "plancha",
+    "arTranslation": "مكواة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "clothes iron"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "laundry",
+      "appliance"
+    ]
+  },
+  {
+    "text": "ironing board",
+    "meaning": "A long, padded board for ironing clothes.",
+    "example": "Set up the ironing board in the hallway.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈaɪ.ə.nɪŋ bɔːrd/",
+    "frTranslation": "planche à repasser",
+    "esTranslation": "tabla de planchar",
+    "arTranslation": "لوح كي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "pressing board"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "laundry"
+    ]
+  },
+  {
+    "text": "hanger",
+    "meaning": "A shaped piece for hanging clothes.",
+    "example": "Hang the coat on a hanger.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈhæŋ.ər/",
+    "frTranslation": "cintre",
+    "esTranslation": "percha",
+    "arTranslation": "عَلَّاقة ملابس",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "coat hanger"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bedroom",
+      "laundry"
+    ]
+  },
+  {
+    "text": "laundry basket",
+    "meaning": "A basket for dirty or clean laundry.",
+    "example": "Put your clothes in the laundry basket.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈlɔːn.dri ˌbæs.kɪt/",
+    "frTranslation": "panier à linge",
+    "esTranslation": "cesto de ropa",
+    "arTranslation": "سلة غسيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "hamper"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "laundry",
+      "utility"
+    ]
+  },
+  {
+    "text": "washing machine",
+    "meaning": "A machine that washes clothes.",
+    "example": "Load the washing machine with shirts.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈwɒʃ.ɪŋ məˌʃiːn/",
+    "frTranslation": "lave-linge",
+    "esTranslation": "lavadora",
+    "arTranslation": "غسالة ملابس",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "washer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "laundry",
+      "appliance"
+    ]
+  },
+  {
+    "text": "dryer",
+    "meaning": "A machine that dries clothes.",
+    "example": "Put the towels in the dryer.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈdraɪ.ər/",
+    "frTranslation": "sèche-linge",
+    "esTranslation": "secadora",
+    "arTranslation": "مجفف ملابس",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tumble dryer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "laundry",
+      "appliance"
+    ]
+  },
+  {
+    "text": "detergent",
+    "meaning": "A cleaning product for washing.",
+    "example": "Add detergent according to the label.",
+    "categoryId": "Household",
+    "pronunciation": "/dɪˈtɜːr.dʒənt/",
+    "frTranslation": "détergent",
+    "esTranslation": "detergente",
+    "arTranslation": "منظف",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "cleaner"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "laundry",
+      "cleaning"
+    ]
+  },
+  {
+    "text": "sponge",
+    "meaning": "A soft, porous cleaning tool.",
+    "example": "Wipe the counter with a sponge.",
+    "categoryId": "Household",
+    "pronunciation": "/spʌndʒ/",
+    "frTranslation": "éponge",
+    "esTranslation": "esponja",
+    "arTranslation": "إسفنجة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "scouring pad"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "cloth",
+    "meaning": "A piece of fabric used for cleaning.",
+    "example": "Use a damp cloth to dust the shelf.",
+    "categoryId": "Household",
+    "pronunciation": "/klɒθ/",
+    "frTranslation": "chiffon",
+    "esTranslation": "trapo/paño",
+    "arTranslation": "قطعة قماش",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "rag"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning"
+    ]
+  },
+  {
+    "text": "towel",
+    "meaning": "A piece of thick absorbent cloth for drying.",
+    "example": "Dry your hands with a towel.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtaʊ.əl/",
+    "frTranslation": "serviette",
+    "esTranslation": "toalla",
+    "arTranslation": "منشفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bath towel",
+      "hand towel"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom",
+      "laundry"
+    ]
+  },
+  {
+    "text": "shower",
+    "meaning": "A device that sprays water for bathing.",
+    "example": "He took a quick shower.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈʃaʊ.ər/",
+    "frTranslation": "douche",
+    "esTranslation": "ducha",
+    "arTranslation": "دش",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "rain shower"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom"
+    ]
+  },
+  {
+    "text": "bathtub",
+    "meaning": "A large container you fill with water to wash in.",
+    "example": "The kids played in the bathtub.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈbæθ.tʌb/",
+    "frTranslation": "baignoire",
+    "esTranslation": "bañera",
+    "arTranslation": "حوض استحمام",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tub"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom"
+    ]
+  },
+  {
+    "text": "toilet",
+    "meaning": "A bowl for disposing of human waste.",
+    "example": "Please clean the toilet regularly.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtɔɪ.lɪt/",
+    "frTranslation": "toilettes",
+    "esTranslation": "inodoro",
+    "arTranslation": "مرحاض",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "WC",
+      "lavatory"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom"
+    ]
+  },
+  {
+    "text": "plunger",
+    "meaning": "A device used to clear clogged drains.",
+    "example": "Use a plunger to unblock the sink.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈplʌn.dʒər/",
+    "frTranslation": "ventouse",
+    "esTranslation": "desatascador",
+    "arTranslation": "سلاكة مرحاض",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "force cup"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom",
+      "maintenance"
+    ]
+  },
+  {
+    "text": "toilet brush",
+    "meaning": "A brush used for cleaning the toilet bowl.",
+    "example": "Scrub the bowl with a toilet brush.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtɔɪ.lɪt brʌʃ/",
+    "frTranslation": "brosse de toilette",
+    "esTranslation": "cepillo del inodoro",
+    "arTranslation": "فرشاة مرحاض",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "bathroom brush"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom",
+      "cleaning"
+    ]
+  },
+  {
+    "text": "soap",
+    "meaning": "A substance used with water for washing.",
+    "example": "Put the soap back in the dish.",
+    "categoryId": "Household",
+    "pronunciation": "/soʊp/",
+    "frTranslation": "savon",
+    "esTranslation": "jabón",
+    "arTranslation": "صابون",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bar soap",
+      "liquid soap"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "shampoo",
+    "meaning": "A liquid for washing hair.",
+    "example": "She bought a bottle of shampoo.",
+    "categoryId": "Household",
+    "pronunciation": "/ʃæmˈpuː/",
+    "frTranslation": "shampoing",
+    "esTranslation": "champú",
+    "arTranslation": "شامبو",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "hair cleanser"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom"
+    ]
+  },
+  {
+    "text": "conditioner",
+    "meaning": "A liquid used after shampoo to soften hair.",
+    "example": "Use conditioner after shampoo.",
+    "categoryId": "Household",
+    "pronunciation": "/kənˈdɪʃ.ən.ər/",
+    "frTranslation": "après-shampooing",
+    "esTranslation": "acondicionador",
+    "arTranslation": "بلسم",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "hair softener"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom"
+    ]
+  },
+  {
+    "text": "toothbrush",
+    "meaning": "A small brush for cleaning teeth.",
+    "example": "Replace your toothbrush every three months.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtuːθ.brʌʃ/",
+    "frTranslation": "brosse à dents",
+    "esTranslation": "cepillo de dientes",
+    "arTranslation": "فرشاة أسنان",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "brush"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom",
+      "hygiene"
+    ]
+  },
+  {
+    "text": "toothpaste",
+    "meaning": "A paste used with a toothbrush to clean teeth.",
+    "example": "Squeeze the toothpaste from the bottom.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtuːθ.peɪst/",
+    "frTranslation": "dentifrice",
+    "esTranslation": "pasta de dientes",
+    "arTranslation": "معجون أسنان",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tooth gel"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "bathroom",
+      "hygiene"
+    ]
+  },
+  {
+    "text": "rug",
+    "meaning": "A small decorative floor covering.",
+    "example": "There is a rug by the bed.",
+    "categoryId": "Household",
+    "pronunciation": "/rʌg/",
+    "frTranslation": "tapis",
+    "esTranslation": "alfombra pequeña",
+    "arTranslation": "سجادة صغيرة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "mat"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "decor",
+      "living room"
+    ]
+  },
+  {
+    "text": "carpet",
+    "meaning": "A thick floor covering.",
+    "example": "Vacuum the carpet weekly.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkɑːr.pɪt/",
+    "frTranslation": "moquette/tapis",
+    "esTranslation": "moqueta/alfombra",
+    "arTranslation": "سجادة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "wall-to-wall"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "decor",
+      "living room"
+    ]
+  },
+  {
+    "text": "curtain",
+    "meaning": "A piece of cloth that covers a window.",
+    "example": "Close the curtain at night.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈkɜːr.tən/",
+    "frTranslation": "rideau",
+    "esTranslation": "cortina",
+    "arTranslation": "ستارة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "drape"
+    ],
+    "antonyms": [
+      "blind (n)"
+    ],
+    "lexicalField": [
+      "decor",
+      "window"
+    ]
+  },
+  {
+    "text": "window",
+    "meaning": "An opening in a wall fitted with glass.",
+    "example": "Open the window to air the room.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈwɪn.doʊ/",
+    "frTranslation": "fenêtre",
+    "esTranslation": "ventana",
+    "arTranslation": "نافذة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "casement"
+    ],
+    "antonyms": [
+      "wall"
+    ],
+    "lexicalField": [
+      "structure",
+      "ventilation"
+    ]
+  },
+  {
+    "text": "door",
+    "meaning": "A hinged, sliding, or revolving barrier at an entrance.",
+    "example": "Please close the door softly.",
+    "categoryId": "Household",
+    "pronunciation": "/dɔːr/",
+    "frTranslation": "porte",
+    "esTranslation": "puerta",
+    "arTranslation": "باب",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "entry"
+    ],
+    "antonyms": [
+      "wall"
+    ],
+    "lexicalField": [
+      "structure",
+      "security"
+    ]
+  },
+  {
+    "text": "light bulb",
+    "meaning": "A glass bulb that provides light when powered.",
+    "example": "Replace the light bulb in the hallway.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈlaɪt bʌlb/",
+    "frTranslation": "ampoule",
+    "esTranslation": "bombilla",
+    "arTranslation": "مصباح كهربائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bulb"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "lighting",
+      "hardware"
+    ]
+  },
+  {
+    "text": "lamp",
+    "meaning": "A device for giving light.",
+    "example": "Switch on the lamp beside the sofa.",
+    "categoryId": "Household",
+    "pronunciation": "/læmp/",
+    "frTranslation": "lampe",
+    "esTranslation": "lámpara",
+    "arTranslation": "مصباح",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "light"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "lighting",
+      "living room"
+    ]
+  },
+  {
+    "text": "switch",
+    "meaning": "A device for turning electricity on or off.",
+    "example": "Flip the switch to turn on the light.",
+    "categoryId": "Household",
+    "pronunciation": "/swɪtʃ/",
+    "frTranslation": "interrupteur",
+    "esTranslation": "interruptor",
+    "arTranslation": "مفتاح كهربائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "toggle"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "electrical",
+      "utility"
+    ]
+  },
+  {
+    "text": "outlet",
+    "meaning": "A wall socket that provides electrical power.",
+    "example": "Plug the charger into the outlet.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈaʊt.lɛt/",
+    "frTranslation": "prise (murale)",
+    "esTranslation": "enchufe",
+    "arTranslation": "مقبس",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "socket",
+      "power point"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "electrical",
+      "utility"
+    ]
+  },
+  {
+    "text": "tidy up",
+    "meaning": "To make a place neat and organized.",
+    "example": "Let’s tidy up the living room before guests arrive.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈtaɪ.di ʌp/",
+    "frTranslation": "ranger",
+    "esTranslation": "ordenar",
+    "arTranslation": "رتّب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "straighten up",
+      "clean up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "chores",
+      "organization"
+    ]
+  },
+  {
+    "text": "clean up",
+    "meaning": "To remove dirt or mess from a place.",
+    "example": "We need to clean up the kitchen after cooking.",
+    "categoryId": "Household",
+    "pronunciation": "/kliːn ʌp/",
+    "frTranslation": "nettoyer",
+    "esTranslation": "limpiar",
+    "arTranslation": "نظّف",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "tidy up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "chores",
+      "cleaning"
+    ]
+  },
+  {
+    "text": "wipe down",
+    "meaning": "To clean a surface thoroughly with a cloth.",
+    "example": "Wipe down the counter with a damp cloth.",
+    "categoryId": "Household",
+    "pronunciation": "/waɪp daʊn/",
+    "frTranslation": "essuyer",
+    "esTranslation": "pasar un trapo",
+    "arTranslation": "مسح",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "wipe",
+      "polish"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "wipe up",
+    "meaning": "To remove a liquid from a surface.",
+    "example": "Wipe up the spill before it stains.",
+    "categoryId": "Household",
+    "pronunciation": "/waɪp ʌp/",
+    "frTranslation": "éponger",
+    "esTranslation": "limpiar (líquidos)",
+    "arTranslation": "مسح السائل",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "mop up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "mop up",
+    "meaning": "To clean or absorb liquid using a mop or cloth.",
+    "example": "Mop up the water near the sink.",
+    "categoryId": "Household",
+    "pronunciation": "/mɒp ʌp/",
+    "frTranslation": "éponger",
+    "esTranslation": "fregar/absorber",
+    "arTranslation": "امتص بالممسحة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "soak up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "floors"
+    ]
+  },
+  {
+    "text": "sweep up",
+    "meaning": "To remove dirt or crumbs from the floor.",
+    "example": "Sweep up the crumbs after breakfast.",
+    "categoryId": "Household",
+    "pronunciation": "/swiːp ʌp/",
+    "frTranslation": "balayer",
+    "esTranslation": "barrer",
+    "arTranslation": "كنس",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "brush up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "floors"
+    ]
+  },
+  {
+    "text": "vacuum up",
+    "meaning": "To remove dirt with a vacuum cleaner.",
+    "example": "Vacuum up the dust under the sofa.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈvæk.juːm ʌp/",
+    "frTranslation": "aspirer",
+    "esTranslation": "aspirar",
+    "arTranslation": "شفط بالمكنسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "vacuum"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning",
+      "floors"
+    ]
+  },
+  {
+    "text": "dust off",
+    "meaning": "To remove dust from something.",
+    "example": "Dust off the bookshelf once a week.",
+    "categoryId": "Household",
+    "pronunciation": "/dʌst ɒf/",
+    "frTranslation": "dépoussiérer",
+    "esTranslation": "desempolvar",
+    "arTranslation": "نفض الغبار",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "dust"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "cleaning"
+    ]
+  },
+  {
+    "text": "air out",
+    "meaning": "To let fresh air into a room.",
+    "example": "Open the windows to air out the bedroom.",
+    "categoryId": "Household",
+    "pronunciation": "/eər aʊt/",
+    "frTranslation": "aérer",
+    "esTranslation": "ventilar",
+    "arTranslation": "تهوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "ventilate"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "ventilation",
+      "freshen"
+    ]
+  },
+  {
+    "text": "take out",
+    "meaning": "To remove trash from the house.",
+    "example": "I’ll take out the trash tonight.",
+    "categoryId": "Household",
+    "pronunciation": "/teɪk aʊt/",
+    "frTranslation": "sortir (les ordures)",
+    "esTranslation": "sacar (la basura)",
+    "arTranslation": "أخرج",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "put out (trash)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "chores",
+      "waste"
+    ]
+  },
+  {
+    "text": "put away",
+    "meaning": "To return something to its usual place.",
+    "example": "Please put away the dishes.",
+    "categoryId": "Household",
+    "pronunciation": "/pʊt əˈweɪ/",
+    "frTranslation": "ranger",
+    "esTranslation": "guardar",
+    "arTranslation": "وضع بعيدًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "stow",
+      "store"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "organization",
+      "kitchen"
+    ]
+  },
+  {
+    "text": "put back",
+    "meaning": "To return something to where it was.",
+    "example": "Put the book back on the shelf.",
+    "categoryId": "Household",
+    "pronunciation": "/pʊt bæk/",
+    "frTranslation": "remettre",
+    "esTranslation": "volver a poner",
+    "arTranslation": "أعاد إلى مكانه",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "replace"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "organization"
+    ]
+  },
+  {
+    "text": "put on (the kettle)",
+    "meaning": "To start an appliance; to begin heating water.",
+    "example": "Could you put on the kettle?",
+    "categoryId": "Household",
+    "pronunciation": "/pʊt ɒn/",
+    "frTranslation": "mettre (la bouilloire)",
+    "esTranslation": "poner (la tetera)",
+    "arTranslation": "شغّل الغلاية",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "switch on"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "text": "plug in",
+    "meaning": "To connect a device to an electrical outlet.",
+    "example": "Plug in the toaster before use.",
+    "categoryId": "Household",
+    "pronunciation": "/plʌɡ ɪn/",
+    "frTranslation": "brancher",
+    "esTranslation": "enchufar",
+    "arTranslation": "وصّل",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "connect"
+    ],
+    "antonyms": [
+      "unplug"
+    ],
+    "lexicalField": [
+      "electrical"
+    ]
+  },
+  {
+    "text": "unplug",
+    "meaning": "To disconnect a device from power.",
+    "example": "Unplug the lamp when not in use.",
+    "categoryId": "Household",
+    "pronunciation": "/ʌnˈplʌɡ/",
+    "frTranslation": "débrancher",
+    "esTranslation": "desenchufar",
+    "arTranslation": "افصل",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "disconnect"
+    ],
+    "antonyms": [
+      "plug in"
+    ],
+    "lexicalField": [
+      "electrical"
+    ]
+  },
+  {
+    "text": "turn on",
+    "meaning": "To start a device or light.",
+    "example": "Turn on the heater if you’re cold.",
+    "categoryId": "Household",
+    "pronunciation": "/tɜːrn ɒn/",
+    "frTranslation": "allumer",
+    "esTranslation": "encender",
+    "arTranslation": "شغّل",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "switch on"
+    ],
+    "antonyms": [
+      "turn off"
+    ],
+    "lexicalField": [
+      "electrical",
+      "lighting"
+    ]
+  },
+  {
+    "text": "turn off",
+    "meaning": "To stop a device or light.",
+    "example": "Turn off the lights when you leave.",
+    "categoryId": "Household",
+    "pronunciation": "/tɜːrn ɒf/",
+    "frTranslation": "éteindre",
+    "esTranslation": "apagar",
+    "arTranslation": "أطفأ",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "switch off"
+    ],
+    "antonyms": [
+      "turn on"
+    ],
+    "lexicalField": [
+      "electrical",
+      "lighting"
+    ]
+  },
+  {
+    "text": "switch on",
+    "meaning": "To activate a device or light.",
+    "example": "Switch on the lamp, please.",
+    "categoryId": "Household",
+    "pronunciation": "/swɪtʃ ɒn/",
+    "frTranslation": "allumer",
+    "esTranslation": "encender",
+    "arTranslation": "شغّل",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "turn on"
+    ],
+    "antonyms": [
+      "switch off"
+    ],
+    "lexicalField": [
+      "lighting"
+    ]
+  },
+  {
+    "text": "switch off",
+    "meaning": "To deactivate a device or light.",
+    "example": "Switch off the AC at night.",
+    "categoryId": "Household",
+    "pronunciation": "/swɪtʃ ɒf/",
+    "frTranslation": "éteindre",
+    "esTranslation": "apagar",
+    "arTranslation": "أطفأ",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "turn off"
+    ],
+    "antonyms": [
+      "switch on"
+    ],
+    "lexicalField": [
+      "lighting"
+    ]
+  },
+  {
+    "text": "set up",
+    "meaning": "To assemble or arrange something ready for use.",
+    "example": "Let’s set up the new bookshelf.",
+    "categoryId": "Household",
+    "pronunciation": "/sɛt ʌp/",
+    "frTranslation": "installer",
+    "esTranslation": "instalar",
+    "arTranslation": "ركّب",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "assemble",
+      "install"
+    ],
+    "antonyms": [
+      "take down"
+    ],
+    "lexicalField": [
+      "DIY",
+      "setup"
+    ]
+  },
+  {
+    "text": "put together",
+    "meaning": "To assemble parts into a whole.",
+    "example": "We put together the flat-pack table.",
+    "categoryId": "Household",
+    "pronunciation": "/pʊt təˈgɛð.ər/",
+    "frTranslation": "assembler",
+    "esTranslation": "armar",
+    "arTranslation": "جمع",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "assemble"
+    ],
+    "antonyms": [
+      "take apart"
+    ],
+    "lexicalField": [
+      "DIY",
+      "furniture"
+    ]
+  },
+  {
+    "text": "take apart",
+    "meaning": "To disassemble something into pieces.",
+    "example": "He took apart the old crib.",
+    "categoryId": "Household",
+    "pronunciation": "/teɪk əˈpɑːrt/",
+    "frTranslation": "démonter",
+    "esTranslation": "desarmar",
+    "arTranslation": "فكّك",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "dismantle"
+    ],
+    "antonyms": [
+      "put together"
+    ],
+    "lexicalField": [
+      "DIY",
+      "maintenance"
+    ]
+  },
+  {
+    "text": "put up (shelves)",
+    "meaning": "To fix something to a wall or raise it.",
+    "example": "They put up shelves in the study.",
+    "categoryId": "Household",
+    "pronunciation": "/pʊt ʌp/",
+    "frTranslation": "poser/installer",
+    "esTranslation": "instalar (estantes)",
+    "arTranslation": "ثبت الرفوف",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "mount",
+      "install"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "DIY",
+      "storage"
+    ]
+  },
+  {
+    "text": "hang up",
+    "meaning": "To suspend something from a hook or hanger.",
+    "example": "Hang up your coat by the door.",
+    "categoryId": "Household",
+    "pronunciation": "/hæŋ ʌp/",
+    "frTranslation": "accrocher",
+    "esTranslation": "colgar",
+    "arTranslation": "علّق",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "suspend"
+    ],
+    "antonyms": [
+      "take down"
+    ],
+    "lexicalField": [
+      "storage",
+      "entryway"
+    ]
+  },
+  {
+    "text": "put out (fire/trash)",
+    "meaning": "To extinguish or to place outside.",
+    "example": "Put out the candles before bed.",
+    "categoryId": "Household",
+    "pronunciation": "/pʊt aʊt/",
+    "frTranslation": "éteindre/mettre dehors",
+    "esTranslation": "apagar/sacar",
+    "arTranslation": "أطفأ/أخرج",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "extinguish"
+    ],
+    "antonyms": [
+      "light",
+      "bring in"
+    ],
+    "lexicalField": [
+      "safety",
+      "waste"
+    ]
+  },
+  {
+    "text": "sort out",
+    "meaning": "To organize or solve a problem.",
+    "example": "We need to sort out the hallway closet.",
+    "categoryId": "Household",
+    "pronunciation": "/sɔːrt aʊt/",
+    "frTranslation": "trier/organiser",
+    "esTranslation": "ordenar",
+    "arTranslation": "رتّب/حلّ",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "organize",
+      "arrange"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "organization"
+    ]
+  },
+  {
+    "text": "run out of",
+    "meaning": "To have no more of something left.",
+    "example": "We ran out of detergent.",
+    "categoryId": "Household",
+    "pronunciation": "/rʌn aʊt ɒv/",
+    "frTranslation": "manquer de",
+    "esTranslation": "quedarse sin",
+    "arTranslation": "نفد من",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "be out of"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "supplies"
+    ]
+  },
+  {
+    "text": "stock up on",
+    "meaning": "To buy a large quantity for future use.",
+    "example": "Let’s stock up on paper towels.",
+    "categoryId": "Household",
+    "pronunciation": "/stɒk ʌp ɒn/",
+    "frTranslation": "faire des stocks de",
+    "esTranslation": "abastecerse de",
+    "arTranslation": "تزود بـ",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "buy in bulk"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "supplies"
+    ]
+  },
+  {
+    "text": "warm up (food)",
+    "meaning": "To heat food to a comfortable temperature.",
+    "example": "Warm up the soup in the microwave.",
+    "categoryId": "Household",
+    "pronunciation": "/wɔːrm ʌp/",
+    "frTranslation": "réchauffer",
+    "esTranslation": "calentar",
+    "arTranslation": "سخّن",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "reheat"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen"
+    ]
+  },
+  {
+    "text": "cool down (a room)",
+    "meaning": "To lower the temperature of a room.",
+    "example": "Open the window to cool down the room.",
+    "categoryId": "Household",
+    "pronunciation": "/kuːl daʊn/",
+    "frTranslation": "refroidir",
+    "esTranslation": "enfriar",
+    "arTranslation": "برّد",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "chill"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "ventilation",
+      "cooling"
+    ]
+  },
+  {
+    "text": "boil over",
+    "meaning": "To overflow while boiling.",
+    "example": "Watch the pot so it doesn’t boil over.",
+    "categoryId": "Household",
+    "pronunciation": "/bɔɪl ˈoʊ.vər/",
+    "frTranslation": "déborder (à l’ébullition)",
+    "esTranslation": "derramarse al hervir",
+    "arTranslation": "فاض عند الغليان",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "spill over"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "kitchen",
+      "cooking"
+    ]
+  },
+  {
+    "text": "pick up after",
+    "meaning": "To clean a mess someone else made.",
+    "example": "Please pick up after yourself.",
+    "categoryId": "Household",
+    "pronunciation": "/pɪk ʌp ˈæf.tər/",
+    "frTranslation": "ramasser derrière",
+    "esTranslation": "recoger lo que deja",
+    "arTranslation": "لمّ بعد",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "tidy after"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "chores"
+    ]
+  },
+  {
+    "text": "throw away",
+    "meaning": "To dispose of something in the trash.",
+    "example": "Throw away the broken plate.",
+    "categoryId": "Household",
+    "pronunciation": "/θroʊ əˈweɪ/",
+    "frTranslation": "jeter",
+    "esTranslation": "tirar",
+    "arTranslation": "ارمِ",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "discard",
+      "throw out"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "waste"
+    ]
+  },
+  {
+    "text": "throw out",
+    "meaning": "To discard something.",
+    "example": "We threw out the old rug.",
+    "categoryId": "Household",
+    "pronunciation": "/θroʊ aʊt/",
+    "frTranslation": "jeter",
+    "esTranslation": "tirar",
+    "arTranslation": "تخلّص من",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "discard",
+      "throw away"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "waste"
+    ]
+  },
+  {
+    "text": "toss out",
+    "meaning": "To throw away casually.",
+    "example": "He tossed out the expired milk.",
+    "categoryId": "Household",
+    "pronunciation": "/tɒs aʊt/",
+    "frTranslation": "jeter",
+    "esTranslation": "tirar",
+    "arTranslation": "ارمِ",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "throw out"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "waste"
+    ]
+  },
+  {
+    "text": "clear out",
+    "meaning": "To remove everything from a space.",
+    "example": "Let’s clear out the attic this weekend.",
+    "categoryId": "Household",
+    "pronunciation": "/klɪər aʊt/",
+    "frTranslation": "vider",
+    "esTranslation": "vaciar",
+    "arTranslation": "أفرغ",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "empty out"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "organization",
+      "storage"
+    ]
+  },
+  {
+    "text": "declutter",
+    "meaning": "To remove unnecessary items from a space.",
+    "example": "We spent the afternoon decluttering the garage.",
+    "categoryId": "Household",
+    "pronunciation": "/diːˈklʌt.ər/",
+    "frTranslation": "désencombrer",
+    "esTranslation": "despejar",
+    "arTranslation": "التخلص من الفوضى",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "purge",
+      "streamline"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "organization"
+    ]
+  },
+  {
+    "text": "spruce up",
+    "meaning": "To make something look cleaner or more attractive.",
+    "example": "We spruced up the living room with new cushions.",
+    "categoryId": "Household",
+    "pronunciation": "/spruːs ʌp/",
+    "frTranslation": "rafraîchir/embellir",
+    "esTranslation": "arreglar/adecentar",
+    "arTranslation": "حسّن المظهر",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "freshen up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "decor",
+      "cleaning"
+    ]
+  },
+  {
+    "text": "freshen up",
+    "meaning": "To improve smell/appearance slightly or wash quickly.",
+    "example": "Open a window to freshen up the room.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈfrɛʃ.ən ʌp/",
+    "frTranslation": "rafraîchir",
+    "esTranslation": "refrescar",
+    "arTranslation": "أنعش",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "revive"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "ventilation",
+      "hygiene"
+    ]
+  },
+  {
+    "text": "water down (paint)",
+    "meaning": "To add water to make a liquid less strong.",
+    "example": "Water down the paint a little.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈwɔː.tər daʊn/",
+    "frTranslation": "délayer",
+    "esTranslation": "aguar/diluir",
+    "arTranslation": "خفّف بالماء",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "dilute"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "DIY",
+      "paint"
+    ]
+  },
+  {
+    "text": "top up",
+    "meaning": "To fill something that is partly empty.",
+    "example": "Top up the soap dispenser.",
+    "categoryId": "Household",
+    "pronunciation": "/tɒp ʌp/",
+    "frTranslation": "compléter",
+    "esTranslation": "rellenar",
+    "arTranslation": "أضف حتى يمتلئ",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "refill"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "supplies"
+    ]
+  },
+  {
+    "text": "straighten up",
+    "meaning": "To make a place tidy and orderly.",
+    "example": "Straighten up the bedroom before guests arrive.",
+    "categoryId": "Household",
+    "pronunciation": "/ˈstreɪ.tən ʌp/",
+    "frTranslation": "remettre en ordre",
+    "esTranslation": "ordenar",
+    "arTranslation": "رتّب",
+    "level": "advancedLevelTwo",
+    "synonyms": [
+      "tidy up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "organization"
+    ]
+  }
+]

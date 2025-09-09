@@ -1,0 +1,1204 @@
+[
+  {
+    "text": "foley",
+    "meaning": "The recreation of everyday sounds for film in sync with the picture.",
+    "example": "We recorded foley for footsteps and cloth rustle.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/foley/",
+    "frTranslation": "bruitage (foley)",
+    "esTranslation": "foley (sonidos)",
+    "arTranslation": "فوْلي/مؤثرات حية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "film"
+    ]
+  },
+  {
+    "text": "ADR (dialogue)",
+    "meaning": "Automated dialogue replacement recorded later to fix lines or noise.",
+    "example": "The actor did ADR for the noisy street scene.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/ADR (dialogue)/",
+    "frTranslation": "post-synchronisation (doublage)",
+    "esTranslation": "ADR (doblaje)",
+    "arTranslation": "استبدال حوار آلي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "film"
+    ]
+  },
+  {
+    "text": "soundtrack",
+    "meaning": "All the music used in a film; sometimes also a released album.",
+    "example": "The soundtrack mixes pop songs and original score.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/soundtrack/",
+    "frTranslation": "bande sonore",
+    "esTranslation": "banda sonora",
+    "arTranslation": "موسيقى تصويرية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "film"
+    ]
+  },
+  {
+    "text": "trailer",
+    "meaning": "A short promotional video for a movie or series.",
+    "example": "The trailer teased the twist without spoilers.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/trailer/",
+    "frTranslation": "bande-annonce",
+    "esTranslation": "tráiler/avance",
+    "arTranslation": "إعلان الفيلم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "film"
+    ]
+  },
+  {
+    "text": "rehearsal",
+    "meaning": "A practice session to prepare a performance.",
+    "example": "The cast scheduled a final rehearsal before opening.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/rehearsal/",
+    "frTranslation": "répétition",
+    "esTranslation": "ensayo",
+    "arTranslation": "بروفة/تمرين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "audition",
+    "meaning": "A tryout where performers show their skills to get a role.",
+    "example": "Hundreds attended the open audition.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/audition/",
+    "frTranslation": "audition",
+    "esTranslation": "audición",
+    "arTranslation": "اختبار أداء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "casting",
+    "meaning": "The process of selecting actors for roles.",
+    "example": "Casting found a newcomer for the lead.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/casting/",
+    "frTranslation": "casting (distribution)",
+    "esTranslation": "casting",
+    "arTranslation": "اختيار الممثلين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "backstage",
+    "meaning": "The area behind the stage not visible to the audience.",
+    "example": "Props are stored backstage for quick access.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/backstage/",
+    "frTranslation": "coulisses",
+    "esTranslation": "entre bastidores",
+    "arTranslation": "خلف الكواليس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "front of house",
+    "meaning": "Staff and operations that handle the audience experience in a venue.",
+    "example": "Front-of-house volunteers scanned tickets.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/front of house/",
+    "frTranslation": "accueil/salle (foyer)",
+    "esTranslation": "atención en sala",
+    "arTranslation": "واجهة المسرح/الاستقبال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "set (stage)",
+    "meaning": "The physical scenery and furniture on stage.",
+    "example": "The living-room set changes during intermission.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/set (stage)/",
+    "frTranslation": "décor (plateau)",
+    "esTranslation": "escenografía (decorado)",
+    "arTranslation": "ديكور المسرح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "cue",
+    "meaning": "A prompt for a performer or technician to start an action.",
+    "example": "The blackout cue happens at the final line.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/cue/",
+    "frTranslation": "signal (déclenchement)",
+    "esTranslation": "señal (entrada)",
+    "arTranslation": "إشارة دخول/تنفيذ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "prop",
+    "meaning": "An object used by actors during a performance.",
+    "example": "She placed the prop letter on the desk.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/prop/",
+    "frTranslation": "accessoire (scène)",
+    "esTranslation": "utilería (objeto)",
+    "arTranslation": "إكسسوار المسرح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "stage"
+    ]
+  },
+  {
+    "text": "choreography",
+    "meaning": "The arrangement of dance steps and patterns for a piece.",
+    "example": "The choreography blends hip-hop with contemporary.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/choreography/",
+    "frTranslation": "chorégraphie",
+    "esTranslation": "coreografía",
+    "arTranslation": "تصميم الرقص",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "dance"
+    ]
+  },
+  {
+    "text": "portrait",
+    "meaning": "An artwork that represents a person’s face and expression.",
+    "example": "The portrait captures the painter’s sister at 20.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/portrait/",
+    "frTranslation": "portrait",
+    "esTranslation": "retrato",
+    "arTranslation": "صورة شخصية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "landscape (art)",
+    "meaning": "A work depicting natural scenery such as mountains, rivers, or fields.",
+    "example": "She specializes in watercolor landscapes.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/landscape (art)/",
+    "frTranslation": "paysage (peinture)",
+    "esTranslation": "paisaje (arte)",
+    "arTranslation": "منظر طبيعي (فن)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "still life",
+    "meaning": "A painting or photo of arranged objects.",
+    "example": "The still life contrasts glass and citrus.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/still life/",
+    "frTranslation": "nature morte",
+    "esTranslation": "naturaleza muerta",
+    "arTranslation": "طبيعة صامتة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "abstract art",
+    "meaning": "Art that emphasizes shape and color rather than realistic depiction.",
+    "example": "The abstract art explores motion through lines.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/abstract art/",
+    "frTranslation": "art abstrait",
+    "esTranslation": "arte abstracto",
+    "arTranslation": "فن تجريدي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "installation art",
+    "meaning": "A site-specific arrangement that transforms the viewer’s space or perception.",
+    "example": "The installation art filled the gallery floor with mirrors.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/installation art/",
+    "frTranslation": "art d’installation",
+    "esTranslation": "arte de instalación",
+    "arTranslation": "فن التركيبات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "mural",
+    "meaning": "A large artwork painted or applied directly on a wall.",
+    "example": "The city commissioned a mural under the bridge.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/mural/",
+    "frTranslation": "fresque/murale",
+    "esTranslation": "mural",
+    "arTranslation": "جدارية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "graffiti",
+    "meaning": "Text or images sprayed or painted in public spaces, sometimes unauthorized.",
+    "example": "The artist moved from graffiti to gallery shows.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/graffiti/",
+    "frTranslation": "graffiti",
+    "esTranslation": "grafiti",
+    "arTranslation": "جرافيتي/كتابة على الجدران",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "watercolor",
+    "meaning": "A paint thinned with water that produces translucent layers.",
+    "example": "Light washes of watercolor suggest mist.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/watercolor/",
+    "frTranslation": "aquarelle",
+    "esTranslation": "acuarela",
+    "arTranslation": "ألوان مائية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "oil painting",
+    "meaning": "A technique using pigments bound with oil for rich color and slow drying.",
+    "example": "Oil painting allows subtle blending on the canvas.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/oil painting/",
+    "frTranslation": "peinture à l’huile",
+    "esTranslation": "óleo",
+    "arTranslation": "الزيتية (لوحة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "etching",
+    "meaning": "A printmaking method where acid bites a design into a metal plate.",
+    "example": "Her etching series depicts urban maps.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/etching/",
+    "frTranslation": "eau-forte (gravure)",
+    "esTranslation": "aguafuerte (grabado)",
+    "arTranslation": "طباعة محفورة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "palette",
+    "meaning": "The range of colors used by an artist or the board that holds paints.",
+    "example": "He kept a muted palette in winter scenes.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/palette/",
+    "frTranslation": "palette",
+    "esTranslation": "paleta",
+    "arTranslation": "لوحة ألوان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "color range"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "brushstroke",
+    "meaning": "A single movement of the brush that leaves a visible mark.",
+    "example": "Broad brushstrokes give the sky energy.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/brushstroke/",
+    "frTranslation": "coup de pinceau",
+    "esTranslation": "pincelada",
+    "arTranslation": "ضربة فرشاة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "perspective (art)",
+    "meaning": "Techniques for creating depth on a flat surface using vanishing points.",
+    "example": "The street recedes in one-point perspective.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/perspective (art)/",
+    "frTranslation": "perspective (art)",
+    "esTranslation": "perspectiva (arte)",
+    "arTranslation": "منظور (فن)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "box office",
+    "meaning": "The total money earned from ticket sales; also the place where tickets are sold.",
+    "example": "Strong word of mouth lifted the box office.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/box office/",
+    "frTranslation": "box-office/recettes",
+    "esTranslation": "taquilla (recaudación)",
+    "arTranslation": "إيرادات شباك التذاكر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "rating (content)",
+    "meaning": "An age-based guideline for who should view a movie, show, or game.",
+    "example": "The film’s rating changed after edits.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/rating (content)/",
+    "frTranslation": "classification (âge)",
+    "esTranslation": "clasificación (edad)",
+    "arTranslation": "تصنيف عمري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "binge-watch",
+    "meaning": "To watch many episodes in a row without long breaks.",
+    "example": "We binge-watched the entire season on Sunday.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/binge-watch/",
+    "frTranslation": "regarder en rafale",
+    "esTranslation": "maratonear (series)",
+    "arTranslation": "مشاهدة متواصلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "streaming platform",
+    "meaning": "An online service that delivers video or audio on demand.",
+    "example": "The documentary moved to a new streaming platform.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/streaming platform/",
+    "frTranslation": "plateforme de streaming",
+    "esTranslation": "plataforma de streaming",
+    "arTranslation": "منصة بث",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "soundbite",
+    "meaning": "A short, memorable clip used in news or promotion.",
+    "example": "The interview soundbite went viral.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/soundbite/",
+    "frTranslation": "extrait percutant",
+    "esTranslation": "cita breve (audio)",
+    "arTranslation": "مقتطف صوتي قصير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "media"
+    ]
+  },
+  {
+    "text": "cameo",
+    "meaning": "A brief appearance by a famous person in a film or show.",
+    "example": "The director makes a cameo as a taxi driver.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/cameo/",
+    "frTranslation": "caméo (apparition)",
+    "esTranslation": "cameo (aparición)",
+    "arTranslation": "ظهور قصير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "franchise",
+    "meaning": "A series of related films, shows, or games sharing characters or worlds.",
+    "example": "The studio expanded the franchise with a prequel.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/franchise/",
+    "frTranslation": "franchise (saga)",
+    "esTranslation": "franquicia (saga)",
+    "arTranslation": "سلسلة أفلام/امتياز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "merchandise",
+    "meaning": "Branded products sold to fans, like T‑shirts or posters.",
+    "example": "Tour merchandise sold out by intermission.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/merchandise/",
+    "frTranslation": "produits dérivés",
+    "esTranslation": "mercancía (merch)",
+    "arTranslation": "سلع تذكارية/منتجات مشتقة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "fanbase",
+    "meaning": "The dedicated community of supporters around an artist or series.",
+    "example": "The fanbase organizes meetups and charity drives.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/fanbase/",
+    "frTranslation": "base de fans",
+    "esTranslation": "base de fans",
+    "arTranslation": "قاعدة جماهيرية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "industry"
+    ]
+  },
+  {
+    "text": "punchline",
+    "meaning": "The final, surprising line that makes a joke funny.",
+    "example": "His timing on the punchline was perfect.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/punchline/",
+    "frTranslation": "chute (blague)",
+    "esTranslation": "remate (chiste)",
+    "arTranslation": "خاتمة النكتة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "setup (joke)",
+    "meaning": "The information that prepares the audience for the punchline.",
+    "example": "A clean setup makes the twist land.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/setup (joke)/",
+    "frTranslation": "mise en place (blague)",
+    "esTranslation": "planteamiento (chiste)",
+    "arTranslation": "تمهيد النكتة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "sketch (comedy)",
+    "meaning": "A short comedic scene with its own premise and characters.",
+    "example": "The sketch parodied reality TV tropes.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/sketch (comedy)/",
+    "frTranslation": "sketch (comique)",
+    "esTranslation": "sketch (comedia)",
+    "arTranslation": "فقرة هزلية قصيرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "monologue",
+    "meaning": "A long speech by one character, often revealing thoughts.",
+    "example": "The actor delivered a moving monologue.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/monologue/",
+    "frTranslation": "monologue",
+    "esTranslation": "monólogo",
+    "arTranslation": "مونولوج/مناجاة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "dialogue",
+    "meaning": "Spoken lines exchanged between characters.",
+    "example": "Natural dialogue makes the scene believable.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/dialogue/",
+    "frTranslation": "dialogue",
+    "esTranslation": "diálogo",
+    "arTranslation": "حوار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "narration",
+    "meaning": "Spoken or written commentary that explains or tells the story.",
+    "example": "A calm narration links the episodes.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/narration/",
+    "frTranslation": "narration",
+    "esTranslation": "narración",
+    "arTranslation": "سرد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "beat (story)",
+    "meaning": "A unit of story action that moves the plot or changes emotion.",
+    "example": "The midpoint beat reveals the secret.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/beat (story)/",
+    "frTranslation": "temps fort (récit)",
+    "esTranslation": "momento clave (historia)",
+    "arTranslation": "لحظة سردية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "writing"
+    ]
+  },
+  {
+    "text": "warm up",
+    "meaning": "To prepare your body or voice for a performance.",
+    "example": "Singers warm up with scales backstage.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/warm up/",
+    "frTranslation": "s’échauffer",
+    "esTranslation": "calentar (antes)",
+    "arTranslation": "يسخّن (قبل الأداء)",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "get ready"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "tune up",
+    "meaning": "To bring an instrument into correct pitch.",
+    "example": "The band tuned up before the set.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/tune up/",
+    "frTranslation": "accorder (instrument)",
+    "esTranslation": "afinar (instrumento)",
+    "arTranslation": "يضبط الآلة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "belt out",
+    "meaning": "To sing loudly and powerfully.",
+    "example": "She belted out the final chorus.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/belt out/",
+    "frTranslation": "chanter à pleine voix",
+    "esTranslation": "cantar a todo pulmón",
+    "arTranslation": "يغنّي بأعلى صوته",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "play back",
+    "meaning": "To listen to a recording to review it.",
+    "example": "Let’s play back the second take.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/play back/",
+    "frTranslation": "réécouter (lecture)",
+    "esTranslation": "reproducir (escuchar)",
+    "arTranslation": "إعادة تشغيل للاستماع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "fade in",
+    "meaning": "For sound or image to increase gradually from silence or black.",
+    "example": "The song fades in under the opening shot.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/fade in/",
+    "frTranslation": "fondu en ouverture",
+    "esTranslation": "fundido de entrada",
+    "arTranslation": "مزج/ظهور تدريجي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "fade out"
+    ],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "fade out",
+    "meaning": "For sound or image to decrease gradually to silence or black.",
+    "example": "We’ll fade out on the city lights.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/fade out/",
+    "frTranslation": "fondu en fermeture",
+    "esTranslation": "fundido de salida",
+    "arTranslation": "تلاشي تدريجي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "fade in"
+    ],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "cut in",
+    "meaning": "To interrupt someone speaking or to insert new footage during editing.",
+    "example": "The host cut in with a question mid-scene.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/cut in/",
+    "frTranslation": "couper (interrompre)/insérer",
+    "esTranslation": "interrumpir/insertar",
+    "arTranslation": "يُقاطع/يُدرج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "cut away",
+    "meaning": "To edit to a different shot while the audio continues.",
+    "example": "We cut away to the audience reaction.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/cut away/",
+    "frTranslation": "couper vers un autre plan",
+    "esTranslation": "cortar a otro plano",
+    "arTranslation": "قطع إلى لقطة أخرى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "cue up",
+    "meaning": "To line up a track or clip so it starts at the right moment.",
+    "example": "Cue up track three for the entrance.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/cue up/",
+    "frTranslation": "préparer (une piste)",
+    "esTranslation": "poner en cola (audio)",
+    "arTranslation": "يجهّز المسار للتشغيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "break into (industry)",
+    "meaning": "To begin a career in a competitive field.",
+    "example": "She broke into animation after an internship.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/break into (industry)/",
+    "frTranslation": "percer (dans un milieu)",
+    "esTranslation": "entrar en (la industria)",
+    "arTranslation": "يقتحم المجال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "sell out",
+    "meaning": "To have all tickets or stock purchased; also to compromise artistic values for money.",
+    "example": "The tour sold out in minutes.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/sell out/",
+    "frTranslation": "afficher complet / tout vendre",
+    "esTranslation": "agotarse (entradas)",
+    "arTranslation": "تنفد التذاكر/يبيع كل شيء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "bring down the house",
+    "meaning": "To receive extremely enthusiastic applause.",
+    "example": "Her solo brought down the house.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/bring down the house/",
+    "frTranslation": "mettre la salle en délire",
+    "esTranslation": "poner al público en pie",
+    "arTranslation": "يشعل القاعة تصفيقًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "tone down",
+    "meaning": "To make something less intense or showy.",
+    "example": "Tone down the makeup for this scene.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/tone down/",
+    "frTranslation": "atténuer",
+    "esTranslation": "suavizar",
+    "arTranslation": "يخفّف النبرة/الحِدّة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "amp up"
+    ],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "amp up",
+    "meaning": "To increase energy or intensity.",
+    "example": "The lights amp up before the drop.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/amp up/",
+    "frTranslation": "booster/intensifier",
+    "esTranslation": "intensificar",
+    "arTranslation": "يزيد الحماس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "tone down"
+    ],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "motif",
+    "meaning": "A recurring element that has symbolic significance in a work.",
+    "example": "Water is a motif throughout the exhibit.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/motif/",
+    "frTranslation": "motif",
+    "esTranslation": "motivo",
+    "arTranslation": "عنصر متكرر/نمط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "art theory"
+    ]
+  },
+  {
+    "text": "theme",
+    "meaning": "The central idea explored by a work of art.",
+    "example": "The theme of loss runs through the album.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/theme/",
+    "frTranslation": "thème",
+    "esTranslation": "tema",
+    "arTranslation": "ثيمة/موضوع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "art theory"
+    ]
+  },
+  {
+    "text": "aesthetic",
+    "meaning": "A set of principles or a recognizable style guiding artistic choices.",
+    "example": "The film’s minimalist aesthetic avoids clutter.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/aesthetic/",
+    "frTranslation": "esthétique",
+    "esTranslation": "estética",
+    "arTranslation": "جمالي/ذوق فني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "art theory"
+    ]
+  },
+  {
+    "text": "palette knife",
+    "meaning": "A flexible metal tool used to mix or apply paint thickly.",
+    "example": "She sculpted peaks with a palette knife.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/palette knife/",
+    "frTranslation": "couteau à peindre",
+    "esTranslation": "espátula de pintura",
+    "arTranslation": "سكين لوحة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "glaze (painting)",
+    "meaning": "A thin, translucent paint layer that modifies color beneath.",
+    "example": "A warm glaze unified the shadows.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/glaze (painting)/",
+    "frTranslation": "glacis (peinture)",
+    "esTranslation": "veladura (pintura)",
+    "arTranslation": "طبقة طلاء شفافة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "visual arts"
+    ]
+  },
+  {
+    "text": "vernissage",
+    "meaning": "A preview opening of an art exhibition, often by invitation.",
+    "example": "Collectors attended the vernissage on Thursday.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/vernissage/",
+    "frTranslation": "vernissage",
+    "esTranslation": "vernissage",
+    "arTranslation": "افتتاح معرض (فيرناساج)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "event"
+    ]
+  },
+  {
+    "text": "portfolio",
+    "meaning": "A curated selection of works that shows an artist’s skills.",
+    "example": "She updated her portfolio with recent commissions.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/portfolio/",
+    "frTranslation": "portfolio (d’artiste)",
+    "esTranslation": "portafolio (artista)",
+    "arTranslation": "ملف أعمال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "career"
+    ]
+  },
+  {
+    "text": "commission (noun)",
+    "meaning": "A paid request for an artist to create a specific work.",
+    "example": "The city issued a commission for a public sculpture.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/commission (noun)/",
+    "frTranslation": "commande (artistique)",
+    "esTranslation": "encargo",
+    "arTranslation": "طلب فنّي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "career"
+    ]
+  },
+  {
+    "text": "residency (artist)",
+    "meaning": "A program that offers artists time and space to create, often with housing and a stipend.",
+    "example": "He completed a residency in Kyoto.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/residency (artist)/",
+    "frTranslation": "résidence d’artiste",
+    "esTranslation": "residencia artística",
+    "arTranslation": "إقامة فنية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "career"
+    ]
+  },
+  {
+    "text": "level design",
+    "meaning": "The craft of shaping game spaces and challenges to guide player experience.",
+    "example": "Smart level design teaches mechanics without tutorials.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/level design/",
+    "frTranslation": "conception de niveaux",
+    "esTranslation": "diseño de niveles",
+    "arTranslation": "تصميم المراحل",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "games"
+    ]
+  },
+  {
+    "text": "cutscene",
+    "meaning": "A non-playable sequence that advances the story in a game.",
+    "example": "A brief cutscene explains the mission.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/cutscene/",
+    "frTranslation": "cinématique (jeu)",
+    "esTranslation": "cinemática (juego)",
+    "arTranslation": "مشهد سينمائي داخل لعبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "games"
+    ]
+  },
+  {
+    "text": "non-player character (NPC)",
+    "meaning": "A game character controlled by the computer that interacts with the player.",
+    "example": "The shopkeeper NPC offers side quests.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/non-player character (NPC)/",
+    "frTranslation": "personnage non joueur (PNJ)",
+    "esTranslation": "personaje no jugable (PNJ)",
+    "arTranslation": "شخصية غير لاعبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "games"
+    ]
+  },
+  {
+    "text": "easter egg (media)",
+    "meaning": "A hidden joke or reference placed in a work for fans to discover.",
+    "example": "Viewers found an easter egg in the credits.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/easter egg (media)/",
+    "frTranslation": "easter egg (clin d’œil)",
+    "esTranslation": "huevo de pascua (referencia)",
+    "arTranslation": "تفصيلة خفية/إشارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "media"
+    ]
+  },
+  {
+    "text": "soundstage",
+    "meaning": "A large, soundproof studio space for building sets and filming.",
+    "example": "They shot the spaceship interior on a soundstage.",
+    "categoryId": "Arts & Entertainment",
+    "pronunciation": "/soundstage/",
+    "frTranslation": "plateau sonorisé (studio)",
+    "esTranslation": "plató insonorizado",
+    "arTranslation": "استوديو تصوير معزول صوتيًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Arts & Entertainment",
+      "film"
+    ]
+  }
+]

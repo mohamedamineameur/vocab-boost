@@ -1,0 +1,512 @@
+[
+  {
+    "text": "coat",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your coat before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/coat/",
+    "frTranslation": "manteau",
+    "esTranslation": "abrigo",
+    "arTranslation": "معطف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "trench coat",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your trench coat before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/trench coat/",
+    "frTranslation": "trench",
+    "esTranslation": "gabardina",
+    "arTranslation": "ترنش",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "raincoat",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your raincoat before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/raincoat/",
+    "frTranslation": "imperméable",
+    "esTranslation": "impermeable",
+    "arTranslation": "معطف مطري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "parka",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your parka before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/parka/",
+    "frTranslation": "parka",
+    "esTranslation": "parka/anorak",
+    "arTranslation": "باركا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "windbreaker",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your windbreaker before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/windbreaker/",
+    "frTranslation": "coupe-vent",
+    "esTranslation": "rompevientos",
+    "arTranslation": "سترة واقية من الرياح",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "denim jacket",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your denim jacket before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/denim jacket/",
+    "frTranslation": "veste en jean",
+    "esTranslation": "chaqueta vaquera",
+    "arTranslation": "سترة جينز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "leather jacket",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your leather jacket before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/leather jacket/",
+    "frTranslation": "veste en cuir",
+    "esTranslation": "chaqueta de cuero",
+    "arTranslation": "سترة جلد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "puffer jacket",
+    "meaning": "Outer clothing worn for warmth or protection.",
+    "example": "Put on your puffer jacket before going out.",
+    "categoryId": "Clothing",
+    "pronunciation": "/puffer jacket/",
+    "frTranslation": "doudoune",
+    "esTranslation": "chaqueta acolchada",
+    "arTranslation": "سترة منفوخة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "outerwear"
+    ]
+  },
+  {
+    "text": "underwear",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new underwear.",
+    "categoryId": "Clothing",
+    "pronunciation": "/underwear/",
+    "frTranslation": "sous-vêtements",
+    "esTranslation": "ropa interior",
+    "arTranslation": "ملابس داخلية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "briefs",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new briefs.",
+    "categoryId": "Clothing",
+    "pronunciation": "/briefs/",
+    "frTranslation": "slip",
+    "esTranslation": "calzoncillos tipo slip",
+    "arTranslation": "سليب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "boxers",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new boxers.",
+    "categoryId": "Clothing",
+    "pronunciation": "/boxers/",
+    "frTranslation": "boxer",
+    "esTranslation": "calzoncillos bóxer",
+    "arTranslation": "بوكسر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "bra",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new bra.",
+    "categoryId": "Clothing",
+    "pronunciation": "/bra/",
+    "frTranslation": "soutien-gorge",
+    "esTranslation": "sujetador",
+    "arTranslation": "حمالة صدر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "panties",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new panties.",
+    "categoryId": "Clothing",
+    "pronunciation": "/panties/",
+    "frTranslation": "culotte",
+    "esTranslation": "bragas",
+    "arTranslation": "سراويل داخلية نسائية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "socks",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new socks.",
+    "categoryId": "Clothing",
+    "pronunciation": "/socks/",
+    "frTranslation": "chaussettes",
+    "esTranslation": "calcetines",
+    "arTranslation": "جوارب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "pyjamas",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new pyjamas.",
+    "categoryId": "Clothing",
+    "pronunciation": "/pyjamas/",
+    "frTranslation": "pyjama",
+    "esTranslation": "pijama",
+    "arTranslation": "بيجامة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "nightgown",
+    "meaning": "Clothing worn under outer garments.",
+    "example": "I need to buy new nightgown.",
+    "categoryId": "Clothing",
+    "pronunciation": "/nightgown/",
+    "frTranslation": "chemise de nuit",
+    "esTranslation": "camisón",
+    "arTranslation": "قميص نوم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "underwear"
+    ]
+  },
+  {
+    "text": "cotton",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This cotton fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/cotton/",
+    "frTranslation": "coton",
+    "esTranslation": "algodón",
+    "arTranslation": "قطن",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "wool",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This wool fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/wool/",
+    "frTranslation": "laine",
+    "esTranslation": "lana",
+    "arTranslation": "صوف",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "silk",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This silk fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/silk/",
+    "frTranslation": "soie",
+    "esTranslation": "seda",
+    "arTranslation": "حرير",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "linen",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This linen fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/linen/",
+    "frTranslation": "lin",
+    "esTranslation": "lino",
+    "arTranslation": "كتان",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "denim",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This denim fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/denim/",
+    "frTranslation": "denim/jean",
+    "esTranslation": "denim/mezclilla",
+    "arTranslation": "دنيم",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "leather",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This leather fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/leather/",
+    "frTranslation": "cuir",
+    "esTranslation": "cuero",
+    "arTranslation": "جلد",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "polyester",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This polyester fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/polyester/",
+    "frTranslation": "polyester",
+    "esTranslation": "poliéster",
+    "arTranslation": "بوليستر",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "nylon",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This nylon fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/nylon/",
+    "frTranslation": "nylon",
+    "esTranslation": "nailon",
+    "arTranslation": "نايلون",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "velvet",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This velvet fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/velvet/",
+    "frTranslation": "velours",
+    "esTranslation": "terciopelo",
+    "arTranslation": "مخمَل",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "satin",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This satin fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/satin/",
+    "frTranslation": "satin",
+    "esTranslation": "satén",
+    "arTranslation": "ساتان",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "lace",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This lace fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/lace/",
+    "frTranslation": "dentelle",
+    "esTranslation": "encaje",
+    "arTranslation": "دانتيل",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "corduroy",
+    "meaning": "A fabric or material used to make clothing.",
+    "example": "This corduroy fabric feels nice.",
+    "categoryId": "Clothing",
+    "pronunciation": "/corduroy/",
+    "frTranslation": "velours côtelé",
+    "esTranslation": "pana",
+    "arTranslation": "قماش مضلع",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "material/fabric"
+    ]
+  },
+  {
+    "text": "striped",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like striped patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/striped/",
+    "frTranslation": "rayé",
+    "esTranslation": "a rayas",
+    "arTranslation": "مخطط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  },
+  {
+    "text": "plaid",
+    "meaning": "A pattern or style commonly seen on clothing.",
+    "example": "I like plaid patterns.",
+    "categoryId": "Clothing",
+    "pronunciation": "/plaid/",
+    "frTranslation": "à carreaux/écossais",
+    "esTranslation": "a cuadros/escocés",
+    "arTranslation": "كاروهات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Clothing",
+      "pattern"
+    ]
+  }
+]

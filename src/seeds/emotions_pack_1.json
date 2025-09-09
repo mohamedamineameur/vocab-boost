@@ -1,0 +1,994 @@
+[
+  {
+    "text": "joy",
+    "meaning": "A strong feeling of great happiness and delight.",
+    "example": "She felt pure joy when the team won.",
+    "categoryId": "Emotions",
+    "pronunciation": "/joy/",
+    "frTranslation": "joie",
+    "esTranslation": "alegría",
+    "arTranslation": "فرح",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "delight",
+      "gladness"
+    ],
+    "antonyms": [
+      "sorrow"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "happiness",
+    "meaning": "A lasting state of well‑being and contentment.",
+    "example": "Daily walks boosted his happiness.",
+    "categoryId": "Emotions",
+    "pronunciation": "/happiness/",
+    "frTranslation": "bonheur",
+    "esTranslation": "felicidad",
+    "arTranslation": "سعادة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "contentment"
+    ],
+    "antonyms": [
+      "misery"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "contentment",
+    "meaning": "A calm satisfaction with what one has.",
+    "example": "A simple meal brought contentment after the hike.",
+    "categoryId": "Emotions",
+    "pronunciation": "/contentment/",
+    "frTranslation": "contentement",
+    "esTranslation": "contentamiento",
+    "arTranslation": "رضا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "satisfaction"
+    ],
+    "antonyms": [
+      "restlessness",
+      "discontent"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "relief",
+    "meaning": "A release from anxiety or pain.",
+    "example": "They sighed with relief after the test results.",
+    "categoryId": "Emotions",
+    "pronunciation": "/relief/",
+    "frTranslation": "soulagement",
+    "esTranslation": "alivio",
+    "arTranslation": "ارتياح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "reprieve",
+      "easing"
+    ],
+    "antonyms": [
+      "stress",
+      "worry"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "pride",
+    "meaning": "A feeling of satisfaction from one’s own or close ones’ achievements.",
+    "example": "She felt pride in finishing the marathon.",
+    "categoryId": "Emotions",
+    "pronunciation": "/pride/",
+    "frTranslation": "fierté",
+    "esTranslation": "orgullo",
+    "arTranslation": "فخر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "self-respect"
+    ],
+    "antonyms": [
+      "shame",
+      "humility (contrast)"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "gratitude",
+    "meaning": "A warm thankfulness and appreciation.",
+    "example": "He wrote a note of gratitude to his mentor.",
+    "categoryId": "Emotions",
+    "pronunciation": "/gratitude/",
+    "frTranslation": "gratitude",
+    "esTranslation": "gratitud",
+    "arTranslation": "امتنان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "thankfulness"
+    ],
+    "antonyms": [
+      "ingratitude"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "love",
+    "meaning": "A deep affection and care for someone or something.",
+    "example": "They showed love through small daily acts.",
+    "categoryId": "Emotions",
+    "pronunciation": "/love/",
+    "frTranslation": "amour",
+    "esTranslation": "amor",
+    "arTranslation": "حبّ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "affection"
+    ],
+    "antonyms": [
+      "hate"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "attachment"
+    ]
+  },
+  {
+    "text": "affection",
+    "meaning": "A gentle feeling of fondness and liking.",
+    "example": "Her affection for the puppy was obvious.",
+    "categoryId": "Emotions",
+    "pronunciation": "/affection/",
+    "frTranslation": "affection",
+    "esTranslation": "afecto",
+    "arTranslation": "مودة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "fondness",
+      "warmth"
+    ],
+    "antonyms": [
+      "hostility"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "attachment"
+    ]
+  },
+  {
+    "text": "hope",
+    "meaning": "A positive expectation that things can improve.",
+    "example": "Hope returned with the first signs of recovery.",
+    "categoryId": "Emotions",
+    "pronunciation": "/hope/",
+    "frTranslation": "espoir",
+    "esTranslation": "esperanza",
+    "arTranslation": "أمل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "optimism"
+    ],
+    "antonyms": [
+      "despair"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "anticipatory"
+    ]
+  },
+  {
+    "text": "optimism",
+    "meaning": "The tendency to expect good outcomes.",
+    "example": "His optimism helped the team through setbacks.",
+    "categoryId": "Emotions",
+    "pronunciation": "/optimism/",
+    "frTranslation": "optimisme",
+    "esTranslation": "optimismo",
+    "arTranslation": "تفاؤل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "pessimism"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "cognitive"
+    ]
+  },
+  {
+    "text": "amusement",
+    "meaning": "Lighthearted enjoyment that often leads to laughter.",
+    "example": "The comedian sparked genuine amusement.",
+    "categoryId": "Emotions",
+    "pronunciation": "/amusement/",
+    "frTranslation": "amusement",
+    "esTranslation": "diversión",
+    "arTranslation": "تسلية/امتاع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "fun",
+      "mirth"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "awe",
+    "meaning": "A feeling of wonder mixed with respect or fear.",
+    "example": "They stared in awe at the night sky.",
+    "categoryId": "Emotions",
+    "pronunciation": "/awe/",
+    "frTranslation": "émerveillement",
+    "esTranslation": "asombro reverente",
+    "arTranslation": "دهشة مفعمة بالإجلال",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "wonder"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "serenity",
+    "meaning": "A deep sense of peaceful calm.",
+    "example": "Meditation brought her a moment of serenity.",
+    "categoryId": "Emotions",
+    "pronunciation": "/serenity/",
+    "frTranslation": "sérénité",
+    "esTranslation": "serenidad",
+    "arTranslation": "سكون/طمأنينة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "tranquility"
+    ],
+    "antonyms": [
+      "agitation"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "calm"
+    ]
+  },
+  {
+    "text": "trust",
+    "meaning": "A belief that someone or something is reliable and honest.",
+    "example": "It takes time to rebuild trust after a mistake.",
+    "categoryId": "Emotions",
+    "pronunciation": "/trust/",
+    "frTranslation": "confiance",
+    "esTranslation": "confianza",
+    "arTranslation": "ثقة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "distrust",
+      "suspicion"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "admiration",
+    "meaning": "Warm approval and respect toward someone’s qualities.",
+    "example": "His bravery inspired widespread admiration.",
+    "categoryId": "Emotions",
+    "pronunciation": "/admiration/",
+    "frTranslation": "admiration",
+    "esTranslation": "admiración",
+    "arTranslation": "إعجاب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "respect"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "compassion",
+    "meaning": "A concern for another’s suffering coupled with a wish to help.",
+    "example": "Compassion motivated the volunteers.",
+    "categoryId": "Emotions",
+    "pronunciation": "/compassion/",
+    "frTranslation": "compassion",
+    "esTranslation": "compasión",
+    "arTranslation": "تعاطف/شفقة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "mercy"
+    ],
+    "antonyms": [
+      "indifference"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "empathy",
+    "meaning": "The ability to understand and share another person’s feelings.",
+    "example": "Good listeners show empathy without judgment.",
+    "categoryId": "Emotions",
+    "pronunciation": "/empathy/",
+    "frTranslation": "empathie",
+    "esTranslation": "empatía",
+    "arTranslation": "تعاطف (تفهم)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "apathy"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "sympathy",
+    "meaning": "Feeling sorrow for someone else’s misfortune.",
+    "example": "They offered sympathy to the grieving family.",
+    "categoryId": "Emotions",
+    "pronunciation": "/sympathy/",
+    "frTranslation": "sympathie",
+    "esTranslation": "simpatía/compasión",
+    "arTranslation": "تعاطف (مواساة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "prosocial"
+    ]
+  },
+  {
+    "text": "satisfaction",
+    "meaning": "Fulfillment that follows meeting a need or goal.",
+    "example": "He felt satisfaction after solving the problem.",
+    "categoryId": "Emotions",
+    "pronunciation": "/satisfaction/",
+    "frTranslation": "satisfaction",
+    "esTranslation": "satisfacción",
+    "arTranslation": "رضا/إشباع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "fulfillment",
+      "gratification"
+    ],
+    "antonyms": [
+      "frustration"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "positive"
+    ]
+  },
+  {
+    "text": "excitement",
+    "meaning": "High energy and eager anticipation.",
+    "example": "Kids’ excitement built before the trip.",
+    "categoryId": "Emotions",
+    "pronunciation": "/excitement/",
+    "frTranslation": "excitation/enthousiasme",
+    "esTranslation": "emoción/entusiasmo",
+    "arTranslation": "حماس/إثارة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "thrill"
+    ],
+    "antonyms": [
+      "boredom"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "arousal"
+    ]
+  },
+  {
+    "text": "sadness",
+    "meaning": "A low mood marked by sorrow or loss.",
+    "example": "A wave of sadness came after the farewell.",
+    "categoryId": "Emotions",
+    "pronunciation": "/sadness/",
+    "frTranslation": "tristesse",
+    "esTranslation": "tristeza",
+    "arTranslation": "حزن",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "sorrow"
+    ],
+    "antonyms": [
+      "joy"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "grief",
+    "meaning": "Deep sorrow, especially after a significant loss.",
+    "example": "Grief arrived in unpredictable waves.",
+    "categoryId": "Emotions",
+    "pronunciation": "/grief/",
+    "frTranslation": "deuil/chagrin",
+    "esTranslation": "duelo/pesar",
+    "arTranslation": "حزن شديد/حداد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "anger",
+    "meaning": "A hot feeling of displeasure that can motivate action.",
+    "example": "He managed his anger by taking a walk.",
+    "categoryId": "Emotions",
+    "pronunciation": "/anger/",
+    "frTranslation": "colère",
+    "esTranslation": "ira/enojo",
+    "arTranslation": "غضب",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "rage"
+    ],
+    "antonyms": [
+      "calm"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "frustration",
+    "meaning": "Irritation that comes from blocked goals.",
+    "example": "Slow progress caused real frustration.",
+    "categoryId": "Emotions",
+    "pronunciation": "/frustration/",
+    "frTranslation": "frustration",
+    "esTranslation": "frustración",
+    "arTranslation": "إحباط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "satisfaction"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "disappointment",
+    "meaning": "Sadness when hopes or expectations are not met.",
+    "example": "There was disappointment after the loss.",
+    "categoryId": "Emotions",
+    "pronunciation": "/disappointment/",
+    "frTranslation": "déception",
+    "esTranslation": "decepción",
+    "arTranslation": "خيبة أمل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "delight"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "fear",
+    "meaning": "An alarmed feeling in response to a threat.",
+    "example": "Fear kept them from entering the cave.",
+    "categoryId": "Emotions",
+    "pronunciation": "/fear/",
+    "frTranslation": "peur",
+    "esTranslation": "miedo",
+    "arTranslation": "خوف",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "terror (intense)"
+    ],
+    "antonyms": [
+      "courage"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "anxiety",
+    "meaning": "A tense, worried state often about future events.",
+    "example": "Breathing exercises eased her anxiety.",
+    "categoryId": "Emotions",
+    "pronunciation": "/anxiety/",
+    "frTranslation": "anxiété",
+    "esTranslation": "ansiedad",
+    "arTranslation": "قلق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "nervousness"
+    ],
+    "antonyms": [
+      "calm"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "worry",
+    "meaning": "Persistent thinking about possible problems.",
+    "example": "Parents feel worry when kids are late.",
+    "categoryId": "Emotions",
+    "pronunciation": "/worry/",
+    "frTranslation": "inquiétude",
+    "esTranslation": "preocupación",
+    "arTranslation": "قلق/انشغال البال",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "reassurance"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "guilt",
+    "meaning": "A troubled feeling about having done wrong.",
+    "example": "He felt guilt for forgetting the call.",
+    "categoryId": "Emotions",
+    "pronunciation": "/guilt/",
+    "frTranslation": "culpabilité",
+    "esTranslation": "culpa",
+    "arTranslation": "ذنب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "innocence (sense of)"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "self-conscious"
+    ]
+  },
+  {
+    "text": "shame",
+    "meaning": "A painful feeling of being flawed or exposed.",
+    "example": "She flushed with shame after the remark.",
+    "categoryId": "Emotions",
+    "pronunciation": "/shame/",
+    "frTranslation": "honte",
+    "esTranslation": "vergüenza (moral)",
+    "arTranslation": "خزي/عار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "pride"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "self-conscious"
+    ]
+  },
+  {
+    "text": "embarrassment",
+    "meaning": "A mild self-conscious discomfort in social situations.",
+    "example": "He laughed to hide his embarrassment.",
+    "categoryId": "Emotions",
+    "pronunciation": "/embarrassment/",
+    "frTranslation": "embarras",
+    "esTranslation": "vergüenza (pena)",
+    "arTranslation": "إحراج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "self-consciousness"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "self-conscious"
+    ]
+  },
+  {
+    "text": "envy",
+    "meaning": "A painful longing for what someone else has.",
+    "example": "Seeing the award stirred envy.",
+    "categoryId": "Emotions",
+    "pronunciation": "/envy/",
+    "frTranslation": "envie",
+    "esTranslation": "envidia",
+    "arTranslation": "حسد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "admiration (contrast)"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "jealousy",
+    "meaning": "Fear and anger about losing a valued relationship to a rival.",
+    "example": "Jealousy erupted when trust was broken.",
+    "categoryId": "Emotions",
+    "pronunciation": "/jealousy/",
+    "frTranslation": "jalousie",
+    "esTranslation": "celos",
+    "arTranslation": "غيرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "trust"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "resentment",
+    "meaning": "A lingering bitterness over perceived unfairness.",
+    "example": "Unresolved resentment poisoned the friendship.",
+    "categoryId": "Emotions",
+    "pronunciation": "/resentment/",
+    "frTranslation": "ressentiment",
+    "esTranslation": "resentimiento",
+    "arTranslation": "ضغينة/استياء",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "bitterness"
+    ],
+    "antonyms": [
+      "forgiveness"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "bitterness",
+    "meaning": "Harsh, sour feelings that endure after hurt.",
+    "example": "Bitterness faded when they reconciled.",
+    "categoryId": "Emotions",
+    "pronunciation": "/bitterness/",
+    "frTranslation": "amertume",
+    "esTranslation": "amargura",
+    "arTranslation": "مرارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "resentment"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "hatred",
+    "meaning": "An intense, enduring dislike or hostility.",
+    "example": "Hatred only deepened the conflict.",
+    "categoryId": "Emotions",
+    "pronunciation": "/hatred/",
+    "frTranslation": "haine",
+    "esTranslation": "odio",
+    "arTranslation": "كراهية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "loathing"
+    ],
+    "antonyms": [
+      "love"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "disgust",
+    "meaning": "A revulsion toward something offensive or contaminated.",
+    "example": "The smell triggered instant disgust.",
+    "categoryId": "Emotions",
+    "pronunciation": "/disgust/",
+    "frTranslation": "dégoût",
+    "esTranslation": "asco",
+    "arTranslation": "اشمئزاز",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "revulsion"
+    ],
+    "antonyms": [
+      "attraction"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "contempt",
+    "meaning": "A scornful feeling of superiority toward someone.",
+    "example": "A flash of contempt ruined the discussion.",
+    "categoryId": "Emotions",
+    "pronunciation": "/contempt/",
+    "frTranslation": "mépris",
+    "esTranslation": "desprecio",
+    "arTranslation": "احتقار",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "scorn",
+      "disdain"
+    ],
+    "antonyms": [
+      "respect"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "social"
+    ]
+  },
+  {
+    "text": "loneliness",
+    "meaning": "A painful sense of social disconnection.",
+    "example": "Calls with friends eased her loneliness.",
+    "categoryId": "Emotions",
+    "pronunciation": "/loneliness/",
+    "frTranslation": "solitude (souffrance)",
+    "esTranslation": "soledad",
+    "arTranslation": "وحدة/شعور بالوحدة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "belonging"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "boredom",
+    "meaning": "A dissatisfied restlessness from lack of stimulation.",
+    "example": "Long delays produced boredom at the station.",
+    "categoryId": "Emotions",
+    "pronunciation": "/boredom/",
+    "frTranslation": "ennui",
+    "esTranslation": "aburrimiento",
+    "arTranslation": "ملل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "engagement"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "negative"
+    ]
+  },
+  {
+    "text": "nostalgia",
+    "meaning": "A bittersweet longing for the past.",
+    "example": "Old songs filled him with nostalgia.",
+    "categoryId": "Emotions",
+    "pronunciation": "/nostalgia/",
+    "frTranslation": "nostalgie",
+    "esTranslation": "nostalgia",
+    "arTranslation": "حَنين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "complex"
+    ]
+  },
+  {
+    "text": "longing",
+    "meaning": "A persistent desire for someone or something absent.",
+    "example": "She felt a quiet longing to return home.",
+    "categoryId": "Emotions",
+    "pronunciation": "/longing/",
+    "frTranslation": "désir ardent",
+    "esTranslation": "anhelo",
+    "arTranslation": "توق/شوق",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "yearning"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "complex"
+    ]
+  },
+  {
+    "text": "yearning",
+    "meaning": "An intense form of longing mixed with ache.",
+    "example": "Letters could not satisfy his yearning.",
+    "categoryId": "Emotions",
+    "pronunciation": "/yearning/",
+    "frTranslation": "aspiration/ardent désir",
+    "esTranslation": "anhelo intenso",
+    "arTranslation": "توق شديد",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "longing"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "complex"
+    ]
+  },
+  {
+    "text": "homesickness",
+    "meaning": "A sadness from being far from home and familiar people.",
+    "example": "Homesickness struck during the first week abroad.",
+    "categoryId": "Emotions",
+    "pronunciation": "/homesickness/",
+    "frTranslation": "mal du pays",
+    "esTranslation": "morriña/nostalgia de casa",
+    "arTranslation": "حنين للوطن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "complex"
+    ]
+  },
+  {
+    "text": "regret",
+    "meaning": "Sorrow over a past choice or missed chance.",
+    "example": "He felt regret about the harsh words.",
+    "categoryId": "Emotions",
+    "pronunciation": "/regret/",
+    "frTranslation": "regret",
+    "esTranslation": "arrepentimiento",
+    "arTranslation": "ندم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "satisfaction"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "self-conscious"
+    ]
+  },
+  {
+    "text": "remorse",
+    "meaning": "A deep, moral form of regret for wrongdoing.",
+    "example": "She showed genuine remorse and apologized.",
+    "categoryId": "Emotions",
+    "pronunciation": "/remorse/",
+    "frTranslation": "remords",
+    "esTranslation": "remordimiento",
+    "arTranslation": "تأنيب الضمير",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "self-conscious"
+    ]
+  },
+  {
+    "text": "humiliation",
+    "meaning": "A crushing shame caused by public demeaning.",
+    "example": "The rumor led to lasting humiliation.",
+    "categoryId": "Emotions",
+    "pronunciation": "/humiliation/",
+    "frTranslation": "humiliation",
+    "esTranslation": "humillación",
+    "arTranslation": "إذلال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "dignity (restored)"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "self-conscious"
+    ]
+  },
+  {
+    "text": "panic",
+    "meaning": "A sudden overpowering fear that disrupts thinking.",
+    "example": "Crowds triggered a moment of panic.",
+    "categoryId": "Emotions",
+    "pronunciation": "/panic/",
+    "frTranslation": "panique",
+    "esTranslation": "pánico",
+    "arTranslation": "ذُعر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Emotions",
+      "fear"
+    ]
+  },
+  {
+    "text": "terror",
+    "meaning": "Extreme fear that overwhelms and freezes action.",
+    "example": "The scream came from sheer terror.",
+    "categoryId": "Emotions",
+    "pronunciation": "/terror/",
+    "frTranslation": "terreur",
+    "esTranslation": "terror",
+    "arTranslation": "رعب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "horror"
+    ],
+    "antonyms": [
+      "calm"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "fear"
+    ]
+  },
+  {
+    "text": "dread",
+    "meaning": "A heavy fear about an approaching event.",
+    "example": "He felt dread before the difficult talk.",
+    "categoryId": "Emotions",
+    "pronunciation": "/dread/",
+    "frTranslation": "redoutable appréhension",
+    "esTranslation": "pavor/temor intenso",
+    "arTranslation": "خشية شديدة/رهبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "eagerness"
+    ],
+    "lexicalField": [
+      "Emotions",
+      "fear"
+    ]
+  }
+]

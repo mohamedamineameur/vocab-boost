@@ -1,0 +1,733 @@
+[
+  {
+    "text": "desert",
+    "meaning": "A dry region with little rainfall and specialized plants like cacti.",
+    "example": "Desert nights can be surprisingly cold.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/desert/",
+    "frTranslation": "désert",
+    "esTranslation": "desierto",
+    "arTranslation": "صحراء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "rainforest"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "grassland",
+    "meaning": "An open biome dominated by grasses and few trees.",
+    "example": "Bison once roamed the North American grasslands.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/grassland/",
+    "frTranslation": "prairie/steppe",
+    "esTranslation": "pradera/pastizal",
+    "arTranslation": "مراعي/سَهْب",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "prairie",
+      "steppe"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "savanna",
+    "meaning": "A tropical grassland with scattered trees and seasonal rains.",
+    "example": "Elephants crossed the savanna in search of water.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/savanna/",
+    "frTranslation": "savane",
+    "esTranslation": "sabana",
+    "arTranslation": "سافانا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "wetland",
+    "meaning": "A water-saturated habitat like marshes and swamps that filters water and stores carbon.",
+    "example": "Wetlands provide nurseries for fish.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/wetland/",
+    "frTranslation": "zone humide",
+    "esTranslation": "humedal",
+    "arTranslation": "أراضٍ رطبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "marsh",
+    "meaning": "A wetland dominated by grasses and reeds rather than trees.",
+    "example": "Rails nested deep in the marsh.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/marsh/",
+    "frTranslation": "marais (marécage herbacé)",
+    "esTranslation": "cienaga/junquera",
+    "arTranslation": "مستنقع عشبي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "swamp"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "swamp",
+    "meaning": "A forested wetland with standing water and water-tolerant trees.",
+    "example": "Cypress knees rose from the swamp.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/swamp/",
+    "frTranslation": "marécage (boisé)",
+    "esTranslation": "pantano",
+    "arTranslation": "مستنقع خشبي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "marsh"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "tundra",
+    "meaning": "A treeless polar biome with permafrost and low shrubs.",
+    "example": "Wildflowers bloom briefly on the tundra.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/tundra/",
+    "frTranslation": "toundra",
+    "esTranslation": "tundra",
+    "arTranslation": "تندرا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "coral reef",
+    "meaning": "An underwater ecosystem built by corals that shelters countless species.",
+    "example": "Parrotfish grazed on the coral reef.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/coral reef/",
+    "frTranslation": "récif corallien",
+    "esTranslation": "arrecife de coral",
+    "arTranslation": "حاجز مرجاني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "mangrove",
+    "meaning": "A coastal forest of salt-tolerant trees with stilt roots.",
+    "example": "Crabs scurried among mangrove roots.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/mangrove/",
+    "frTranslation": "mangrove/palétuvier",
+    "esTranslation": "manglar",
+    "arTranslation": "أشجار المانغروف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "taiga",
+    "meaning": "A high-latitude coniferous forest with long winters.",
+    "example": "Lynx track silently through the taiga.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/taiga/",
+    "frTranslation": "taïga/forêt boréale",
+    "esTranslation": "taiga/bosque boreal",
+    "arTranslation": "غابة التايغا",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "boreal forest"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "biome"
+    ]
+  },
+  {
+    "text": "mountain",
+    "meaning": "A high, steep rise of land formed by tectonics or volcanism.",
+    "example": "Clouds crowned the mountain after the storm.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/mountain/",
+    "frTranslation": "montagne",
+    "esTranslation": "montaña",
+    "arTranslation": "جبل",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "peak"
+    ],
+    "antonyms": [
+      "valley",
+      "plain"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "hill",
+    "meaning": "A natural rise of land lower than a mountain.",
+    "example": "They picnicked on a grassy hill.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/hill/",
+    "frTranslation": "colline",
+    "esTranslation": "colina",
+    "arTranslation": "تل/ربوة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "valley",
+    "meaning": "A low area between hills or mountains, often with a river.",
+    "example": "A river wound through the valley.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/valley/",
+    "frTranslation": "vallée",
+    "esTranslation": "valle",
+    "arTranslation": "وادي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "mountain",
+      "ridge"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "plateau",
+    "meaning": "An elevated flat area that rises sharply above surrounding land.",
+    "example": "Villages dotted the windswept plateau.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/plateau/",
+    "frTranslation": "plateau",
+    "esTranslation": "meseta",
+    "arTranslation": "هضبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "canyon",
+    "meaning": "A deep, narrow valley with steep sides carved by a river.",
+    "example": "The canyon walls glowed at sunset.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/canyon/",
+    "frTranslation": "canyon/gorge",
+    "esTranslation": "cañón",
+    "arTranslation": "وادي سحيق/خانق",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "gorge"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "cliff",
+    "meaning": "A steep rock face, especially at the edge of the sea or a valley.",
+    "example": "Seabirds nested on the cliff.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/cliff/",
+    "frTranslation": "falaise",
+    "esTranslation": "acantilado",
+    "arTranslation": "منحدر صخري/جرف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "cave",
+    "meaning": "A natural underground chamber formed in rock.",
+    "example": "We explored a limestone cave with stalactites.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/cave/",
+    "frTranslation": "grotte/caverne",
+    "esTranslation": "cueva",
+    "arTranslation": "كهف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "river",
+    "meaning": "A flowing body of freshwater that moves toward a sea or lake.",
+    "example": "The river overflowed after heavy rain.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/river/",
+    "frTranslation": "rivière/fleuve",
+    "esTranslation": "río",
+    "arTranslation": "نهر",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "stream"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "water"
+    ]
+  },
+  {
+    "text": "lake",
+    "meaning": "A large inland body of standing water.",
+    "example": "The lake froze solid in winter.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/lake/",
+    "frTranslation": "lac",
+    "esTranslation": "lago",
+    "arTranslation": "بحيرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "water"
+    ]
+  },
+  {
+    "text": "waterfall",
+    "meaning": "A place where a river drops vertically over a cliff.",
+    "example": "Mist rose from the waterfall’s base.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/waterfall/",
+    "frTranslation": "cascade",
+    "esTranslation": "cascada",
+    "arTranslation": "شلال",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "water"
+    ]
+  },
+  {
+    "text": "island",
+    "meaning": "A piece of land surrounded by water.",
+    "example": "They sailed to a tiny island offshore.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/island/",
+    "frTranslation": "île",
+    "esTranslation": "isla",
+    "arTranslation": "جزيرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "mainland",
+      "continent"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "beach",
+    "meaning": "A shore of sand or pebbles shaped by waves.",
+    "example": "We walked along the beach at dusk.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/beach/",
+    "frTranslation": "plage",
+    "esTranslation": "playa",
+    "arTranslation": "شاطئ",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "shore",
+      "seaside"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "landform"
+    ]
+  },
+  {
+    "text": "rain",
+    "meaning": "Liquid precipitation that falls from clouds.",
+    "example": "A soft rain cooled the afternoon.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/rain/",
+    "frTranslation": "pluie",
+    "esTranslation": "lluvia",
+    "arTranslation": "مطر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "drought"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "snow",
+    "meaning": "Frozen crystals that fall from clouds in cold conditions.",
+    "example": "Snow blanketed the rooftops overnight.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/snow/",
+    "frTranslation": "neige",
+    "esTranslation": "nieve",
+    "arTranslation": "ثلج",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "rain (contextual)"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "hail",
+    "meaning": "Balls of ice that form in strong thunderstorms.",
+    "example": "Hail dented the metal roof.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/hail/",
+    "frTranslation": "grêle",
+    "esTranslation": "granizo",
+    "arTranslation": "بَرَد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "wind",
+    "meaning": "Air moving from high to low pressure; measured by speed and direction.",
+    "example": "Strong wind rattled the windows.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/wind/",
+    "frTranslation": "vent",
+    "esTranslation": "viento",
+    "arTranslation": "ريح",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "breeze (light)",
+      "gale (strong)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "fog",
+    "meaning": "A cloud at ground level that reduces visibility.",
+    "example": "Fog hid the harbor lights.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/fog/",
+    "frTranslation": "brouillard",
+    "esTranslation": "niebla",
+    "arTranslation": "ضباب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "storm",
+    "meaning": "Severe weather with strong winds and often rain, thunder, or snow.",
+    "example": "The storm knocked out power lines.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/storm/",
+    "frTranslation": "orage/tempête",
+    "esTranslation": "tormenta",
+    "arTranslation": "عاصفة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "tempest",
+      "squall"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "thunder",
+    "meaning": "The sound produced by lightning heating the air.",
+    "example": "Thunder rolled across the valley.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/thunder/",
+    "frTranslation": "tonnerre",
+    "esTranslation": "trueno",
+    "arTranslation": "رعد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "lightning",
+    "meaning": "A sudden electrical discharge in the atmosphere.",
+    "example": "Lightning forked across the sky.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/lightning/",
+    "frTranslation": "éclair/foudre",
+    "esTranslation": "relámpago/rayo",
+    "arTranslation": "برق",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "rainbow",
+    "meaning": "A multicolored arc formed when sunlight refracts through raindrops.",
+    "example": "A double rainbow appeared after the shower.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/rainbow/",
+    "frTranslation": "arc-en-ciel",
+    "esTranslation": "arcoíris",
+    "arTranslation": "قوس قزح",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "dew",
+    "meaning": "Moisture that condenses on cool surfaces overnight.",
+    "example": "Morning dew sparkled on the grass.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/dew/",
+    "frTranslation": "rosée",
+    "esTranslation": "rocío",
+    "arTranslation": "ندى",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "weather"
+    ]
+  },
+  {
+    "text": "ecosystem",
+    "meaning": "A community of organisms interacting with each other and their physical environment.",
+    "example": "A pond ecosystem includes fish, plants, and microbes.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/ecosystem/",
+    "frTranslation": "écosystème",
+    "esTranslation": "ecosistema",
+    "arTranslation": "نظام بيئي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "biodiversity",
+    "meaning": "The variety of life forms within a region or the entire planet.",
+    "example": "High biodiversity makes ecosystems more resilient.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/biodiversity/",
+    "frTranslation": "biodiversité",
+    "esTranslation": "biodiversidad",
+    "arTranslation": "تنوع حيوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "habitat",
+    "meaning": "The natural home where a plant or animal lives.",
+    "example": "Wetlands provide habitat for herons.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/habitat/",
+    "frTranslation": "habitat",
+    "esTranslation": "hábitat",
+    "arTranslation": "موطن/مسكن طبيعي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "environment"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "endangered species",
+    "meaning": "A species at high risk of extinction in the near future.",
+    "example": "Protecting nesting sites helps endangered species recover.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/endangered species/",
+    "frTranslation": "espèce menacée",
+    "esTranslation": "especie en peligro",
+    "arTranslation": "نوع مهدد بالانقراض",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "invasive species (contrast)"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "invasive species",
+    "meaning": "A non-native organism that spreads and harms local ecosystems.",
+    "example": "Zebra mussels are an invasive species in many lakes.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/invasive species/",
+    "frTranslation": "espèce envahissante",
+    "esTranslation": "especie invasora",
+    "arTranslation": "نوع غازي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "native species"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "conservation",
+    "meaning": "The protection and careful management of natural resources and wildlife.",
+    "example": "The park funds conservation through entrance fees.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/conservation/",
+    "frTranslation": "conservation",
+    "esTranslation": "conservación",
+    "arTranslation": "حفاظ على الطبيعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "preservation"
+    ],
+    "antonyms": [
+      "exploitation"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "reforestation",
+    "meaning": "Planting trees to restore forest that has been cut or burned.",
+    "example": "Reforestation stabilized the hillside.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/reforestation/",
+    "frTranslation": "reboisement/reboisement",
+    "esTranslation": "reforestación",
+    "arTranslation": "إعادة التشجير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "deforestation"
+    ],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  },
+  {
+    "text": "food chain",
+    "meaning": "A sequence showing who eats whom, transferring energy through an ecosystem.",
+    "example": "Plankton start many ocean food chains.",
+    "categoryId": "Plants & Nature",
+    "pronunciation": "/food chain/",
+    "frTranslation": "chaîne alimentaire",
+    "esTranslation": "cadena alimentaria",
+    "arTranslation": "سلسلة غذائية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Plants & Nature",
+      "ecology"
+    ]
+  }
+]

@@ -1,0 +1,919 @@
+[
+  {
+    "text": "dog",
+    "meaning": "A domesticated canid kept as a companion and working animal.",
+    "example": "Their dog learned to fetch the newspaper.",
+    "categoryId": "Animals",
+    "pronunciation": "/dog/",
+    "frTranslation": "chien",
+    "esTranslation": "perro",
+    "arTranslation": "كلب",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "canine",
+      "pooch",
+      "hound"
+    ],
+    "antonyms": [
+      "wild dog"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "cat",
+    "meaning": "A domesticated feline valued for companionship and rodent control.",
+    "example": "The cat curled up on the windowsill.",
+    "categoryId": "Animals",
+    "pronunciation": "/cat/",
+    "frTranslation": "chat",
+    "esTranslation": "gato",
+    "arTranslation": "قط",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "house cat",
+      "feline"
+    ],
+    "antonyms": [
+      "wildcat"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "cow",
+    "meaning": "A large domesticated bovine raised for milk, meat, and leather.",
+    "example": "The cow grazed in the meadow.",
+    "categoryId": "Animals",
+    "pronunciation": "/cow/",
+    "frTranslation": "vache",
+    "esTranslation": "vaca",
+    "arTranslation": "بقرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "cattle",
+      "bovine"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "horse",
+    "meaning": "A strong hoofed mammal used for riding, work, and sport.",
+    "example": "She rides her horse every weekend.",
+    "categoryId": "Animals",
+    "pronunciation": "/horse/",
+    "frTranslation": "cheval",
+    "esTranslation": "caballo",
+    "arTranslation": "حصان",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "equine",
+      "steed"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "sheep",
+    "meaning": "A wool-bearing ruminant domesticated for meat and fiber.",
+    "example": "The shepherd guided the sheep into the pen.",
+    "categoryId": "Animals",
+    "pronunciation": "/sheep/",
+    "frTranslation": "mouton",
+    "esTranslation": "oveja",
+    "arTranslation": "خروف",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "ovine"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "goat",
+    "meaning": "A hardy domesticated ruminant known for milk, meat, and climbing ability.",
+    "example": "Goats nibbled the brush on the hillside.",
+    "categoryId": "Animals",
+    "pronunciation": "/goat/",
+    "frTranslation": "chèvre",
+    "esTranslation": "cabra",
+    "arTranslation": "ماعز",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "caprine"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "pig",
+    "meaning": "An intelligent domesticated mammal raised for pork; omnivorous scavenger.",
+    "example": "The pig rooted in the mud for food.",
+    "categoryId": "Animals",
+    "pronunciation": "/pig/",
+    "frTranslation": "cochon/porc",
+    "esTranslation": "cerdo",
+    "arTranslation": "خنزير",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "hog",
+      "swine"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "rabbit",
+    "meaning": "A small herbivore with long ears and rapid reproduction.",
+    "example": "A rabbit darted across the path.",
+    "categoryId": "Animals",
+    "pronunciation": "/rabbit/",
+    "frTranslation": "lapin",
+    "esTranslation": "conejo",
+    "arTranslation": "أرنب",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "bunny",
+      "coney"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "mouse",
+    "meaning": "A tiny rodent with a pointed snout and long tail.",
+    "example": "We set a trap for the mouse in the pantry.",
+    "categoryId": "Animals",
+    "pronunciation": "/mouse/",
+    "frTranslation": "souris",
+    "esTranslation": "ratón",
+    "arTranslation": "فأر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "rat"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "rat",
+    "meaning": "A medium-sized rodent known for adaptability and keen intelligence.",
+    "example": "A rat squeezed through the gap under the door.",
+    "categoryId": "Animals",
+    "pronunciation": "/rat/",
+    "frTranslation": "rat",
+    "esTranslation": "rata",
+    "arTranslation": "جرذ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "mouse"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "donkey",
+    "meaning": "A sturdy equine domesticated for carrying loads and farm work.",
+    "example": "The donkey carried water up the hill.",
+    "categoryId": "Animals",
+    "pronunciation": "/donkey/",
+    "frTranslation": "âne",
+    "esTranslation": "burro",
+    "arTranslation": "حمار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "ass"
+    ],
+    "antonyms": [
+      "horse (contextual)"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "camel",
+    "meaning": "A desert-adapted ungulate that stores fat in humps and conserves water.",
+    "example": "The camel knelt to be loaded with packs.",
+    "categoryId": "Animals",
+    "pronunciation": "/camel/",
+    "frTranslation": "chameau",
+    "esTranslation": "camello",
+    "arTranslation": "جمل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "llama",
+    "meaning": "A domesticated South American camelid used for packing and wool.",
+    "example": "The llama followed the guide along the trail.",
+    "categoryId": "Animals",
+    "pronunciation": "/llama/",
+    "frTranslation": "lama",
+    "esTranslation": "llama",
+    "arTranslation": "لاما",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "alpaca",
+    "meaning": "A small camelid bred mainly for its soft fiber.",
+    "example": "Her scarf is woven from alpaca wool.",
+    "categoryId": "Animals",
+    "pronunciation": "/alpaca/",
+    "frTranslation": "alpaga",
+    "esTranslation": "alpaca",
+    "arTranslation": "ألباكا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "deer",
+    "meaning": "A hoofed herbivore with antlered males in many species.",
+    "example": "A deer crossed the road at dusk.",
+    "categoryId": "Animals",
+    "pronunciation": "/deer/",
+    "frTranslation": "cerf",
+    "esTranslation": "ciervo",
+    "arTranslation": "أيل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "stag (male)",
+      "doe (female)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "moose",
+    "meaning": "The largest member of the deer family, with broad palmate antlers.",
+    "example": "We spotted a moose wading in the marsh.",
+    "categoryId": "Animals",
+    "pronunciation": "/moose/",
+    "frTranslation": "orignal (Canada)",
+    "esTranslation": "alce",
+    "arTranslation": "موظ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "bison",
+    "meaning": "A massive grazing bovine with a humped shoulder and thick mane.",
+    "example": "The bison herd moved slowly across the plain.",
+    "categoryId": "Animals",
+    "pronunciation": "/bison/",
+    "frTranslation": "bison",
+    "esTranslation": "bisonte",
+    "arTranslation": "بيسون",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "buffalo (American)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "bear",
+    "meaning": "A large omnivorous mammal with powerful limbs and keen smell.",
+    "example": "A bear searched for berries along the trail.",
+    "categoryId": "Animals",
+    "pronunciation": "/bear/",
+    "frTranslation": "ours",
+    "esTranslation": "oso",
+    "arTranslation": "دب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "panda",
+    "meaning": "A black-and-white bear native to China that mainly eats bamboo.",
+    "example": "The panda spent hours munching bamboo shoots.",
+    "categoryId": "Animals",
+    "pronunciation": "/panda/",
+    "frTranslation": "panda",
+    "esTranslation": "panda",
+    "arTranslation": "باندا",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "giant panda"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "fox",
+    "meaning": "A small canid with a bushy tail, known for cunning and adaptability.",
+    "example": "A fox trotted along the hedgerow at dawn.",
+    "categoryId": "Animals",
+    "pronunciation": "/fox/",
+    "frTranslation": "renard",
+    "esTranslation": "zorro",
+    "arTranslation": "ثعلب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "vulpine"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "wolf",
+    "meaning": "A social canid that hunts in packs and howls to communicate.",
+    "example": "The wolf pack followed the caribou herd.",
+    "categoryId": "Animals",
+    "pronunciation": "/wolf/",
+    "frTranslation": "loup",
+    "esTranslation": "lobo",
+    "arTranslation": "ذئب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "dog (domesticated)"
+    ],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "coyote",
+    "meaning": "A medium-sized North American canid that thrives near human settlements.",
+    "example": "We heard a coyote yipping after sunset.",
+    "categoryId": "Animals",
+    "pronunciation": "/coyote/",
+    "frTranslation": "coyote",
+    "esTranslation": "coyote",
+    "arTranslation": "قيوط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "lion",
+    "meaning": "A large African cat; males have manes and live in social prides.",
+    "example": "The lion roared across the savanna.",
+    "categoryId": "Animals",
+    "pronunciation": "/lion/",
+    "frTranslation": "lion",
+    "esTranslation": "león",
+    "arTranslation": "أسد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "big cat"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "tiger",
+    "meaning": "The largest cat species, orange with black stripes; solitary ambush hunter.",
+    "example": "A tiger padded silently through the grass.",
+    "categoryId": "Animals",
+    "pronunciation": "/tiger/",
+    "frTranslation": "tigre",
+    "esTranslation": "tigre",
+    "arTranslation": "نمر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "leopard",
+    "meaning": "A spotted big cat known for strength and tree-climbing.",
+    "example": "The leopard dragged its kill into a tree.",
+    "categoryId": "Animals",
+    "pronunciation": "/leopard/",
+    "frTranslation": "léopard",
+    "esTranslation": "leopardo",
+    "arTranslation": "فهد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "cheetah",
+    "meaning": "The fastest land animal, built for sprinting after prey.",
+    "example": "A cheetah accelerated in a sudden burst of speed.",
+    "categoryId": "Animals",
+    "pronunciation": "/cheetah/",
+    "frTranslation": "guépard",
+    "esTranslation": "guepardo",
+    "arTranslation": "فهد صياد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "hyena",
+    "meaning": "A scavenging predator with a powerful bite and social clans.",
+    "example": "A hyena laughed as the group gathered at dusk.",
+    "categoryId": "Animals",
+    "pronunciation": "/hyena/",
+    "frTranslation": "hyène",
+    "esTranslation": "hiena",
+    "arTranslation": "ضبع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "elephant",
+    "meaning": "The largest land mammal, with a trunk for grasping and communication.",
+    "example": "The elephant sprayed water over its back.",
+    "categoryId": "Animals",
+    "pronunciation": "/elephant/",
+    "frTranslation": "éléphant",
+    "esTranslation": "elefante",
+    "arTranslation": "فيل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "rhinoceros",
+    "meaning": "A heavy herbivore with one or two horns on its snout and thick skin.",
+    "example": "A rhinoceros grazed near the watering hole.",
+    "categoryId": "Animals",
+    "pronunciation": "/rhinoceros/",
+    "frTranslation": "rhinocéros",
+    "esTranslation": "rinoceronte",
+    "arTranslation": "وحيد القرن",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "rhino"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "hippopotamus",
+    "meaning": "A semi-aquatic giant herbivore with formidable jaws.",
+    "example": "The hippopotamus submerged with only its eyes showing.",
+    "categoryId": "Animals",
+    "pronunciation": "/hippopotamus/",
+    "frTranslation": "hippopotame",
+    "esTranslation": "hipopótamo",
+    "arTranslation": "فرس النهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "hippo"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "giraffe",
+    "meaning": "The tallest land animal, with a long neck for browsing high leaves.",
+    "example": "A giraffe nibbled acacia leaves.",
+    "categoryId": "Animals",
+    "pronunciation": "/giraffe/",
+    "frTranslation": "girafe",
+    "esTranslation": "jirafa",
+    "arTranslation": "زرافة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "zebra",
+    "meaning": "An African equid with distinctive black-and-white stripes.",
+    "example": "A zebra foal stayed close to its mother.",
+    "categoryId": "Animals",
+    "pronunciation": "/zebra/",
+    "frTranslation": "zèbre",
+    "esTranslation": "cebra",
+    "arTranslation": "حمار وحشي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "monkey",
+    "meaning": "A primate with a tail, agile and often social.",
+    "example": "A monkey swung between branches.",
+    "categoryId": "Animals",
+    "pronunciation": "/monkey/",
+    "frTranslation": "singe",
+    "esTranslation": "mono",
+    "arTranslation": "قرد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "gorilla",
+    "meaning": "A large ground-dwelling ape with strong family groups.",
+    "example": "The gorilla beat its chest briefly.",
+    "categoryId": "Animals",
+    "pronunciation": "/gorilla/",
+    "frTranslation": "gorille",
+    "esTranslation": "gorila",
+    "arTranslation": "غوريلا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "chimpanzee",
+    "meaning": "A highly intelligent ape known for tool use and complex social life.",
+    "example": "A chimpanzee cracked nuts with a stone.",
+    "categoryId": "Animals",
+    "pronunciation": "/chimpanzee/",
+    "frTranslation": "chimpanzé",
+    "esTranslation": "chimpancé",
+    "arTranslation": "شمبانزي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "orangutan",
+    "meaning": "A red-haired arboreal ape native to Borneo and Sumatra.",
+    "example": "The orangutan built a nest of leaves.",
+    "categoryId": "Animals",
+    "pronunciation": "/orangutan/",
+    "frTranslation": "orang-outan",
+    "esTranslation": "orangután",
+    "arTranslation": "أورانغوتان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "kangaroo",
+    "meaning": "A large Australian marsupial that moves by powerful hopping.",
+    "example": "A kangaroo carried its joey in a pouch.",
+    "categoryId": "Animals",
+    "pronunciation": "/kangaroo/",
+    "frTranslation": "kangourou",
+    "esTranslation": "canguro",
+    "arTranslation": "كنغر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "koala",
+    "meaning": "An Australian marsupial that feeds mainly on eucalyptus leaves.",
+    "example": "The koala slept wedged in a forked branch.",
+    "categoryId": "Animals",
+    "pronunciation": "/koala/",
+    "frTranslation": "koala",
+    "esTranslation": "koala",
+    "arTranslation": "كوالا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "bat",
+    "meaning": "The only flying mammal, navigating by echolocation at night.",
+    "example": "A bat swooped to catch insects over the pond.",
+    "categoryId": "Animals",
+    "pronunciation": "/bat/",
+    "frTranslation": "chauve-souris",
+    "esTranslation": "murciélago",
+    "arTranslation": "خفاش",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "dolphin",
+    "meaning": "A social marine mammal known for intelligence and echolocation.",
+    "example": "A dolphin surfed beside the boat’s bow.",
+    "categoryId": "Animals",
+    "pronunciation": "/dolphin/",
+    "frTranslation": "dauphin",
+    "esTranslation": "delfín",
+    "arTranslation": "دلفين",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "porpoise (related)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "mammal"
+    ]
+  },
+  {
+    "text": "chicken",
+    "meaning": "A domesticated bird raised for meat and eggs.",
+    "example": "We keep three chickens for fresh eggs.",
+    "categoryId": "Animals",
+    "pronunciation": "/chicken/",
+    "frTranslation": "poulet",
+    "esTranslation": "pollo",
+    "arTranslation": "دجاج",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "hen (female)",
+      "rooster (male)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "rooster",
+    "meaning": "An adult male chicken known for crowing at dawn.",
+    "example": "The rooster crowed loudly at sunrise.",
+    "categoryId": "Animals",
+    "pronunciation": "/rooster/",
+    "frTranslation": "coq",
+    "esTranslation": "gallo",
+    "arTranslation": "ديك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "hen"
+    ],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "hen",
+    "meaning": "An adult female chicken that lays eggs.",
+    "example": "Our hen laid two eggs today.",
+    "categoryId": "Animals",
+    "pronunciation": "/hen/",
+    "frTranslation": "poule",
+    "esTranslation": "gallina",
+    "arTranslation": "دجاجة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "rooster"
+    ],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "duck",
+    "meaning": "A waterfowl with a broad bill and webbed feet.",
+    "example": "Ducks paddled across the pond.",
+    "categoryId": "Animals",
+    "pronunciation": "/duck/",
+    "frTranslation": "canard",
+    "esTranslation": "pato",
+    "arTranslation": "بط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "drake (male duck)"
+    ],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "goose",
+    "meaning": "A large waterfowl known for strong family bonds and migration.",
+    "example": "A flock of geese flew overhead in a V.",
+    "categoryId": "Animals",
+    "pronunciation": "/goose/",
+    "frTranslation": "oie",
+    "esTranslation": "ganso",
+    "arTranslation": "إوزة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "turkey",
+    "meaning": "A large ground-dwelling bird native to North America.",
+    "example": "Wild turkeys foraged near the trees.",
+    "categoryId": "Animals",
+    "pronunciation": "/turkey/",
+    "frTranslation": "dinde",
+    "esTranslation": "pavo",
+    "arTranslation": "ديك رومي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "pigeon",
+    "meaning": "A stout-bodied city-dwelling bird that navigates well over long distances.",
+    "example": "Pigeons gathered in the square.",
+    "categoryId": "Animals",
+    "pronunciation": "/pigeon/",
+    "frTranslation": "pigeon",
+    "esTranslation": "paloma",
+    "arTranslation": "حمامة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "rock dove"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "dove",
+    "meaning": "A small pigeon often symbolizing peace with soft cooing calls.",
+    "example": "A white dove was released at the ceremony.",
+    "categoryId": "Animals",
+    "pronunciation": "/dove/",
+    "frTranslation": "colombe",
+    "esTranslation": "paloma (tórtola)",
+    "arTranslation": "يمامة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "turtledove"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "sparrow",
+    "meaning": "A small brown songbird common around human settlements.",
+    "example": "Sparrows chirped in the hedges.",
+    "categoryId": "Animals",
+    "pronunciation": "/sparrow/",
+    "frTranslation": "moineau",
+    "esTranslation": "gorrión",
+    "arTranslation": "عصفور",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  },
+  {
+    "text": "robin",
+    "meaning": "A familiar garden bird with a red breast (species varies by region).",
+    "example": "A robin tugged a worm from the lawn.",
+    "categoryId": "Animals",
+    "pronunciation": "/robin/",
+    "frTranslation": "rouge-gorge",
+    "esTranslation": "petirrojo",
+    "arTranslation": "أبو الحنّاء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Animals",
+      "bird"
+    ]
+  }
+]

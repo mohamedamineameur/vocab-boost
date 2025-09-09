@@ -1,0 +1,1293 @@
+[
+  {
+    "text": "second",
+    "meaning": "A base unit of time equal to one sixtieth of a minute.",
+    "example": "Hold your breath for ten seconds.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/second/",
+    "frTranslation": "seconde",
+    "esTranslation": "segundo",
+    "arTranslation": "ثانية",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "eternity"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "minute",
+    "meaning": "Sixty seconds; a short period.",
+    "example": "The train arrives in five minutes.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/minute/",
+    "frTranslation": "minute",
+    "esTranslation": "minuto",
+    "arTranslation": "دقيقة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "hour",
+    "meaning": "Sixty minutes; a common unit for appointments and work.",
+    "example": "We spoke for almost an hour.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/hour/",
+    "frTranslation": "heure",
+    "esTranslation": "hora",
+    "arTranslation": "ساعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "day",
+    "meaning": "Twenty-four hours from midnight to midnight.",
+    "example": "Delivery takes three business days.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/day/",
+    "frTranslation": "jour",
+    "esTranslation": "día",
+    "arTranslation": "يوم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "week",
+    "meaning": "Seven days; often used for scheduling.",
+    "example": "We’ll review the plan next week.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/week/",
+    "frTranslation": "semaine",
+    "esTranslation": "semana",
+    "arTranslation": "أسبوع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "fortnight",
+    "meaning": "A period of two weeks.",
+    "example": "Rent is due every fortnight.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/fortnight/",
+    "frTranslation": "quinzaine",
+    "esTranslation": "quincena",
+    "arTranslation": "أسبوعان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "month",
+    "meaning": "About thirty days; a twelfth of a year.",
+    "example": "The subscription renews each month.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/month/",
+    "frTranslation": "mois",
+    "esTranslation": "mes",
+    "arTranslation": "شهر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "quarter (time)",
+    "meaning": "A three‑month period in a financial or academic year.",
+    "example": "Revenue grew 8% this quarter.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/quarter (time)/",
+    "frTranslation": "trimestre",
+    "esTranslation": "trimestre",
+    "arTranslation": "ربع سنة/ثلاثة أشهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "semester",
+    "meaning": "A six‑month academic term in many institutions.",
+    "example": "He will study abroad next semester.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/semester/",
+    "frTranslation": "semestre",
+    "esTranslation": "semestre",
+    "arTranslation": "فصل دراسي (ستة أشهر)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "year",
+    "meaning": "Twelve months; the time Earth takes to orbit the sun.",
+    "example": "They celebrate their anniversary each year.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/year/",
+    "frTranslation": "année",
+    "esTranslation": "año",
+    "arTranslation": "سنة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "decade",
+    "meaning": "Ten years.",
+    "example": "The town has changed a lot over the past decade.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/decade/",
+    "frTranslation": "décennie",
+    "esTranslation": "década",
+    "arTranslation": "عقد (عشر سنوات)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "century",
+    "meaning": "One hundred years.",
+    "example": "The cathedral took a century to complete.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/century/",
+    "frTranslation": "siècle",
+    "esTranslation": "siglo",
+    "arTranslation": "قرن (مئة سنة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "millennium",
+    "meaning": "One thousand years.",
+    "example": "The site has been inhabited for a millennium.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/millennium/",
+    "frTranslation": "millénaire",
+    "esTranslation": "milenio",
+    "arTranslation": "ألفية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "dawn",
+    "meaning": "The first light of day before sunrise.",
+    "example": "Fishermen left at dawn to catch the tide.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/dawn/",
+    "frTranslation": "aube",
+    "esTranslation": "amanecer (alba)",
+    "arTranslation": "الفجر/بزوغ الفجر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "daybreak"
+    ],
+    "antonyms": [
+      "dusk"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "sunrise",
+    "meaning": "The moment the sun appears above the horizon.",
+    "example": "We watched the sunrise from the hill.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/sunrise/",
+    "frTranslation": "lever du soleil",
+    "esTranslation": "amanecer (salida del sol)",
+    "arTranslation": "شروق الشمس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "morning",
+    "meaning": "The early part of the day from dawn to noon.",
+    "example": "Her best focus is in the morning.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/morning/",
+    "frTranslation": "matin",
+    "esTranslation": "mañana",
+    "arTranslation": "صباح",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "noon",
+    "meaning": "Twelve o’clock in the day; midday.",
+    "example": "The meeting starts at noon sharp.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/noon/",
+    "frTranslation": "midi",
+    "esTranslation": "mediodía",
+    "arTranslation": "الظهر (منتصف النهار)",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "afternoon",
+    "meaning": "The part of the day after noon until evening.",
+    "example": "I’ll drop by this afternoon.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/afternoon/",
+    "frTranslation": "après‑midi",
+    "esTranslation": "tarde (después del mediodía)",
+    "arTranslation": "بعد الظهر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "evening",
+    "meaning": "The period between late afternoon and night.",
+    "example": "They go for a walk every evening.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/evening/",
+    "frTranslation": "soir",
+    "esTranslation": "tarde‑noche",
+    "arTranslation": "مساء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "sunset",
+    "meaning": "The moment the sun disappears below the horizon.",
+    "example": "Colors at sunset were brilliant.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/sunset/",
+    "frTranslation": "coucher du soleil",
+    "esTranslation": "puesta del sol",
+    "arTranslation": "غروب الشمس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "dusk",
+    "meaning": "The darker part of twilight before night.",
+    "example": "Bats flew at dusk above the river.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/dusk/",
+    "frTranslation": "crépuscule",
+    "esTranslation": "crepúsculo (anochecer)",
+    "arTranslation": "الغسق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "dawn"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "twilight",
+    "meaning": "The soft light after sunset or before sunrise.",
+    "example": "We set up camp in the twilight.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/twilight/",
+    "frTranslation": "entre chien et loup / crépuscule",
+    "esTranslation": "crepúsculo",
+    "arTranslation": "الشفق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "night",
+    "meaning": "The dark period from sunset to sunrise.",
+    "example": "The temperature drops at night.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/night/",
+    "frTranslation": "nuit",
+    "esTranslation": "noche",
+    "arTranslation": "ليل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "midnight",
+    "meaning": "Twelve o’clock at night; 00:00.",
+    "example": "Fireworks go off at midnight on New Year’s.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/midnight/",
+    "frTranslation": "minuit",
+    "esTranslation": "medianoche",
+    "arTranslation": "منتصف الليل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "time of day"
+    ]
+  },
+  {
+    "text": "Monday",
+    "meaning": "The Monday of the week.",
+    "example": "Our next class is on Monday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Monday/",
+    "frTranslation": "lundi",
+    "esTranslation": "lunes",
+    "arTranslation": "الاثنين",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "Tuesday",
+    "meaning": "The Tuesday of the week.",
+    "example": "Our next class is on Tuesday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Tuesday/",
+    "frTranslation": "mardi",
+    "esTranslation": "martes",
+    "arTranslation": "الثلاثاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "Wednesday",
+    "meaning": "The Wednesday of the week.",
+    "example": "Our next class is on Wednesday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Wednesday/",
+    "frTranslation": "mercredi",
+    "esTranslation": "miércoles",
+    "arTranslation": "الأربعاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "Thursday",
+    "meaning": "The Thursday of the week.",
+    "example": "Our next class is on Thursday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Thursday/",
+    "frTranslation": "jeudi",
+    "esTranslation": "jueves",
+    "arTranslation": "الخميس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "Friday",
+    "meaning": "The Friday of the week.",
+    "example": "Our next class is on Friday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Friday/",
+    "frTranslation": "vendredi",
+    "esTranslation": "viernes",
+    "arTranslation": "الجمعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "Saturday",
+    "meaning": "The Saturday of the week.",
+    "example": "Our next class is on Saturday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Saturday/",
+    "frTranslation": "samedi",
+    "esTranslation": "sábado",
+    "arTranslation": "السبت",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "Sunday",
+    "meaning": "The Sunday of the week.",
+    "example": "Our next class is on Sunday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Sunday/",
+    "frTranslation": "dimanche",
+    "esTranslation": "domingo",
+    "arTranslation": "الأحد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "weekdays"
+    ]
+  },
+  {
+    "text": "January",
+    "meaning": "The first month in the Gregorian calendar.",
+    "example": "The festival takes place in January.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/January/",
+    "frTranslation": "janvier",
+    "esTranslation": "enero",
+    "arTranslation": "يناير",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "February",
+    "meaning": "The February month in the Gregorian calendar.",
+    "example": "The festival takes place in February.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/February/",
+    "frTranslation": "février",
+    "esTranslation": "febrero",
+    "arTranslation": "فبراير",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "March",
+    "meaning": "The March month in the Gregorian calendar.",
+    "example": "The festival takes place in March.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/March/",
+    "frTranslation": "mars",
+    "esTranslation": "marzo",
+    "arTranslation": "مارس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "April",
+    "meaning": "The April month in the Gregorian calendar.",
+    "example": "The festival takes place in April.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/April/",
+    "frTranslation": "avril",
+    "esTranslation": "abril",
+    "arTranslation": "أبريل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "May",
+    "meaning": "The May month in the Gregorian calendar.",
+    "example": "The festival takes place in May.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/May/",
+    "frTranslation": "mai",
+    "esTranslation": "mayo",
+    "arTranslation": "مايو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "June",
+    "meaning": "The June month in the Gregorian calendar.",
+    "example": "The festival takes place in June.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/June/",
+    "frTranslation": "juin",
+    "esTranslation": "junio",
+    "arTranslation": "يونيو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "July",
+    "meaning": "The July month in the Gregorian calendar.",
+    "example": "The festival takes place in July.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/July/",
+    "frTranslation": "juillet",
+    "esTranslation": "julio",
+    "arTranslation": "يوليو",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "August",
+    "meaning": "The August month in the Gregorian calendar.",
+    "example": "The festival takes place in August.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/August/",
+    "frTranslation": "août",
+    "esTranslation": "agosto",
+    "arTranslation": "أغسطس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "September",
+    "meaning": "The September month in the Gregorian calendar.",
+    "example": "The festival takes place in September.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/September/",
+    "frTranslation": "septembre",
+    "esTranslation": "septiembre",
+    "arTranslation": "سبتمبر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "October",
+    "meaning": "The October month in the Gregorian calendar.",
+    "example": "The festival takes place in October.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/October/",
+    "frTranslation": "octobre",
+    "esTranslation": "octubre",
+    "arTranslation": "أكتوبر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "November",
+    "meaning": "The November month in the Gregorian calendar.",
+    "example": "The festival takes place in November.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/November/",
+    "frTranslation": "novembre",
+    "esTranslation": "noviembre",
+    "arTranslation": "نوفمبر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "December",
+    "meaning": "The December month in the Gregorian calendar.",
+    "example": "The festival takes place in December.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/December/",
+    "frTranslation": "décembre",
+    "esTranslation": "diciembre",
+    "arTranslation": "ديسمبر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "months"
+    ]
+  },
+  {
+    "text": "calendar",
+    "meaning": "A system or tool for organizing days, months, and events.",
+    "example": "Share the project calendar with the team.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/calendar/",
+    "frTranslation": "calendrier",
+    "esTranslation": "calendario",
+    "arTranslation": "تقويم",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "Gregorian calendar",
+    "meaning": "The internationally used civil calendar introduced in 1582.",
+    "example": "Dates in most countries follow the Gregorian calendar.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/Gregorian calendar/",
+    "frTranslation": "calendrier grégorien",
+    "esTranslation": "calendario gregoriano",
+    "arTranslation": "التقويم الغريغوري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "lunar calendar",
+    "meaning": "A calendar based on the phases of the moon.",
+    "example": "Some holidays shift each year in a lunar calendar.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/lunar calendar/",
+    "frTranslation": "calendrier lunaire",
+    "esTranslation": "calendario lunar",
+    "arTranslation": "تقويم قمري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "solar calendar",
+    "meaning": "A calendar aligned with the solar year.",
+    "example": "Agricultural seasons match a solar calendar.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/solar calendar/",
+    "frTranslation": "calendrier solaire",
+    "esTranslation": "calendario solar",
+    "arTranslation": "تقويم شمسي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "leap year",
+    "meaning": "A year with an extra day (Feb 29) to keep the calendar aligned with the solar year.",
+    "example": "He was born in a leap year.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/leap year/",
+    "frTranslation": "année bissextile",
+    "esTranslation": "año bisiesto",
+    "arTranslation": "سنة كبيسة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "common year"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "leap day",
+    "meaning": "The extra day added to February in a leap year.",
+    "example": "Some couples choose the leap day for fun.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/leap day/",
+    "frTranslation": "jour intercalaire (29 février)",
+    "esTranslation": "día bisiesto (29 de febrero)",
+    "arTranslation": "اليوم الكبيس (29 فبراير)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "time zone",
+    "meaning": "A region that observes the same standard time.",
+    "example": "Schedule the call across three time zones.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/time zone/",
+    "frTranslation": "fuseau horaire",
+    "esTranslation": "huso horario",
+    "arTranslation": "منطقة زمنية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "systems"
+    ]
+  },
+  {
+    "text": "UTC",
+    "meaning": "Coordinated Universal Time, the baseline for world time.",
+    "example": "Timestamps are stored in UTC.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/UTC/",
+    "frTranslation": "UTC (Temps universel coordonné)",
+    "esTranslation": "UTC (Tiempo universal coordinado)",
+    "arTranslation": "UTC (التوقيت العالمي المنسق)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "systems"
+    ]
+  },
+  {
+    "text": "GMT",
+    "meaning": "Greenwich Mean Time; a time standard close to UTC.",
+    "example": "The broadcast airs at 18:00 GMT.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/GMT/",
+    "frTranslation": "GMT (Greenwich Mean Time)",
+    "esTranslation": "GMT (Hora del meridiano de Greenwich)",
+    "arTranslation": "توقيت غرينتش",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "systems"
+    ]
+  },
+  {
+    "text": "daylight saving time",
+    "meaning": "A seasonal clock change to extend evening daylight.",
+    "example": "Clocks move forward for daylight saving time in spring.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/daylight saving time/",
+    "frTranslation": "heure d’été",
+    "esTranslation": "horario de verano",
+    "arTranslation": "التوقيت الصيفي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "standard time"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "systems"
+    ]
+  },
+  {
+    "text": "24‑hour clock",
+    "meaning": "Time notation from 00:00 to 23:59 without a.m./p.m.",
+    "example": "Hospitals use a 24‑hour clock.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/24‑hour clock/",
+    "frTranslation": "horloge 24 heures",
+    "esTranslation": "formato de 24 horas",
+    "arTranslation": "نظام 24 ساعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "systems"
+    ]
+  },
+  {
+    "text": "a.m./p.m.",
+    "meaning": "Labels that distinguish morning from afternoon/evening in the 12‑hour clock.",
+    "example": "The flight is at 7:15 a.m., not p.m.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/a.m./p.m./",
+    "frTranslation": "a.m./p.m.",
+    "esTranslation": "a. m./p. m.",
+    "arTranslation": "ص/م (قبل/بعد الظهر)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "systems"
+    ]
+  },
+  {
+    "text": "weekend",
+    "meaning": "The days at the end of the week used for rest or leisure, typically Saturday and Sunday.",
+    "example": "Let’s plan a weekend trip.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/weekend/",
+    "frTranslation": "week‑end",
+    "esTranslation": "fin de semana",
+    "arTranslation": "عطلة نهاية الأسبوع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "weekday"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "weekday",
+    "meaning": "Any day from Monday to Friday in many places.",
+    "example": "Deliveries only happen on weekdays.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/weekday/",
+    "frTranslation": "jour ouvrable (semaine)",
+    "esTranslation": "día laborable (entre semana)",
+    "arTranslation": "يوم عمل/أيام الأسبوع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "business day",
+    "meaning": "A working day when commercial activity and banks operate.",
+    "example": "Payments clear in three business days.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/business day/",
+    "frTranslation": "jour ouvré",
+    "esTranslation": "día hábil",
+    "arTranslation": "يوم عمل رسمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "public holiday",
+    "meaning": "A day set aside by law for observance when offices often close.",
+    "example": "The office is closed on the public holiday.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/public holiday/",
+    "frTranslation": "jour férié",
+    "esTranslation": "día festivo (feriado)",
+    "arTranslation": "عطلة رسمية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "calendar"
+    ]
+  },
+  {
+    "text": "timestamp",
+    "meaning": "A recorded date and time attached to a file, log, or event.",
+    "example": "Every edit saves a new timestamp.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timestamp/",
+    "frTranslation": "horodatage",
+    "esTranslation": "marca temporal (timestamp)",
+    "arTranslation": "ختم زمني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "records"
+    ]
+  },
+  {
+    "text": "timecode",
+    "meaning": "A numerical label marking exact positions in audio or video.",
+    "example": "Add captions starting at timecode 00:01:30.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timecode/",
+    "frTranslation": "timecode (code temporel)",
+    "esTranslation": "timecode (código de tiempo)",
+    "arTranslation": "كود زمني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "records"
+    ]
+  },
+  {
+    "text": "stopwatch",
+    "meaning": "A device for measuring precise intervals.",
+    "example": "She clicked the stopwatch at the gunshot.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/stopwatch/",
+    "frTranslation": "chronomètre",
+    "esTranslation": "cronómetro",
+    "arTranslation": "ساعة توقيت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "tools"
+    ]
+  },
+  {
+    "text": "timer",
+    "meaning": "A device or app that counts down a set duration.",
+    "example": "Set a 20‑minute timer for breaks.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timer/",
+    "frTranslation": "minuteur",
+    "esTranslation": "temporizador",
+    "arTranslation": "مؤقّت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "tools"
+    ]
+  },
+  {
+    "text": "alarm",
+    "meaning": "A signal set to go off at a chosen time.",
+    "example": "I set an alarm for 6:30 a.m.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/alarm/",
+    "frTranslation": "alarme",
+    "esTranslation": "alarma",
+    "arTranslation": "منبّه",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "tools"
+    ]
+  },
+  {
+    "text": "clock",
+    "meaning": "A device that shows the current time.",
+    "example": "The wall clock is five minutes fast.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/clock/",
+    "frTranslation": "horloge",
+    "esTranslation": "reloj",
+    "arTranslation": "ساعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "tools"
+    ]
+  },
+  {
+    "text": "hourglass",
+    "meaning": "A glass timer where sand measures a fixed interval.",
+    "example": "Flip the hourglass for another three minutes.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/hourglass/",
+    "frTranslation": "sablier",
+    "esTranslation": "reloj de arena",
+    "arTranslation": "ساعة رملية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "tools"
+    ]
+  },
+  {
+    "text": "sundial",
+    "meaning": "An ancient device that uses a shadow to indicate time.",
+    "example": "The garden sundial points to noon.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/sundial/",
+    "frTranslation": "cadran solaire",
+    "esTranslation": "reloj de sol",
+    "arTranslation": "مزولة شمسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "tools"
+    ]
+  },
+  {
+    "text": "chronology",
+    "meaning": "The arrangement of events in the order they happened.",
+    "example": "The report includes a chronology of key dates.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/chronology/",
+    "frTranslation": "chronologie",
+    "esTranslation": "cronología",
+    "arTranslation": "تسلسل زمني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "records"
+    ]
+  },
+  {
+    "text": "timeline",
+    "meaning": "A visual or written sequence of events over time.",
+    "example": "The timeline shows milestones by quarter.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timeline/",
+    "frTranslation": "frise chronologique",
+    "esTranslation": "línea de tiempo",
+    "arTranslation": "جدول زمني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "records"
+    ]
+  },
+  {
+    "text": "duration",
+    "meaning": "How long something lasts from start to finish.",
+    "example": "The flight’s duration is ten hours.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/duration/",
+    "frTranslation": "durée",
+    "esTranslation": "duración",
+    "arTranslation": "مدّة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "measurement"
+    ]
+  },
+  {
+    "text": "interval",
+    "meaning": "A period between two events or points in time.",
+    "example": "Set review intervals at two weeks.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/interval/",
+    "frTranslation": "intervalle",
+    "esTranslation": "intervalo",
+    "arTranslation": "فاصل زمني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "measurement"
+    ]
+  },
+  {
+    "text": "frequency",
+    "meaning": "How often something occurs within a time frame.",
+    "example": "The newsletter’s frequency is weekly.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/frequency/",
+    "frTranslation": "fréquence",
+    "esTranslation": "frecuencia",
+    "arTranslation": "تكرار/تواتر",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "measurement"
+    ]
+  },
+  {
+    "text": "lag (time)",
+    "meaning": "A delay between cause and effect or input and response.",
+    "example": "Customer feedback shows a lag after launches.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/lag (time)/",
+    "frTranslation": "décalage/retard",
+    "esTranslation": "retraso",
+    "arTranslation": "تأخر زمني",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "measurement"
+    ]
+  },
+  {
+    "text": "deadline",
+    "meaning": "The latest time or date by which something must be done.",
+    "example": "We cannot miss the grant deadline.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/deadline/",
+    "frTranslation": "date limite",
+    "esTranslation": "fecha límite",
+    "arTranslation": "الموعد النهائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "due date"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "due date",
+    "meaning": "The specific date when payment, work, or a baby is expected.",
+    "example": "The invoice lists a due date of the 30th.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/due date/",
+    "frTranslation": "date d’échéance",
+    "esTranslation": "fecha de vencimiento",
+    "arTranslation": "تاريخ الاستحقاق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  }
+]

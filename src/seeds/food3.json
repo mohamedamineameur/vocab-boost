@@ -1,0 +1,767 @@
+[
+  {
+    "text": "sugar",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked sugar for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/sugar/",
+    "frTranslation": "sucre",
+    "esTranslation": "azúcar",
+    "arTranslation": "سكر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "salt",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked salt for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/salt/",
+    "frTranslation": "sel",
+    "esTranslation": "sal",
+    "arTranslation": "ملح",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "pepper (spice)",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked pepper (spice) for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pepper (spice)/",
+    "frTranslation": "poivre",
+    "esTranslation": "pimienta",
+    "arTranslation": "فلفل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "olive oil",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked olive oil for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/olive oil/",
+    "frTranslation": "huile d'olive",
+    "esTranslation": "aceite de oliva",
+    "arTranslation": "زيت الزيتون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "butter",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked butter for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/butter/",
+    "frTranslation": "beurre",
+    "esTranslation": "mantequilla",
+    "arTranslation": "زبدة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "oats",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked oats for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/oats/",
+    "frTranslation": "avoine",
+    "esTranslation": "avena",
+    "arTranslation": "شوفان",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "quinoa",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked quinoa for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/quinoa/",
+    "frTranslation": "quinoa",
+    "esTranslation": "quinoa",
+    "arTranslation": "كينوا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "couscous",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked couscous for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/couscous/",
+    "frTranslation": "couscous",
+    "esTranslation": "cuscús",
+    "arTranslation": "كسكس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "tortilla",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked tortilla for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tortilla/",
+    "frTranslation": "tortilla",
+    "esTranslation": "tortilla",
+    "arTranslation": "تورتيلا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "cereal",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked cereal for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cereal/",
+    "frTranslation": "céréales",
+    "esTranslation": "cereal",
+    "arTranslation": "حبوب الإفطار",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "honey",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked honey for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/honey/",
+    "frTranslation": "miel",
+    "esTranslation": "miel",
+    "arTranslation": "عسل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "maple syrup",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked maple syrup for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/maple syrup/",
+    "frTranslation": "sirop d'érable",
+    "esTranslation": "jarabe de arce",
+    "arTranslation": "شراب القيقب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "yeast",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked yeast for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/yeast/",
+    "frTranslation": "levure",
+    "esTranslation": "levadura",
+    "arTranslation": "خميرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "baking powder",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked baking powder for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/baking powder/",
+    "frTranslation": "levure chimique",
+    "esTranslation": "polvo de hornear",
+    "arTranslation": "بيكنج باودر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "baking soda",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked baking soda for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/baking soda/",
+    "frTranslation": "bicarbonate de soude",
+    "esTranslation": "bicarbonato",
+    "arTranslation": "بيكربونات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "chicken",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled chicken for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/chicken/",
+    "frTranslation": "poulet",
+    "esTranslation": "pollo",
+    "arTranslation": "دجاج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "beef",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled beef for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/beef/",
+    "frTranslation": "boeuf",
+    "esTranslation": "carne de res",
+    "arTranslation": "لحم بقر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "pork",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled pork for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pork/",
+    "frTranslation": "porc",
+    "esTranslation": "cerdo",
+    "arTranslation": "لحم خنزير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "lamb",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled lamb for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/lamb/",
+    "frTranslation": "agneau",
+    "esTranslation": "cordero",
+    "arTranslation": "لحم غنم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "turkey",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled turkey for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/turkey/",
+    "frTranslation": "dinde",
+    "esTranslation": "pavo",
+    "arTranslation": "ديك رومي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "fish",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled fish for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/fish/",
+    "frTranslation": "poisson",
+    "esTranslation": "pescado",
+    "arTranslation": "سمك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "salmon",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled salmon for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/salmon/",
+    "frTranslation": "saumon",
+    "esTranslation": "salmón",
+    "arTranslation": "سلمون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "tuna",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled tuna for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/tuna/",
+    "frTranslation": "thon",
+    "esTranslation": "atún",
+    "arTranslation": "تونة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "shrimp",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled shrimp for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/shrimp/",
+    "frTranslation": "crevette",
+    "esTranslation": "camarón/gamba",
+    "arTranslation": "روبيان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "crab",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled crab for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/crab/",
+    "frTranslation": "crabe",
+    "esTranslation": "cangrejo",
+    "arTranslation": "سرطان البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "lobster",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled lobster for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/lobster/",
+    "frTranslation": "homard",
+    "esTranslation": "langosta",
+    "arTranslation": "جراد البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "sausage",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled sausage for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/sausage/",
+    "frTranslation": "saucisse",
+    "esTranslation": "salchicha",
+    "arTranslation": "نقانق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "bacon",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled bacon for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bacon/",
+    "frTranslation": "bacon",
+    "esTranslation": "tocino",
+    "arTranslation": "لحم مقدد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "ham",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled ham for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ham/",
+    "frTranslation": "jambon",
+    "esTranslation": "jamón",
+    "arTranslation": "لحم خنزير مقدد/هام",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "steak",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled steak for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/steak/",
+    "frTranslation": "steak",
+    "esTranslation": "bistec",
+    "arTranslation": "شريحة لحم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "ribs",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled ribs for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ribs/",
+    "frTranslation": "travers de porc",
+    "esTranslation": "costillas",
+    "arTranslation": "أضلاع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "meatball",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled meatball for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/meatball/",
+    "frTranslation": "boulette de viande",
+    "esTranslation": "albóndiga",
+    "arTranslation": "كرات لحم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "duck",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled duck for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/duck/",
+    "frTranslation": "canard",
+    "esTranslation": "pato",
+    "arTranslation": "بط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "mussels",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled mussels for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mussels/",
+    "frTranslation": "moules",
+    "esTranslation": "mejillones",
+    "arTranslation": "بلح البحر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "calamari",
+    "meaning": "A type of meat or seafood used as food.",
+    "example": "They grilled calamari for the barbecue.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/calamari/",
+    "frTranslation": "calamar",
+    "esTranslation": "calamar",
+    "arTranslation": "حبار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "meat/seafood"
+    ]
+  },
+  {
+    "text": "milk",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought milk at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/milk/",
+    "frTranslation": "lait",
+    "esTranslation": "leche",
+    "arTranslation": "حليب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "cheese",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought cheese at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cheese/",
+    "frTranslation": "fromage",
+    "esTranslation": "queso",
+    "arTranslation": "جبن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "yogurt",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought yogurt at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/yogurt/",
+    "frTranslation": "yaourt",
+    "esTranslation": "yogur",
+    "arTranslation": "زبادي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "cream",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought cream at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cream/",
+    "frTranslation": "crème",
+    "esTranslation": "crema",
+    "arTranslation": "كريمة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "ice cream",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought ice cream at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ice cream/",
+    "frTranslation": "glace",
+    "esTranslation": "helado",
+    "arTranslation": "آيس كريم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "egg",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought egg at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/egg/",
+    "frTranslation": "œuf",
+    "esTranslation": "huevo",
+    "arTranslation": "بيض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "white (egg white)",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought white (egg white) at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/white (egg white)/",
+    "frTranslation": "blanc d'œuf",
+    "esTranslation": "clara de huevo",
+    "arTranslation": "بياض البيض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "yolk",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought yolk at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/yolk/",
+    "frTranslation": "jaune d'œuf",
+    "esTranslation": "yema",
+    "arTranslation": "صفار البيض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "buttermilk",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought buttermilk at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/buttermilk/",
+    "frTranslation": "babeurre",
+    "esTranslation": "suero de leche",
+    "arTranslation": "لبن مخيض",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  },
+  {
+    "text": "ghee",
+    "meaning": "A dairy product or egg used as food.",
+    "example": "She bought ghee at the store.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ghee/",
+    "frTranslation": "ghee/beurre clarifié",
+    "esTranslation": "ghee/mantequilla clarificada",
+    "arTranslation": "سمن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "dairy/egg"
+    ]
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "text": "senior",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a senior now.",
+    "categoryId": "Family",
+    "pronunciation": "/senior/",
+    "frTranslation": "senior/personne âgée",
+    "esTranslation": "adulto mayor",
+    "arTranslation": "مسنّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "elder",
+    "meaning": "A stage of life within a family context.",
+    "example": "My brother is a elder now.",
+    "categoryId": "Family",
+    "pronunciation": "/elder/",
+    "frTranslation": "aîné(e)",
+    "esTranslation": "anciano/a",
+    "arTranslation": "كبير السن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "life-stage"
+    ]
+  },
+  {
+    "text": "wedding",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a wedding this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/wedding/",
+    "frTranslation": "mariage",
+    "esTranslation": "boda",
+    "arTranslation": "زفاف/عرس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "marriage",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a marriage this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/marriage/",
+    "frTranslation": "mariage (état)",
+    "esTranslation": "matrimonio",
+    "arTranslation": "زواج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "anniversary",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a anniversary this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/anniversary/",
+    "frTranslation": "anniversaire de mariage",
+    "esTranslation": "aniversario",
+    "arTranslation": "ذكرى سنوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "birthday",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a birthday this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/birthday/",
+    "frTranslation": "anniversaire",
+    "esTranslation": "cumpleaños",
+    "arTranslation": "عيد ميلاد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "family reunion",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a family reunion this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/family reunion/",
+    "frTranslation": "réunion de famille",
+    "esTranslation": "reunión familiar",
+    "arTranslation": "لم شمل الأسرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "adoption",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a adoption this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/adoption/",
+    "frTranslation": "adoption",
+    "esTranslation": "adopción",
+    "arTranslation": "تبنّي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "engagement",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a engagement this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/engagement/",
+    "frTranslation": "fiançailles",
+    "esTranslation": "compromiso",
+    "arTranslation": "خطوبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "divorce",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a divorce this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/divorce/",
+    "frTranslation": "divorce",
+    "esTranslation": "divorcio",
+    "arTranslation": "طلاق",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "funeral",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a funeral this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/funeral/",
+    "frTranslation": "funérailles",
+    "esTranslation": "funeral",
+    "arTranslation": "جنازة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "baptism",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a baptism this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/baptism/",
+    "frTranslation": "baptême",
+    "esTranslation": "bautismo",
+    "arTranslation": "معمودية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "graduation",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a graduation this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/graduation/",
+    "frTranslation": "remise de diplôme",
+    "esTranslation": "graduación",
+    "arTranslation": "تخرج",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "baby shower",
+    "meaning": "A family-related event or occasion.",
+    "example": "We're planning a baby shower this weekend.",
+    "categoryId": "Family",
+    "pronunciation": "/baby shower/",
+    "frTranslation": "baby shower",
+    "esTranslation": "baby shower/fiesta prenatal",
+    "arTranslation": "حفلة استقبال المولود",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "event/occasion"
+    ]
+  },
+  {
+    "text": "caregiver",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the caregiver.",
+    "categoryId": "Family",
+    "pronunciation": "/caregiver/",
+    "frTranslation": "aidant(e) familial(e)",
+    "esTranslation": "cuidador/a",
+    "arTranslation": "مقدّم رعاية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "breadwinner",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the breadwinner.",
+    "categoryId": "Family",
+    "pronunciation": "/breadwinner/",
+    "frTranslation": "soutien de famille",
+    "esTranslation": "sostén de la familia",
+    "arTranslation": "معيل الأسرة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "homemaker",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the homemaker.",
+    "categoryId": "Family",
+    "pronunciation": "/homemaker/",
+    "frTranslation": "femme/homme au foyer",
+    "esTranslation": "amo/a de casa",
+    "arTranslation": "رب/ربة منزل",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "stay-at-home parent",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the stay-at-home parent.",
+    "categoryId": "Family",
+    "pronunciation": "/stay-at-home parent/",
+    "frTranslation": "parent au foyer",
+    "esTranslation": "padre/madre que se queda en casa",
+    "arTranslation": "والد/والدة ملازم للبيت",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "single parent",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the single parent.",
+    "categoryId": "Family",
+    "pronunciation": "/single parent/",
+    "frTranslation": "parent célibataire",
+    "esTranslation": "padre/madre soltero/a",
+    "arTranslation": "والد/والدة منفرد",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "stepfamily",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the stepfamily.",
+    "categoryId": "Family",
+    "pronunciation": "/stepfamily/",
+    "frTranslation": "famille recomposée",
+    "esTranslation": "familia reconstituida",
+    "arTranslation": "أسرة معاد تكوينها",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "extended family",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the extended family.",
+    "categoryId": "Family",
+    "pronunciation": "/extended family/",
+    "frTranslation": "famille élargie",
+    "esTranslation": "familia extendida",
+    "arTranslation": "العائلة الممتدة",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "nuclear family",
+    "meaning": "A family role or family structure type.",
+    "example": "In our home, I'm the nuclear family.",
+    "categoryId": "Family",
+    "pronunciation": "/nuclear family/",
+    "frTranslation": "famille nucléaire",
+    "esTranslation": "familia nuclear",
+    "arTranslation": "الأسرة النووية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "role/type"
+    ]
+  },
+  {
+    "text": "close-knit",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a close-knit family.",
+    "categoryId": "Family",
+    "pronunciation": "/close-knit/",
+    "frTranslation": "uni/solidaire",
+    "esTranslation": "unido",
+    "arTranslation": "مترابط/متماسك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "distant",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a distant family.",
+    "categoryId": "Family",
+    "pronunciation": "/distant/",
+    "frTranslation": "distant",
+    "esTranslation": "distante",
+    "arTranslation": "بعيد/متباعد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "strict",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a strict family.",
+    "categoryId": "Family",
+    "pronunciation": "/strict/",
+    "frTranslation": "strict(e)",
+    "esTranslation": "estricto/a",
+    "arTranslation": "صارم/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "supportive",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a supportive family.",
+    "categoryId": "Family",
+    "pronunciation": "/supportive/",
+    "frTranslation": "bienveillant/qui soutient",
+    "esTranslation": "solidario/a",
+    "arTranslation": "داعِم/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "loving",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a loving family.",
+    "categoryId": "Family",
+    "pronunciation": "/loving/",
+    "frTranslation": "aimant(e)",
+    "esTranslation": "cariñoso/a",
+    "arTranslation": "مُحِب/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "caring",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a caring family.",
+    "categoryId": "Family",
+    "pronunciation": "/caring/",
+    "frTranslation": "attentionné(e)",
+    "esTranslation": "atento/a",
+    "arTranslation": "عطوف/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "overprotective",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a overprotective family.",
+    "categoryId": "Family",
+    "pronunciation": "/overprotective/",
+    "frTranslation": "surprotecteur/surprotectrice",
+    "esTranslation": "sobreprotector/a",
+    "arTranslation": "مفرط الحماية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  },
+  {
+    "text": "blended",
+    "meaning": "An adjective describing family qualities or relationships.",
+    "example": "We're a blended family.",
+    "categoryId": "Family",
+    "pronunciation": "/blended/",
+    "frTranslation": "recomposé(e)",
+    "esTranslation": "reconstruida",
+    "arTranslation": "مُعاد تكوينها",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Family",
+      "adjective/trait"
+    ]
+  }
+]

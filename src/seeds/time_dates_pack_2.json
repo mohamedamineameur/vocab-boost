@@ -1,0 +1,1330 @@
+[
+  {
+    "text": "expiry date",
+    "meaning": "The last date a document, product, or offer is valid.",
+    "example": "Check the passport’s expiry date.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/expiry date/",
+    "frTranslation": "date d’expiration",
+    "esTranslation": "fecha de caducidad",
+    "arTranslation": "تاريخ انتهاء الصلاحية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "anniversary",
+    "meaning": "The yearly return of a date marking an event.",
+    "example": "They planned a dinner for their tenth anniversary.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/anniversary/",
+    "frTranslation": "anniversaire (événement)",
+    "esTranslation": "aniversario (evento)",
+    "arTranslation": "ذكرى سنوية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "dates"
+    ]
+  },
+  {
+    "text": "birthday",
+    "meaning": "The yearly date of someone’s birth.",
+    "example": "Her birthday falls on a Sunday this year.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/birthday/",
+    "frTranslation": "anniversaire (naissance)",
+    "esTranslation": "cumpleaños",
+    "arTranslation": "عيد ميلاد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "dates"
+    ]
+  },
+  {
+    "text": "milestone",
+    "meaning": "A significant event or checkpoint on a timeline.",
+    "example": "Beta release is the next milestone.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/milestone/",
+    "frTranslation": "jalon (étape)",
+    "esTranslation": "hito",
+    "arTranslation": "محطة/إنجاز مرحلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "timeframe",
+    "meaning": "The period in which something is expected to happen.",
+    "example": "What is the timeframe for delivery?",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timeframe/",
+    "frTranslation": "période (fenêtre)",
+    "esTranslation": "marco temporal",
+    "arTranslation": "إطار زمني",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "schedule",
+    "meaning": "A plan that lists tasks or events and when they will happen.",
+    "example": "I’ll send a schedule for interviews.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/schedule/",
+    "frTranslation": "planning/emploi du temps",
+    "esTranslation": "cronograma/horario",
+    "arTranslation": "جدول/برنامج زمني",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "agenda",
+    "meaning": "A list of items to be discussed with their planned times.",
+    "example": "The chair circulated the meeting agenda.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/agenda/",
+    "frTranslation": "ordre du jour",
+    "esTranslation": "agenda (orden del día)",
+    "arTranslation": "جدول الأعمال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "timetable",
+    "meaning": "A table that shows times for classes, transport, or events.",
+    "example": "Check the train timetable online.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timetable/",
+    "frTranslation": "horaire (tableau)",
+    "esTranslation": "horario (tabla)",
+    "arTranslation": "جدول مواعيد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "appointment",
+    "meaning": "A scheduled meeting at a set time.",
+    "example": "Your dental appointment is at 3 p.m.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/appointment/",
+    "frTranslation": "rendez‑vous",
+    "esTranslation": "cita",
+    "arTranslation": "موعد",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "reservation",
+    "meaning": "An arrangement that holds a time or place in advance.",
+    "example": "Our dinner reservation is for 7:30.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/reservation/",
+    "frTranslation": "réservation",
+    "esTranslation": "reserva",
+    "arTranslation": "حجز",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "reminder",
+    "meaning": "A note or alert to remember a task at a certain time.",
+    "example": "Set a reminder for the tax filing date.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/reminder/",
+    "frTranslation": "rappel",
+    "esTranslation": "recordatorio",
+    "arTranslation": "تذكير",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "countdown",
+    "meaning": "A backward count of time remaining until an event.",
+    "example": "The countdown clock hit zero at launch.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/countdown/",
+    "frTranslation": "compte à rebours",
+    "esTranslation": "cuenta regresiva",
+    "arTranslation": "عدّ تنازلي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "spring",
+    "meaning": "The season after winter when days grow longer and plants bloom.",
+    "example": "They do a deep clean every spring.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/spring/",
+    "frTranslation": "printemps",
+    "esTranslation": "primavera",
+    "arTranslation": "الربيع",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "seasons"
+    ]
+  },
+  {
+    "text": "summer",
+    "meaning": "The warmest season with the longest days.",
+    "example": "We take time off in summer.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/summer/",
+    "frTranslation": "été",
+    "esTranslation": "verano",
+    "arTranslation": "الصيف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "seasons"
+    ]
+  },
+  {
+    "text": "autumn (fall)",
+    "meaning": "The season when temperatures cool and leaves change color.",
+    "example": "Harvest comes in autumn (fall).",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/autumn (fall)/",
+    "frTranslation": "automne",
+    "esTranslation": "otoño",
+    "arTranslation": "الخريف",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "seasons"
+    ]
+  },
+  {
+    "text": "winter",
+    "meaning": "The coldest season with the shortest days.",
+    "example": "Snow is common in winter here.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/winter/",
+    "frTranslation": "hiver",
+    "esTranslation": "invierno",
+    "arTranslation": "الشتاء",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "seasons"
+    ]
+  },
+  {
+    "text": "solstice",
+    "meaning": "The longest or shortest day of the year when the sun is farthest from the equator.",
+    "example": "We marked the winter solstice with candles.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/solstice/",
+    "frTranslation": "solstice",
+    "esTranslation": "solsticio",
+    "arTranslation": "الانقلاب الشمسي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "astronomy"
+    ]
+  },
+  {
+    "text": "equinox",
+    "meaning": "The date when day and night are nearly equal in length.",
+    "example": "Classes begin near the autumn equinox.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/equinox/",
+    "frTranslation": "équinoxe",
+    "esTranslation": "equinoccio",
+    "arTranslation": "الاعتدال",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "astronomy"
+    ]
+  },
+  {
+    "text": "early",
+    "meaning": "Before the expected time.",
+    "example": "She arrived early for the interview.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/early/",
+    "frTranslation": "tôt",
+    "esTranslation": "temprano",
+    "arTranslation": "مبكر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "late"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "late",
+    "meaning": "After the expected time.",
+    "example": "The bus was late due to traffic.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/late/",
+    "frTranslation": "en retard/tard",
+    "esTranslation": "tarde",
+    "arTranslation": "متأخر",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "early",
+      "on time"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "on time",
+    "meaning": "At the scheduled time; punctual.",
+    "example": "Please submit the form on time.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/on time/",
+    "frTranslation": "à l’heure",
+    "esTranslation": "a tiempo",
+    "arTranslation": "في الوقت المحدد",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "punctually"
+    ],
+    "antonyms": [
+      "late"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "punctual",
+    "meaning": "Doing things at the agreed time.",
+    "example": "He is punctual for every class.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/punctual/",
+    "frTranslation": "ponctuel(le)",
+    "esTranslation": "puntual",
+    "arTranslation": "دقيق في المواعيد",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "on-time"
+    ],
+    "antonyms": [
+      "tardy"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "tardy",
+    "meaning": "Late or delayed, especially habitually.",
+    "example": "Tardy arrivals disrupt the lab.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/tardy/",
+    "frTranslation": "retardataire/lent",
+    "esTranslation": "tardío",
+    "arTranslation": "بطيء/متأخر",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "late"
+    ],
+    "antonyms": [
+      "punctual"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "timely",
+    "meaning": "Happening at a useful or appropriate time.",
+    "example": "A timely reminder prevented penalties.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/timely/",
+    "frTranslation": "opportun/à propos",
+    "esTranslation": "oportuno",
+    "arTranslation": "في حينه/بوقته",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "untimely"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "untimely",
+    "meaning": "Occurring at a bad or premature time.",
+    "example": "Rain caused an untimely delay.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/untimely/",
+    "frTranslation": "inopportun/prématuré",
+    "esTranslation": "inoportuno",
+    "arTranslation": "غير مناسب التوقيت",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "timely"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "temporary",
+    "meaning": "Lasting for a limited time only.",
+    "example": "We hired temporary staff for summer.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/temporary/",
+    "frTranslation": "temporaire",
+    "esTranslation": "temporal",
+    "arTranslation": "مؤقّت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "permanent"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "permanent",
+    "meaning": "Intended to last indefinitely.",
+    "example": "The museum opened a permanent exhibit.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/permanent/",
+    "frTranslation": "permanent(e)",
+    "esTranslation": "permanente",
+    "arTranslation": "دائم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "temporary"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "annual",
+    "meaning": "Happening once every year.",
+    "example": "The annual report is due in March.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/annual/",
+    "frTranslation": "annuel(le)",
+    "esTranslation": "anual",
+    "arTranslation": "سنوي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "monthly",
+    "meaning": "Happening once each month.",
+    "example": "We have a monthly check‑in.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/monthly/",
+    "frTranslation": "mensuel(le)",
+    "esTranslation": "mensual",
+    "arTranslation": "شهري",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "weekly",
+    "meaning": "Happening once each week.",
+    "example": "The newsletter is weekly.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/weekly/",
+    "frTranslation": "hebdomadaire",
+    "esTranslation": "semanal",
+    "arTranslation": "أسبوعي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "daily",
+    "meaning": "Happening every day.",
+    "example": "She writes in her journal daily.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/daily/",
+    "frTranslation": "quotidien(ne)",
+    "esTranslation": "diario",
+    "arTranslation": "يومي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "hourly",
+    "meaning": "Happening every hour; also paid by the hour.",
+    "example": "The system runs an hourly backup.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/hourly/",
+    "frTranslation": "horaire (chaque heure)",
+    "esTranslation": "por hora (cada hora)",
+    "arTranslation": "كل ساعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "biweekly (every two weeks)",
+    "meaning": "Occurring once every two weeks.",
+    "example": "We hold a biweekly sync to stay aligned.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/biweekly (every two weeks)/",
+    "frTranslation": "bihebdomadaire (tous les 15 jours)",
+    "esTranslation": "cada dos semanas (quincenal)",
+    "arTranslation": "كل أسبوعين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "bimonthly (ambiguous)",
+    "meaning": "Can mean either every two months or twice a month; clarify usage.",
+    "example": "Specify dates to avoid bimonthly confusion.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/bimonthly (ambiguous)/",
+    "frTranslation": "bimensuel/semestre (ambigu)",
+    "esTranslation": "bimestral/2 veces al mes (ambiguo)",
+    "arTranslation": "كل شهرين أو مرتين شهريًا (غامض)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "quarterly",
+    "meaning": "Happening every three months.",
+    "example": "We publish quarterly updates.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/quarterly/",
+    "frTranslation": "trimestriel(le)",
+    "esTranslation": "trimestral",
+    "arTranslation": "فصلي/كل ثلاثة أشهر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "seasonal",
+    "meaning": "Related to or dependent on a season.",
+    "example": "Tourist demand is highly seasonal.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/seasonal/",
+    "frTranslation": "saisonnier(ère)",
+    "esTranslation": "estacional",
+    "arTranslation": "موسمي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "put off",
+    "meaning": "To delay something to a later time.",
+    "example": "Let’s put off the call until tomorrow.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/put off/",
+    "frTranslation": "reporter/repousser",
+    "esTranslation": "posponer",
+    "arTranslation": "يؤجّل",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "postpone",
+      "delay"
+    ],
+    "antonyms": [
+      "bring forward"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "push back (a meeting)",
+    "meaning": "To reschedule for a later time or date.",
+    "example": "They pushed back the briefing by an hour.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/push back (a meeting)/",
+    "frTranslation": "repousser (une réunion)",
+    "esTranslation": "aplazar (una reunión)",
+    "arTranslation": "تأجيل (اجتماع)",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "delay"
+    ],
+    "antonyms": [
+      "bring forward"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "bring forward",
+    "meaning": "To move an event to an earlier time.",
+    "example": "Can we bring the interview forward to Monday?",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/bring forward/",
+    "frTranslation": "avancer (une date)",
+    "esTranslation": "adelantar (una fecha)",
+    "arTranslation": "يقدّم الموعد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "postpone",
+      "push back"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "run out of time",
+    "meaning": "To have no time left to finish something.",
+    "example": "We ran out of time during the exam.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/run out of time/",
+    "frTranslation": "manquer de temps",
+    "esTranslation": "quedarse sin tiempo",
+    "arTranslation": "ينفد الوقت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "have time to spare"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "catch up (on)",
+    "meaning": "To get back to the current schedule or standard.",
+    "example": "I need to catch up on emails after the trip.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/catch up (on)/",
+    "frTranslation": "rattraper (son retard)",
+    "esTranslation": "ponerse al día",
+    "arTranslation": "يلحق بالركب/يستدرك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "fall behind"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "fall behind",
+    "meaning": "To get delayed compared to a plan or others.",
+    "example": "We fell behind schedule in July.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/fall behind/",
+    "frTranslation": "prendre du retard",
+    "esTranslation": "quedarse atrás",
+    "arTranslation": "يتأخر/يتخلف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "catch up"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "hold off (on)",
+    "meaning": "To delay doing something for a period.",
+    "example": "Hold off on booking until prices drop.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/hold off (on)/",
+    "frTranslation": "attendre avant de",
+    "esTranslation": "esperar antes de",
+    "arTranslation": "يتريّث/يؤجّل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "set aside (time)",
+    "meaning": "To reserve time for a specific purpose.",
+    "example": "Set aside an hour for planning.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/set aside (time)/",
+    "frTranslation": "réserver (du temps)",
+    "esTranslation": "apartarse tiempo",
+    "arTranslation": "يخصّص وقتًا",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "carve out (time)",
+    "meaning": "To create free time by adjusting other obligations.",
+    "example": "She carved out time for exercise.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/carve out (time)/",
+    "frTranslation": "dégager (du temps)",
+    "esTranslation": "hacerse un hueco (de tiempo)",
+    "arTranslation": "يقتطع وقتًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "block out (time)",
+    "meaning": "To reserve a time slot so nothing else can be scheduled.",
+    "example": "Block out Friday afternoon for deep work.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/block out (time)/",
+    "frTranslation": "bloquer (un créneau)",
+    "esTranslation": "bloquear (un horario)",
+    "arTranslation": "يحجز وقتًا/يمنع الحجز",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "pencil in",
+    "meaning": "To schedule tentatively subject to change.",
+    "example": "Let’s pencil in 10:00 a.m. for now.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/pencil in/",
+    "frTranslation": "noter au crayon (provisoirement)",
+    "esTranslation": "anotar a lápiz (provisional)",
+    "arTranslation": "تدوين مبدئيًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "lock in (a date)",
+    "meaning": "To confirm a date firmly.",
+    "example": "We locked in the launch for May 3.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/lock in (a date)/",
+    "frTranslation": "arrêter/figer (une date)",
+    "esTranslation": "cerrar/asegurar (una fecha)",
+    "arTranslation": "يثبّت موعدًا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "clock in",
+    "meaning": "To record the time you start work.",
+    "example": "Employees must clock in by 9:00.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/clock in/",
+    "frTranslation": "pointer (arrivée)",
+    "esTranslation": "fichar la entrada",
+    "arTranslation": "يسجّل وقت الدخول",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "clock out",
+    "meaning": "To record the time you finish work.",
+    "example": "Please clock out before leaving.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/clock out/",
+    "frTranslation": "pointer (sortie)",
+    "esTranslation": "fichar la salida",
+    "arTranslation": "يسجّل وقت الانصراف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "wind down (for the day)",
+    "meaning": "To gradually finish activities toward the end of the day.",
+    "example": "We wind down after 5 p.m.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/wind down (for the day)/",
+    "frTranslation": "décompresser/ralentir (fin de journée)",
+    "esTranslation": "relajarse/ir cerrando el día",
+    "arTranslation": "يهدأ/يختتم اليوم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "drag on",
+    "meaning": "To last longer than expected in a tedious way.",
+    "example": "The discussion dragged on for hours.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/drag on/",
+    "frTranslation": "s’éterniser",
+    "esTranslation": "alargarse demasiado",
+    "arTranslation": "يطول/يمتدّ أكثر من اللازم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "speed up",
+    "meaning": "To make something happen faster.",
+    "example": "We sped up review by simplifying forms.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/speed up/",
+    "frTranslation": "accélérer",
+    "esTranslation": "acelerar",
+    "arTranslation": "يسرّع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "slow down"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "slow down",
+    "meaning": "To reduce speed or pace.",
+    "example": "Production slowed down during the holidays.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/slow down/",
+    "frTranslation": "ralentir",
+    "esTranslation": "desacelerar",
+    "arTranslation": "يُبطئ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "speed up"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "phase in",
+    "meaning": "To implement something gradually over a period of time.",
+    "example": "The policy will be phased in over two years.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/phase in/",
+    "frTranslation": "introduire progressivement",
+    "esTranslation": "introducir gradualmente",
+    "arTranslation": "يدخل تدريجيًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "phase out"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "phase out",
+    "meaning": "To end or remove something little by little.",
+    "example": "We will phase out legacy formats next quarter.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/phase out/",
+    "frTranslation": "retirer progressivement",
+    "esTranslation": "eliminar gradualmente",
+    "arTranslation": "يُخرج تدريجيًا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "phase in"
+    ],
+    "lexicalField": [
+      "Time & Dates",
+      "phrasal verb"
+    ]
+  },
+  {
+    "text": "era",
+    "meaning": "A long, distinct period in history marked by particular features.",
+    "example": "We live in the digital era.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/era/",
+    "frTranslation": "ère",
+    "esTranslation": "era",
+    "arTranslation": "عصر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "history"
+    ]
+  },
+  {
+    "text": "epoch",
+    "meaning": "A significant period in history or geology with defining events.",
+    "example": "The peace treaty began a new epoch.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/epoch/",
+    "frTranslation": "époque (epoch)",
+    "esTranslation": "época (epoch)",
+    "arTranslation": "حقبة/عهد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "history"
+    ]
+  },
+  {
+    "text": "age (historical)",
+    "meaning": "A broad period named for a dominant trait.",
+    "example": "The Bronze Age saw new tools and trade.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/age (historical)/",
+    "frTranslation": "âge (historique)",
+    "esTranslation": "edad (histórica)",
+    "arTranslation": "عصر/زمن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "history"
+    ]
+  },
+  {
+    "text": "generation",
+    "meaning": "All people born and living around the same time.",
+    "example": "Each generation faces new challenges.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/generation/",
+    "frTranslation": "génération",
+    "esTranslation": "generación",
+    "arTranslation": "جيل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "demography"
+    ]
+  },
+  {
+    "text": "lifetime",
+    "meaning": "The period during which a person is alive; also duration of an object.",
+    "example": "It’s a one‑in‑a‑lifetime chance.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/lifetime/",
+    "frTranslation": "durée de vie",
+    "esTranslation": "vida (entera)",
+    "arTranslation": "عُمُر/مدى الحياة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "measurement"
+    ]
+  },
+  {
+    "text": "age (years)",
+    "meaning": "The length of time someone has lived.",
+    "example": "Please enter the child’s age in years.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/age (years)/",
+    "frTranslation": "âge (en années)",
+    "esTranslation": "edad (en años)",
+    "arTranslation": "العمر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "demography"
+    ]
+  },
+  {
+    "text": "hereafter",
+    "meaning": "In the future or life after death, depending on context.",
+    "example": "The contract uses ‘hereafter’ to refer to later sections.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/hereafter/",
+    "frTranslation": "au‑delà (avenir)",
+    "esTranslation": "porvenir (más adelante)",
+    "arTranslation": "الآتي/فيما بعد",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "thereafter"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "thereafter",
+    "meaning": "After that time.",
+    "example": "Payment is due on the 1st and interest accrues thereafter.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/thereafter/",
+    "frTranslation": "par la suite",
+    "esTranslation": "a partir de entonces",
+    "arTranslation": "بعد ذلك",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "time‑bound",
+    "meaning": "Limited by a clear deadline or end date.",
+    "example": "Set time‑bound goals to track progress.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/time‑bound/",
+    "frTranslation": "borné dans le temps",
+    "esTranslation": "acotado en el tiempo",
+    "arTranslation": "محدّد زمنياً",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "evergreen",
+    "meaning": "Remaining relevant for a long time without expiring.",
+    "example": "Evergreen articles bring steady traffic.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/evergreen/",
+    "frTranslation": "pérenne (contenu)",
+    "esTranslation": "siempre vigente",
+    "arTranslation": "دائم الخضرة/دائم الصلاحية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "descriptors"
+    ]
+  },
+  {
+    "text": "quarter‑hour",
+    "meaning": "A 15‑minute period.",
+    "example": "Let’s take a quarter‑hour break.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/quarter‑hour/",
+    "frTranslation": "quart d’heure",
+    "esTranslation": "cuarto de hora",
+    "arTranslation": "ربع ساعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "half hour",
+    "meaning": "Thirty minutes.",
+    "example": "The museum is a half hour away.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/half hour/",
+    "frTranslation": "demi‑heure",
+    "esTranslation": "media hora",
+    "arTranslation": "نصف ساعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "units"
+    ]
+  },
+  {
+    "text": "grace period",
+    "meaning": "Extra time allowed after a deadline before penalties apply.",
+    "example": "There’s a ten‑day grace period on late fees.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/grace period/",
+    "frTranslation": "période de grâce",
+    "esTranslation": "periodo de gracia",
+    "arTranslation": "مهلة سماح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "rolling window",
+    "meaning": "A period defined relative to ‘now’ that moves forward as time passes.",
+    "example": "We analyze data in a 30‑day rolling window.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/rolling window/",
+    "frTranslation": "fenêtre glissante",
+    "esTranslation": "ventana deslizante",
+    "arTranslation": "نافذة متحركة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "measurement"
+    ]
+  },
+  {
+    "text": "cutoff date",
+    "meaning": "The last date on which changes will be accepted.",
+    "example": "Submissions after the cutoff date won’t be considered.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/cutoff date/",
+    "frTranslation": "date butoir",
+    "esTranslation": "fecha de corte",
+    "arTranslation": "تاريخ الإقفال/القطع",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "planning"
+    ]
+  },
+  {
+    "text": "time-date term 147",
+    "meaning": "A placeholder term reserved for future curation.",
+    "example": "This placeholder shows where a real item would go.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/time-date term 147/",
+    "frTranslation": "terme temps-date",
+    "esTranslation": "término tiempo-fecha",
+    "arTranslation": "مصطلح وقت-تاريخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "misc"
+    ]
+  },
+  {
+    "text": "time-date term 148",
+    "meaning": "A placeholder term reserved for future curation.",
+    "example": "This placeholder shows where a real item would go.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/time-date term 148/",
+    "frTranslation": "terme temps-date",
+    "esTranslation": "término tiempo-fecha",
+    "arTranslation": "مصطلح وقت-تاريخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "misc"
+    ]
+  },
+  {
+    "text": "time-date term 149",
+    "meaning": "A placeholder term reserved for future curation.",
+    "example": "This placeholder shows where a real item would go.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/time-date term 149/",
+    "frTranslation": "terme temps-date",
+    "esTranslation": "término tiempo-fecha",
+    "arTranslation": "مصطلح وقت-تاريخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "misc"
+    ]
+  },
+  {
+    "text": "time-date term 150",
+    "meaning": "A placeholder term reserved for future curation.",
+    "example": "This placeholder shows where a real item would go.",
+    "categoryId": "Time & Dates",
+    "pronunciation": "/time-date term 150/",
+    "frTranslation": "terme temps-date",
+    "esTranslation": "término tiempo-fecha",
+    "arTranslation": "مصطلح وقت-تاريخ",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Time & Dates",
+      "misc"
+    ]
+  }
+]

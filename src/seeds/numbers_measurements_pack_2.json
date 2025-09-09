@@ -1,0 +1,1192 @@
+[
+  {
+    "text": "factor",
+    "meaning": "A number that divides another number without remainder.",
+    "example": "3 is a factor of 12.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/factor/",
+    "frTranslation": "facteur/diviseur",
+    "esTranslation": "factor/divisor",
+    "arTranslation": "عامل/مقسوم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "multiple",
+    "meaning": "A number produced by multiplying an integer by another.",
+    "example": "24 is a multiple of 6.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/multiple/",
+    "frTranslation": "multiple",
+    "esTranslation": "múltiplo",
+    "arTranslation": "مضاعف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "square (number)",
+    "meaning": "A number times itself (n×n).",
+    "example": "The square of 9 is 81.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/square (number)/",
+    "frTranslation": "carré (nombre)",
+    "esTranslation": "cuadrado (número)",
+    "arTranslation": "مربع (عدد)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "square root",
+    "meaning": "A value that, when multiplied by itself, gives the original number.",
+    "example": "The square root of 49 is 7.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/square root/",
+    "frTranslation": "racine carrée",
+    "esTranslation": "raíz cuadrada",
+    "arTranslation": "الجذر التربيعي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "exponent",
+    "meaning": "The small number that shows how many times to multiply the base by itself.",
+    "example": "10^3 has an exponent of 3.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/exponent/",
+    "frTranslation": "exposant",
+    "esTranslation": "exponente",
+    "arTranslation": "أس (أسس)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "scientific notation",
+    "meaning": "A compact way to write very large or small numbers using powers of ten.",
+    "example": "The distance is 1.5×10^8 km.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/scientific notation/",
+    "frTranslation": "notation scientifique",
+    "esTranslation": "notación científica",
+    "arTranslation": "صيغة علمية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "properties"
+    ]
+  },
+  {
+    "text": "angle",
+    "meaning": "The figure formed by two rays from a common point.",
+    "example": "Measure the angle with a protractor.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/angle/",
+    "frTranslation": "angle",
+    "esTranslation": "ángulo",
+    "arTranslation": "زاوية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "degree (angle)",
+    "meaning": "A unit for measuring angles (°).",
+    "example": "A right angle measures 90 degrees.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/degree (angle)/",
+    "frTranslation": "degré (angle)",
+    "esTranslation": "grado (ángulo)",
+    "arTranslation": "درجة (زاوية)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "radian",
+    "meaning": "An angle measure based on arc length equal to the circle’s radius.",
+    "example": "Calculus often uses radians.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/radian/",
+    "frTranslation": "radian",
+    "esTranslation": "radián",
+    "arTranslation": "راديان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "perimeter",
+    "meaning": "The total length around a shape.",
+    "example": "Add all sides to find the perimeter.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/perimeter/",
+    "frTranslation": "périmètre",
+    "esTranslation": "perímetro",
+    "arTranslation": "محيط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "area",
+    "meaning": "The amount of surface covered by a shape.",
+    "example": "The area of a rectangle is length × width.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/area/",
+    "frTranslation": "aire/surface",
+    "esTranslation": "área/superficie",
+    "arTranslation": "مساحة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "volume",
+    "meaning": "The amount of space a 3D object occupies.",
+    "example": "Measure volume in cubic units.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/volume/",
+    "frTranslation": "volume",
+    "esTranslation": "volumen",
+    "arTranslation": "حجم",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "circumference",
+    "meaning": "The distance around a circle.",
+    "example": "Circumference equals π times diameter.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/circumference/",
+    "frTranslation": "circonférence",
+    "esTranslation": "circunferencia",
+    "arTranslation": "محيط الدائرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "radius",
+    "meaning": "Half the diameter; distance from center to circle.",
+    "example": "Double the radius to get the diameter.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/radius/",
+    "frTranslation": "rayon (cercle)",
+    "esTranslation": "radio (círculo)",
+    "arTranslation": "نصف القطر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "diameter",
+    "meaning": "A straight line passing through the center of a circle, end to end.",
+    "example": "The wheel has a diameter of 70 cm.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/diameter/",
+    "frTranslation": "diamètre",
+    "esTranslation": "diámetro",
+    "arTranslation": "قطر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "right angle",
+    "meaning": "An angle of exactly 90 degrees.",
+    "example": "The corners are right angles.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/right angle/",
+    "frTranslation": "angle droit",
+    "esTranslation": "ángulo recto",
+    "arTranslation": "زاوية قائمة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "geometry"
+    ]
+  },
+  {
+    "text": "meter (m)",
+    "meaning": "The base SI unit of length.",
+    "example": "The room is three meters wide.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/meter (m)/",
+    "frTranslation": "mètre (m)",
+    "esTranslation": "metro (m)",
+    "arTranslation": "متر (م)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "kilometer (km)",
+    "meaning": "One thousand meters.",
+    "example": "The town is 12 kilometers away.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/kilometer (km)/",
+    "frTranslation": "kilomètre (km)",
+    "esTranslation": "kilómetro (km)",
+    "arTranslation": "كيلومتر (كم)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "centimeter (cm)",
+    "meaning": "One hundredth of a meter.",
+    "example": "The margin is 2 centimeters.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/centimeter (cm)/",
+    "frTranslation": "centimètre (cm)",
+    "esTranslation": "centímetro (cm)",
+    "arTranslation": "سنتيمتر (سم)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "millimeter (mm)",
+    "meaning": "One thousandth of a meter.",
+    "example": "The sheet is 0.5 millimeters thick.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/millimeter (mm)/",
+    "frTranslation": "millimètre (mm)",
+    "esTranslation": "milímetro (mm)",
+    "arTranslation": "مليمتر (مم)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "inch (in)",
+    "meaning": "Imperial unit of length equal to 2.54 cm.",
+    "example": "A 13‑inch laptop fits in the bag.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/inch (in)/",
+    "frTranslation": "pouce (in)",
+    "esTranslation": "pulgada (in)",
+    "arTranslation": "بوصة/إنش",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "foot (ft)",
+    "meaning": "Imperial unit of length equal to 12 inches.",
+    "example": "The ceiling is 9 feet high.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/foot (ft)/",
+    "frTranslation": "pied (ft)",
+    "esTranslation": "pie (ft)",
+    "arTranslation": "قدم (قدم)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "yard (yd)",
+    "meaning": "Imperial length equal to 3 feet (0.9144 m).",
+    "example": "He measured 20 yards of fabric.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/yard (yd)/",
+    "frTranslation": "yard (verge)",
+    "esTranslation": "yarda (yd)",
+    "arTranslation": "ياردة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "mile (mi)",
+    "meaning": "Imperial length equal to 1.609 km.",
+    "example": "The park is a mile from here.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/mile (mi)/",
+    "frTranslation": "mile (mille)",
+    "esTranslation": "milla (mi)",
+    "arTranslation": "ميل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "nautical mile (nmi)",
+    "meaning": "Unit used at sea and in aviation, equal to 1852 meters.",
+    "example": "Cruise speed was 480 knots per hour over nautical miles.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/nautical mile (nmi)/",
+    "frTranslation": "mille marin (nmi)",
+    "esTranslation": "milla náutica (mn)",
+    "arTranslation": "ميل بحري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "length"
+    ]
+  },
+  {
+    "text": "gram (g)",
+    "meaning": "The base unit of mass in daily use (SI: kilogram is the base unit).",
+    "example": "Add 200 grams of flour.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/gram (g)/",
+    "frTranslation": "gramme (g)",
+    "esTranslation": "gramo (g)",
+    "arTranslation": "غرام (غ)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "mass"
+    ]
+  },
+  {
+    "text": "kilogram (kg)",
+    "meaning": "One thousand grams; SI base unit of mass.",
+    "example": "The suitcase weighs 18 kilograms.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/kilogram (kg)/",
+    "frTranslation": "kilogramme (kg)",
+    "esTranslation": "kilogramo (kg)",
+    "arTranslation": "كيلوغرام (كغ)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "mass"
+    ]
+  },
+  {
+    "text": "milligram (mg)",
+    "meaning": "One thousandth of a gram.",
+    "example": "The pill contains 5 mg of active ingredient.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/milligram (mg)/",
+    "frTranslation": "milligramme (mg)",
+    "esTranslation": "miligramo (mg)",
+    "arTranslation": "ميليغرام (ملغ)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "mass"
+    ]
+  },
+  {
+    "text": "tonne (t)",
+    "meaning": "Metric ton equal to 1000 kg.",
+    "example": "The truck carries 10 tonnes of gravel.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/tonne (t)/",
+    "frTranslation": "tonne (t)",
+    "esTranslation": "tonelada (t)",
+    "arTranslation": "طنّ متري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "mass"
+    ]
+  },
+  {
+    "text": "ounce (oz)",
+    "meaning": "Imperial mass unit; in cooking ~28.35 g.",
+    "example": "Add two ounces of chocolate.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ounce (oz)/",
+    "frTranslation": "once (oz)",
+    "esTranslation": "onza (oz)",
+    "arTranslation": "أونصة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "mass"
+    ]
+  },
+  {
+    "text": "pound (lb)",
+    "meaning": "Imperial mass unit equal to 16 ounces (≈0.454 kg).",
+    "example": "He lost five pounds.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/pound (lb)/",
+    "frTranslation": "livre (lb)",
+    "esTranslation": "libra (lb)",
+    "arTranslation": "رطل/باوند",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "mass"
+    ]
+  },
+  {
+    "text": "liter (L)",
+    "meaning": "A metric unit of volume equal to 1000 milliliters.",
+    "example": "Drink two liters of water daily.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/liter (L)/",
+    "frTranslation": "litre (L)",
+    "esTranslation": "litro (L)",
+    "arTranslation": "لتر (ل)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "milliliter (mL)",
+    "meaning": "One thousandth of a liter.",
+    "example": "Add 5 mL of vanilla extract.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/milliliter (mL)/",
+    "frTranslation": "millilitre (mL)",
+    "esTranslation": "mililitro (mL)",
+    "arTranslation": "ملليلتر (مل)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "cubic meter (m³)",
+    "meaning": "A volume equal to a cube 1 m on each side.",
+    "example": "The tank holds 3 cubic meters.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/cubic meter (m³)/",
+    "frTranslation": "mètre cube (m³)",
+    "esTranslation": "metro cúbico (m³)",
+    "arTranslation": "متر مكعب (م³)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "gallon (US)",
+    "meaning": "US liquid volume unit ≈ 3.785 liters.",
+    "example": "The car uses 10 gallons per trip.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/gallon (US)/",
+    "frTranslation": "gallon (US)",
+    "esTranslation": "galón (EE. UU.)",
+    "arTranslation": "غالون (أمريكي)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "quart (qt)",
+    "meaning": "US volume unit equal to a quarter of a gallon.",
+    "example": "Whisk one quart of cream.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/quart (qt)/",
+    "frTranslation": "quart (qt)",
+    "esTranslation": "cuarto (qt)",
+    "arTranslation": "ربع غالون (كوارت)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "pint (pt)",
+    "meaning": "US/UK unit; in the US ≈ 473 mL.",
+    "example": "We ordered a pint of berries.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/pint (pt)/",
+    "frTranslation": "pinte (pt)",
+    "esTranslation": "pinta (pt)",
+    "arTranslation": "باينت (نصف لتر تقريبًا)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "cup (measure)",
+    "meaning": "A cooking volume measure; in the US 1 cup = 240 mL.",
+    "example": "Add one cup of sugar.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/cup (measure)/",
+    "frTranslation": "tasse (mesure)",
+    "esTranslation": "taza (medida)",
+    "arTranslation": "كوب (قياس)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "tablespoon (tbsp)",
+    "meaning": "A small cooking measure (US ≈ 15 mL).",
+    "example": "Use two tablespoons of oil.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/tablespoon (tbsp)/",
+    "frTranslation": "cuillère à soupe (c. à s.)",
+    "esTranslation": "cucharada (cda)",
+    "arTranslation": "ملعقة كبيرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "teaspoon (tsp)",
+    "meaning": "A small cooking measure (US ≈ 5 mL).",
+    "example": "Add a teaspoon of salt.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/teaspoon (tsp)/",
+    "frTranslation": "cuillère à café (c. à c.)",
+    "esTranslation": "cucharadita (cdta)",
+    "arTranslation": "ملعقة صغيرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "volume"
+    ]
+  },
+  {
+    "text": "square meter (m²)",
+    "meaning": "Unit of area equal to a square one meter on each side.",
+    "example": "The apartment has 45 square meters.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/square meter (m²)/",
+    "frTranslation": "mètre carré (m²)",
+    "esTranslation": "metro cuadrado (m²)",
+    "arTranslation": "متر مربع (م²)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "area"
+    ]
+  },
+  {
+    "text": "hectare (ha)",
+    "meaning": "Area unit equal to 10,000 m².",
+    "example": "The farm covers 12 hectares.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/hectare (ha)/",
+    "frTranslation": "hectare (ha)",
+    "esTranslation": "hectárea (ha)",
+    "arTranslation": "هكتار (هـ)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "area"
+    ]
+  },
+  {
+    "text": "acre",
+    "meaning": "Area unit used in some countries; ≈ 4047 m².",
+    "example": "They bought two acres of land.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/acre/",
+    "frTranslation": "acre",
+    "esTranslation": "acre",
+    "arTranslation": "فدان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "area"
+    ]
+  },
+  {
+    "text": "square foot (ft²)",
+    "meaning": "Imperial area unit; 1 ft² is a square foot.",
+    "example": "The room is 120 square feet.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/square foot (ft²)/",
+    "frTranslation": "pied carré (ft²)",
+    "esTranslation": "pie cuadrado (ft²)",
+    "arTranslation": "قدم مربع (قدم²)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "area"
+    ]
+  },
+  {
+    "text": "degree Celsius (°C)",
+    "meaning": "Metric temperature scale where water freezes at 0° and boils at 100°.",
+    "example": "Today’s high is 20 degrees Celsius.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/degree Celsius (°C)/",
+    "frTranslation": "degré Celsius (°C)",
+    "esTranslation": "grado Celsius (°C)",
+    "arTranslation": "درجة مئوية (°م)",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "temperature"
+    ]
+  },
+  {
+    "text": "degree Fahrenheit (°F)",
+    "meaning": "Scale where water freezes at 32° and boils at 212°.",
+    "example": "It’s 68°F indoors.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/degree Fahrenheit (°F)/",
+    "frTranslation": "degré Fahrenheit (°F)",
+    "esTranslation": "grado Fahrenheit (°F)",
+    "arTranslation": "درجة فهرنهايت (°ف)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "temperature"
+    ]
+  },
+  {
+    "text": "Kelvin (K)",
+    "meaning": "Absolute temperature scale used in science.",
+    "example": "Room temperature is about 295 K.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/Kelvin (K)/",
+    "frTranslation": "kelvin (K)",
+    "esTranslation": "kelvin (K)",
+    "arTranslation": "كلفن (ك)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "temperature"
+    ]
+  },
+  {
+    "text": "boiling point",
+    "meaning": "The temperature at which a liquid turns to gas.",
+    "example": "Water’s boiling point changes with altitude.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/boiling point/",
+    "frTranslation": "point d’ébullition",
+    "esTranslation": "punto de ebullición",
+    "arTranslation": "نقطة الغليان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "temperature"
+    ]
+  },
+  {
+    "text": "freezing point",
+    "meaning": "The temperature at which a liquid becomes solid.",
+    "example": "Check the freezing point of the solution.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/freezing point/",
+    "frTranslation": "point de congélation",
+    "esTranslation": "punto de congelación",
+    "arTranslation": "نقطة التجمد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "temperature"
+    ]
+  },
+  {
+    "text": "meter per second (m/s)",
+    "meaning": "SI unit of speed: distance traveled each second.",
+    "example": "Wind speed averaged 8 m/s.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/meter per second (m/s)/",
+    "frTranslation": "mètre par seconde (m/s)",
+    "esTranslation": "metro por segundo (m/s)",
+    "arTranslation": "متر في الثانية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "speed"
+    ]
+  },
+  {
+    "text": "kilometer per hour (km/h)",
+    "meaning": "Common speed unit for road travel.",
+    "example": "The limit is 90 km/h.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/kilometer per hour (km/h)/",
+    "frTranslation": "kilomètre par heure (km/h)",
+    "esTranslation": "kilómetro por hora (km/h)",
+    "arTranslation": "كيلومتر في الساعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "speed"
+    ]
+  },
+  {
+    "text": "mile per hour (mph)",
+    "meaning": "Imperial speed unit.",
+    "example": "The car cruises at 60 mph.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/mile per hour (mph)/",
+    "frTranslation": "mile par heure (mph)",
+    "esTranslation": "milla por hora (mph)",
+    "arTranslation": "ميل في الساعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "speed"
+    ]
+  },
+  {
+    "text": "joule (J)",
+    "meaning": "SI unit of energy and work.",
+    "example": "Lifting an apple costs about one joule.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/joule (J)/",
+    "frTranslation": "joule (J)",
+    "esTranslation": "julio (J)",
+    "arTranslation": "جول (ج)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "energy"
+    ]
+  },
+  {
+    "text": "calorie (cal)",
+    "meaning": "Energy unit used in food; 1 kcal on labels = 1000 cal.",
+    "example": "Breakfast was ~400 Calories (kcal).",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/calorie (cal)/",
+    "frTranslation": "calorie (cal)",
+    "esTranslation": "caloría (cal)",
+    "arTranslation": "سعرة حرارية (كال)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "energy"
+    ]
+  },
+  {
+    "text": "kilowatt-hour (kWh)",
+    "meaning": "A unit of electrical energy equal to using 1 kW for 1 hour.",
+    "example": "We used 350 kWh last month.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/kilowatt-hour (kWh)/",
+    "frTranslation": "kilowattheure (kWh)",
+    "esTranslation": "kilovatio-hora (kWh)",
+    "arTranslation": "كيلوواط ساعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "energy"
+    ]
+  },
+  {
+    "text": "watt (W)",
+    "meaning": "SI unit of power equal to one joule per second.",
+    "example": "The speaker draws 100 watts.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/watt (W)/",
+    "frTranslation": "watt (W)",
+    "esTranslation": "vatio (W)",
+    "arTranslation": "واط (و)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "power"
+    ]
+  },
+  {
+    "text": "horsepower (hp)",
+    "meaning": "A power unit used for engines (mechanical hp ≈ 746 W).",
+    "example": "The car has 150 horsepower.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/horsepower (hp)/",
+    "frTranslation": "cheval-vapeur (ch)",
+    "esTranslation": "caballo de fuerza (hp)",
+    "arTranslation": "قوة حصانية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "power"
+    ]
+  },
+  {
+    "text": "newton (N)",
+    "meaning": "SI unit of force equal to kg·m/s².",
+    "example": "Gravity on a 1‑kg mass is about 9.8 N.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/newton (N)/",
+    "frTranslation": "newton (N)",
+    "esTranslation": "newton (N)",
+    "arTranslation": "نيوتن (ن)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "force"
+    ]
+  },
+  {
+    "text": "pascal (Pa)",
+    "meaning": "SI unit of pressure equal to one newton per square meter.",
+    "example": "Tire pressure is measured in kilopascals.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/pascal (Pa)/",
+    "frTranslation": "pascal (Pa)",
+    "esTranslation": "pascal (Pa)",
+    "arTranslation": "باسكال (باسكال)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "pressure"
+    ]
+  },
+  {
+    "text": "bar",
+    "meaning": "A pressure unit equal to 100,000 Pa.",
+    "example": "Weather maps show pressure in bars.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/bar/",
+    "frTranslation": "bar",
+    "esTranslation": "bar",
+    "arTranslation": "بار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "pressure"
+    ]
+  },
+  {
+    "text": "psi",
+    "meaning": "Pounds per square inch, a pressure unit.",
+    "example": "Inflate the tires to 35 psi.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/psi/",
+    "frTranslation": "psi (livres par pouce²)",
+    "esTranslation": "psi (libras por pulgada²)",
+    "arTranslation": "رطل لكل بوصة مربعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "pressure"
+    ]
+  },
+  {
+    "text": "volt (V)",
+    "meaning": "Unit of electric potential difference.",
+    "example": "The adapter outputs 12 volts.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/volt (V)/",
+    "frTranslation": "volt (V)",
+    "esTranslation": "voltio (V)",
+    "arTranslation": "فولت (ف)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "electricity"
+    ]
+  },
+  {
+    "text": "ampere (A)",
+    "meaning": "Unit of electric current.",
+    "example": "The circuit draws 2 amperes.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ampere (A)/",
+    "frTranslation": "ampère (A)",
+    "esTranslation": "amperio (A)",
+    "arTranslation": "أمبير (أ)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "electricity"
+    ]
+  },
+  {
+    "text": "ohm (Ω)",
+    "meaning": "Unit of electrical resistance.",
+    "example": "Measure the coil at 8 ohms.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ohm (Ω)/",
+    "frTranslation": "ohm (Ω)",
+    "esTranslation": "ohmio (Ω)",
+    "arTranslation": "أوم (Ω)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "electricity"
+    ]
+  },
+  {
+    "text": "watt-hour (Wh)",
+    "meaning": "Energy unit equal to one watt for one hour.",
+    "example": "A phone battery stores about 12 Wh.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/watt-hour (Wh)/",
+    "frTranslation": "wattheure (Wh)",
+    "esTranslation": "vatio-hora (Wh)",
+    "arTranslation": "واط ساعي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "electricity"
+    ]
+  },
+  {
+    "text": "density",
+    "meaning": "Mass per unit volume of a substance.",
+    "example": "Oil’s density is lower than water’s.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/density/",
+    "frTranslation": "densité",
+    "esTranslation": "densidad",
+    "arTranslation": "كثافة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "material"
+    ]
+  },
+  {
+    "text": "concentration",
+    "meaning": "The amount of a substance in a given volume.",
+    "example": "Measure salt concentration in g/L.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/concentration/",
+    "frTranslation": "concentration",
+    "esTranslation": "concentración",
+    "arTranslation": "تركيز",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "material"
+    ]
+  },
+  {
+    "text": "molarity (M)",
+    "meaning": "Moles of solute per liter of solution.",
+    "example": "Prepare a 0.5 M solution.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/molarity (M)/",
+    "frTranslation": "molarité (M)",
+    "esTranslation": "molaridad (M)",
+    "arTranslation": "المولارية (M)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "material"
+    ]
+  },
+  {
+    "text": "pH",
+    "meaning": "A scale from 0–14 indicating acidity or basicity.",
+    "example": "Rainwater typically has a pH near 5.6.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/pH/",
+    "frTranslation": "pH",
+    "esTranslation": "pH",
+    "arTranslation": "الرقم الهيدروجيني (pH)",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "material"
+    ]
+  },
+  {
+    "text": "ruler",
+    "meaning": "A straight tool marked in units for measuring length.",
+    "example": "Use a ruler to draw 10 cm.",
+    "categoryId": "Numbers & Measurements",
+    "pronunciation": "/ruler/",
+    "frTranslation": "règle (mesure)",
+    "esTranslation": "regla (medir)",
+    "arTranslation": "مسطرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Numbers & Measurements",
+      "tools"
+    ]
+  }
+]

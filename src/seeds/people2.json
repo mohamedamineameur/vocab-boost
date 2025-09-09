@@ -1,0 +1,896 @@
+[
+  {
+    "text": "game developer",
+    "meaning": "A developer who creates video games, including gameplay and graphics.",
+    "example": "The game developer implemented a new physics system.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/game developer/",
+    "frTranslation": "développeur de jeux",
+    "esTranslation": "desarrollador/a de juegos",
+    "arTranslation": "مطوّر ألعاب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "technology"
+    ]
+  },
+  {
+    "text": "lawyer",
+    "meaning": "A legal professional who advises clients and represents them in court.",
+    "example": "The lawyer prepared the contract draft.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/lawyer/",
+    "frTranslation": "avocat/e",
+    "esTranslation": "abogado/a",
+    "arTranslation": "محامٍ/محامية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "attorney",
+      "counsel"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "law"
+    ]
+  },
+  {
+    "text": "judge",
+    "meaning": "An official who presides over court cases and issues legal decisions.",
+    "example": "The judge dismissed the case for lack of evidence.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/judge/",
+    "frTranslation": "juge",
+    "esTranslation": "juez/a",
+    "arTranslation": "قاضٍ/قاضية",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "law"
+    ]
+  },
+  {
+    "text": "police officer",
+    "meaning": "A sworn public officer who enforces laws and protects the community.",
+    "example": "A police officer directed traffic after the accident.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/police officer/",
+    "frTranslation": "policier/ière",
+    "esTranslation": "policía",
+    "arTranslation": "شرطي/شرطية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "cop (informal)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "detective",
+    "meaning": "An investigator who solves crimes or gathers evidence.",
+    "example": "The detective interviewed witnesses at the scene.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/detective/",
+    "frTranslation": "détective; inspecteur/trice",
+    "esTranslation": "detective",
+    "arTranslation": "محقق",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "investigator"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "firefighter",
+    "meaning": "A trained responder who extinguishes fires and rescues people.",
+    "example": "Firefighters contained the blaze quickly.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/firefighter/",
+    "frTranslation": "pompier/ière",
+    "esTranslation": "bombero/a",
+    "arTranslation": "رجل/امرأة إطفاء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "soldier",
+    "meaning": "A member of the armed forces serving under command.",
+    "example": "The soldier completed basic training.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/soldier/",
+    "frTranslation": "soldat",
+    "esTranslation": "soldado",
+    "arTranslation": "جندي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "service member"
+    ],
+    "antonyms": [
+      "civilian"
+    ],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "security guard",
+    "meaning": "A person who protects property and people at a site.",
+    "example": "The security guard checked IDs at the gate.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/security guard/",
+    "frTranslation": "agent de sécurité",
+    "esTranslation": "guardia de seguridad",
+    "arTranslation": "حارس أمن",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "prison guard",
+    "meaning": "An officer who supervises inmates in a correctional facility.",
+    "example": "The prison guard escorted the inmate.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/prison guard/",
+    "frTranslation": "gardien/ne de prison",
+    "esTranslation": "guardia penitenciario/a",
+    "arTranslation": "سجّان",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "corrections officer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "diplomat",
+    "meaning": "A government official who represents their country abroad.",
+    "example": "A diplomat negotiated a trade agreement.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/diplomat/",
+    "frTranslation": "diplomate",
+    "esTranslation": "diplomático/a",
+    "arTranslation": "دبلوماسي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "civil servant",
+    "meaning": "A government employee who implements public policies and services.",
+    "example": "Civil servants processed the permits.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/civil servant/",
+    "frTranslation": "fonctionnaire",
+    "esTranslation": "funcionario/a",
+    "arTranslation": "موظف حكومي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "politician",
+    "meaning": "An elected or aspiring public official involved in governing.",
+    "example": "The politician campaigned on education reform.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/politician/",
+    "frTranslation": "politicien/ne",
+    "esTranslation": "político/a",
+    "arTranslation": "سياسي/سياسية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "mayor",
+    "meaning": "The elected head of a city or town government.",
+    "example": "The mayor announced a transit plan.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/mayor/",
+    "frTranslation": "maire",
+    "esTranslation": "alcalde/sa",
+    "arTranslation": "عمدة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "ambassador",
+    "meaning": "The highest-ranking diplomat representing a nation in another country.",
+    "example": "The ambassador hosted a cultural event at the embassy.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/ambassador/",
+    "frTranslation": "ambassadeur/drice",
+    "esTranslation": "embajador/a",
+    "arTranslation": "سفير/سفيرة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "customs officer",
+    "meaning": "An officer who inspects goods and people crossing borders.",
+    "example": "A customs officer checked our luggage.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/customs officer/",
+    "frTranslation": "douanier/ière",
+    "esTranslation": "agente de aduanas",
+    "arTranslation": "موظف جمارك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "immigration officer",
+    "meaning": "A public official who evaluates visas and entry eligibility.",
+    "example": "The immigration officer stamped my passport.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/immigration officer/",
+    "frTranslation": "agent d'immigration",
+    "esTranslation": "oficial de inmigración",
+    "arTranslation": "موظف هجرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "social worker",
+    "meaning": "A professional who helps people access support services and improve wellbeing.",
+    "example": "A social worker assisted the family with housing.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/social worker/",
+    "frTranslation": "travailleur/euse social/e",
+    "esTranslation": "trabajador/a social",
+    "arTranslation": "أخصائي اجتماعي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "probation officer",
+    "meaning": "An officer who supervises offenders serving sentences in the community.",
+    "example": "The probation officer scheduled a check‑in.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/probation officer/",
+    "frTranslation": "conseiller/ère de probation",
+    "esTranslation": "oficial de libertad condicional",
+    "arTranslation": "ضابط مراقبة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "public service"
+    ]
+  },
+  {
+    "text": "public defender",
+    "meaning": "A government‑provided lawyer who represents defendants unable to afford counsel.",
+    "example": "The public defender met the client before the hearing.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/public defender/",
+    "frTranslation": "avocat commis d'office",
+    "esTranslation": "defensor/a público/a",
+    "arTranslation": "محامٍ عام",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "law"
+    ]
+  },
+  {
+    "text": "forensic scientist",
+    "meaning": "A specialist who analyzes evidence for criminal investigations.",
+    "example": "The forensic scientist matched the DNA sample.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/forensic scientist/",
+    "frTranslation": "expert/e médico‑légal",
+    "esTranslation": "científico/a forense",
+    "arTranslation": "عالم أدلة جنائية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "law"
+    ]
+  },
+  {
+    "text": "accountant",
+    "meaning": "A professional who prepares financial records and ensures compliance with standards.",
+    "example": "Our accountant filed the annual tax returns.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/accountant/",
+    "frTranslation": "comptable",
+    "esTranslation": "contador/a",
+    "arTranslation": "محاسب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "auditor",
+    "meaning": "A specialist who examines financial statements for accuracy and control.",
+    "example": "The auditor reviewed internal controls.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/auditor/",
+    "frTranslation": "auditeur/auditrice",
+    "esTranslation": "auditor/a",
+    "arTranslation": "مدقق حسابات",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "banker",
+    "meaning": "A person who works in banking, lending, or investment services.",
+    "example": "The banker approved the small‑business loan.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/banker/",
+    "frTranslation": "banquier/ière",
+    "esTranslation": "banquero/a",
+    "arTranslation": "مصرفي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "cashier",
+    "meaning": "A retail worker who handles payments and receipts at a register.",
+    "example": "The cashier scanned the groceries quickly.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/cashier/",
+    "frTranslation": "caissier/caissière",
+    "esTranslation": "cajero/a",
+    "arTranslation": "أمين صندوق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "salesperson",
+    "meaning": "A person who sells products or services to customers.",
+    "example": "A salesperson helped me choose a laptop.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/salesperson/",
+    "frTranslation": "vendeur/vendeuse",
+    "esTranslation": "vendedor/a",
+    "arTranslation": "بائع/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "sales associate"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "marketing manager",
+    "meaning": "A manager who plans campaigns and positions products to reach customers.",
+    "example": "The marketing manager set the ad budget for summer.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/marketing manager/",
+    "frTranslation": "responsable marketing",
+    "esTranslation": "gerente de marketing",
+    "arTranslation": "مدير التسويق",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "advertising specialist",
+    "meaning": "A professional who creates and manages paid promotional campaigns.",
+    "example": "Our advertising specialist tested new creatives.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/advertising specialist/",
+    "frTranslation": "publicitaire/spécialiste pub",
+    "esTranslation": "especialista en publicidad",
+    "arTranslation": "متخصص إعلانات",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "PR specialist",
+    "meaning": "A communicator who manages a company’s public image and media relations.",
+    "example": "The PR specialist drafted a press release.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/PR specialist/",
+    "frTranslation": "chargé/e de relations publiques",
+    "esTranslation": "especialista en RR. PP.",
+    "arTranslation": "اختصاصي علاقات عامة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "public relations officer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "HR manager",
+    "meaning": "A manager who oversees hiring, policies, and employee relations.",
+    "example": "The HR manager updated the benefits package.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/HR manager/",
+    "frTranslation": "responsable RH",
+    "esTranslation": "gerente de RR. HH.",
+    "arTranslation": "مدير الموارد البشرية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "human resources manager"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "recruiter",
+    "meaning": "A specialist who sources, interviews, and hires candidates.",
+    "example": "The recruiter scheduled a technical interview.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/recruiter/",
+    "frTranslation": "recruteur/recruteuse",
+    "esTranslation": "reclutador/a",
+    "arTranslation": "مجند/مُوظِّف",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "talent acquisition specialist"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "entrepreneur",
+    "meaning": "A person who starts and grows a business, taking on financial risk.",
+    "example": "The entrepreneur pitched to investors.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/entrepreneur/",
+    "frTranslation": "entrepreneur/e",
+    "esTranslation": "emprendedor/a",
+    "arTranslation": "رائد أعمال",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "founder"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "businessperson",
+    "meaning": "Someone engaged in commercial or industrial business activities.",
+    "example": "As a businessperson, she travels often.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/businessperson/",
+    "frTranslation": "homme/femme d'affaires",
+    "esTranslation": "empresario/a",
+    "arTranslation": "رجل/سيدة أعمال",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "businessperson",
+      "business executive"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "CEO",
+    "meaning": "The chief executive officer, responsible for overall corporate decisions.",
+    "example": "The CEO outlined the company’s strategy.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/CEO/",
+    "frTranslation": "PDG",
+    "esTranslation": "CEO",
+    "arTranslation": "الرئيس التنفيذي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [
+      "chief executive"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "executive",
+    "meaning": "A senior manager with authority to make high-level decisions.",
+    "example": "Executives approved the merger plan.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/executive/",
+    "frTranslation": "cadre dirigeant",
+    "esTranslation": "ejecutivo/a",
+    "arTranslation": "تنفيذي",
+    "level": "intermediateLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "consultant",
+    "meaning": "An expert hired to provide professional advice to organizations.",
+    "example": "The consultant mapped the process bottlenecks.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/consultant/",
+    "frTranslation": "consultant/e",
+    "esTranslation": "consultor/a",
+    "arTranslation": "مستشار",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "advisor"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "real estate agent",
+    "meaning": "A licensed professional who helps clients buy, sell, or rent property.",
+    "example": "The real estate agent arranged an open house.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/real estate agent/",
+    "frTranslation": "agent immobilier/ière",
+    "esTranslation": "agente inmobiliario/a",
+    "arTranslation": "وكيل عقارات",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "realtor (US)"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "insurance agent",
+    "meaning": "A representative who sells and services insurance policies.",
+    "example": "The insurance agent compared coverage options.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/insurance agent/",
+    "frTranslation": "agent d'assurance",
+    "esTranslation": "agente de seguros",
+    "arTranslation": "وكيل تأمين",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "economist",
+    "meaning": "A specialist who studies how resources are produced, distributed, and consumed.",
+    "example": "An economist analyzed inflation trends.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/economist/",
+    "frTranslation": "économiste",
+    "esTranslation": "economista",
+    "arTranslation": "اقتصادي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "trader",
+    "meaning": "A person who buys and sells financial instruments for profit.",
+    "example": "The trader executed a large futures order.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/trader/",
+    "frTranslation": "trader/opérateur de marché",
+    "esTranslation": "operador/a; trader",
+    "arTranslation": "متداول",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "dealer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "business"
+    ]
+  },
+  {
+    "text": "writer",
+    "meaning": "A person who creates written works such as articles, stories, or books.",
+    "example": "The writer submitted an op-ed to the newspaper.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/writer/",
+    "frTranslation": "écrivain/e",
+    "esTranslation": "escritor/a",
+    "arTranslation": "كاتب/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "author"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "novelist",
+    "meaning": "An author who writes long fictional narratives—novels.",
+    "example": "Her debut as a novelist won an award.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/novelist/",
+    "frTranslation": "romancier/romancière",
+    "esTranslation": "novelista",
+    "arTranslation": "روائي/روائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "author"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "poet",
+    "meaning": "A writer who composes poetry in verse or prose form.",
+    "example": "The poet read at the festival.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/poet/",
+    "frTranslation": "poète",
+    "esTranslation": "poeta",
+    "arTranslation": "شاعر/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "journalist",
+    "meaning": "A reporter who gathers and presents news to the public.",
+    "example": "The journalist verified sources before publishing.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/journalist/",
+    "frTranslation": "journaliste",
+    "esTranslation": "periodista",
+    "arTranslation": "صحفي/صحفية",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "reporter"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "editor",
+    "meaning": "A person who revises content and guides its publication.",
+    "example": "The editor cut two paragraphs for clarity.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/editor/",
+    "frTranslation": "rédacteur/rédactrice en chef; éditeur/éditrice",
+    "esTranslation": "editor/a",
+    "arTranslation": "محرر/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "photographer",
+    "meaning": "An artist who captures images using cameras.",
+    "example": "The photographer shot portraits at sunrise.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/photographer/",
+    "frTranslation": "photographe",
+    "esTranslation": "fotógrafo/a",
+    "arTranslation": "مصوّر/ة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "film director",
+    "meaning": "The creative lead who oversees a film’s artistic and dramatic aspects.",
+    "example": "The film director chose a minimalist style.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/film director/",
+    "frTranslation": "réalisateur/réalisatrice",
+    "esTranslation": "director/a de cine",
+    "arTranslation": "مخرج سينمائي",
+    "level": "advancedLevelOne",
+    "synonyms": [
+      "director"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "producer",
+    "meaning": "A person who organizes financing and logistics for media projects.",
+    "example": "The producer secured funding for the documentary.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/producer/",
+    "frTranslation": "producteur/productrice",
+    "esTranslation": "productor/a",
+    "arTranslation": "منتج/ة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "screenwriter",
+    "meaning": "A writer who crafts scripts for film or television.",
+    "example": "The screenwriter outlined the pilot episode.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/screenwriter/",
+    "frTranslation": "scénariste",
+    "esTranslation": "guionista",
+    "arTranslation": "كاتب سيناريو",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "actor",
+    "meaning": "A performer who portrays characters in film, TV, or theater.",
+    "example": "The actor rehearsed the monologue.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/actor/",
+    "frTranslation": "acteur/actrice",
+    "esTranslation": "actor/actriz",
+    "arTranslation": "ممثل/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "performer"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  },
+  {
+    "text": "painter",
+    "meaning": "An artist who creates artworks using paint.",
+    "example": "The painter worked with oils and canvas.",
+    "categoryId": "People & Professions",
+    "pronunciation": "/painter/",
+    "frTranslation": "peintre",
+    "esTranslation": "pintor/a",
+    "arTranslation": "رسّام/ة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "People & Professions",
+      "arts"
+    ]
+  }
+]

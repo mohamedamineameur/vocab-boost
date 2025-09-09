@@ -1,0 +1,1034 @@
+[
+  {
+    "text": "ice storm",
+    "meaning": "A storm dominated by freezing rain that coats surfaces with ice.",
+    "example": "The ice storm brought down power lines.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/ice storm/",
+    "frTranslation": "pluie verglaçante (forte)",
+    "esTranslation": "tormenta de hielo",
+    "arTranslation": "عاصفة جليدية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hazard"
+    ]
+  },
+  {
+    "text": "whiteout",
+    "meaning": "Near-zero visibility in blowing snow and diffuse light.",
+    "example": "Skiers were caught in a whiteout on the ridge.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/whiteout/",
+    "frTranslation": "blanc total/voile blanc",
+    "esTranslation": "cortina blanca",
+    "arTranslation": "عَمى ثلجي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hazard"
+    ]
+  },
+  {
+    "text": "fog",
+    "meaning": "A cloud at ground level that reduces visibility.",
+    "example": "Dense fog delayed flights.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/fog/",
+    "frTranslation": "brouillard",
+    "esTranslation": "niebla",
+    "arTranslation": "ضباب",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "visibility"
+    ]
+  },
+  {
+    "text": "freezing fog",
+    "meaning": "Fog with supercooled droplets that freeze on contact.",
+    "example": "Freezing fog left a thin glaze on trees.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/freezing fog/",
+    "frTranslation": "brouillard givrant",
+    "esTranslation": "niebla helada",
+    "arTranslation": "ضباب مجمّد",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "visibility"
+    ]
+  },
+  {
+    "text": "forecast",
+    "meaning": "A prediction of future weather based on data and models.",
+    "example": "The forecast calls for scattered showers.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/forecast/",
+    "frTranslation": "prévisions météo",
+    "esTranslation": "pronóstico",
+    "arTranslation": "تَوقّعات الطقس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "forecasting"
+    ]
+  },
+  {
+    "text": "outlook",
+    "meaning": "A general expectation for weather over days or weeks.",
+    "example": "The 7‑day outlook shows warming.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/outlook/",
+    "frTranslation": "tendance (météo)",
+    "esTranslation": "perspectiva",
+    "arTranslation": "نظرة عامة/توقّع عام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "forecasting"
+    ]
+  },
+  {
+    "text": "weather watch",
+    "meaning": "An alert that conditions are favorable for hazardous weather.",
+    "example": "A tornado watch was issued for the area.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/weather watch/",
+    "frTranslation": "veille météo (alerte)",
+    "esTranslation": "vigilancia meteorológica",
+    "arTranslation": "مراقبة طقس (تنبيه)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "forecasting"
+    ]
+  },
+  {
+    "text": "weather warning",
+    "meaning": "An urgent alert that hazardous weather is occurring or imminent.",
+    "example": "A severe thunderstorm warning was broadcast.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/weather warning/",
+    "frTranslation": "alerte météo (danger)",
+    "esTranslation": "aviso/alerta meteorológica",
+    "arTranslation": "تحذير جوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "forecasting"
+    ]
+  },
+  {
+    "text": "advisory",
+    "meaning": "Official guidance about less severe but impactful conditions.",
+    "example": "A dense fog advisory remained in effect.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/advisory/",
+    "frTranslation": "bulletin consultatif",
+    "esTranslation": "aviso/boletín",
+    "arTranslation": "بيان استشاري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "forecasting"
+    ]
+  },
+  {
+    "text": "barometer",
+    "meaning": "An instrument that measures air pressure.",
+    "example": "The barometer fell quickly ahead of the storm.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/barometer/",
+    "frTranslation": "baromètre",
+    "esTranslation": "barómetro",
+    "arTranslation": "مِقياس الضغط الجوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "measurement"
+    ]
+  },
+  {
+    "text": "barometric pressure",
+    "meaning": "The weight of the air above an area, measured in hPa or inches of mercury.",
+    "example": "High barometric pressure brought clear skies.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/barometric pressure/",
+    "frTranslation": "pression atmosphérique",
+    "esTranslation": "presión barométrica",
+    "arTranslation": "الضغط الجوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "measurement"
+    ]
+  },
+  {
+    "text": "isobar",
+    "meaning": "A line on a weather map connecting equal air pressure.",
+    "example": "Tight isobars indicated strong winds.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/isobar/",
+    "frTranslation": "isobare",
+    "esTranslation": "isobara",
+    "arTranslation": "خط تساوي الضغط",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "isotherm",
+    "meaning": "A line connecting points of equal temperature.",
+    "example": "Isotherms showed a sharp temperature gradient.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/isotherm/",
+    "frTranslation": "isotherme",
+    "esTranslation": "isoterma",
+    "arTranslation": "خط تساوي الحرارة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "hygrometer",
+    "meaning": "A device that measures humidity.",
+    "example": "The hygrometer read 60% indoors.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/hygrometer/",
+    "frTranslation": "hygromètre",
+    "esTranslation": "higrómetro",
+    "arTranslation": "مِقياس الرطوبة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "measurement"
+    ]
+  },
+  {
+    "text": "anemometer",
+    "meaning": "An instrument for measuring wind speed.",
+    "example": "The rooftop anemometer recorded 80 km/h gusts.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/anemometer/",
+    "frTranslation": "anémomètre",
+    "esTranslation": "anemómetro",
+    "arTranslation": "مِقياس شدة الرياح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "measurement"
+    ]
+  },
+  {
+    "text": "weather radar",
+    "meaning": "A system that detects precipitation and motion using radio waves.",
+    "example": "Weather radar showed a line of storms.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/weather radar/",
+    "frTranslation": "radar météo",
+    "esTranslation": "radar meteorológico",
+    "arTranslation": "رادار الطقس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "satellite imagery",
+    "meaning": "Pictures from space that track clouds, storms, and heat.",
+    "example": "Satellite imagery revealed the hurricane’s eye.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/satellite imagery/",
+    "frTranslation": "imagerie satellite",
+    "esTranslation": "imágenes satelitales",
+    "arTranslation": "صور الأقمار الصناعية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "weather front",
+    "meaning": "A boundary between two air masses of different temperatures.",
+    "example": "Rain formed along the approaching weather front.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/weather front/",
+    "frTranslation": "front météorologique",
+    "esTranslation": "frente meteorológico",
+    "arTranslation": "جبهة جوية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "cold front",
+    "meaning": "A front where cold air pushes under warmer air.",
+    "example": "Thunderstorms erupted along the cold front.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cold front/",
+    "frTranslation": "front froid",
+    "esTranslation": "frente frío",
+    "arTranslation": "جبهة باردة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "warm front",
+    "meaning": "A front where warm air slides over retreating cooler air.",
+    "example": "Steady rain arrived with the warm front.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/warm front/",
+    "frTranslation": "front chaud",
+    "esTranslation": "frente cálido",
+    "arTranslation": "جبهة دافئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "low-pressure system",
+    "meaning": "A region of rising air that often brings clouds and precipitation.",
+    "example": "A deep low-pressure system moved inland.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/low-pressure system/",
+    "frTranslation": "dépression (atmosphérique)",
+    "esTranslation": "baja presión",
+    "arTranslation": "منخفض جوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "cyclone (synoptic)"
+    ],
+    "antonyms": [
+      "high-pressure system"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "synoptic"
+    ]
+  },
+  {
+    "text": "high-pressure system",
+    "meaning": "A region of sinking air that favors clear, calm weather.",
+    "example": "A high-pressure system brought sunny skies.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/high-pressure system/",
+    "frTranslation": "anticyclone",
+    "esTranslation": "alta presión",
+    "arTranslation": "مرتفع جوي",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "anticyclone"
+    ],
+    "antonyms": [
+      "low-pressure system"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "synoptic"
+    ]
+  },
+  {
+    "text": "trough",
+    "meaning": "An elongated area of low pressure that enhances lift and storms.",
+    "example": "A mid-level trough triggered convection.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/trough/",
+    "frTranslation": "thalweg/cisaillement dépressionnaire",
+    "esTranslation": "vaguada",
+    "arTranslation": "أخدود منخفض",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "synoptic"
+    ]
+  },
+  {
+    "text": "ridge",
+    "meaning": "An elongated area of high pressure that suppresses clouds.",
+    "example": "A ridge aloft kept conditions dry.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/ridge/",
+    "frTranslation": "dorsale (anticyclonique)",
+    "esTranslation": "cuña dorsal",
+    "arTranslation": "امتداد مرتفع جوي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "synoptic"
+    ]
+  },
+  {
+    "text": "occluded front",
+    "meaning": "A mature front where cold air overtakes warm air aloft.",
+    "example": "The cyclone strengthened near the occluded front.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/occluded front/",
+    "frTranslation": "front occlus",
+    "esTranslation": "frente ocluido",
+    "arTranslation": "جبهة منغلقة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "stationary front",
+    "meaning": "A boundary between air masses that stalls for days.",
+    "example": "Flooding developed along the stationary front.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/stationary front/",
+    "frTranslation": "front stationnaire",
+    "esTranslation": "frente estacionario",
+    "arTranslation": "جبهة ثابتة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "analysis"
+    ]
+  },
+  {
+    "text": "cyclone (extratropical)",
+    "meaning": "A large-scale low-pressure system driven by temperature contrasts.",
+    "example": "An extratropical cyclone battered the coast.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/cyclone (extratropical)/",
+    "frTranslation": "cyclone (extratropical)",
+    "esTranslation": "ciclón extratropical",
+    "arTranslation": "إعصار خارج مداري",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "synoptic"
+    ]
+  },
+  {
+    "text": "anticyclone",
+    "meaning": "A high-pressure system with sinking air and often fair weather.",
+    "example": "The anticyclone lingered for a week.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/anticyclone/",
+    "frTranslation": "anticyclone",
+    "esTranslation": "anticiclón",
+    "arTranslation": "مرتفع جوي/ضغطي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "synoptic"
+    ]
+  },
+  {
+    "text": "climate",
+    "meaning": "The long-term patterns of temperature, precipitation, and wind in a region.",
+    "example": "Deserts and rainforests have very different climates.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/climate/",
+    "frTranslation": "climat",
+    "esTranslation": "clima",
+    "arTranslation": "مناخ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "weather"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "weather",
+    "meaning": "The day-to-day state of the atmosphere at a place and time.",
+    "example": "Today’s weather will be sunny and breezy.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/weather/",
+    "frTranslation": "temps (météo)",
+    "esTranslation": "tiempo (meteorología)",
+    "arTranslation": "طقس",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "climate"
+    ],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "climate change",
+    "meaning": "A long-term shift in climate patterns, largely driven by human activity today.",
+    "example": "Glaciers are retreating due to climate change.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/climate change/",
+    "frTranslation": "changement climatique",
+    "esTranslation": "cambio climático",
+    "arTranslation": "تغيّر المناخ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "global warming",
+    "meaning": "The increase in Earth’s average surface temperature over time.",
+    "example": "Global warming intensifies heatwaves.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/global warming/",
+    "frTranslation": "réchauffement planétaire",
+    "esTranslation": "calentamiento global",
+    "arTranslation": "الاحتباس الحراري (ارتفاع الحرارة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "greenhouse effect",
+    "meaning": "Warming caused when gases trap heat in the atmosphere.",
+    "example": "The greenhouse effect keeps Earth habitable.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/greenhouse effect/",
+    "frTranslation": "effet de serre",
+    "esTranslation": "efecto invernadero",
+    "arTranslation": "تأثير الدفيئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "greenhouse gas",
+    "meaning": "A gas that traps heat, such as CO₂, methane, or nitrous oxide.",
+    "example": "Methane is a potent greenhouse gas.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/greenhouse gas/",
+    "frTranslation": "gaz à effet de serre",
+    "esTranslation": "gas de efecto invernadero",
+    "arTranslation": "غاز دفيئة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "carbon dioxide (CO₂)",
+    "meaning": "A key greenhouse gas released by burning fossil fuels and deforestation.",
+    "example": "CO₂ levels continue to rise globally.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/carbon dioxide (CO₂)/",
+    "frTranslation": "dioxyde de carbone (CO₂)",
+    "esTranslation": "dióxido de carbono (CO₂)",
+    "arTranslation": "ثاني أكسيد الكربون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "methane (CH₄)",
+    "meaning": "A powerful greenhouse gas with strong near-term warming influence.",
+    "example": "Reducing methane leaks can slow warming.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/methane (CH₄)/",
+    "frTranslation": "méthane (CH₄)",
+    "esTranslation": "metano (CH₄)",
+    "arTranslation": "الميثان",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "emissions",
+    "meaning": "Release of gases or particles into the air, especially greenhouse gases.",
+    "example": "Policies aim to cut emissions by 2030.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/emissions/",
+    "frTranslation": "émissions",
+    "esTranslation": "emisiones",
+    "arTranslation": "انبعاثات",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "carbon footprint",
+    "meaning": "The total greenhouse gases caused by a person, product, or activity.",
+    "example": "Eating less meat can shrink a carbon footprint.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/carbon footprint/",
+    "frTranslation": "empreinte carbone",
+    "esTranslation": "huella de carbono",
+    "arTranslation": "البصمة الكربونية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "mitigation",
+    "meaning": "Actions to reduce the magnitude of climate change.",
+    "example": "Renewables are central to mitigation strategies.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/mitigation/",
+    "frTranslation": "atténuation",
+    "esTranslation": "mitigación",
+    "arTranslation": "التخفيف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "adaptation",
+    "meaning": "Adjustments that reduce harm or take advantage of new conditions.",
+    "example": "Coastal adaptation includes seawalls and wetlands.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/adaptation/",
+    "frTranslation": "adaptation",
+    "esTranslation": "adaptación",
+    "arTranslation": "التكيّف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "resilience",
+    "meaning": "The capacity to withstand and recover from climate-related shocks.",
+    "example": "Urban trees build heat resilience.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/resilience/",
+    "frTranslation": "résilience",
+    "esTranslation": "resiliencia",
+    "arTranslation": "قدرة الصمود",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "climate model",
+    "meaning": "A computer simulation of the Earth system used to project future climate.",
+    "example": "The climate model reproduced past trends.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/climate model/",
+    "frTranslation": "modèle climatique",
+    "esTranslation": "modelo climático",
+    "arTranslation": "نموذج مناخي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "feedback loop",
+    "meaning": "A process that amplifies or dampens climate changes.",
+    "example": "Melting ice reduces albedo in a warming feedback loop.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/feedback loop/",
+    "frTranslation": "boucle de rétroaction",
+    "esTranslation": "bucle de retroalimentación",
+    "arTranslation": "حلقة تغذية راجعة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "albedo",
+    "meaning": "The fraction of sunlight a surface reflects.",
+    "example": "Snow’s high albedo cools local temperatures.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/albedo/",
+    "frTranslation": "albédo",
+    "esTranslation": "albedo",
+    "arTranslation": "البياض/الانعكاسية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "urban heat island",
+    "meaning": "When cities are warmer than nearby rural areas due to surfaces and waste heat.",
+    "example": "Green roofs can reduce the urban heat island effect.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/urban heat island/",
+    "frTranslation": "îlot de chaleur urbain",
+    "esTranslation": "isla de calor urbana",
+    "arTranslation": "جزيرة الحرارة الحضرية",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "climate"
+    ]
+  },
+  {
+    "text": "El Niño",
+    "meaning": "A periodic warming of the central/eastern Pacific that shifts global weather.",
+    "example": "El Niño tends to bring wetter winters to some regions.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/El Niño/",
+    "frTranslation": "El Niño",
+    "esTranslation": "El Niño",
+    "arTranslation": "النينيو",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "ocean–atmosphere"
+    ]
+  },
+  {
+    "text": "La Niña",
+    "meaning": "A periodic cooling of the central/eastern Pacific with different impacts.",
+    "example": "La Niña often strengthens Atlantic hurricanes.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/La Niña/",
+    "frTranslation": "La Niña",
+    "esTranslation": "La Niña",
+    "arTranslation": "النينيا",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "ocean–atmosphere"
+    ]
+  },
+  {
+    "text": "water cycle",
+    "meaning": "The continuous movement of water through evaporation, condensation, and precipitation.",
+    "example": "The water cycle links oceans, air, and land.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/water cycle/",
+    "frTranslation": "cycle de l’eau",
+    "esTranslation": "ciclo del agua",
+    "arTranslation": "الدورة المائية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "evaporation",
+    "meaning": "Liquid water turning into vapor.",
+    "example": "Heat sped up evaporation from the lake.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/evaporation/",
+    "frTranslation": "évaporation",
+    "esTranslation": "evaporación",
+    "arTranslation": "تبخّر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "condensation",
+    "meaning": "Water vapor cooling into liquid droplets.",
+    "example": "Condensation formed clouds over the hills.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/condensation/",
+    "frTranslation": "condensation",
+    "esTranslation": "condensación",
+    "arTranslation": "تكاثُف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "precipitation (process)",
+    "meaning": "Water falling from clouds as rain, snow, hail, or sleet.",
+    "example": "Precipitation refilled reservoirs after drought.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/precipitation (process)/",
+    "frTranslation": "précipitations (processus)",
+    "esTranslation": "precipitación (proceso)",
+    "arTranslation": "هطول (عملية)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "transpiration",
+    "meaning": "Plants releasing water vapor through leaves.",
+    "example": "Forests drive local humidity via transpiration.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/transpiration/",
+    "frTranslation": "transpiration",
+    "esTranslation": "transpiración",
+    "arTranslation": "نتح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "sublimation",
+    "meaning": "Ice turning directly into vapor without melting first.",
+    "example": "Dry cold allowed snow sublimation on sunny slopes.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/sublimation/",
+    "frTranslation": "sublimation",
+    "esTranslation": "sublimación",
+    "arTranslation": "تسامي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "infiltration",
+    "meaning": "Water soaking into the ground from the surface.",
+    "example": "Infiltration recharges underground aquifers.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/infiltration/",
+    "frTranslation": "infiltration",
+    "esTranslation": "infiltración",
+    "arTranslation": "تسرّب في التربة",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "runoff",
+    "meaning": "Water flowing over land toward streams and rivers.",
+    "example": "Heavy rain produced muddy runoff.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/runoff/",
+    "frTranslation": "ruissellement",
+    "esTranslation": "escorrentía",
+    "arTranslation": "جريان سطحي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "watershed",
+    "meaning": "An area of land where all water drains to the same outlet.",
+    "example": "The city sits in a large river watershed.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/watershed/",
+    "frTranslation": "bassin versant",
+    "esTranslation": "cuenca hidrográfica",
+    "arTranslation": "حوض مائي/تصريف",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "floodplain",
+    "meaning": "Flat land next to a river that naturally floods.",
+    "example": "Homes on the floodplain need elevated foundations.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/floodplain/",
+    "frTranslation": "plaine inondable",
+    "esTranslation": "llanura de inundación",
+    "arTranslation": "سهل فيضي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "hydrology"
+    ]
+  },
+  {
+    "text": "air quality index (AQI)",
+    "meaning": "A scale that rates pollution levels and related health concerns.",
+    "example": "The AQI reached unhealthy levels near the wildfire.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/air quality index (AQI)/",
+    "frTranslation": "indice de qualité de l’air (IQA)",
+    "esTranslation": "índice de calidad del aire (ICA)",
+    "arTranslation": "مؤشر جودة الهواء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "air quality"
+    ]
+  },
+  {
+    "text": "PM2.5",
+    "meaning": "Fine airborne particles 2.5 micrometers or smaller that harm health.",
+    "example": "PM2.5 spiked during the smoke event.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/PM2.5/",
+    "frTranslation": "PM2.5 (particules fines)",
+    "esTranslation": "PM2.5 (partículas finas)",
+    "arTranslation": "جسيمات دقيقة PM2.5",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "air quality"
+    ]
+  },
+  {
+    "text": "ground-level ozone",
+    "meaning": "A harmful pollutant formed when sunlight reacts with emissions.",
+    "example": "Ground-level ozone peaked in the afternoon.",
+    "categoryId": "Weather & Climate",
+    "pronunciation": "/ground-level ozone/",
+    "frTranslation": "ozone troposphérique",
+    "esTranslation": "ozono a nivel del suelo",
+    "arTranslation": "الأوزون القريب من السطح",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Weather & Climate",
+      "air quality"
+    ]
+  }
+]

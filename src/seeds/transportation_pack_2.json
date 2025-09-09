@@ -1,0 +1,1328 @@
+[
+  {
+    "text": "gridlock",
+    "meaning": "Complete traffic congestion that prevents movement in any direction.",
+    "example": "An accident caused gridlock for hours.",
+    "categoryId": "Transportation",
+    "pronunciation": "/gridlock/",
+    "frTranslation": "paralysie du trafic",
+    "esTranslation": "colapso del tráfico",
+    "arTranslation": "شلل مروري",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "detour",
+    "meaning": "A temporary route taken because the main road is closed.",
+    "example": "Signs sent trucks on a detour.",
+    "categoryId": "Transportation",
+    "pronunciation": "/detour/",
+    "frTranslation": "déviation",
+    "esTranslation": "desvío",
+    "arTranslation": "تحويلة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "roadwork",
+    "meaning": "Construction or maintenance happening on roads.",
+    "example": "Expect delays due to roadwork.",
+    "categoryId": "Transportation",
+    "pronunciation": "/roadwork/",
+    "frTranslation": "travaux routiers",
+    "esTranslation": "obras viales",
+    "arTranslation": "أعمال طرق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "lane closure",
+    "meaning": "When one or more lanes are temporarily blocked.",
+    "example": "A lane closure created a bottleneck.",
+    "categoryId": "Transportation",
+    "pronunciation": "/lane closure/",
+    "frTranslation": "fermeture de voie",
+    "esTranslation": "cierre de carril",
+    "arTranslation": "إغلاق حارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "traffic"
+    ]
+  },
+  {
+    "text": "accident",
+    "meaning": "An unexpected crash or collision on the road.",
+    "example": "An accident backed up traffic for miles.",
+    "categoryId": "Transportation",
+    "pronunciation": "/accident/",
+    "frTranslation": "accident",
+    "esTranslation": "accidente",
+    "arTranslation": "حادث",
+    "level": "beginnerLevelOne",
+    "synonyms": [
+      "crash",
+      "collision"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "safety"
+    ]
+  },
+  {
+    "text": "fender bender",
+    "meaning": "A minor car accident with little damage.",
+    "example": "They exchanged details after a fender bender.",
+    "categoryId": "Transportation",
+    "pronunciation": "/fender bender/",
+    "frTranslation": "accrochage léger",
+    "esTranslation": "choque leve",
+    "arTranslation": "حادث بسيط",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "safety"
+    ]
+  },
+  {
+    "text": "hit-and-run",
+    "meaning": "An accident where a driver leaves without stopping to help or report.",
+    "example": "Police searched for the hit-and-run driver.",
+    "categoryId": "Transportation",
+    "pronunciation": "/hit-and-run/",
+    "frTranslation": "délit de fuite",
+    "esTranslation": "atropello con fuga",
+    "arTranslation": "اصطدام وفرار",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "safety"
+    ]
+  },
+  {
+    "text": "ticket",
+    "meaning": "A document or digital pass that lets you travel or enter a service.",
+    "example": "Buy a ticket before boarding.",
+    "categoryId": "Transportation",
+    "pronunciation": "/ticket/",
+    "frTranslation": "billet",
+    "esTranslation": "boleto/billete",
+    "arTranslation": "تذكرة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "fare",
+    "meaning": "The price charged for a journey by public transport or taxi.",
+    "example": "The bus fare increased this year.",
+    "categoryId": "Transportation",
+    "pronunciation": "/fare/",
+    "frTranslation": "tarif",
+    "esTranslation": "tarifa",
+    "arTranslation": "أجرة/سعر التذكرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "pass (monthly/annual)",
+    "meaning": "A card or app that allows unlimited or discounted travel for a period.",
+    "example": "She uses a monthly pass for commuting.",
+    "categoryId": "Transportation",
+    "pronunciation": "/pass (monthly/annual)/",
+    "frTranslation": "abonnement (mensuel/annuel)",
+    "esTranslation": "pase (mensual/anual)",
+    "arTranslation": "بطاقة اشتراك",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "contactless card",
+    "meaning": "A payment card or device that is tapped to pay fares.",
+    "example": "Tap your contactless card at the gate.",
+    "categoryId": "Transportation",
+    "pronunciation": "/contactless card/",
+    "frTranslation": "carte sans contact",
+    "esTranslation": "tarjeta sin contacto",
+    "arTranslation": "بطاقة لامس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "boarding pass",
+    "meaning": "A document that allows you to board a plane or ferry.",
+    "example": "The app saved my boarding pass.",
+    "categoryId": "Transportation",
+    "pronunciation": "/boarding pass/",
+    "frTranslation": "carte d’embarquement",
+    "esTranslation": "tarjeta de embarque",
+    "arTranslation": "بطاقة صعود الطائرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "itinerary",
+    "meaning": "A planned route or schedule of a trip.",
+    "example": "Our itinerary includes two layovers.",
+    "categoryId": "Transportation",
+    "pronunciation": "/itinerary/",
+    "frTranslation": "itinéraire",
+    "esTranslation": "itinerario",
+    "arTranslation": "خط سير الرحلة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "reservation (booking)",
+    "meaning": "An arrangement to secure a seat or ticket in advance.",
+    "example": "Your reservation is confirmed by email.",
+    "categoryId": "Transportation",
+    "pronunciation": "/reservation (booking)/",
+    "frTranslation": "réservation",
+    "esTranslation": "reserva",
+    "arTranslation": "حجز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "check-in",
+    "meaning": "The process of confirming your arrival and receiving boarding documents.",
+    "example": "We completed check-in online.",
+    "categoryId": "Transportation",
+    "pronunciation": "/check-in/",
+    "frTranslation": "enregistrement",
+    "esTranslation": "check-in",
+    "arTranslation": "تسجيل الدخول/الركاب",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "baggage claim",
+    "meaning": "The area where passengers collect checked luggage after a flight.",
+    "example": "Meet me at baggage claim carousel 5.",
+    "categoryId": "Transportation",
+    "pronunciation": "/baggage claim/",
+    "frTranslation": "retrait des bagages",
+    "esTranslation": "recogida de equipaje",
+    "arTranslation": "استلام الأمتعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "carry-on bag",
+    "meaning": "A small bag allowed on board a plane with you.",
+    "example": "My carry-on bag fits under the seat.",
+    "categoryId": "Transportation",
+    "pronunciation": "/carry-on bag/",
+    "frTranslation": "bagage cabine",
+    "esTranslation": "equipaje de mano",
+    "arTranslation": "حقيبة يد (طائرة)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "checked baggage",
+    "meaning": "Luggage that is stored in the aircraft hold.",
+    "example": "Checked baggage is limited to 23 kg.",
+    "categoryId": "Transportation",
+    "pronunciation": "/checked baggage/",
+    "frTranslation": "bagage en soute",
+    "esTranslation": "equipaje facturado",
+    "arTranslation": "أمتعة مشحونة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "layover",
+    "meaning": "A stop between connecting flights or trains.",
+    "example": "We have a two-hour layover in Madrid.",
+    "categoryId": "Transportation",
+    "pronunciation": "/layover/",
+    "frTranslation": "escale (temps d’attente)",
+    "esTranslation": "escala",
+    "arTranslation": "توقّف مؤقت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "transfer (connection)",
+    "meaning": "Switching from one vehicle or line to another during a journey.",
+    "example": "Your transfer is at Central Station.",
+    "categoryId": "Transportation",
+    "pronunciation": "/transfer (connection)/",
+    "frTranslation": "correspondance",
+    "esTranslation": "conexión/transbordo",
+    "arTranslation": "تحويل/انتقال",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "upgrade",
+    "meaning": "A move to a better seat or class of service.",
+    "example": "She received a free upgrade to business class.",
+    "categoryId": "Transportation",
+    "pronunciation": "/upgrade/",
+    "frTranslation": "surclassement",
+    "esTranslation": "mejora de clase",
+    "arTranslation": "ترقية مقعد",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "delay",
+    "meaning": "When a departure or arrival happens later than scheduled.",
+    "example": "The flight has a one-hour delay.",
+    "categoryId": "Transportation",
+    "pronunciation": "/delay/",
+    "frTranslation": "retard",
+    "esTranslation": "retraso",
+    "arTranslation": "تأخير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "cancellation",
+    "meaning": "When a scheduled trip is called off.",
+    "example": "Storms led to the train cancellation.",
+    "categoryId": "Transportation",
+    "pronunciation": "/cancellation/",
+    "frTranslation": "annulation",
+    "esTranslation": "cancelación",
+    "arTranslation": "إلغاء",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "travel"
+    ]
+  },
+  {
+    "text": "engine",
+    "meaning": "The machine that converts fuel or electricity into motion.",
+    "example": "A warning light flashed on the engine.",
+    "categoryId": "Transportation",
+    "pronunciation": "/engine/",
+    "frTranslation": "moteur",
+    "esTranslation": "motor",
+    "arTranslation": "محرك",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "electric motor",
+    "meaning": "A device that turns electrical energy into mechanical rotation.",
+    "example": "E-bikes use a compact electric motor.",
+    "categoryId": "Transportation",
+    "pronunciation": "/electric motor/",
+    "frTranslation": "moteur électrique",
+    "esTranslation": "motor eléctrico",
+    "arTranslation": "محرك كهربائي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "transmission",
+    "meaning": "The system that delivers power from the engine to the wheels.",
+    "example": "A faulty transmission caused jerky shifts.",
+    "categoryId": "Transportation",
+    "pronunciation": "/transmission/",
+    "frTranslation": "boîte de vitesses",
+    "esTranslation": "transmisión",
+    "arTranslation": "ناقل حركة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "clutch",
+    "meaning": "A device that engages or disengages power from the engine to the gearbox.",
+    "example": "He burned the clutch learning to drive stick.",
+    "categoryId": "Transportation",
+    "pronunciation": "/clutch/",
+    "frTranslation": "embrayage",
+    "esTranslation": "embrague",
+    "arTranslation": "قابض/كلتش",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "brake",
+    "meaning": "A mechanism that slows or stops a vehicle.",
+    "example": "Press the brake gently on the hill.",
+    "categoryId": "Transportation",
+    "pronunciation": "/brake/",
+    "frTranslation": "frein",
+    "esTranslation": "freno",
+    "arTranslation": "فرامل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "accelerator"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "accelerator (gas pedal)",
+    "meaning": "The pedal that increases engine power and speed.",
+    "example": "She tapped the accelerator to merge.",
+    "categoryId": "Transportation",
+    "pronunciation": "/accelerator (gas pedal)/",
+    "frTranslation": "accélérateur (pédale)",
+    "esTranslation": "acelerador",
+    "arTranslation": "دواسة الوقود",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "gas pedal"
+    ],
+    "antonyms": [
+      "brake"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "steering wheel",
+    "meaning": "The wheel a driver turns to control direction.",
+    "example": "Keep both hands on the steering wheel.",
+    "categoryId": "Transportation",
+    "pronunciation": "/steering wheel/",
+    "frTranslation": "volant",
+    "esTranslation": "volante",
+    "arTranslation": "مقود",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "dashboard",
+    "meaning": "The panel in front of the driver with controls and displays.",
+    "example": "The dashboard lit up at start.",
+    "categoryId": "Transportation",
+    "pronunciation": "/dashboard/",
+    "frTranslation": "tableau de bord",
+    "esTranslation": "tablero",
+    "arTranslation": "لوحة العدادات",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "speedometer",
+    "meaning": "An instrument that shows how fast a vehicle is moving.",
+    "example": "Check the speedometer in school zones.",
+    "categoryId": "Transportation",
+    "pronunciation": "/speedometer/",
+    "frTranslation": "compteur de vitesse",
+    "esTranslation": "velocímetro",
+    "arTranslation": "عداد السرعة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "odometer",
+    "meaning": "An instrument that records total distance traveled.",
+    "example": "The car’s odometer passed 100,000 km.",
+    "categoryId": "Transportation",
+    "pronunciation": "/odometer/",
+    "frTranslation": "compteur kilométrique",
+    "esTranslation": "odómetro",
+    "arTranslation": "عداد المسافة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "seatbelt",
+    "meaning": "A belt that restrains passengers to protect them in a crash.",
+    "example": "Please fasten your seatbelt.",
+    "categoryId": "Transportation",
+    "pronunciation": "/seatbelt/",
+    "frTranslation": "ceinture de sécurité",
+    "esTranslation": "cinturón de seguridad",
+    "arTranslation": "حزام أمان",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "safety"
+    ]
+  },
+  {
+    "text": "airbag",
+    "meaning": "A safety device that inflates on impact to protect occupants.",
+    "example": "The airbag deployed during the collision.",
+    "categoryId": "Transportation",
+    "pronunciation": "/airbag/",
+    "frTranslation": "airbag/coussin gonflable",
+    "esTranslation": "airbag",
+    "arTranslation": "وسادة هوائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "safety"
+    ]
+  },
+  {
+    "text": "windshield (windscreen)",
+    "meaning": "The front window of a vehicle.",
+    "example": "A chip appeared on the windshield.",
+    "categoryId": "Transportation",
+    "pronunciation": "/windshield (windscreen)/",
+    "frTranslation": "pare-brise",
+    "esTranslation": "parabrisas",
+    "arTranslation": "زجاج أمامي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "wiper",
+    "meaning": "A blade that wipes rain from the windshield.",
+    "example": "Replace worn wipers before winter.",
+    "categoryId": "Transportation",
+    "pronunciation": "/wiper/",
+    "frTranslation": "essuie-glace",
+    "esTranslation": "limpiaparabrisas",
+    "arTranslation": "ماسحة زجاج",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "headlight",
+    "meaning": "A light on the front of a vehicle for night driving.",
+    "example": "Turn on the headlights at dusk.",
+    "categoryId": "Transportation",
+    "pronunciation": "/headlight/",
+    "frTranslation": "phare avant",
+    "esTranslation": "faro delantero",
+    "arTranslation": "مصباح أمامي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "taillight",
+    "meaning": "A red rear light that shows the vehicle’s presence.",
+    "example": "A broken taillight can earn a ticket.",
+    "categoryId": "Transportation",
+    "pronunciation": "/taillight/",
+    "frTranslation": "feu arrière",
+    "esTranslation": "luz trasera",
+    "arTranslation": "مصباح خلفي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "turn signal (indicator)",
+    "meaning": "A blinking light that shows the driver intends to turn or change lanes.",
+    "example": "Use your turn signal before merging.",
+    "categoryId": "Transportation",
+    "pronunciation": "/turn signal (indicator)/",
+    "frTranslation": "clignotant",
+    "esTranslation": "intermitente",
+    "arTranslation": "إشارة الانعطاف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "tire",
+    "meaning": "A rubber covering on a wheel that provides grip.",
+    "example": "One tire looked underinflated.",
+    "categoryId": "Transportation",
+    "pronunciation": "/tire/",
+    "frTranslation": "pneu",
+    "esTranslation": "neumático",
+    "arTranslation": "إطار مطاطي",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "spare tire",
+    "meaning": "A backup tire carried in case of a flat.",
+    "example": "We mounted the spare tire on the shoulder.",
+    "categoryId": "Transportation",
+    "pronunciation": "/spare tire/",
+    "frTranslation": "roue de secours",
+    "esTranslation": "llanta de repuesto",
+    "arTranslation": "إطار احتياطي",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "trunk (boot)",
+    "meaning": "The rear storage compartment of a car.",
+    "example": "Put the luggage in the trunk.",
+    "categoryId": "Transportation",
+    "pronunciation": "/trunk (boot)/",
+    "frTranslation": "coffre (voiture)",
+    "esTranslation": "maletero",
+    "arTranslation": "صندوق السيارة الخلفي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "roof rack",
+    "meaning": "Bars mounted on a vehicle roof for carrying extra cargo.",
+    "example": "The roof rack held two kayaks.",
+    "categoryId": "Transportation",
+    "pronunciation": "/roof rack/",
+    "frTranslation": "barres de toit",
+    "esTranslation": "baca",
+    "arTranslation": "سلة/علاقة سقف السيارة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "parts"
+    ]
+  },
+  {
+    "text": "board",
+    "meaning": "To get onto a bus, train, plane, or ship.",
+    "example": "Please board through the front doors.",
+    "categoryId": "Transportation",
+    "pronunciation": "/board/",
+    "frTranslation": "monter à bord",
+    "esTranslation": "abordar",
+    "arTranslation": "يستقلّ",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "get on"
+    ],
+    "antonyms": [
+      "alight"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "travel-verb"
+    ]
+  },
+  {
+    "text": "alight (disembark)",
+    "meaning": "To get off a bus, train, or plane.",
+    "example": "Passengers may alight at the next stop.",
+    "categoryId": "Transportation",
+    "pronunciation": "/alight (disembark)/",
+    "frTranslation": "descendre (d’un véhicule)",
+    "esTranslation": "desembarcar",
+    "arTranslation": "ينزل من المركبة",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "get off",
+      "disembark"
+    ],
+    "antonyms": [
+      "board"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "travel-verb"
+    ]
+  },
+  {
+    "text": "depart",
+    "meaning": "To leave, especially at a scheduled time.",
+    "example": "The train will depart at 08:45.",
+    "categoryId": "Transportation",
+    "pronunciation": "/depart/",
+    "frTranslation": "partir",
+    "esTranslation": "salir",
+    "arTranslation": "يغادر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "arrive"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "travel-verb"
+    ]
+  },
+  {
+    "text": "arrive",
+    "meaning": "To reach a destination.",
+    "example": "We arrive at noon if traffic is light.",
+    "categoryId": "Transportation",
+    "pronunciation": "/arrive/",
+    "frTranslation": "arriver",
+    "esTranslation": "llegar",
+    "arTranslation": "يصل",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "depart"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "travel-verb"
+    ]
+  },
+  {
+    "text": "take off",
+    "meaning": "For an airplane to leave the ground.",
+    "example": "We take off in twenty minutes.",
+    "categoryId": "Transportation",
+    "pronunciation": "/take off/",
+    "frTranslation": "décoller",
+    "esTranslation": "despegar",
+    "arTranslation": "يُقلِع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "land"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "air-verb"
+    ]
+  },
+  {
+    "text": "land",
+    "meaning": "For an aircraft to come down onto the runway.",
+    "example": "We land on runway 12.",
+    "categoryId": "Transportation",
+    "pronunciation": "/land/",
+    "frTranslation": "atterrir",
+    "esTranslation": "aterrizar",
+    "arTranslation": "يهبط",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "take off"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "air-verb"
+    ]
+  },
+  {
+    "text": "dock",
+    "meaning": "For a ship or boat to tie up at a pier.",
+    "example": "The ferry will dock in five minutes.",
+    "categoryId": "Transportation",
+    "pronunciation": "/dock/",
+    "frTranslation": "accoster",
+    "esTranslation": "atracar",
+    "arTranslation": "يرسو/يربط",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "berth",
+      "moor"
+    ],
+    "antonyms": [
+      "cast off"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "water-verb"
+    ]
+  },
+  {
+    "text": "merge",
+    "meaning": "To move into a different traffic lane so vehicles join smoothly.",
+    "example": "Use your signal to merge left.",
+    "categoryId": "Transportation",
+    "pronunciation": "/merge/",
+    "frTranslation": "s’insérer (dans la circulation)",
+    "esTranslation": "incorporarse",
+    "arTranslation": "يندمج في السير",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "exit"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "overtake (pass)",
+    "meaning": "To go past a slower vehicle moving in the same direction.",
+    "example": "Only overtake when the line is broken.",
+    "categoryId": "Transportation",
+    "pronunciation": "/overtake (pass)/",
+    "frTranslation": "doubler",
+    "esTranslation": "adelantar",
+    "arTranslation": "يتجاوز/يتخطى",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "pass"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "pull over",
+    "meaning": "To move a vehicle to the side of the road and stop.",
+    "example": "Police signaled us to pull over.",
+    "categoryId": "Transportation",
+    "pronunciation": "/pull over/",
+    "frTranslation": "se ranger sur le côté",
+    "esTranslation": "orillarse",
+    "arTranslation": "يقف جانباً",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "speed up",
+    "meaning": "To increase speed.",
+    "example": "The driver sped up to merge safely.",
+    "categoryId": "Transportation",
+    "pronunciation": "/speed up/",
+    "frTranslation": "accélérer",
+    "esTranslation": "acelerar",
+    "arTranslation": "يزيد السرعة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "slow down"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "slow down",
+    "meaning": "To reduce speed.",
+    "example": "Slow down near the school.",
+    "categoryId": "Transportation",
+    "pronunciation": "/slow down/",
+    "frTranslation": "ralentir",
+    "esTranslation": "reducir la velocidad",
+    "arTranslation": "يخفّف السرعة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "speed up"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "back up (reverse)",
+    "meaning": "To move a vehicle backward.",
+    "example": "Back up carefully from the driveway.",
+    "categoryId": "Transportation",
+    "pronunciation": "/back up (reverse)/",
+    "frTranslation": "reculer",
+    "esTranslation": "dar marcha atrás",
+    "arTranslation": "يَرْجع للخلف",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "park",
+    "meaning": "To stop a vehicle and leave it in a designated place.",
+    "example": "You can park on the next block.",
+    "categoryId": "Transportation",
+    "pronunciation": "/park/",
+    "frTranslation": "se garer",
+    "esTranslation": "aparcar/estacionar",
+    "arTranslation": "يوقف السيارة",
+    "level": "beginnerLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "idle",
+    "meaning": "To run an engine while not moving.",
+    "example": "Buses must not idle near schools.",
+    "categoryId": "Transportation",
+    "pronunciation": "/idle/",
+    "frTranslation": "tourner au ralenti",
+    "esTranslation": "ralentí (quedarse)",
+    "arTranslation": "يعمل على السكون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [
+      "shut off"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "stall",
+    "meaning": "For an engine to stop suddenly.",
+    "example": "The car stalled at the light.",
+    "categoryId": "Transportation",
+    "pronunciation": "/stall/",
+    "frTranslation": "caler",
+    "esTranslation": "calarse",
+    "arTranslation": "تتعطل (المحرك)",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "break down",
+    "meaning": "For a vehicle to stop working and need repair.",
+    "example": "Our van broke down outside town.",
+    "categoryId": "Transportation",
+    "pronunciation": "/break down/",
+    "frTranslation": "tomber en panne",
+    "esTranslation": "averiarse",
+    "arTranslation": "يتعطل",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "fail"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "tow",
+    "meaning": "To pull a broken vehicle with another vehicle or a truck.",
+    "example": "A tow truck removed the wreck.",
+    "categoryId": "Transportation",
+    "pronunciation": "/tow/",
+    "frTranslation": "remorquer",
+    "esTranslation": "remolcar",
+    "arTranslation": "يسحب/يجرّ",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "road-verb"
+    ]
+  },
+  {
+    "text": "refuel",
+    "meaning": "To fill a vehicle with fuel.",
+    "example": "Planes refuel between flights.",
+    "categoryId": "Transportation",
+    "pronunciation": "/refuel/",
+    "frTranslation": "faire le plein",
+    "esTranslation": "repostar",
+    "arTranslation": "يملأ الوقود",
+    "level": "intermediateLevelOne",
+    "synonyms": [
+      "fill up"
+    ],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "service-verb"
+    ]
+  },
+  {
+    "text": "recharge",
+    "meaning": "To restore a battery’s power.",
+    "example": "We need to recharge the EV on the way.",
+    "categoryId": "Transportation",
+    "pronunciation": "/recharge/",
+    "frTranslation": "recharger",
+    "esTranslation": "recargar",
+    "arTranslation": "يعيد الشحن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "service-verb"
+    ]
+  },
+  {
+    "text": "gasoline (petrol)",
+    "meaning": "A refined fuel used by many car engines.",
+    "example": "Gasoline prices rose this week.",
+    "categoryId": "Transportation",
+    "pronunciation": "/gasoline (petrol)/",
+    "frTranslation": "essence",
+    "esTranslation": "gasolina",
+    "arTranslation": "بنزين",
+    "level": "beginnerLevelTwo",
+    "synonyms": [
+      "petrol (UK)"
+    ],
+    "antonyms": [
+      "diesel (contrast)"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "diesel",
+    "meaning": "A heavier fuel used by trucks and some cars.",
+    "example": "Diesel engines are efficient on highways.",
+    "categoryId": "Transportation",
+    "pronunciation": "/diesel/",
+    "frTranslation": "diesel/gazole",
+    "esTranslation": "diésel/gasóleo",
+    "arTranslation": "ديزل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [
+      "gasoline (contrast)"
+    ],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "electric vehicle (EV)",
+    "meaning": "A vehicle powered entirely by electricity.",
+    "example": "Public chargers make EVs easier to own.",
+    "categoryId": "Transportation",
+    "pronunciation": "/electric vehicle (EV)/",
+    "frTranslation": "véhicule électrique (VE)",
+    "esTranslation": "vehículo eléctrico (VE)",
+    "arTranslation": "مركبة كهربائية",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "hybrid vehicle",
+    "meaning": "A car that uses both a fuel engine and an electric motor.",
+    "example": "Hybrid vehicles save fuel in city traffic.",
+    "categoryId": "Transportation",
+    "pronunciation": "/hybrid vehicle/",
+    "frTranslation": "véhicule hybride",
+    "esTranslation": "vehículo híbrido",
+    "arTranslation": "مركبة هجينة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "plug-in hybrid",
+    "meaning": "A hybrid with a larger battery that can be charged from the grid.",
+    "example": "A plug-in hybrid can drive short trips on electricity.",
+    "categoryId": "Transportation",
+    "pronunciation": "/plug-in hybrid/",
+    "frTranslation": "hybride rechargeable",
+    "esTranslation": "híbrido enchufable",
+    "arTranslation": "هجين قابل للشحن",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "charging port",
+    "meaning": "The socket on an EV where the cable connects.",
+    "example": "Wipe dust off the charging port before plugging in.",
+    "categoryId": "Transportation",
+    "pronunciation": "/charging port/",
+    "frTranslation": "prise de recharge",
+    "esTranslation": "puerto de carga",
+    "arTranslation": "منفذ الشحن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "charging station",
+    "meaning": "A place equipped to recharge electric vehicles.",
+    "example": "There’s a charging station at the rest stop.",
+    "categoryId": "Transportation",
+    "pronunciation": "/charging station/",
+    "frTranslation": "borne de recharge",
+    "esTranslation": "estación de carga",
+    "arTranslation": "محطة شحن",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "range (driving)",
+    "meaning": "The distance a vehicle can travel on its current fuel or charge.",
+    "example": "Cold weather can reduce EV range.",
+    "categoryId": "Transportation",
+    "pronunciation": "/range (driving)/",
+    "frTranslation": "autonomie (véhicule)",
+    "esTranslation": "autonomía (vehículo)",
+    "arTranslation": "مدى القيادة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "regenerative braking",
+    "meaning": "A system that recovers energy when slowing down and stores it in the battery.",
+    "example": "Regenerative braking extends battery life.",
+    "categoryId": "Transportation",
+    "pronunciation": "/regenerative braking/",
+    "frTranslation": "freinage régénératif",
+    "esTranslation": "frenado regenerativo",
+    "arTranslation": "كبح تجديدي",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "range anxiety",
+    "meaning": "Worry that an EV will run out of charge before reaching a charger.",
+    "example": "Fast chargers help reduce range anxiety.",
+    "categoryId": "Transportation",
+    "pronunciation": "/range anxiety/",
+    "frTranslation": "anxiété d’autonomie",
+    "esTranslation": "ansiedad de autonomía",
+    "arTranslation": "قلق المدى",
+    "level": "advancedLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "energy"
+    ]
+  },
+  {
+    "text": "freight",
+    "meaning": "Goods transported in bulk by truck, train, ship, or plane.",
+    "example": "The line carries both passengers and freight.",
+    "categoryId": "Transportation",
+    "pronunciation": "/freight/",
+    "frTranslation": "fret",
+    "esTranslation": "carga",
+    "arTranslation": "شحن/بضائع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Transportation",
+      "logistics"
+    ]
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "text": "celery",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added celery to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/celery/",
+    "frTranslation": "céleri",
+    "esTranslation": "apio",
+    "arTranslation": "كرفس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "beet",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added beet to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/beet/",
+    "frTranslation": "betterave",
+    "esTranslation": "remolacha",
+    "arTranslation": "شمندر",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "radish",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added radish to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/radish/",
+    "frTranslation": "radis",
+    "esTranslation": "rábano",
+    "arTranslation": "فجل",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "sweet potato",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added sweet potato to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/sweet potato/",
+    "frTranslation": "patate douce",
+    "esTranslation": "batata dulce",
+    "arTranslation": "بطاطا حلوة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "corn",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added corn to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/corn/",
+    "frTranslation": "maïs",
+    "esTranslation": "maíz",
+    "arTranslation": "ذرة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "peas",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added peas to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/peas/",
+    "frTranslation": "petits pois",
+    "esTranslation": "guisantes",
+    "arTranslation": "بازلاء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "green beans",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added green beans to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/green beans/",
+    "frTranslation": "haricots verts",
+    "esTranslation": "judías verdes",
+    "arTranslation": "فاصوليا خضراء",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "kale",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added kale to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/kale/",
+    "frTranslation": "chou frisé",
+    "esTranslation": "col rizada",
+    "arTranslation": "كرنب أجعد",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "asparagus",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added asparagus to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/asparagus/",
+    "frTranslation": "asperge",
+    "esTranslation": "espárrago",
+    "arTranslation": "هليون",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "artichoke",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added artichoke to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/artichoke/",
+    "frTranslation": "artichaut",
+    "esTranslation": "alcachofa",
+    "arTranslation": "خرشوف",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "leek",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added leek to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/leek/",
+    "frTranslation": "poireau",
+    "esTranslation": "puerro",
+    "arTranslation": "كراث",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "pumpkin",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added pumpkin to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pumpkin/",
+    "frTranslation": "citrouille",
+    "esTranslation": "calabaza",
+    "arTranslation": "قرع",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "yam",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added yam to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/yam/",
+    "frTranslation": "igname",
+    "esTranslation": "ñame",
+    "arTranslation": "يام",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "okra",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added okra to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/okra/",
+    "frTranslation": "gombo",
+    "esTranslation": "quimbombó/okra",
+    "arTranslation": "بامية",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "turnip",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added turnip to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/turnip/",
+    "frTranslation": "navet",
+    "esTranslation": "nabo",
+    "arTranslation": "لفت",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "shallot",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added shallot to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/shallot/",
+    "frTranslation": "échalote",
+    "esTranslation": "chalota",
+    "arTranslation": "كراث صغير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "parsley root",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added parsley root to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/parsley root/",
+    "frTranslation": "racine de persil",
+    "esTranslation": "raíz de perejil",
+    "arTranslation": "جذر بقدونس",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "bok choy",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added bok choy to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bok choy/",
+    "frTranslation": "bok choy",
+    "esTranslation": "bok choy",
+    "arTranslation": "باك تشوي",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "arugula",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added arugula to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/arugula/",
+    "frTranslation": "roquette",
+    "esTranslation": "rúcula",
+    "arTranslation": "جرجير",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "chard",
+    "meaning": "An edible plant or plant part used as food.",
+    "example": "We added chard to the salad.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/chard/",
+    "frTranslation": "blette",
+    "esTranslation": "acelga",
+    "arTranslation": "سلق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "vegetable"
+    ]
+  },
+  {
+    "text": "basil",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with basil.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/basil/",
+    "frTranslation": "basilic",
+    "esTranslation": "albahaca",
+    "arTranslation": "ريحان",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "parsley",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with parsley.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/parsley/",
+    "frTranslation": "persil",
+    "esTranslation": "perejil",
+    "arTranslation": "بقدونس",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "cilantro",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with cilantro.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cilantro/",
+    "frTranslation": "coriandre",
+    "esTranslation": "cilantro",
+    "arTranslation": "كزبرة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "mint",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with mint.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/mint/",
+    "frTranslation": "menthe",
+    "esTranslation": "menta",
+    "arTranslation": "نعناع",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "rosemary",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with rosemary.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/rosemary/",
+    "frTranslation": "romarin",
+    "esTranslation": "romero",
+    "arTranslation": "إكليل الجبل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "thyme",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with thyme.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/thyme/",
+    "frTranslation": "thym",
+    "esTranslation": "tomillo",
+    "arTranslation": "زعتر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "oregano",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with oregano.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/oregano/",
+    "frTranslation": "origan",
+    "esTranslation": "orégano",
+    "arTranslation": "أوريغانو",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "dill",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with dill.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/dill/",
+    "frTranslation": "aneth",
+    "esTranslation": "eneldo",
+    "arTranslation": "شبت",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "bay leaf",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with bay leaf.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bay leaf/",
+    "frTranslation": "feuille de laurier",
+    "esTranslation": "hoja de laurel",
+    "arTranslation": "ورقة غار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "chive",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with chive.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/chive/",
+    "frTranslation": "ciboulette",
+    "esTranslation": "cebollino",
+    "arTranslation": "ثوم معمر",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "ginger",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with ginger.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/ginger/",
+    "frTranslation": "gingembre",
+    "esTranslation": "jengibre",
+    "arTranslation": "زنجبيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "turmeric",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with turmeric.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/turmeric/",
+    "frTranslation": "curcuma",
+    "esTranslation": "cúrcuma",
+    "arTranslation": "كركم",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "cinnamon",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with cinnamon.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cinnamon/",
+    "frTranslation": "cannelle",
+    "esTranslation": "canela",
+    "arTranslation": "قرفة",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "nutmeg",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with nutmeg.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/nutmeg/",
+    "frTranslation": "muscade",
+    "esTranslation": "nuez moscada",
+    "arTranslation": "جوزة الطيب",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "paprika",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with paprika.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/paprika/",
+    "frTranslation": "paprika",
+    "esTranslation": "pimentón",
+    "arTranslation": "بابريكا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "cumin",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with cumin.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cumin/",
+    "frTranslation": "cumin",
+    "esTranslation": "comino",
+    "arTranslation": "كمون",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "cardamom",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with cardamom.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/cardamom/",
+    "frTranslation": "cardamome",
+    "esTranslation": "cardamomo",
+    "arTranslation": "هيل",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "saffron",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with saffron.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/saffron/",
+    "frTranslation": "safran",
+    "esTranslation": "azafrán",
+    "arTranslation": "زعفران",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "vanilla",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with vanilla.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/vanilla/",
+    "frTranslation": "vanille",
+    "esTranslation": "vainilla",
+    "arTranslation": "فانيليا",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "chili",
+    "meaning": "A herb or spice used to flavor food.",
+    "example": "Season the soup with chili.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/chili/",
+    "frTranslation": "piment",
+    "esTranslation": "chile/ají",
+    "arTranslation": "فلفل حار",
+    "level": "intermediateLevelOne",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "herb/spice"
+    ]
+  },
+  {
+    "text": "rice",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked rice for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/rice/",
+    "frTranslation": "riz",
+    "esTranslation": "arroz",
+    "arTranslation": "أرز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "bread",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked bread for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/bread/",
+    "frTranslation": "pain",
+    "esTranslation": "pan",
+    "arTranslation": "خبز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "pasta",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked pasta for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/pasta/",
+    "frTranslation": "pâtes",
+    "esTranslation": "pasta",
+    "arTranslation": "معكرونة",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "noodles",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked noodles for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/noodles/",
+    "frTranslation": "nouilles",
+    "esTranslation": "fideos",
+    "arTranslation": "نودلز",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  },
+  {
+    "text": "flour",
+    "meaning": "A staple grain or carbohydrate food.",
+    "example": "We cooked flour for dinner.",
+    "categoryId": "Food & Drinks",
+    "pronunciation": "/flour/",
+    "frTranslation": "farine",
+    "esTranslation": "harina",
+    "arTranslation": "دقيق",
+    "level": "beginnerLevelTwo",
+    "synonyms": [],
+    "antonyms": [],
+    "lexicalField": [
+      "Food & Drinks",
+      "grain"
+    ]
+  }
+]
