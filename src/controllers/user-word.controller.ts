@@ -65,7 +65,9 @@ export const getUserWords = async (req: Request, res: Response) => {
 
     const userWords = await UserWord.findAll({
       where: scope.where,
-      include: [Word],
+      include: [{
+        model: Word, as: 'word'
+      }],
     });
 
     return res.status(200).json(userWords);
@@ -90,7 +92,9 @@ export const getUserWordById = async (req: Request, res: Response) => {
 
     const userWord = await UserWord.findOne({
       where: { id, ...scope.where },
-      include: [Word],
+      include: [
+        { model: Word, as: 'word' }
+      ],
     });
 
     if (!userWord) {

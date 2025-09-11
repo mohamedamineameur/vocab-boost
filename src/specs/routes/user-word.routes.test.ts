@@ -12,7 +12,7 @@ import { createProfileFixture } from "../fixtures/profile.fixture.ts";
 
 
 
-describe.only("UserWord Routes", () => {
+describe("UserWord Routes", () => {
     describe("POST /user-words", () => {
        it(
   "should create a new user-word association",
