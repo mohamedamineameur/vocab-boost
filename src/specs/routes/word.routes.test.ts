@@ -5,6 +5,7 @@ import request from "supertest";
 import app from "../../app.ts";
 import { createCategoryFixture } from "../fixtures/category.fixture.ts";
 import { createWordFixture } from "../fixtures/word.fixture.ts";
+import { faker } from "@faker-js/faker";
 
 describe("Word Routes", () => {
     describe("POST /words", () => {
@@ -130,7 +131,8 @@ describe("Word Routes", () => {
         it("should return 404 for non-existing word", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
-            const res = await request(app).get(`/api/words/00000000-0000-0000-0000-000000000000`)
+            const fakeId = faker.string.uuid();
+            const res = await request(app).get(`/api/words/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("message", "Word not found");

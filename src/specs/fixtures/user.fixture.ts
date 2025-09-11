@@ -1,11 +1,12 @@
 import { User, UserAttributes } from "../../models/user.model.ts";
 import env from "../../config/env.ts";
 import bcrypt from "bcrypt";
+import { faker } from "@faker-js/faker";
 
 
 export const createUserFixture = async () => {
   const user= {
-    email: "test@example.com",
+    email: faker.internet.email(),
     password: bcrypt.hashSync("Password123@", env.SALT_ROUNDS || 10),
     firstname: "John",
     lastname: "Doe",

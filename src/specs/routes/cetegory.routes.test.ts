@@ -4,6 +4,7 @@ import {preTestSetup} from "../../config/pre-test.ts";
 import request from "supertest";
 import app from "../../app.ts";
 import { createCategoryFixture } from "../fixtures/category.fixture.ts";
+import { faker } from "@faker-js/faker";
 
 describe("Category Routes", () => {
     describe("POST /categories", () => {
@@ -131,8 +132,9 @@ describe("Category Routes", () => {
         it("should return 404 for non-existing category", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
+            const fakeId = faker.string.uuid();
 
-            const res = await request(app).get(`/api/categories/00000000-0000-0000-0000-000000000000`)
+            const res = await request(app).get(`/api/categories/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("message", "Category not found");

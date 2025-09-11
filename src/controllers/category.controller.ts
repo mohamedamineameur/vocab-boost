@@ -1,7 +1,8 @@
 import { Category } from "../models/category.model.ts";
 import { Request, Response } from "express";
-import { bodyValidator } from "../validations/bodyValidator.ts";
+import { bodyValidator, paramsValidator } from "../validations/bodyValidator.ts";
 import { categoryCreationSchema } from "../validations/category.schemas.ts";
+import { idParamSchema } from "../validations/params.schemas.ts";
 
 export const createCategory = async (req: Request, res: Response) => {
   try {
@@ -43,6 +44,10 @@ export const getCategories = async (req: Request, res: Response) => {
 export const getCategoryById = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
+    const error = paramsValidator(req.params, idParamSchema);
+    if (error.length > 0) {
+      return res.status(400).json({ error });
+    }
     const category = await Category.findByPk(id);
     if (!category) {
       return res.status(404).json({ message: "Category not found" });

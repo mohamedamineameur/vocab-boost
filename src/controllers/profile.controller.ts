@@ -1,13 +1,24 @@
 import { Profile } from "../models/profile.model.ts";
 import { Request, Response } from "express";
-import { bodyValidator } from "../validations/bodyValidator.ts";
+import { bodyValidator, bodyWithParamsValidator, paramsValidator } from "../validations/bodyValidator.ts";
 import { profileCreationSchema, updateProfileSchema } from "../validations/profile.schemas.ts";
+import { idParamSchema } from "../validations/params.schemas.ts";
+import { getScopeWhere } from "../middlewares/getScope.ts";
 
 export const createProfile = async (req: Request, res: Response) => {
   try {
     const error = bodyValidator(req.body, profileCreationSchema);
     if (error.length > 0) {
       return res.status(400).json({ error });
+    }
+
+    const scope = await getScopeWhere(req);
+    if (!scope) {
+      return res.status(401).json({ error: "Unauthorized" });
+    }
+
+    if (scope.user.id.toString() !== req.body.userId) {
+      return res.status(403).json({ error: "Forbidden" });
     }
 
     const { userId, local, theme } = req.body;
@@ -44,6 +55,10 @@ export const getProfiles = async (req: Request, res: Response) => {
 export const getProfileById = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
+    const error = paramsValidator(req.params, idParamSchema);
+    if (error.length > 0) {
+      return res.status(400).json({ error });
+    }
     const profile = await Profile.findByPk(id);
     if (!profile) {
       return res.status(404).json({ message: "Profile not found" });
@@ -56,7 +71,7 @@ export const getProfileById = async (req: Request, res: Response) => {
 }
 export const updateProfilePartialOrFull = async (req: Request, res: Response) => {
   try {
-    const error = bodyValidator(req.body, updateProfileSchema);
+    const error = bodyWithParamsValidator(req.body, updateProfileSchema, req.params, idParamSchema);
     if (error.length > 0) {
       return res.status(400).json({ error });
     }
@@ -82,6 +97,10 @@ export const updateProfilePartialOrFull = async (req: Request, res: Response) =>
 export const deleteProfile = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
+    const error = paramsValidator(req.params, idParamSchema);
+    if (error.length > 0) {
+      return res.status(400).json({ error });
+    }
     const profile = await Profile.findByPk(id);
     if (!profile) {
       return res.status(404).json({ message: "Profile not found" });

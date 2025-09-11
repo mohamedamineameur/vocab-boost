@@ -4,6 +4,7 @@ import {preTestSetup} from "../../config/pre-test.ts";
 import request from "supertest";
 import app from "../../app.ts";
 import { createProfileFixture } from "../fixtures/profile.fixture.ts";
+import { faker } from "@faker-js/faker";
 
 describe("Profile Routes", () => {
     describe("POST /profiles", () => {
@@ -23,6 +24,22 @@ describe("Profile Routes", () => {
             expect(res.body.message).to.equal("Profile created successfully");
       
         })
+        it("should not create a profile for another user", async () => {
+            await preTestSetup();
+            const { user, cookieValue } = await createSessionFixture();
+            const anotherUserId = faker.string.uuid();
+            const profileData = {
+                userId: anotherUserId,
+                local: "en",
+                theme: "light",
+            };
+            const res = await request(app)
+                .post("/api/profiles")
+                .set("Cookie", [`session=${cookieValue}`])
+                .send(profileData);
+            expect(res.status).to.equal(403);
+            expect(res.body).to.have.property("error", "Forbidden");
+        });
         it("should not create a profile with missing userId", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
@@ -125,8 +142,9 @@ describe("Profile Routes", () => {
         it("should return 404 if profile not found", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
+            const fakeId = faker.string.uuid();
             const res = await request(app)
-                .get("/api/profiles/00000000-0000-0000-0000-000000000000")
+                .get(`/api/profiles/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("message", "Profile not found");
@@ -165,8 +183,9 @@ describe("Profile Routes", () => {
                 local: "fr",
                 theme: "dark",
             };
+            const fakeId = faker.string.uuid();
             const res = await request(app)
-                .patch("/api/profiles/00000000-0000-0000-0000-000000000000")
+                .patch(`/api/profiles/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`])
                 .send(updateData);
             expect(res.status).to.equal(404);
@@ -210,8 +229,9 @@ describe("Profile Routes", () => {
         it("should return 404 if profile not found", async () => {
             await preTestSetup();
             const { cookieValue } = await createAdminSessionFixture();
+            const fakeId = faker.string.uuid();
             const res = await request(app)
-                .delete("/api/profiles/00000000-0000-0000-0000-000000000000")
+                .delete(`/api/profiles/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("message", "Profile not found");

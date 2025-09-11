@@ -7,7 +7,7 @@ import { Session } from "../../models/session.model.ts";
 export const createSessionFixture = async () => {
   const user = await User.create({
     email: "sessionuser@example.com",
-    password: bcrypt.hashSync("password123", env.SALT_ROUNDS || 10),
+    password: bcrypt.hashSync("Password123@", env.SALT_ROUNDS || 10),
     firstname: "Test",
     lastname: "Session",
     isVerified: true,

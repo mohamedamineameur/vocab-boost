@@ -37,6 +37,7 @@ Profile.init(
         model: User,
         key: 'id',
       },
+      unique: true,
       onDelete: 'CASCADE',
     },
     local: {
@@ -65,6 +66,3 @@ Profile.init(
     tableName: "profiles",
   }
 );
-
-Profile.belongsTo(User, { foreignKey: 'userId', as: 'user' });
-User.hasOne(Profile, { foreignKey: 'userId', as: 'profile' });
