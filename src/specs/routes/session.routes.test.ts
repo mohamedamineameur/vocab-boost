@@ -16,7 +16,7 @@ describe("Session Routes", () => {
                 password: "Password123@",
             });
             expect(res.status).to.equal(200);
-            expect(res.body).to.have.property("message", "Session created successfully");
+            expect(res.body.message).to.have.property("en", "Session created successfully");
             expect(res.headers).to.have.property("set-cookie");
         });
     });
@@ -29,7 +29,7 @@ describe("Session Routes", () => {
                 .delete("/api/sessions")
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(200);
-            expect(res.body).to.have.property("message", "Session destroyed successfully");
+            expect(res.body.message).to.have.property("en", "Session destroyed successfully");
         });
 
         it("should return 401 if session cookie is missing", async () => {
@@ -39,7 +39,7 @@ describe("Session Routes", () => {
                 .delete("/api/sessions");
 
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Session cookie missing");
+            expect(res.body.error).to.have.property("en", "Session cookie missing");
         });
 
         it("should return 401 if session token is invalid", async () => {
@@ -50,7 +50,7 @@ describe("Session Routes", () => {
                 .set("Cookie", "session=invalidtoken");
 
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Invalid session cookie format");
+            expect(res.body.error).to.have.property("en", "Invalid session cookie format");
         });
     });
 
@@ -75,7 +75,7 @@ describe("Session Routes", () => {
                 .get("/api/sessions/me");
 
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Session cookie missing");
+            expect(res.body.error).to.have.property("en", "Session cookie missing");
         });
 
         it("should return 401 if session token is invalid", async () => {
@@ -86,7 +86,7 @@ describe("Session Routes", () => {
                 .set("Cookie", "session=invalidtoken");
 
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Invalid session cookie format");
+            expect(res.body.error).to.have.property("en", "Invalid session cookie format");
         });
     });
 });

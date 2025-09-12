@@ -18,7 +18,7 @@ app.use(helmet());
 app.use(cors({
   origin: env.NODE_ENV === 'production'
     ? 'https://yourdomain.com'
-    : env.DOMAIN || 'http://localhost:3000',
+    : env.DOMAIN || 'http://localhost:5173',
   credentials: true,
 }));
 app.use(compression());

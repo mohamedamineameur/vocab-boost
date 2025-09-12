@@ -8,10 +8,6 @@ import { createWordFixture } from "../fixtures/word.fixture.ts";
 import { createUserWordFixture } from "../fixtures/user-word.fixture.ts";
 import { createProfileFixture } from "../fixtures/profile.fixture.ts";
 
-
-
-
-
 describe("UserWord Routes", () => {
     describe("POST /user-words", () => {
        it(
@@ -27,7 +23,7 @@ describe("UserWord Routes", () => {
       .set("Cookie", [`session=${cookieValue}`]);
 
     expect(res.status).to.equal(201);
-    expect(res.body).to.have.property("message", "UserWord created successfully");
+    expect(res.body.message).to.have.property("en", "UserWord created successfully");
     expect(res.body).to.have.property("userWord");
     expect(res.body.userWord).to.include({
       userId: user.id,
@@ -49,7 +45,7 @@ describe("UserWord Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("error", "Forbidden");
+            expect(res.body.error).to.have.property("en", "Forbidden");
         });
     
 
@@ -63,7 +59,7 @@ describe("UserWord Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res.status).to.equal(400);
-            expect(res.body).to.have.property("error", "Invalid wordId");
+            expect(res.body.error).to.have.property("en", "Invalid wordId");
         });
 
         it("should not create a duplicate user-word association", async () => {
@@ -79,7 +75,7 @@ describe("UserWord Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res2.status).to.equal(400);
-            expect(res2.body).to.have.property("error", "This word is already associated with the user");
+            expect(res2.body.error).to.have.property("en", "This word is already associated with the user");
         });
 
         it("should return 401 if not authenticated", async () => {
@@ -91,7 +87,7 @@ describe("UserWord Routes", () => {
                 .post(`/api/user-words/${fakeId}/${word.id}`);
 
             expect(res.status).to.equal(401);
-            expect(res.body.message).to.equal("Authentication required");
+            expect(res.body.error.en).to.equal("Authentication required");
         });
     });
     describe("GET /user-words", () => {
@@ -138,7 +134,7 @@ describe("UserWord Routes", () => {
                 .get("/api/user-words");
 
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     });
     describe("GET /user-words/:id", () => {
@@ -181,7 +177,7 @@ describe("UserWord Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res.status).to.equal(404);
-            expect(res.body).to.have.property("error", "UserWord not found");
+            expect(res.body.error).to.have.property("en", "UserWord not found");
         });
         it("should return 401 if not authenticated", async () => {
             await preTestSetup();
@@ -190,7 +186,7 @@ describe("UserWord Routes", () => {
                 .get(`/api/user-words/${userWord.id}`);
 
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     
         it("should return 404 if its not the user's user-word", async () => {
@@ -203,7 +199,7 @@ describe("UserWord Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res.status).to.equal(404);
-            expect(res.body).to.have.property("error", "UserWord not found");
+            expect(res.body.error).to.have.property("en", "UserWord not found");
         });
     });
 

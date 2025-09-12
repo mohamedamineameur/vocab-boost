@@ -27,7 +27,7 @@ describe("Quiz Routes", () => {
             const res = await request(app)
                 .get("/api/quizzes");
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     });
 
@@ -44,7 +44,7 @@ describe("Quiz Routes", () => {
                 .send({ areUserAnswersCorrect: true });
 
             expect(res.status).to.equal(200);
-            expect(res.body).to.have.property("message", "Quiz mis à jour avec succès");
+            expect(res.body.message).to.have.property("fr", "Quiz mis à jour avec succès");
             expect(res.body).to.have.property("quiz");
             expect(res.body.quiz).to.have.property("id", quiz.id);
             expect(res.body.quiz.correctAnswer).to.include(quiz.correctAnswer);

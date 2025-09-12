@@ -14,11 +14,11 @@ export const createProfile = async (req: Request, res: Response) => {
 
     const scope = await getScopeWhere(req);
     if (!scope) {
-      return res.status(401).json({ error: "Unauthorized" });
+      return res.status(401).json({ error: { en: "Unauthorized", fr: "Non autorisé", es: "No autorizado", ar: "غير مصرح" } });
     }
 
     if (scope.user.id.toString() !== req.body.userId) {
-      return res.status(403).json({ error: "Forbidden" });
+      return res.status(403).json({ error: { en: "Forbidden", fr: "Interdit", es: "Prohibido", ar: "محظور" } });
     }
 
     const { userId, local, theme } = req.body;
@@ -26,7 +26,7 @@ export const createProfile = async (req: Request, res: Response) => {
     // Check if profile already exists for the user
     const existingProfile = await Profile.findOne({ where: { userId } });
     if (existingProfile) {
-      return res.status(400).json({ error: "Profile already exists for this user" });
+      return res.status(400).json({ error: { en: "Profile already exists for this user", fr: "Le profil existe déjà pour cet utilisateur", es: "El perfil ya existe para este usuario", ar: "يوجد ملف تعريف بالفعل لهذا المستخدم" } });
     }
 
     const newProfile = await Profile.create({
@@ -35,10 +35,10 @@ export const createProfile = async (req: Request, res: Response) => {
       theme: theme || 'light',
     });
 
-    res.status(201).json({ message: "Profile created successfully", profileId: newProfile.id });
+    res.status(201).json({ message: { en: "Profile created successfully", fr: "Profil créé avec succès", es: "Perfil creado con éxito", ar: "تم إنشاء الملف الشخصي بنجاح" }, profileId: newProfile.id });
   } catch (error) {
     console.error("Error creating profile:", error);
-    res.status(500).json({ message: "Internal server error" });
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
   }
 };
 
@@ -48,7 +48,7 @@ export const getProfiles = async (req: Request, res: Response) => {
     res.status(200).json(profiles);
   } catch (error) {
     console.error("Error fetching profiles:", error);
-    res.status(500).json({ message: "Internal server error" });
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
   }
 };
 
@@ -61,12 +61,12 @@ export const getProfileById = async (req: Request, res: Response) => {
     }
     const profile = await Profile.findByPk(id);
     if (!profile) {
-      return res.status(404).json({ message: "Profile not found" });
+      return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
     }
     res.status(200).json(profile);
   } catch (error) {
     console.error("Error fetching profile:", error);
-    res.status(500).json({ message: "Internal server error" });
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
   }
 }
 export const updateProfilePartialOrFull = async (req: Request, res: Response) => {
@@ -80,17 +80,17 @@ export const updateProfilePartialOrFull = async (req: Request, res: Response) =>
 
     const profile = await Profile.findByPk(id);
     if (!profile) {
-      return res.status(404).json({ message: "Profile not found" });
+      return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
     }
 
     if (local !== undefined) profile.local = local;
     if (theme !== undefined) profile.theme = theme;
 
     await profile.save();
-    res.status(200).json({ message: "Profile updated successfully", profile });
+    res.status(200).json({ message: { en: "Profile updated successfully", fr: "Profil mis à jour avec succès", es: "Perfil actualizado con éxito", ar: "تم تحديث الملف الشخصي بنجاح" }, profile });
   } catch (error) {
     console.error("Error updating profile:", error);
-    res.status(500).json({ message: "Internal server error" });
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
   }
 };
 
@@ -103,12 +103,12 @@ export const deleteProfile = async (req: Request, res: Response) => {
     }
     const profile = await Profile.findByPk(id);
     if (!profile) {
-      return res.status(404).json({ message: "Profile not found" });
+      return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
     }
     await profile.destroy();
-    res.status(200).json({ message: "Profile deleted successfully" });
+    res.status(200).json({ message: { en: "Profile deleted successfully", fr: "Profil supprimé avec succès", es: "Perfil eliminado con éxito", ar: "تم حذف الملف الشخصي بنجاح" } });
   } catch (error) {
     console.error("Error deleting profile:", error);
-    res.status(500).json({ message: "Internal server error" });
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
   }
 }

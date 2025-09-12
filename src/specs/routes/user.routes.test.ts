@@ -23,7 +23,7 @@ describe("User Routes", () => {
 
             const res = await request(app).post("/api/users").send(newUser);
             expect(res.status).to.equal(201);
-            expect(res.body.message).to.equal("User created successfully");
+            expect(res.body.message.en).to.equal("User created successfully");
         });
 
         it("should not create a user with an existing email", async () => {
@@ -39,7 +39,7 @@ describe("User Routes", () => {
             });
             expect(res.status).to.equal(400);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User already exists");
+            expect(res.body.error.en).to.equal("User already exists");
         });
         it("should not create a user if password confirmation does not match", async () => {
             await preTestSetup();
@@ -52,7 +52,7 @@ describe("User Routes", () => {
             });
             expect(res.status).to.equal(400);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("Password confirmation does not match");
+            expect(res.body.error.en).to.equal("Password confirmation does not match");
         });
         it("should return 400 for invalid request body", async () => {
             await preTestSetup();
@@ -90,7 +90,7 @@ describe("User Routes", () => {
             const res = await request(app).get("/api/users")                .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("message", "Admin access required");
+            expect(res.body.error).to.have.property("en", "Admin access required");
         });
 
         it("should return 401 if not authenticated", async () => {
@@ -98,7 +98,7 @@ describe("User Routes", () => {
 
             const res = await request(app).get("/api/users");
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     });
 
@@ -121,7 +121,7 @@ describe("User Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User not found");
+            expect(res.body.error.en).to.equal("User not found");
         });
         it("should return 400 for invalid user ID format", async () => {
             await preTestSetup();
@@ -144,7 +144,7 @@ describe("User Routes", () => {
             const res = await request(app).delete(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User deleted successfully");
+            expect(res.body.message.en).to.equal("User deleted successfully");
 
             const getRes = await request(app).get(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
@@ -159,7 +159,7 @@ describe("User Routes", () => {
             const res = await request(app).delete(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("message", "Admin access required");
+            expect(res.body.error).to.have.property("en", "Admin access required");
         });
 
         it("should return 404 when deleting a non-existing user", async () => {
@@ -170,7 +170,7 @@ describe("User Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User not found");
+            expect(res.body.error.en).to.equal("User not found");
         });
     });
 
@@ -187,7 +187,7 @@ describe("User Routes", () => {
                     lastname: "User",
             });
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User updated successfully");
+            expect(res.body.message.en).to.equal("User updated successfully");
 
             const updatedRes = await request(app).get(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
@@ -209,7 +209,7 @@ describe("User Routes", () => {
                     lastname: "User",
                 });
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User updated successfully");
+            expect(res.body.message.en).to.equal("User updated successfully");
 
             const updatedRes = await request(app).get(`/api/users/${userToBeUpdated.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
@@ -245,7 +245,7 @@ describe("User Routes", () => {
                 });
             expect(res.status).to.equal(400);
             expect(res.body).to.have.property("error"); 
-            expect(res.body.error).to.equal("Old password is incorrect");
+            expect(res.body.error.en).to.equal("Old password is incorrect");
         });
 
         it("should return 400 if new password confirmation does not match", async () => {
@@ -260,8 +260,8 @@ describe("User Routes", () => {
                     passwordConfirmation: "DifferentNewPassword123@",
                 });
             expect(res.status).to.equal(400);
-            expect(res.body).to.have.property("error"); 
-            expect(res.body.error).to.equal("New password confirmation does not match");
+            expect(res.body).to.have.property("error");
+            expect(res.body.error.en).to.equal("New password confirmation does not match");
         });
 
         it("should change the user's password", async () => {
@@ -276,7 +276,7 @@ describe("User Routes", () => {
                     passwordConfirmation: "NewPassword123@",
                 });
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User updated successfully");
+            expect(res.body.message.en).to.equal("User updated successfully");
         });
     });
 });
