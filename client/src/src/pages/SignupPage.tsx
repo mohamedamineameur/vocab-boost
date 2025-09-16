@@ -1,8 +1,11 @@
 import { useState } from "react";
 import { createUser } from "../../services/user.services";
 import { Mail, Lock, User, CheckCircle, XCircle, Loader2, Eye, EyeOff } from "lucide-react";
+import { useTranslate } from "../contexts/TranslateContext"; // 🔑 intégration du contexte
 
 export default function SignupPage() {
+  const { t, language } = useTranslate(); // 🔑 accès aux traductions
+
   const [form, setForm] = useState({
     firstname: "",
     lastname: "",
@@ -14,11 +17,10 @@ export default function SignupPage() {
   const [error, setError] = useState<string | null>(null);
   const [success, setSuccess] = useState(false);
 
-  // 👁️ toggle affichage password
   const [showPassword, setShowPassword] = useState(false);
   const [showPasswordConfirm, setShowPasswordConfirm] = useState(false);
 
-  // Validation helpers
+  // Validation
   const emailValid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email);
 
   const passwordRules = {
@@ -29,8 +31,7 @@ export default function SignupPage() {
     match: form.password && form.password === form.passwordConfirmation,
   };
 
-  const isFormValid =
-    emailValid && Object.values(passwordRules).every(Boolean);
+  const isFormValid = emailValid && Object.values(passwordRules).every(Boolean);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setForm({ ...form, [e.target.name]: e.target.value });
@@ -42,7 +43,7 @@ export default function SignupPage() {
     setError(null);
 
     if (!isFormValid) {
-      setError("⚠️ Veuillez corriger les erreurs avant de continuer.");
+      setError(t("form.errorBeforeContinue")); // 🔑 traduction
       setLoading(false);
       return;
     }
@@ -51,30 +52,30 @@ export default function SignupPage() {
       await createUser(form);
       setSuccess(true);
     } catch (err: any) {
-      let message = "Une erreur est survenue";
+  let message = t("form.genericError");
 
-      if (err.response?.data) {
-        const data = err.response.data;
-        if (typeof data === "string") {
-          message = data;
-        } else if (data.message) {
-          message = data.message;
-        } else if (data.error) {
-          message = data.error;
-        } else if (Array.isArray(data.errors)) {
-          message = data.errors.join(", ");
-        }
-      } else if (err.message) {
-        message = err.message;
-      }
+  if (err.response?.data) {
+    const data = err.response.data;
+    if (typeof data === "string") {
+      message = data;
+    } else if (data.message) {
+      message = data.message[language] || data.message.en || data.message;
+    } else if (data.error) {
+      message = data.error[language] || data.error.en || data.error;
+    } else if (Array.isArray(data.errors)) {
+      message = data.errors.join(", ");
+    }
+  } else if (err.message) {
+    message = err.message;
+  }
 
-      setError(message);
-    } finally {
+  setError(message);
+}
+ finally {
       setLoading(false);
     }
   };
 
-  // fonction helper pour appliquer rouge si erreur
   const getInputClasses = (valid: boolean) =>
     `peer w-full pl-10 pr-12 pt-5 pb-2 border rounded-2xl text-[#111827] bg-white/60 focus:bg-white transition-all outline-none ${
       valid ? "border-gray-300 focus:ring-2 focus:ring-[#3B82F6]" : "border-red-500 focus:ring-2 focus:ring-red-500"
@@ -85,168 +86,78 @@ export default function SignupPage() {
       {/* Hero */}
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white drop-shadow-lg">
-          🚀 Apprends l’anglais en t’amusant
+          🚀 {t("signup.heroTitle")}
         </h1>
-        <p className="text-white/90 mt-2 text-lg">
-          Rejoins une communauté motivante et atteins tes objectifs 🎯
-        </p>
+        <p className="text-white/90 mt-2 text-lg">{t("signup.heroSubtitle")}</p>
       </div>
 
       {/* Signup Card */}
       <div className="w-full max-w-md bg-white/80 backdrop-blur-xl shadow-2xl rounded-3xl p-8 border border-white/40">
         <h2 className="text-2xl font-bold text-[#111827] text-center mb-6">
-          Créer un compte
+          {t("signup.createAccount")}
         </h2>
 
         <form onSubmit={handleSubmit} className="space-y-5">
           {/* Prénom */}
-          <div className="relative group">
-            <User className="absolute left-3 top-3 text-gray-400" size={20} />
-            <input
-              type="text"
-              name="firstname"
-              placeholder=" "
-              value={form.firstname}
-              onChange={handleChange}
-              required
-              className={getInputClasses(!!form.firstname)}
-            />
-            <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Prénom
-            </label>
-          </div>
+          <InputField
+            icon={<User size={20} className="text-gray-400" />}
+            name="firstname"
+            value={form.firstname}
+            onChange={handleChange}
+            label={t("form.firstname")}
+            valid={!!form.firstname}
+          />
 
           {/* Nom */}
-          <div className="relative group">
-            <User className="absolute left-3 top-3 text-gray-400" size={20} />
-            <input
-              type="text"
-              name="lastname"
-              placeholder=" "
-              value={form.lastname}
-              onChange={handleChange}
-              required
-              className={getInputClasses(!!form.lastname)}
-            />
-            <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Nom
-            </label>
-          </div>
+          <InputField
+            icon={<User size={20} className="text-gray-400" />}
+            name="lastname"
+            value={form.lastname}
+            onChange={handleChange}
+            label={t("form.lastname")}
+            valid={!!form.lastname}
+          />
 
           {/* Email */}
-          <div className="relative group">
-            <Mail className="absolute left-3 top-3 text-gray-400" size={20} />
-            <input
-              type="email"
-              name="email"
-              placeholder=" "
-              value={form.email}
-              onChange={handleChange}
-              required
-              className={getInputClasses(emailValid)}
-            />
-            <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Email
-            </label>
-          </div>
+          <InputField
+            icon={<Mail size={20} className="text-gray-400" />}
+            type="email"
+            name="email"
+            value={form.email}
+            onChange={handleChange}
+            label={t("form.email")}
+            valid={emailValid}
+          />
 
           {/* Password */}
-          <div className="relative group">
-            <Lock className="absolute left-3 top-3 text-gray-400" size={20} />
-            <input
-              type={showPassword ? "text" : "password"}
-              name="password"
-              placeholder=" "
-              value={form.password}
-              onChange={handleChange}
-              required
-              className={getInputClasses(passwordRules.length && passwordRules.uppercase && passwordRules.number && passwordRules.special)}
-            />
-            <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Mot de passe
-            </label>
-            {/* 👁️ toggle button */}
-            <button
-              type="button"
-              onClick={() => setShowPassword(!showPassword)}
-              className="absolute right-3 top-3 text-gray-400 hover:text-[#111827] transition"
-            >
-              {showPassword ? <EyeOff size={20} /> : <Eye size={20} />}
-            </button>
-          </div>
+          <PasswordField
+            name="password"
+            value={form.password}
+            onChange={handleChange}
+            label={t("form.password")}
+            show={showPassword}
+            toggle={() => setShowPassword(!showPassword)}
+            valid={passwordRules.length && passwordRules.uppercase && passwordRules.number && passwordRules.special}
+          />
 
-          {/* Password confirmation */}
-          <div className="relative group">
-            <Lock className="absolute left-3 top-3 text-gray-400" size={20} />
-            <input
-              type={showPasswordConfirm ? "text" : "password"}
-              name="passwordConfirmation"
-              placeholder=" "
-              value={form.passwordConfirmation}
-              onChange={handleChange}
-              required
-              className={getInputClasses(passwordRules.match)}
-            />
-            <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Confirmer le mot de passe
-            </label>
-            {/* 👁️ toggle button */}
-            <button
-              type="button"
-              onClick={() => setShowPasswordConfirm(!showPasswordConfirm)}
-              className="absolute right-3 top-3 text-gray-400 hover:text-[#111827] transition"
-            >
-              {showPasswordConfirm ? <EyeOff size={20} /> : <Eye size={20} />}
-            </button>
-          </div>
+          {/* Confirm Password */}
+          <PasswordField
+            name="passwordConfirmation"
+            value={form.passwordConfirmation}
+            onChange={handleChange}
+            label={t("form.passwordConfirm")}
+            show={showPasswordConfirm}
+            toggle={() => setShowPasswordConfirm(!showPasswordConfirm)}
+            valid={!!passwordRules.match}
+          />
 
-          {/* Email Helper */}
-          <div className="space-y-1 text-sm">
-            <p className="font-medium text-[#111827]">📧 Vérification de l’email :</p>
-            <div className="flex items-center gap-2">
-              {emailValid ? (
-                <CheckCircle size={16} className="text-[#22C55E]" />
-              ) : (
-                <XCircle size={16} className="text-red-500" />
-              )}
-              <span className={emailValid ? "text-[#22C55E]" : "text-red-500"}>
-                Doit être un email valide (ex: nom@domaine.com)
-              </span>
-            </div>
-          </div>
+          {/* Helpers */}
+          <EmailHelper emailValid={emailValid} t={t} />
+          <PasswordHelper rules={passwordRules} t={t} />
 
-          {/* Password Helpers */}
-          <div className="space-y-1 text-sm">
-            <p className="font-medium text-[#111827]">🔒 Votre mot de passe doit contenir :</p>
-            {[
-              { key: "length", label: "Au moins 12 caractères" },
-              { key: "uppercase", label: "Une majuscule" },
-              { key: "number", label: "Un chiffre" },
-              { key: "special", label: "Un caractère spécial" },
-              { key: "match", label: "Les deux mots de passe doivent correspondre" },
-            ].map(({ key, label }) => {
-              const valid = passwordRules[key as keyof typeof passwordRules];
-              const Icon = valid ? CheckCircle : XCircle;
-              return (
-                <div key={key} className="flex items-center gap-2">
-                  <Icon size={16} className={valid ? "text-[#22C55E]" : "text-red-500"} />
-                  <span className={valid ? "text-[#22C55E]" : "text-red-500"}>{label}</span>
-                </div>
-              );
-            })}
-          </div>
-
-          {/* Error & Success */}
-          {error && (
-            <div className="bg-red-100 text-red-600 text-sm font-medium px-4 py-2 rounded-xl text-center shadow">
-              ❌ {error}
-            </div>
-          )}
-          {success && (
-            <div className="bg-green-100 text-green-600 text-sm font-medium px-4 py-2 rounded-xl text-center shadow">
-              ✅ Compte créé avec succès !
-            </div>
-          )}
+          {/* Messages */}
+          {error && <Alert type="error" message={error} />}
+          {success && <Alert type="success" message={t("form.success")} />}
 
           {/* Bouton */}
           <button
@@ -257,21 +168,130 @@ export default function SignupPage() {
             {loading ? (
               <>
                 <Loader2 size={20} className="animate-spin" />
-                Création...
+                {t("form.loading")}
               </>
             ) : (
-              "S'inscrire"
+              t("form.submit")
             )}
           </button>
         </form>
 
         <p className="text-sm text-gray-600 text-center mt-6">
-          Déjà un compte ?{" "}
+          {t("signup.haveAccount")}{" "}
           <a href="/login" className="text-[#3B82F6] font-semibold hover:underline">
-            Se connecter
+            {t("signup.login")}
           </a>
         </p>
       </div>
+    </div>
+  );
+}
+
+/* ----------- Composants réutilisables ----------- */
+function InputField({ icon, name, value, onChange, label, valid, type = "text" }: any) {
+  const getClasses = (valid: boolean) =>
+    `peer w-full pl-10 pr-12 pt-5 pb-2 border rounded-2xl text-[#111827] bg-white/60 focus:bg-white transition-all outline-none ${
+      valid ? "border-gray-300 focus:ring-2 focus:ring-[#3B82F6]" : "border-red-500 focus:ring-2 focus:ring-red-500"
+    }`;
+  return (
+    <div className="relative group">
+      <span className="absolute left-3 top-3">{icon}</span>
+      <input
+        type={type}
+        name={name}
+        placeholder=" "
+        value={value}
+        onChange={onChange}
+        required
+        className={getClasses(valid)}
+      />
+      <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
+        {label}
+      </label>
+    </div>
+  );
+}
+
+function PasswordField({ name, value, onChange, label, valid, show, toggle }: any) {
+  return (
+    <div className="relative group">
+      <Lock className="absolute left-3 top-3 text-gray-400" size={20} />
+      <input
+        type={show ? "text" : "password"}
+        name={name}
+        placeholder=" "
+        value={value}
+        onChange={onChange}
+        required
+        className={`peer w-full pl-10 pr-12 pt-5 pb-2 border rounded-2xl text-[#111827] bg-white/60 focus:bg-white transition-all outline-none ${
+          valid ? "border-gray-300 focus:ring-2 focus:ring-[#3B82F6]" : "border-red-500 focus:ring-2 focus:ring-red-500"
+        }`}
+      />
+      <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
+        {label}
+      </label>
+      <button
+        type="button"
+        onClick={toggle}
+        className="absolute right-3 top-3 text-gray-400 hover:text-[#111827] transition"
+      >
+        {show ? <EyeOff size={20} /> : <Eye size={20} />}
+      </button>
+    </div>
+  );
+}
+
+function Alert({ type, message }: { type: "error" | "success"; message: string }) {
+  const colors =
+    type === "error"
+      ? "bg-red-100 text-red-600"
+      : "bg-green-100 text-green-600";
+  return (
+    <div className={`${colors} text-sm font-medium px-4 py-2 rounded-xl text-center shadow`}>
+      {message}
+    </div>
+  );
+}
+
+function EmailHelper({ emailValid, t }: any) {
+  return (
+    <div className="space-y-1 text-sm">
+      <p className="font-medium text-[#111827]">{t("form.emailCheck")} :</p>
+      <div className="flex items-center gap-2">
+        {emailValid ? (
+          <CheckCircle size={16} className="text-[#22C55E]" />
+        ) : (
+          <XCircle size={16} className="text-red-500" />
+        )}
+        <span className={emailValid ? "text-[#22C55E]" : "text-red-500"}>
+          {t("form.emailRule")}
+        </span>
+      </div>
+    </div>
+  );
+}
+
+function PasswordHelper({ rules, t }: any) {
+  const helpers = [
+    { key: "length", label: t("form.passwordLength") },
+    { key: "uppercase", label: t("form.passwordUppercase") },
+    { key: "number", label: t("form.passwordNumber") },
+    { key: "special", label: t("form.passwordSpecial") },
+    { key: "match", label: t("form.passwordMatch") },
+  ];
+  return (
+    <div className="space-y-1 text-sm">
+      <p className="font-medium text-[#111827]">{t("form.passwordCheck")} :</p>
+      {helpers.map(({ key, label }) => {
+        const valid = rules[key as keyof typeof rules];
+        const Icon = valid ? CheckCircle : XCircle;
+        return (
+          <div key={key} className="flex items-center gap-2">
+            <Icon size={16} className={valid ? "text-[#22C55E]" : "text-red-500"} />
+            <span className={valid ? "text-[#22C55E]" : "text-red-500"}>{label}</span>
+          </div>
+        );
+      })}
     </div>
   );
 }

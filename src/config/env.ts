@@ -17,6 +17,7 @@ interface EnvConfig {
   DB_USER: string;
   DB_PASSWORD: string;
   GPT_API_KEY?: string;
+  DOMAIN2?:string;
 }
 
 const getEnv = (): EnvConfig => {
@@ -46,6 +47,7 @@ const getEnv = (): EnvConfig => {
     DB_USER: process.env.DB_USER || "postgres",
     DB_PASSWORD: process.env.DB_PASSWORD || "postgres",
     GPT_API_KEY: process.env.GPT_API_KEY || undefined,
+    DOMAIN2: process.env.DOMAIN2 || undefined
   };
 };
 

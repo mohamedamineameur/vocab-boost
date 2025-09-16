@@ -10,3 +10,34 @@ export const loginUser = async (email: string, password: string) => {
   const response = await api.post("/sessions", { email, password });
   return response.data;
 }
+
+export const me = async()=>{
+    const response = await api.get("/sessions/me");
+  return response.data;
+
+}
+
+export const destroySession= async()=>{
+    const response = await api.delete("/sessions");
+    return response.data;
+}
+
+export const getUsers = async () => {
+  const response = await api.get("/users");
+  return response.data;
+};
+
+export const getUserById = async (id: string) => {
+  const response = await api.get(`/users/${id}`);
+  return response.data;
+};
+
+export const updateUser = async (id: string, userData: Partial<UserCreationAttributes>) => {
+  const response = await api.patch(`/users/${id}`, userData);
+  return response.data;
+};
+
+export const deleteUser = async (id: string) => {
+  const response = await api.delete(`/users/${id}`);
+  return response.data;
+};

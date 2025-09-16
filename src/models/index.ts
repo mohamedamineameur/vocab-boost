@@ -6,6 +6,7 @@ import { Word } from "./word.model.ts";
 import Quiz from "./quiz.model.ts";
 import { UserWord } from "./user-word.model.ts";
 import database from "../config/database.ts";
+import { UserCategory } from "./user-category.model.ts";
 
 function initModels() {
   // ========================
@@ -43,6 +44,17 @@ function initModels() {
   // ========================
   UserWord.belongsTo(Word, { foreignKey: "wordId", as: "word" });
   Word.hasMany(UserWord, { foreignKey: "wordId", as: "userWords" });
+  // ========================
+  // UserCaregory ↔ User
+  // ========================
+  UserCategory.belongsTo(User, { foreignKey: "userId", as: "owner" })
+  User.hasMany(UserCategory,{ foreignKey: "userId", as: "userCategories" })
+// ========================
+  // UserCategory ↔ Category
+  // ========================
+  UserCategory.belongsTo(Category,{ foreignKey: "categoryId", as: "category" })
+  Category.hasMany(UserCategory,{ foreignKey: "categoryId", as: "userCategories" })
+
 }
 
 export {

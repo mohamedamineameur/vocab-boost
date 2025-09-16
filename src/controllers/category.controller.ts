@@ -3,7 +3,6 @@ import { Request, Response } from "express";
 import { bodyValidator, paramsValidator } from "../validations/bodyValidator.ts";
 import { categoryCreationSchema } from "../validations/category.schemas.ts";
 import { idParamSchema } from "../validations/params.schemas.ts";
-import { ar, es } from "@faker-js/faker";
 
 export const createCategory = async (req: Request, res: Response) => {
   try {
@@ -12,7 +11,7 @@ export const createCategory = async (req: Request, res: Response) => {
       return res.status(400).json({ error });
     }
 
-    const { name, description } = req.body;
+    const { name, description, frTranslation, esTranslation, arTranslation } = req.body;
 
     // Check if category with the same name already exists
     const existingCategory = await Category.findOne({ where: { name } });
@@ -23,6 +22,9 @@ export const createCategory = async (req: Request, res: Response) => {
     const newCategory = await Category.create({
       name,
       description,
+      frTranslation,
+      esTranslation,
+      arTranslation
     });
 
     res.status(201).json({ message: { en: "Category created successfully", fr: "Catégorie créée avec succès", es: "Categoría creada con éxito", ar: "تم إنشاء الفئة بنجاح" }, categoryId: newCategory.id });

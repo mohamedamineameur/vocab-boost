@@ -6,9 +6,21 @@ import bcrypt from "bcrypt";
 import { bodyValidator } from "../validations/bodyValidator.ts";
 import { sessionCreationSchema } from "../validations/session.schemas.ts";
 import crypto from "crypto";
+import e from "express";
 
 export const createSession = async (req: Request, res: Response) => {
   try {
+       const cookie = req.cookies?.session;
+    if (cookie) {
+      const [sessionId] = cookie.split(":");
+      const existingSession = await Session.findByPk(sessionId);
+      if (existingSession) {
+        existingSession.destroy();
+      }
+    }
+
+
+    
     const error = bodyValidator(req.body, sessionCreationSchema);
     if (error.length > 0) {
       return res.status(400).json({ error });
@@ -39,13 +51,16 @@ const session = await Session.create({
     userAgent,
  });
 
-
 res.cookie("session", `${session.id}:${token}`, {
   httpOnly: true,
-  secure: env.NODE_ENV === "production",
-  sameSite: "strict",
+  secure: false,          // pas de HTTPS → obligé
+  sameSite: "lax",        // ⚡ obligatoire en HTTP sinon rejet
   maxAge: sessionExpiration * 3600000,
 });
+
+
+
+
 
     return res.status(200).json({ message: { en: "Session created successfully", fr: "Session créée avec succès", es: "Sesión creada con éxito", ar: "تم إنشاء الجلسة بنجاح" } });
   } catch (error) {

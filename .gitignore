@@ -6,3 +6,6 @@ dist/
 init-multiple-dbs.sh
 node_modules/
 
+*.key
+*.pem
+*.crt

@@ -6,7 +6,7 @@ import app from "../../app.ts";
 import { createCategoryFixture } from "../fixtures/category.fixture.ts";
 import { faker } from "@faker-js/faker";
 
-describe("Category Routes", () => {
+describe.only("Category Routes", () => {
     describe("POST /categories", () => {
         it("should create a new category", async () => {
             await preTestSetup();
@@ -14,6 +14,9 @@ describe("Category Routes", () => {
             const categoryData = {
                 name: "Electronics",
                 description: "Devices and gadgets",
+                frTranslation: "Électronique",
+                esTranslation: "Electrónica",
+                arTranslation: "إلكترونيات"
             };
             const res = await request(app)
                 .post("/api/categories")
@@ -48,6 +51,9 @@ describe("Category Routes", () => {
                 .send({
                     name: existingCategory.name,
                     description: "All kinds of books",
+                    frTranslation: "Livres",
+                    esTranslation: "Libros",
+                    arTranslation: "كتب"
                 });
             expect(res.status).to.equal(400);
             expect(res.body.error).to.have.property("en", "Category with this name already exists");

@@ -1,7 +1,5 @@
 // middlewares/isAuthenticated.ts
 import { Request, Response, NextFunction } from "express";
-import jwt from "jsonwebtoken";
-import env from "../config/env.ts";
 import { User } from "../models/user.model.ts";
 import { Session } from "../models/session.model.ts";
 import bcrypt from "bcrypt";

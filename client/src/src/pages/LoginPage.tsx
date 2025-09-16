@@ -1,22 +1,84 @@
 import { useState } from "react";
-import { loginUser } from "../../services/user.services"; // 👉 ton API de login
+import { loginUser } from "../../services/user.services";
 import { Mail, Lock, Loader2, Eye, EyeOff } from "lucide-react";
+import { useTranslate } from "../contexts/TranslateContext";
+import { useNavigate } from "react-router-dom";
+import { useAuth } from "../contexts/AuthContext";
+
+// ✅ Clés de traduction locales à ce composant
+const loginTranslations = {
+  fr: {
+    heroTitle: "🔑 Bienvenue de retour !",
+    heroSubtitle: "Connecte-toi pour continuer ton apprentissage 📚",
+    title: "Connexion",
+    email: "Email",
+    password: "Mot de passe",
+    button: "Se connecter",
+    loading: "Connexion...",
+    error: "Une erreur est survenue",
+    success: "✅ Connexion réussie !",
+    noAccount: "Pas encore de compte ?",
+    signup: "S'inscrire"
+  },
+  en: {
+    heroTitle: "🔑 Welcome back!",
+    heroSubtitle: "Log in to continue your learning 📚",
+    title: "Login",
+    email: "Email",
+    password: "Password",
+    button: "Log in",
+    loading: "Logging in...",
+    error: "An error occurred",
+    success: "✅ Successfully logged in!",
+    noAccount: "Don't have an account?",
+    signup: "Sign up"
+  },
+  ar: {
+    heroTitle: "🔑 مرحباً بعودتك!",
+    heroSubtitle: "سجّل الدخول لمواصلة تعلمك 📚",
+    title: "تسجيل الدخول",
+    email: "البريد الإلكتروني",
+    password: "كلمة المرور",
+    button: "تسجيل الدخول",
+    loading: "جاري تسجيل الدخول...",
+    error: "حدث خطأ ما",
+    success: "✅ تم تسجيل الدخول بنجاح!",
+    noAccount: "ليس لديك حساب؟",
+    signup: "إنشاء حساب"
+  },
+  es: {
+    heroTitle: "🔑 ¡Bienvenido de nuevo!",
+    heroSubtitle: "Inicia sesión para continuar tu aprendizaje 📚",
+    title: "Iniciar sesión",
+    email: "Correo electrónico",
+    password: "Contraseña",
+    button: "Iniciar sesión",
+    loading: "Conectando...",
+    error: "Ocurrió un error",
+    success: "✅ ¡Inicio de sesión exitoso!",
+    noAccount: "¿No tienes una cuenta?",
+    signup: "Regístrate"
+  }
+};
 
 export default function LoginPage() {
-  const [form, setForm] = useState({
-    email: "",
-    password: "",
-  });
+  const navigate = useNavigate()
+  const { language } = useTranslate(); // 🔑 on récupère la langue actuelle
+  const t = (key: keyof typeof loginTranslations["fr"]) =>
+    loginTranslations[language][key] || loginTranslations.en[key];
+
+  const [form, setForm] = useState({ email: "", password: "" });
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [success, setSuccess] = useState(false);
-  const [showPassword, setShowPassword] = useState(false); // 👁️ état pour afficher/masquer
+  const [showPassword, setShowPassword] = useState(false);
+  const {refreshUser}=useAuth()
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
+ const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
     setError(null);
@@ -24,17 +86,23 @@ export default function LoginPage() {
     try {
       await loginUser(form.email, form.password);
       setSuccess(true);
+refreshUser()
+      // 🚀 Redirection après succès
+      setTimeout(() => {
+        
+        navigate("/");
+      }, 1000); // petit délai pour afficher "✅ Connexion réussie !"
     } catch (err: any) {
-      let message = "Une erreur est survenue";
+      let message = t("error");
 
       if (err.response?.data) {
         const data = err.response.data;
         if (typeof data === "string") {
           message = data;
         } else if (data.message) {
-          message = data.message; // ✅ ex: { message: "Invalid email or password" }
+          message = data.message[language] || data.message.en || data.message;
         } else if (data.error) {
-          message = data.error;
+          message = data.error[language] || data.error.en || data.error;
         } else if (Array.isArray(data.errors)) {
           message = data.errors.join(", ");
         }
@@ -47,23 +115,20 @@ export default function LoginPage() {
       setLoading(false);
     }
   };
-
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-[#3B82F6] via-[#60A5FA] to-[#22C55E] px-4">
+    <div className="min-h-screen flex flex-col items-center justify-center px-4">
       {/* Hero */}
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white drop-shadow-lg">
-          🔑 Bienvenue de retour !
+          {t("heroTitle")}
         </h1>
-        <p className="text-white/90 mt-2 text-lg">
-          Connecte-toi pour continuer ton apprentissage 📚
-        </p>
+        <p className="text-white/90 mt-2 text-lg">{t("heroSubtitle")}</p>
       </div>
 
       {/* Login Card */}
       <div className="w-full max-w-md bg-white/80 backdrop-blur-xl shadow-2xl rounded-3xl p-8 border border-white/40">
         <h2 className="text-2xl font-bold text-[#111827] text-center mb-6">
-          Connexion
+          {t("title")}
         </h2>
 
         <form onSubmit={handleSubmit} className="space-y-5">
@@ -80,7 +145,7 @@ export default function LoginPage() {
               className="peer w-full pl-10 pr-4 pt-5 pb-2 border rounded-2xl text-[#111827] bg-white/60 focus:bg-white transition-all focus:ring-2 focus:ring-[#3B82F6] outline-none"
             />
             <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Email
+              {t("email")}
             </label>
           </div>
 
@@ -88,7 +153,7 @@ export default function LoginPage() {
           <div className="relative group">
             <Lock className="absolute left-3 top-3 text-gray-400 group-focus-within:text-[#3B82F6]" size={20} />
             <input
-              type={showPassword ? "text" : "password"} // 👁️ toggle affichage
+              type={showPassword ? "text" : "password"}
               name="password"
               placeholder=" "
               value={form.password}
@@ -97,10 +162,10 @@ export default function LoginPage() {
               className="peer w-full pl-10 pr-12 pt-5 pb-2 border rounded-2xl text-[#111827] bg-white/60 focus:bg-white transition-all focus:ring-2 focus:ring-[#3B82F6] outline-none"
             />
             <label className="absolute left-10 top-2 text-gray-400 text-sm transition-all peer-placeholder-shown:top-3.5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-[#3B82F6]">
-              Mot de passe
+              {t("password")}
             </label>
 
-            {/* Bouton toggle password */}
+            {/* Toggle password */}
             <button
               type="button"
               onClick={() => setShowPassword(!showPassword)}
@@ -118,11 +183,11 @@ export default function LoginPage() {
           )}
           {success && (
             <div className="bg-green-100 text-green-600 text-sm font-medium px-4 py-2 rounded-xl text-center shadow">
-              ✅ Connexion réussie !
+              {t("success")}
             </div>
           )}
 
-          {/* Bouton */}
+          {/* Button */}
           <button
             type="submit"
             disabled={loading}
@@ -131,18 +196,18 @@ export default function LoginPage() {
             {loading ? (
               <>
                 <Loader2 size={20} className="animate-spin" />
-                Connexion...
+                {t("loading")}
               </>
             ) : (
-              "Se connecter"
+              t("button")
             )}
           </button>
         </form>
 
         <p className="text-sm text-gray-600 text-center mt-6">
-          Pas encore de compte ?{" "}
+          {t("noAccount")}{" "}
           <a href="/signup" className="text-[#3B82F6] font-semibold hover:underline">
-            S'inscrire
+            {t("signup")}
           </a>
         </p>
       </div>
