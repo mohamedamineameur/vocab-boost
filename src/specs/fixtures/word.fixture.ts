@@ -1,11 +1,12 @@
 import { Word } from "../../models";
 import { WordAttributes } from "../../models/word.model.ts";
 import { createCategoryFixture } from "./category.fixture.ts";
+import { faker } from "@faker-js/faker";
 const wordFixture = async (overrides: Partial<WordAttributes> = {}): Promise<WordAttributes> => {
   return {
     categoryId: (await createCategoryFixture()).id,
-    text: "Sample Word",
-    meaning: "This is a sample word.",
+    text: faker.word.sample(),
+    meaning: faker.lorem.sentence(),
     example: "This is an example sentence using the sample word.",
     frTranslation: "Mot d'exemple",
     esTranslation: "Palabra de ejemplo",

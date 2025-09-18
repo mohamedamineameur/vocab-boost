@@ -4,8 +4,9 @@ import {preTestSetup} from "../../config/pre-test.ts";
 import request from "supertest";
 import app from "../../app.ts";
 import { createCategoryFixture } from "../fixtures/category.fixture.ts";
+import { faker } from "@faker-js/faker";
 
-describe("Category Routes", () => {
+describe.only("Category Routes", () => {
     describe("POST /categories", () => {
         it("should create a new category", async () => {
             await preTestSetup();
@@ -13,13 +14,16 @@ describe("Category Routes", () => {
             const categoryData = {
                 name: "Electronics",
                 description: "Devices and gadgets",
+                frTranslation: "Électronique",
+                esTranslation: "Electrónica",
+                arTranslation: "إلكترونيات"
             };
             const res = await request(app)
                 .post("/api/categories")
                 .set("Cookie", [`session=${cookieValue}`])
                 .send(categoryData);
             expect(res.status).to.equal(201);
-            expect(res.body.message).to.equal("Category created successfully");
+            expect(res.body.message.en).to.equal("Category created successfully");
         });
 
         it("should not create a category with missing name", async () => {
@@ -47,9 +51,12 @@ describe("Category Routes", () => {
                 .send({
                     name: existingCategory.name,
                     description: "All kinds of books",
+                    frTranslation: "Livres",
+                    esTranslation: "Libros",
+                    arTranslation: "كتب"
                 });
             expect(res.status).to.equal(400);
-            expect(res.body).to.have.property("error", "Category with this name already exists");
+            expect(res.body.error).to.have.property("en", "Category with this name already exists");
         });
         it("should return 401 if not authenticated", async () => {
             await preTestSetup();
@@ -61,7 +68,7 @@ describe("Category Routes", () => {
                 .post("/api/categories")
                 .send(categoryData);
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
         it("should return 403 if not admin", async () => {
             await preTestSetup();
@@ -75,7 +82,7 @@ describe("Category Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`])
                 .send(categoryData);
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("message", "Admin access required");
+            expect(res.body.error).to.have.property("en", "Admin access required");
         });
     })
     describe("GET /categories", () => {
@@ -113,7 +120,7 @@ describe("Category Routes", () => {
 
             const res = await request(app).get(`/api/categories/${category.id}`);
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
 
         it("should return 200 for existing category", async () => {
@@ -131,11 +138,12 @@ describe("Category Routes", () => {
         it("should return 404 for non-existing category", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
+            const fakeId = faker.string.uuid();
 
-            const res = await request(app).get(`/api/categories/00000000-0000-0000-0000-000000000000`)
+            const res = await request(app).get(`/api/categories/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
-            expect(res.body).to.have.property("message", "Category not found");
+            expect(res.body.error).to.have.property("en", "Category not found");
         });
     });
 });

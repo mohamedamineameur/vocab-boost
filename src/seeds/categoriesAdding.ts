@@ -10,6 +10,9 @@ export async function addCategories() {
     const category: CategoryAttributes = {
       name: categoryData.name,
       description: categoryData.description,
+      frTranslation: categoryData.fr,
+      esTranslation: categoryData.es,
+      arTranslation: categoryData.ar,
     };
     await Category.create(category);
   }

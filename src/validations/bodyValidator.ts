@@ -91,3 +91,25 @@ export function bodyValidator(body: any, schema: Record<string, FieldRule>): str
   return errors;
 }
 
+
+export function bodyWithParamsValidator(
+  body: any,
+  bodySchema: Record<string, FieldRule>,
+  params: any,
+  paramsSchema: Record<string, FieldRule>
+): string[] {
+  const bodyErrors = bodyValidator(body, bodySchema);
+  const paramErrors = bodyValidator(params, paramsSchema);
+
+  return [...bodyErrors, ...paramErrors];
+}
+
+export function paramsValidator(
+  params: any,
+  paramsSchema: Record<string, FieldRule>
+): string[] {
+  return bodyValidator(params, paramsSchema);
+}
+
+
+

@@ -5,6 +5,7 @@ import request from "supertest";
 import app from "../../app.ts";
 import { createCategoryFixture } from "../fixtures/category.fixture.ts";
 import { createWordFixture } from "../fixtures/word.fixture.ts";
+import { faker } from "@faker-js/faker";
 
 describe("Word Routes", () => {
     describe("POST /words", () => {
@@ -31,7 +32,7 @@ describe("Word Routes", () => {
                 .set("Cookie", [`session=${cookieValue}`])
                 .send(wordData);
             expect(res.status).to.equal(201);
-            expect(res.body.message).to.equal("Word created successfully");
+            expect(res.body.message.en).to.equal("Word created successfully");
         }
         )
         it("should not create a word with missing required fields", async () => {
@@ -87,7 +88,7 @@ describe("Word Routes", () => {
                     level: "beginnerLevelOne"
                 });
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("message", "Admin access required");
+            expect(res.body.error).to.have.property("en", "Admin access required");
         });
     });
     describe("GET /words", () => {
@@ -109,7 +110,7 @@ describe("Word Routes", () => {
 
             const res = await request(app).get("/api/words");
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     });
 
@@ -130,10 +131,11 @@ describe("Word Routes", () => {
         it("should return 404 for non-existing word", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
-            const res = await request(app).get(`/api/words/00000000-0000-0000-0000-000000000000`)
+            const fakeId = faker.string.uuid();
+            const res = await request(app).get(`/api/words/${fakeId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
-            expect(res.body).to.have.property("message", "Word not found");
+            expect(res.body.error).to.have.property("en", "Word not found");
         });
 
         it("should return 401 if not authenticated", async () => {
@@ -141,7 +143,7 @@ describe("Word Routes", () => {
 
             const res = await request(app).get("/api/words/00000000-0000-0000-0000-000000000000");
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     });
 });

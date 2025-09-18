@@ -23,7 +23,7 @@ describe("User Routes", () => {
 
             const res = await request(app).post("/api/users").send(newUser);
             expect(res.status).to.equal(201);
-            expect(res.body.message).to.equal("User created successfully");
+            expect(res.body.message.en).to.equal("User created successfully");
         });
 
         it("should not create a user with an existing email", async () => {
@@ -39,7 +39,7 @@ describe("User Routes", () => {
             });
             expect(res.status).to.equal(400);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User already exists");
+            expect(res.body.error.en).to.equal("User already exists");
         });
         it("should not create a user if password confirmation does not match", async () => {
             await preTestSetup();
@@ -52,7 +52,7 @@ describe("User Routes", () => {
             });
             expect(res.status).to.equal(400);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("Password confirmation does not match");
+            expect(res.body.error.en).to.equal("Password confirmation does not match");
         });
         it("should return 400 for invalid request body", async () => {
             await preTestSetup();
@@ -90,7 +90,7 @@ describe("User Routes", () => {
             const res = await request(app).get("/api/users")                .set("Cookie", [`session=${cookieValue}`]);
 
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("message", "Admin access required");
+            expect(res.body.error).to.have.property("en", "Admin access required");
         });
 
         it("should return 401 if not authenticated", async () => {
@@ -98,15 +98,14 @@ describe("User Routes", () => {
 
             const res = await request(app).get("/api/users");
             expect(res.status).to.equal(401);
-            expect(res.body).to.have.property("message", "Authentication required");
+            expect(res.body.error).to.have.property("en", "Authentication required");
         });
     });
 
     describe("GET /users/:id", () => {
         it("should retrieve a user by ID", async () => {
             await preTestSetup();
-            const user = await createUserFixture();
-            const { cookieValue } = await createSessionFixture();
+            const { cookieValue, user } = await createSessionFixture();
 
             const res = await request(app).get(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
@@ -116,13 +115,24 @@ describe("User Routes", () => {
 
         it("should return 404 for non-existing user", async () => {
             await preTestSetup();
-            const nonExistingId = "123e4567-e89b-12d3-a456-426614174000";
-            const { cookieValue } = await createSessionFixture();
+            const nonExistingId = faker.string.uuid();
+            const { cookieValue } = await createAdminSessionFixture();
             const res = await request(app).get(`/api/users/${nonExistingId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User not found");
+            expect(res.body.error.en).to.equal("User not found");
+        });
+        it("should return 400 for invalid user ID format", async () => {
+            await preTestSetup();
+            const invalidId = "invalid-uuid";
+            const { cookieValue } = await createSessionFixture();
+            const res = await request(app).get(`/api/users/${invalidId}`)
+                .set("Cookie", [`session=${cookieValue}`]);
+            expect(res.status).to.equal(400);
+            expect(res.body).to.have.property("error");
+            expect(res.body.error).to.be.an("array");
+            expect(res.body.error.length).to.be.greaterThan(0);
         });
     });
     describe("DELETE /users/:id", () => {
@@ -134,7 +144,7 @@ describe("User Routes", () => {
             const res = await request(app).delete(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User deleted successfully");
+            expect(res.body.message.en).to.equal("User deleted successfully");
 
             const getRes = await request(app).get(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
@@ -149,26 +159,25 @@ describe("User Routes", () => {
             const res = await request(app).delete(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(403);
-            expect(res.body).to.have.property("message", "Admin access required");
+            expect(res.body.error).to.have.property("en", "Admin access required");
         });
 
         it("should return 404 when deleting a non-existing user", async () => {
             await preTestSetup();
-            const nonExistingId = "123e4567-e89b-12d3-a456-426614174000";
+            const nonExistingId = faker.string.uuid();
             const { cookieValue } = await createAdminSessionFixture();
             const res = await request(app).delete(`/api/users/${nonExistingId}`)
                 .set("Cookie", [`session=${cookieValue}`]);
             expect(res.status).to.equal(404);
             expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User not found");
+            expect(res.body.error.en).to.equal("User not found");
         });
     });
 
     describe("PATCH /users/:id", () => {
         it("should update a user's details", async () => {
             await preTestSetup();
-            const user = await createUserFixture();
-            const { cookieValue } = await createSessionFixture();
+            const { cookieValue, user } = await createSessionFixture();
 
             const res = await request(app).patch(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`])
@@ -178,7 +187,7 @@ describe("User Routes", () => {
                     lastname: "User",
             });
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User updated successfully");
+            expect(res.body.message.en).to.equal("User updated successfully");
 
             const updatedRes = await request(app).get(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`]);
@@ -187,25 +196,32 @@ describe("User Routes", () => {
             expect(updatedRes.body).to.have.property("firstname", "Updated");
             expect(updatedRes.body).to.have.property("lastname", "User");
         });
-        it("should return 404 when updating a non-existing user", async () => {
+        it("should allow admin users to update any user's details", async () => {
             await preTestSetup();
-            const nonExistingId = "123e4567-e89b-12d3-a456-426614174000";
-            const { cookieValue } = await createSessionFixture();
-            const res = await request(app).patch(`/api/users/${nonExistingId}`)
+            const userToBeUpdated = await createUserFixture();
+            const { cookieValue } = await createAdminSessionFixture();
+
+            const res = await request(app).patch(`/api/users/${userToBeUpdated.id}`)
                 .set("Cookie", [`session=${cookieValue}`])
                 .send({
                     email: "updated@example.com",
                     firstname: "Updated",
                     lastname: "User",
                 });
-            expect(res.status).to.equal(404);
-            expect(res.body).to.have.property("error");
-            expect(res.body.error).to.equal("User not found");
+            expect(res.status).to.equal(200);
+            expect(res.body.message.en).to.equal("User updated successfully");
+
+            const updatedRes = await request(app).get(`/api/users/${userToBeUpdated.id}`)
+                .set("Cookie", [`session=${cookieValue}`]);
+            expect(updatedRes.status).to.equal(200);
+            expect(updatedRes.body).to.have.property("email", "updated@example.com");
+            expect(updatedRes.body).to.have.property("firstname", "Updated");
+            expect(updatedRes.body).to.have.property("lastname", "User");
         });
+     
         it("should return 400 for invalid update data", async () => {
             await preTestSetup();
-            const user = await createUserFixture();
-            const { cookieValue } = await createSessionFixture();
+            const { cookieValue, user } = await createSessionFixture();
             const res = await request(app).patch(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`])
                 .send({
@@ -218,8 +234,7 @@ describe("User Routes", () => {
         });
         it("should return 400 if old password is incorrect when changing password", async () => {
             await preTestSetup();
-            const user = await createUserFixture();
-            const { cookieValue } = await createSessionFixture();
+            const { cookieValue, user } = await createSessionFixture();
 
             const res = await request(app).patch(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`])
@@ -230,13 +245,12 @@ describe("User Routes", () => {
                 });
             expect(res.status).to.equal(400);
             expect(res.body).to.have.property("error"); 
-            expect(res.body.error).to.equal("Old password is incorrect");
+            expect(res.body.error.en).to.equal("Old password is incorrect");
         });
 
         it("should return 400 if new password confirmation does not match", async () => {
             await preTestSetup();
-            const user = await createUserFixture();
-            const { cookieValue } = await createSessionFixture();
+            const { cookieValue, user } = await createSessionFixture();
 
             const res = await request(app).patch(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`])
@@ -246,14 +260,13 @@ describe("User Routes", () => {
                     passwordConfirmation: "DifferentNewPassword123@",
                 });
             expect(res.status).to.equal(400);
-            expect(res.body).to.have.property("error"); 
-            expect(res.body.error).to.equal("New password confirmation does not match");
+            expect(res.body).to.have.property("error");
+            expect(res.body.error.en).to.equal("New password confirmation does not match");
         });
 
         it("should change the user's password", async () => {
             await preTestSetup();
-            const user = await createUserFixture();
-            const { cookieValue } = await createSessionFixture();
+            const { cookieValue, user } = await createSessionFixture();
 
             const res = await request(app).patch(`/api/users/${user.id}`)
                 .set("Cookie", [`session=${cookieValue}`])
@@ -263,7 +276,7 @@ describe("User Routes", () => {
                     passwordConfirmation: "NewPassword123@",
                 });
             expect(res.status).to.equal(200);
-            expect(res.body.message).to.equal("User updated successfully");
+            expect(res.body.message.en).to.equal("User updated successfully");
         });
     });
 });

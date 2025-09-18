@@ -128,5 +128,3 @@ Word.init(
   }
 );
 
-Category.hasMany(Word, { foreignKey: 'categoryId', as: 'words' });
-Word.belongsTo(Category, { foreignKey: 'categoryId', as: 'category' });

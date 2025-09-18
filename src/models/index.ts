@@ -3,24 +3,58 @@ import { Session } from "./session.model.ts";
 import { User } from "./user.model.ts";
 import { Profile } from "./profile.model.ts";
 import { Word } from "./word.model.ts";
-import database  from "../config/database.ts";
+import Quiz from "./quiz.model.ts";
+import { UserWord } from "./user-word.model.ts";
+import database from "../config/database.ts";
+import { UserCategory } from "./user-category.model.ts";
 
 function initModels() {
-  // Associations
-  Session.belongsTo(User, { foreignKey: 'userId' });
-  User.hasMany(Session, { foreignKey: 'userId' });
-  Profile.belongsTo(User, { foreignKey: 'userId', as: 'user' });
-  User.hasOne(Profile, { foreignKey: 'userId', as: 'profile' });
-  Category.hasMany(Word, { foreignKey: 'categoryId', as: 'words' });
-  Word.belongsTo(Category, { foreignKey: 'categoryId', as: 'category' });
+  // ========================
+  // User ↔ Session
+  // ========================
+  Session.belongsTo(User, { foreignKey: "userId", as: "sessionUser" });
+  User.hasMany(Session, { foreignKey: "userId", as: "sessions" });
 
-  console.log("✅ Models initialized:", {
-    User: !!User,
-    Profile: !!Profile,
-    Session: !!Session,
-    Category: !!Category,
-    Word: !!Word,
-  });
+  // ========================
+  // User ↔ Profile
+  // ========================
+  Profile.belongsTo(User, { foreignKey: "userId", as: "user" });
+  User.hasOne(Profile, { foreignKey: "userId", as: "profile" });
+
+  // ========================
+  // Category ↔ Word
+  // ========================
+  Category.hasMany(Word, { foreignKey: "categoryId", as: "words" });
+  Word.belongsTo(Category, { foreignKey: "categoryId", as: "category" });
+
+  // ========================
+  // UserWord ↔ Quiz
+  // ========================
+  Quiz.belongsTo(UserWord, { foreignKey: "userWordId", as: "userWord" });
+  UserWord.hasMany(Quiz, { foreignKey: "userWordId", as: "quizzes" });
+
+  // ========================
+  // UserWord ↔ User
+  // ========================
+  UserWord.belongsTo(User, { foreignKey: "userId", as: "owner" });
+  User.hasMany(UserWord, { foreignKey: "userId", as: "userWords" });
+
+  // ========================
+  // UserWord ↔ Word
+  // ========================
+  UserWord.belongsTo(Word, { foreignKey: "wordId", as: "word" });
+  Word.hasMany(UserWord, { foreignKey: "wordId", as: "userWords" });
+  // ========================
+  // UserCaregory ↔ User
+  // ========================
+  UserCategory.belongsTo(User, { foreignKey: "userId", as: "owner" })
+  User.hasMany(UserCategory,{ foreignKey: "userId", as: "userCategories" })
+// ========================
+  // UserCategory ↔ Category
+  // ========================
+  UserCategory.belongsTo(Category,{ foreignKey: "categoryId", as: "category" })
+  Category.hasMany(UserCategory,{ foreignKey: "categoryId", as: "userCategories" })
+
 }
 
 export {
@@ -29,6 +63,8 @@ export {
   Session,
   Category,
   Word,
+  Quiz,
+  UserWord,
   database,
-  initModels
+  initModels,
 };

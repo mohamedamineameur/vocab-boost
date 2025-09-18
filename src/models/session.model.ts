@@ -78,7 +78,6 @@ Session.init(
   }
 );
 
-Session.belongsTo(User, { foreignKey: 'userId' });
-User.hasMany(Session, { foreignKey: 'userId' });
+
 
 export default Session;

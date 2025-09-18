@@ -15,12 +15,24 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cookieParser());
 app.use(helmet());
-app.use(cors({
-  origin: env.NODE_ENV === 'production'
-    ? 'https://yourdomain.com'
-    : env.DOMAIN || 'http://localhost:3000',
-  credentials: true,
-}));
+if (env.NODE_ENV === "production") {
+  app.use(
+    cors({
+      origin: "https://yourdomain.com",
+      credentials: true,
+    })
+  );
+} else {
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",         
+      "http://192.168.2.19:5173",      
+    ],
+    credentials: true,
+  })
+);}
+
 app.use(compression());
 
 // routes
@@ -31,7 +43,7 @@ app.use('/api', router);
 
 // 404 handler
 app.use((req, res) => {
-  return res.status(404).json({ error: 'Route not found' });
+  return res.status(404).json({ error: { en: 'Route not found', fr: 'Route non trouvée', es: 'Ruta no encontrada', ar: 'الطريق غير موجود' } });
 });
 
 export default app;
