@@ -10,6 +10,7 @@ import CategorySelectionPage from "./src/pages/testPage";
 import WordSelectorPage from "./src/pages/WordSelectorPage";
 import QuizPage from "./src/pages/QuizPage";
 import Test2 from "./src/pages/test2";
+import ProfileCreatePage from "./src/pages/ProfileCreatePage";
 function App() {
   return (
     <AuthProvider>
@@ -50,6 +51,11 @@ function App() {
               <Route path="/words/:wordId/quizzes" element={
                 <ProtectedRoute>
                   <QuizPage />
+                </ProtectedRoute>
+              } />
+              <Route path="/profile" element={
+                <ProtectedRoute>
+                  <ProfileCreatePage />
                 </ProtectedRoute>
               } />
 
