@@ -7,6 +7,7 @@ import wordRouter from "./word.routes.ts";
 import userWordRouter from "./user-word.routes.ts";
 import quizRouter from "./quiz.routes.ts";
 import userCategoryRouter from "./user-category.routes.ts";
+import audioRouter from "./audio.route.ts";
 
 
 const router = Router();
@@ -19,5 +20,6 @@ router.use("/words", wordRouter);
 router.use("/user-words", userWordRouter);
 router.use("/quizzes", quizRouter);
 router.use("/user-categories", userCategoryRouter);
+router.use("/audio", audioRouter);
 
 export default router;

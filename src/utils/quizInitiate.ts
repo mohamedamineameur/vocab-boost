@@ -66,7 +66,8 @@ function getWordStrings(word: any, userLocale: string) {
 function buildPrompt(
   type: QuizType,
   baseWord: string,
-  userLocale: string
+  userLocale: string,
+  wordTranslation?: string
 ): { system: string; user: string } {
   const commonSystem =
     "You are a precise language tutor. Always return STRICT JSON that can be parsed with JSON.parse, with keys: question (string), options (array of strings if applicable), correctAnswer (string). Do not include explanations.";
@@ -109,11 +110,12 @@ Return JSON with:
       return {
         system: commonSystem,
         user: `
-Create a multiple-choice question as if for an audio exercise: user hears "${baseWord}" in ${userLocale} and must choose its English meaning.
+Create a multiple-choice question as if for an audio exercise: user hears "${baseWord}" in English and must choose the correct word.
+Translate the word "${baseWord}" into ${userLocale} .
 Return JSON with:
-- question: instruction in English (mention it's an audio-style check).
+- question: instruction in ${userLocale} (choose the correct translation of the word "${wordTranslation}" ).
 - options: exactly 4 English choices.
-- correctAnswer: the correct English meaning (must be one of options).
+- correctAnswer: the correct English word (must be one of options).
 `.trim(),
       };
     case "wordSorting":
@@ -139,9 +141,10 @@ Return JSON with:
 async function callOpenAIForQuiz(
   type: QuizType,
   baseWord: string,
-  userLocale: string
+  userLocale: string,
+  wordTranslation?: string
 ): Promise<{ question: string; options?: string[]; correctAnswer: string }> {
-  const { system, user } = buildPrompt(type, baseWord, userLocale);
+  const { system, user } = buildPrompt(type, baseWord, userLocale, wordTranslation);
 
   const res = await axios.post(
     gptApiUrl,
@@ -207,6 +210,16 @@ export async function generateQuizs(userWordId: string, req:any) {
     const userLocale = (profile as any).local || "en";
     const { english, base } = getWordStrings(word, userLocale);
     if (!base) throw new Error("Could not resolve base word string from Word model");
+    let wordTranslation 
+    if(userLocale === "fr" ){
+      wordTranslation = word?.frTranslation
+    }
+    if(userLocale === "es" ){
+      wordTranslation = word?.esTranslation
+    }
+    if(userLocale === "ar" ){
+      wordTranslation = word?.arTranslation
+    }
 
     // On boucle sur chaque type ; un appel API *distinct* pour ceux qui en ont besoin
     for (const type of QUIZ_TYPES) {
@@ -230,7 +243,7 @@ export async function generateQuizs(userWordId: string, req:any) {
         }
 
         // Types avec appel API (un appel par type)
-        const payload = await callOpenAIForQuiz(type, base, userLocale);
+        const payload = await callOpenAIForQuiz(type, base, userLocale, wordTranslation);
 
         // Normalisation minimale : coupe les options vides et dédoublonne
         const options =

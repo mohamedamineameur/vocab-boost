@@ -9,6 +9,7 @@ import { ProtectedRoute } from "./src/components/ProtectedRoute"; // ⚡
 import CategorySelectionPage from "./src/pages/testPage";
 import WordSelectorPage from "./src/pages/WordSelectorPage";
 import QuizPage from "./src/pages/QuizPage";
+import Test2 from "./src/pages/test2";
 function App() {
   return (
     <AuthProvider>
@@ -18,6 +19,7 @@ function App() {
             <Routes>
               <Route path="/signup" element={<SignupPage />} />
               <Route path="/login" element={<LoginPage />} />
+              <Route path="/test2" element={<Test2 />} />
 
               {/* Page publique */}
               <Route path="/home" element={<HomePage />} />
