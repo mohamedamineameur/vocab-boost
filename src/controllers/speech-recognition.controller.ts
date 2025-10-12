@@ -49,7 +49,7 @@ export const recognizeSpeech = async (req: Request, res: Response) => {
     const data = await response.json();
     
     res.status(200).json({
-      transcript: data.text || "",
+      transcript: (data as { text?: string }).text || "",
     });
   } catch (error) {
     console.error("Error in speech recognition:", error);
