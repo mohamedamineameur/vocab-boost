@@ -77,7 +77,7 @@ export default function ForgotPasswordPage() {
       setSuccess(true);
       setTimeout(() => setSuccess(false), 5000);
     } catch (err: unknown) {
-      let message = t("error");
+      let message: string = t("error");
       const error = err as { response?: { data?: unknown }; message?: string };
 
       if (error.response?.data) {

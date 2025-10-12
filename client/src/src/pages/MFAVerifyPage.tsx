@@ -111,7 +111,7 @@ export default function MFAVerifyPage() {
         navigate("/");
       }, 1000);
     } catch (err: unknown) {
-      let message = t("error");
+      let message: string = t("error");
       const error = err as { response?: { data?: unknown }; message?: string };
 
       if (error.response?.data) {

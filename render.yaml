@@ -1,0 +1,17 @@
+services:
+  # Fullstack Web Service (Backend + Frontend)
+  - type: web
+    name: english-learning-app
+    env: node
+    region: oregon
+    plan: starter
+    buildCommand: npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+    healthCheckPath: /api/health
+    autoDeploy: true
+    branch: main

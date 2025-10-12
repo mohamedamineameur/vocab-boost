@@ -20,6 +20,7 @@ interface EnvConfig {
   DOMAIN2?: string;
   MAIL_EMAIL?: string;
   MAIL_PASS?: string;
+  DOMAIN_CLIENT?: string;
 }
 
 const getEnv = (): EnvConfig => {
@@ -51,7 +52,8 @@ const getEnv = (): EnvConfig => {
     GPT_API_KEY: process.env.GPT_API_KEY || undefined,
     DOMAIN2: process.env.DOMAIN2 || undefined,
     MAIL_EMAIL: process.env.MAIL_EMAIL || undefined,
-    MAIL_PASS: process.env.MAIL_PASS || undefined
+    MAIL_PASS: process.env.MAIL_PASS || undefined,
+    DOMAIN_CLIENT: process.env.DOMAIN_CLIENT || undefined
   };
 };
 

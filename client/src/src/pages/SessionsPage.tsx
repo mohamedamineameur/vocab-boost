@@ -3,14 +3,22 @@ import { getUserSessions, revokeSession } from "../../services/session.services"
 import { Monitor, Smartphone, Trash2, CheckCircle, Loader2, AlertCircle } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext";
 import { useNavigate } from "react-router-dom";
+import { useAuth } from "../contexts/AuthContext";
 
 interface Session {
   id: string;
+  userId: string;
   ip: string;
   userAgent: string;
   createdAt: string;
   expiresAt: string;
   isCurrent: boolean;
+  user?: {
+    id: string;
+    email: string;
+    firstname: string;
+    lastname: string;
+  };
 }
 
 const tr = {
@@ -127,6 +135,7 @@ const formatDate = (dateString: string, locale: string) => {
 export default function SessionsPage() {
   const { language } = useTranslate();
   const navigate = useNavigate();
+  const { isAdmin } = useAuth();
   const t = (key: keyof typeof tr["fr"]) =>
     tr[language as keyof typeof tr]?.[key] ?? tr.en[key];
   const isRTL = language === "ar";
@@ -176,13 +185,13 @@ export default function SessionsPage() {
       }
     } catch (err: unknown) {
       const error = err as { response?: { data?: unknown }; message?: string };
-      let message = t("error");
+      let message: string = t("error");
       
       if (error.response?.data) {
         const data = error.response.data as Record<string, unknown>;
         if (data.error) {
           const err = data.error as Record<string, string> | string;
-          message = typeof err === "object" ? (err[language] || err.en || JSON.stringify(err)) : err;
+          message = (typeof err === "object" ? (err[language] || err.en || JSON.stringify(err)) : err) as string;
         }
       }
       
@@ -223,8 +232,12 @@ export default function SessionsPage() {
       <div className="max-w-4xl mx-auto px-4 py-8">
         {/* Header */}
         <header className="mb-8">
-          <h1 className="text-3xl font-bold text-[#111827]">{t("title")}</h1>
-          <p className="text-[#111827]/60 mt-2">{t("subtitle")}</p>
+          <h1 className="text-3xl font-bold text-[#111827]">
+            {isAdmin ? "🛡️ Toutes les sessions" : t("title")}
+          </h1>
+          <p className="text-[#111827]/60 mt-2">
+            {isAdmin ? `${sessions.length} sessions actives sur la plateforme` : t("subtitle")}
+          </p>
         </header>
 
         {/* Sessions List */}
@@ -268,6 +281,16 @@ export default function SessionsPage() {
                             </span>
                           )}
                         </div>
+                        
+                        {/* Afficher l'utilisateur si admin */}
+                        {isAdmin && session.user && (
+                          <div className="mb-2 text-sm">
+                            <span className="font-medium text-[#111827]">👤 Utilisateur: </span>
+                            <span className="text-[#111827]/70">
+                              {session.user.firstname} {session.user.lastname} ({session.user.email})
+                            </span>
+                          </div>
+                        )}
                         
                         <div className="space-y-1 text-sm text-[#111827]/60">
                           <div className="flex items-center gap-2">

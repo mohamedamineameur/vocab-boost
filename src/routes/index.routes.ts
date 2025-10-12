@@ -12,9 +12,20 @@ import speechRecognitionRouter from "./speech-recognition.routes.ts";
 import userActivityRouter from "./user-activity.routes.ts";
 import userAchievementRouter from "./user-achievement.routes.ts";
 import userStreakRouter from "./user-streak.routes.ts";
+import auditLogRouter from "./audit-log.routes.ts";
 
 
 const router = Router();
+
+// Health check pour Render
+router.get("/health", (req, res) => {
+  res.status(200).json({ 
+    status: "OK", 
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime(),
+    environment: process.env.NODE_ENV 
+  });
+});
 
 router.use("/users", userRouter);
 router.use("/sessions", sessionRouter);
@@ -29,5 +40,6 @@ router.use("/speech-recognition", speechRecognitionRouter);
 router.use("/user-activities", userActivityRouter);
 router.use("/user-achievements", userAchievementRouter);
 router.use("/user-streak", userStreakRouter);
+router.use("/audit-logs", auditLogRouter);
 
 export default router;

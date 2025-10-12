@@ -1,4 +1,3 @@
-import React from "react";
 import { TrendingUp, Target, Award, CheckCircle2 } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext";
 

@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { RotateCcw, Shuffle, StepForward, Globe2, CheckCircle2 } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext"; // ⚠️ ajuste le chemin si besoin
 import SentenceArrangeComponent from "../components/SentenceArrangeComponent"; // ⚠️ ajuste le chemin si besoin
@@ -107,7 +107,7 @@ export default function Test2() {
     return list[safeIndex];
   }, [setLang, index]);
 
-  const onFetchAnswer = async (id: string, ok: boolean) => {
+  const onFetchAnswer = async (_id: string, ok: boolean) => {
     setAttempts((n) => n + 1);
     setLastCorrect(ok);
     if (ok) setCorrect((n) => n + 1);

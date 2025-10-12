@@ -1,4 +1,3 @@
-import React from "react";
 import { useTranslate } from "../contexts/TranslateContext";
 
 interface ProgressChartProps {

@@ -80,10 +80,6 @@ export default function SignupPage() {
     }
   };
 
-  const getInputClasses = (valid: boolean) =>
-    `peer w-full pl-10 pr-12 pt-5 pb-2 border rounded-2xl text-[#111827] bg-white/60 focus:bg-white transition-all outline-none ${
-      valid ? "border-gray-300 focus:ring-2 focus:ring-[#3B82F6]" : "border-red-500 focus:ring-2 focus:ring-red-500"
-    }`;
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-[#3B82F6] via-[#60A5FA] to-[#22C55E] px-4">
