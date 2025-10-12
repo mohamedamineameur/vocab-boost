@@ -3,6 +3,10 @@ import { User } from "../models/user.model.ts";
 import type { Request, Response } from "express";
 import { Op, fn, col, literal } from "sequelize";
 
+// Fix for TypeScript symbol index issue
+const OpGte = Op.gte as unknown as string;
+const OpLte = Op.lte as unknown as string;
+
 /**
  * Récupérer les logs d'audit (admin uniquement)
  */
@@ -28,12 +32,12 @@ export const getAuditLogs = async (req: Request, res: Response) => {
     if (startDate || endDate) {
       where.createdAt = {};
       if (startDate) {
-        (where.createdAt as Record<string, unknown>)[Op.gte] = new Date(startDate as string);
+        (where.createdAt as Record<string, unknown>)[OpGte] = new Date(startDate as string);
       }
       if (endDate) {
         const end = new Date(endDate as string);
         end.setHours(23, 59, 59, 999);
-        (where.createdAt as Record<string, unknown>)[Op.lte] = end;
+        (where.createdAt as Record<string, unknown>)[OpLte] = end;
       }
     }
 
@@ -127,12 +131,12 @@ export const getAuditStats = async (req: Request, res: Response) => {
     if (startDate || endDate) {
       where.createdAt = {};
       if (startDate) {
-        (where.createdAt as Record<string, unknown>)[Op.gte] = new Date(startDate as string);
+        (where.createdAt as Record<string, unknown>)[OpGte] = new Date(startDate as string);
       }
       if (endDate) {
         const end = new Date(endDate as string);
         end.setHours(23, 59, 59, 999);
-        (where.createdAt as Record<string, unknown>)[Op.lte] = end;
+        (where.createdAt as Record<string, unknown>)[OpLte] = end;
       }
     }
 
