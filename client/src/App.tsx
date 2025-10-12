@@ -4,10 +4,11 @@ import SignupPage from "./src/pages/SignupPage";
 import LoginPage from "./src/pages/LoginPage";
 import HomePage from "./src/pages/HomePage";
 import DashboardPage from "./src/pages/DashboardPage"; // ⚡ Old
-import EnhancedDashboard from "./src/pages/EnhancedDashboard"; // ⚡ New
 import Header from "./src/components/Header";
 import Footer from "./src/components/FooterComponent";
 import { ProtectedRoute } from "./src/components/ProtectedRoute"; // ⚡
+import { AdminRoute } from "./src/components/AdminRoute";
+import DashboardRouter from "./src/components/DashboardRouter";
 import CategorySelectionPage from "./src/pages/testPage";
 import WordSelectorPage from "./src/pages/WordSelectorPage";
 import QuizPage from "./src/pages/QuizPage";
@@ -21,6 +22,10 @@ import ForgotPasswordPage from './src/pages/ForgotPasswordPage';
 import ResetPasswordPage from './src/pages/ResetPasswordPage';
 import MFAVerifyPage from './src/pages/MFAVerifyPage';
 import SessionsPage from './src/pages/SessionsPage';
+import AuditLogsPage from './src/pages/AuditLogsPage';
+import AdminDashboard from './src/pages/AdminDashboard';
+import AdminUsersPage from './src/pages/AdminUsersPage';
+import NotFoundPage from './src/pages/NotFoundPage';
 
 function App() {
   
@@ -42,12 +47,12 @@ function App() {
               {/* Page publique */}
               <Route path="/home" element={<HomePage />} />
 
-              {/* Page protégée → "/" */}
+              {/* Page protégée → "/" - Redirige automatiquement admin/user */}
               <Route
                 path="/"
                 element={
                   <ProtectedRoute>
-                    <EnhancedDashboard />
+                    <DashboardRouter />
                   </ProtectedRoute>
                 }
               />
@@ -118,6 +123,37 @@ function App() {
                   </ProtectedRoute>
                 }
               />
+
+              {/* Routes Admin */}
+              <Route
+                path="/admin"
+                element={
+                  <AdminRoute>
+                    <AdminDashboard />
+                  </AdminRoute>
+                }
+              />
+
+              <Route
+                path="/admin/audit-logs"
+                element={
+                  <AdminRoute>
+                    <AuditLogsPage />
+                  </AdminRoute>
+                }
+              />
+
+              <Route
+                path="/admin/users"
+                element={
+                  <AdminRoute>
+                    <AdminUsersPage />
+                  </AdminRoute>
+                }
+              />
+
+              {/* Route 404 - Doit être en dernier */}
+              <Route path="*" element={<NotFoundPage />} />
 
             </Routes>
           </div>

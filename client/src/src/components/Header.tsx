@@ -1,5 +1,5 @@
 import { useNavigate, useLocation } from "react-router-dom";
-import { ChevronLeft, Home, Settings, LogOut } from "lucide-react";
+import { ChevronLeft, Home, Settings, LogOut, Shield } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext";
 import { useAuth } from "../contexts/AuthContext";
 
@@ -9,24 +9,28 @@ const tr = {
     home: "Accueil",
     settings: "Paramètres",
     logout: "Déconnexion",
+    admin: "Admin",
   },
   en: {
     back: "Back",
     home: "Home",
     settings: "Settings",
     logout: "Logout",
+    admin: "Admin",
   },
   ar: {
     back: "رجوع",
     home: "الرئيسية",
     settings: "الإعدادات",
     logout: "تسجيل الخروج",
+    admin: "المسؤول",
   },
   es: {
     back: "Volver",
     home: "Inicio",
     settings: "Configuración",
     logout: "Cerrar sesión",
+    admin: "Admin",
   },
 } as const;
 
@@ -48,7 +52,7 @@ export default function Header({
   const navigate = useNavigate();
   const location = useLocation();
   const { language } = useTranslate();
-  const { isLoggedIn, logout } = useAuth();
+  const { isLoggedIn, isAdmin, logout } = useAuth();
   const t = (key: keyof typeof tr["fr"]) =>
     (tr as Record<string, Record<string, string>>)[language]?.[key] ?? tr.en[key];
   const isRTL = language === "ar";
@@ -61,6 +65,7 @@ export default function Header({
   // Ne pas afficher le bouton home si on est déjà sur la page d'accueil
   const isOnHomePage = location.pathname === "/" || location.pathname === "/dashboard";
   const isOnSettingsPage = location.pathname === "/settings";
+  const isOnAdminPage = location.pathname.startsWith("/admin");
 
   const handleBackClick = () => {
     if (onBackClick) {
@@ -121,6 +126,18 @@ export default function Header({
 
           {/* Boutons de navigation */}
           <div className="flex items-center gap-2">
+            {/* Bouton Admin (si admin et pas sur page admin) */}
+            {isAdmin && !isOnAdminPage && (
+              <button
+                onClick={() => navigate("/admin")}
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-purple-600 to-[#3B82F6] text-white hover:opacity-90 hover:scale-105 active:scale-95 transition-all shadow-md"
+                aria-label={t("admin")}
+              >
+                <Shield className="w-5 h-5" />
+                <span className="font-medium hidden sm:inline">{t("admin")}</span>
+              </button>
+            )}
+            
             {showHomeButton && !isOnHomePage && (
               <button
                 onClick={handleHomeClick}

@@ -91,8 +91,12 @@ export default function ResetPasswordPage() {
   const { userId, resetToken } = useParams<{ userId: string; resetToken: string }>();
   const navigate = useNavigate();
   const { language } = useTranslate();
-  const t = (key: keyof typeof tr["fr"]) =>
-    tr[language as keyof typeof tr]?.[key] ?? tr.en[key];
+  const t = (key: Exclude<keyof typeof tr["fr"], "passwordRules">): string => {
+    const value = tr[language as keyof typeof tr]?.[key] ?? tr.en[key];
+    return typeof value === "string" ? value : String(value);
+  };
+  const tPasswordRules = (key: keyof typeof tr["fr"]["passwordRules"]) =>
+    tr[language as keyof typeof tr]?.passwordRules?.[key] ?? tr.en.passwordRules[key];
   const isRTL = language === "ar";
 
   const [form, setForm] = useState({
@@ -140,7 +144,7 @@ export default function ResetPasswordPage() {
         navigate("/login");
       }, 2000);
     } catch (err: unknown) {
-      let message = t("error");
+      let message: string = t("error");
       const error = err as { response?: { data?: unknown }; message?: string };
 
       if (error.response?.data) {
@@ -233,7 +237,7 @@ export default function ResetPasswordPage() {
 
           {/* Password Rules */}
           <div className="space-y-2 text-sm">
-            <p className="font-medium text-[#111827]">{t("passwordRules.title")}</p>
+            <p className="font-medium text-[#111827]">{tPasswordRules("title")}</p>
             <div className="space-y-1">
               {Object.entries(passwordRules).map(([key, valid]) => {
                 const Icon = valid ? CheckCircle2 : XCircle;
@@ -242,7 +246,7 @@ export default function ResetPasswordPage() {
                   <div key={key} className="flex items-center gap-2">
                     <Icon size={16} className={valid ? "text-[#22C55E]" : "text-red-500"} />
                     <span className={valid ? "text-[#22C55E]" : "text-red-500"}>
-                      {t(`passwordRules.${labelKey}` as keyof typeof tr["fr"])}
+                      {tPasswordRules(labelKey)}
                     </span>
                   </div>
                 );
