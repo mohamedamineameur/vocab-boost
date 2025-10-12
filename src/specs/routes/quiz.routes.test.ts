@@ -3,7 +3,6 @@ import {expect} from "chai";
 import {preTestSetup} from "../../config/pre-test.ts";
 import request from "supertest";
 import app from "../../app.ts";
-import { faker } from "@faker-js/faker";
 import { createUserWordFixture } from "../fixtures/user-word.fixture.ts";
 import { createQuizFixture } from "../fixtures/quiz.fizture.ts";
 

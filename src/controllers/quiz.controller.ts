@@ -5,6 +5,7 @@ import { idParamSchema } from "../validations/params.schemas.ts";
 import { getScopeWhere } from "../middlewares/getScope.ts";
 import { quizUpdateSchema } from "../validations/quiz.schemas.ts";
 import { bodyWithParamsValidator } from "../validations/bodyValidator.ts";
+import { Word } from "../models/word.model.ts";
 
 export const getQuizzes = async (req: Request, res: Response) => {
     try {
@@ -19,7 +20,11 @@ export const getQuizzes = async (req: Request, res: Response) => {
                     model: UserWord,
                     as: "userWord",
                     where: scope.where, 
-                    required: !scope.user.isAdmin 
+                    required: !scope.user.isAdmin, 
+                    include:[
+                        { model: Word, as: "word"
+                        }
+                    ]
                 }
             ]
         });
@@ -60,8 +65,34 @@ export const updateQuiz = async (req: Request, res: Response) => {
         }
 
         const { areUserAnswersCorrect } = req.body;
-        quiz.areUserAnswersCorrect?.push(areUserAnswersCorrect);
-       const result = await quiz.save();
+        
+        console.log("🔍 UpdateQuiz Debug:", {
+            quizId: id,
+            receivedAnswer: areUserAnswersCorrect,
+            currentAnswers: quiz.areUserAnswersCorrect,
+            currentAnswersType: typeof quiz.areUserAnswersCorrect
+        });
+        
+        // Initialiser le tableau s'il n'existe pas
+        if (!quiz.areUserAnswersCorrect) {
+            quiz.areUserAnswersCorrect = [];
+            console.log("✅ Initialized empty array for quiz answers");
+        }
+        
+        // Ajouter la nouvelle réponse
+        quiz.areUserAnswersCorrect.push(areUserAnswersCorrect);
+        
+        console.log("🔍 After adding answer:", {
+            newAnswers: quiz.areUserAnswersCorrect,
+            totalAnswers: quiz.areUserAnswersCorrect.length
+        });
+        
+        const result = await quiz.save();
+        
+        console.log("✅ Quiz saved successfully:", {
+            savedAnswers: result.areUserAnswersCorrect,
+            totalSavedAnswers: result.areUserAnswersCorrect?.length || 0
+        });
        let userWord = await UserWord.findByPk(quiz.userWordId);
        if(result.correctAnswer.length >= 10){
         if(userWord){

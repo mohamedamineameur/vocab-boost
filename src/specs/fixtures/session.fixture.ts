@@ -6,7 +6,7 @@ import { Session } from "../../models/session.model.ts";
 
 export const createSessionFixture = async () => {
   const user = await User.create({
-    email: "sessionuser@example.com",
+    email: `sessionuser-${Date.now()}-${Math.random().toString(36).substring(7)}@example.com`,
     password: bcrypt.hashSync("Password123@", env.SALT_ROUNDS || 10),
     firstname: "Test",
     lastname: "Session",
@@ -37,7 +37,7 @@ export const createSessionFixture = async () => {
 
 export const createAdminSessionFixture = async () => {
   const user = await User.create({
-    email: "sessionuser@example.com",
+    email: `admin-sessionuser-${Date.now()}-${Math.random().toString(36).substring(7)}@example.com`,
     password: bcrypt.hashSync("password123", env.SALT_ROUNDS || 10),
     firstname: "Test",
     lastname: "Session",

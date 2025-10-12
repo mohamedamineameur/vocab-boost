@@ -74,7 +74,7 @@ const tr = {
 export default function TTSQuestionComponent({ question, fetchAnswer }: Props) {
   const { language } = useTranslate();
   type Keys = keyof typeof tr.fr;
-  const t = (key: Keys) => (tr as any)[language]?.[key] ?? tr.en[key];
+  const t = (key: Keys) => (tr as Record<string, Record<string, string>>)[language]?.[key] ?? tr.en[key];
   const isRTL = language === "ar";
 
   const [selectedOption, setSelectedOption] = useState<string | null>(null);

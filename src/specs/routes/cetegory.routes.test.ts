@@ -6,7 +6,7 @@ import app from "../../app.ts";
 import { createCategoryFixture } from "../fixtures/category.fixture.ts";
 import { faker } from "@faker-js/faker";
 
-describe.only("Category Routes", () => {
+describe("Category Routes", () => {
     describe("POST /categories", () => {
         it("should create a new category", async () => {
             await preTestSetup();

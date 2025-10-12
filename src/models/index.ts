@@ -7,6 +7,9 @@ import Quiz from "./quiz.model.ts";
 import { UserWord } from "./user-word.model.ts";
 import database from "../config/database.ts";
 import { UserCategory } from "./user-category.model.ts";
+import { UserActivity } from "./user-activity.model.ts";
+import { UserAchievement } from "./user-achievement.model.ts";
+import { UserStreak } from "./user-streak.model.ts";
 
 function initModels() {
   // ========================
@@ -55,6 +58,36 @@ function initModels() {
   UserCategory.belongsTo(Category,{ foreignKey: "categoryId", as: "category" })
   Category.hasMany(UserCategory,{ foreignKey: "categoryId", as: "userCategories" })
 
+  // ========================
+  // UserActivity ↔ User
+  // ========================
+  UserActivity.belongsTo(User, { foreignKey: "userId", as: "user" });
+  User.hasMany(UserActivity, { foreignKey: "userId", as: "activities" });
+
+  // ========================
+  // UserActivity ↔ UserWord
+  // ========================
+  UserActivity.belongsTo(UserWord, { foreignKey: "userWordId", as: "userWord" });
+  UserWord.hasMany(UserActivity, { foreignKey: "userWordId", as: "activities" });
+
+  // ========================
+  // UserActivity ↔ Quiz
+  // ========================
+  UserActivity.belongsTo(Quiz, { foreignKey: "quizId", as: "quiz" });
+  Quiz.hasMany(UserActivity, { foreignKey: "quizId", as: "activities" });
+
+  // ========================
+  // UserAchievement ↔ User
+  // ========================
+  UserAchievement.belongsTo(User, { foreignKey: "userId", as: "user" });
+  User.hasMany(UserAchievement, { foreignKey: "userId", as: "achievements" });
+
+  // ========================
+  // UserStreak ↔ User
+  // ========================
+  UserStreak.belongsTo(User, { foreignKey: "userId", as: "user" });
+  User.hasOne(UserStreak, { foreignKey: "userId", as: "streak" });
+
 }
 
 export {
@@ -65,6 +98,9 @@ export {
   Word,
   Quiz,
   UserWord,
+  UserActivity,
+  UserAchievement,
+  UserStreak,
   database,
   initModels,
 };

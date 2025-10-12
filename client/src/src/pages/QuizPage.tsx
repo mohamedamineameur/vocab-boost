@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import {
   Volume2,
@@ -14,7 +14,6 @@ import {
   Sparkles
 } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext";
-import { useAuth } from "../contexts/AuthContext";
 
 // ⚠️ Ajuste le chemin selon ton projet
 import { getQuizzes, updateQuiz } from "../../services/quiz.services";
@@ -96,17 +95,21 @@ const i18n = {
 
 function useI18n() {
   const { language } = useTranslate();
-  const lang = (['fr','en','es','ar'] as const).includes(language as any) ? (language as 'fr'|'en'|'es'|'ar') : 'fr';
-  const dict = (i18n as any)[lang] ?? i18n.en;
-  return { t: (k: keyof typeof i18n.fr, ...args: any[]) => (typeof dict[k] === 'function' ? (dict[k] as any)(...args) : dict[k]) as string, lang } as const;
+  const lang = (['fr','en','es','ar'] as const).includes(language as 'fr' | 'en' | 'es' | 'ar') ? (language as 'fr'|'en'|'es'|'ar') : 'fr';
+  const dict = (i18n as Record<string, Record<string, string | ((...args: unknown[]) => string)>>)[lang] ?? i18n.en;
+  return { t: (k: keyof typeof i18n.fr, ...args: unknown[]) => {
+    const val = dict[k];
+    return (typeof val === 'function' ? val(...args) : val) as string;
+  }, lang } as const;
 }
 
 // --- Utils ---
-const asArray = (v: any) => {
+const asArray = <T,>(v: unknown): T[] => {
   if (Array.isArray(v)) return v;
   const keys = ["data", "rows", "items", "results", "quizzes"];
-  for (const k of keys) if (Array.isArray(v?.[k])) return v[k];
-  return [] as any[];
+  const vObj = v as Record<string, unknown>;
+  for (const k of keys) if (Array.isArray(vObj?.[k])) return vObj[k] as T[];
+  return [];
 };
 
 const normalize = (s?: string) => (s ?? "").trim().replace(/\s+/g, " ").toLowerCase();
@@ -131,10 +134,14 @@ function useTTS() {
       u.lang = langToBCP47(lang);
       utteranceRef.current = u;
       window.speechSynthesis.speak(u);
-    } catch {}
+    } catch {
+      // Ignore errors when speaking
+    }
   };
   const stop = () => {
-    try { window.speechSynthesis.cancel(); } catch {}
+    try { window.speechSynthesis.cancel(); } catch {
+      // Ignore errors when stopping
+    }
   };
   return { speak, stop } as const;
 }
@@ -199,14 +206,12 @@ function TokenSorter({ target, initial, onChange }: { target: string; initial: s
 export default function QuizPage() {
   const { wordId } = useParams<{ wordId: string }>();
   const { t, lang } = useI18n();
-  const { user } = useAuth();
   const navigate = useNavigate();
   const { speak, stop } = useTTS();
 
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
   const [quizzes, setQuizzes] = useState<Quiz[]>([]);
-  const [wordText, setWordText] = useState<string | null>(null);([]);
+  const [wordText, setWordText] = useState<string | null>(null)
 
   // Stepper & answers
   const [index, setIndex] = useState(0);
@@ -219,10 +224,10 @@ export default function QuizPage() {
   const { transcript, listening, resetTranscript, browserSupportsSpeechRecognition } = useSpeechRecognition();
 
   useEffect(() => {
-    let mounted = true;
+    const mounted = true;
     async function load() {
       try {
-        setLoading(true); setError(null);
+        setLoading(true)
         const [res, wordsRes] = await Promise.all([getQuizzes(), getWords()]);
         const list: Quiz[] = asArray(res);
         const filtered = list.filter((q) => q?.userWord?.wordId === wordId);
@@ -233,8 +238,9 @@ export default function QuizPage() {
           setWordText(w?.text ?? null);
         }
         if (filtered.length === 0) console.warn("No quizzes for this wordId", wordId);
-      } catch (e: any) {
-        setError(e?.message || "Failed to load quizzes");
+      } catch (e: unknown) {
+        const error = e as { message?: string };
+        console.error("Error loading quizzes", error);
       } finally { setLoading(false); }
     }
     load();
@@ -357,7 +363,7 @@ export default function QuizPage() {
           </div>
         );
       case 'wordSorting': {
-        const [correct, scrambled] = q.options ?? [q.correctAnswer, q.correctAnswer];
+        const [scrambled] = q.options ?? [q.correctAnswer, q.correctAnswer];
         const initial = scrambled || q.correctAnswer;
         return (
           <TokenSorter target={q.correctAnswer} initial={initial} onChange={setBuiltSentence} />

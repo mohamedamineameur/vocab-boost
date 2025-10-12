@@ -87,7 +87,7 @@ Return JSON with:
       return {
         system: commonSystem,
         user: `
-Create a multiple-choice question to translate the word "${baseWord}" from ${userLocale} to English.
+Create a multiple-choice question to translate from ${userLocale} the word "${baseWord}" in ${userLocale} to English.
 Return JSON with:
 - question: instruction in English.
 - options: exactly 4 unique plausible English translations/synonyms.
@@ -100,7 +100,7 @@ Return JSON with:
         user: `
 Create a multiple-choice "meaning" question for the English word "${baseWord}".
 Return JSON with:
-- question: instruction in English like "Choose the correct meaning".
+- question: instruction in English like "Choose the correct meaning of ${baseWord}".
 - options: exactly 4 concise English definitions/meanings.
 - correctAnswer: the single best concise definition from options.
 `.trim(),

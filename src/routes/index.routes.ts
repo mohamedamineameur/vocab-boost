@@ -8,6 +8,10 @@ import userWordRouter from "./user-word.routes.ts";
 import quizRouter from "./quiz.routes.ts";
 import userCategoryRouter from "./user-category.routes.ts";
 import audioRouter from "./audio.route.ts";
+import speechRecognitionRouter from "./speech-recognition.routes.ts";
+import userActivityRouter from "./user-activity.routes.ts";
+import userAchievementRouter from "./user-achievement.routes.ts";
+import userStreakRouter from "./user-streak.routes.ts";
 
 
 const router = Router();
@@ -21,5 +25,9 @@ router.use("/user-words", userWordRouter);
 router.use("/quizzes", quizRouter);
 router.use("/user-categories", userCategoryRouter);
 router.use("/audio", audioRouter);
+router.use("/speech-recognition", speechRecognitionRouter);
+router.use("/user-activities", userActivityRouter);
+router.use("/user-achievements", userAchievementRouter);
+router.use("/user-streak", userStreakRouter);
 
 export default router;

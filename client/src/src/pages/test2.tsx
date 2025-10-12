@@ -90,7 +90,7 @@ const tr = {
 export default function Test2() {
   const { language, setLanguage } = useTranslate();
   type Keys = keyof typeof tr.fr;
-  const t = (key: Keys) => (tr as any)[language]?.[key] ?? tr.en[key];
+  const t = (key: Keys) => (tr as Record<string, Record<string, string>>)[language]?.[key] ?? tr.en[key];
   const isRTL = language === "ar";
 
   // État du jeu

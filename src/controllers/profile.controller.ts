@@ -44,7 +44,13 @@ export const createProfile = async (req: Request, res: Response) => {
 
 export const getProfiles = async (req: Request, res: Response) => {
   try {
-    const profiles = await Profile.findAll();
+    const scope = await getScopeWhere(req);
+    if (!scope) {
+      return res.status(401).json({ error: { en: "Unauthorized", fr: "Non autorisé", es: "No autorizado", ar: "غير مصرح" } });
+    }
+    const profiles = await Profile.findAll(
+      { where: scope.where } 
+    );
     res.status(200).json(profiles);
   } catch (error) {
     console.error("Error fetching profiles:", error);
@@ -59,8 +65,12 @@ export const getProfileById = async (req: Request, res: Response) => {
     if (error.length > 0) {
       return res.status(400).json({ error });
     }
+    const scope = await getScopeWhere(req);
+    if (!scope) {
+      return res.status(401).json({ error: { en: "Unauthorized", fr: "Non autorisé", es: "No autorizado", ar: "غير مصرح" } });
+    }
     const profile = await Profile.findByPk(id);
-    if (!profile) {
+    if (!profile || (scope.where && !Object.entries(scope.where).every(([key, value]) => (profile as any)[key] === value))) {
       return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
     }
     res.status(200).json(profile);
@@ -77,10 +87,19 @@ export const updateProfilePartialOrFull = async (req: Request, res: Response) =>
     }
     const { id } = req.params;
     const { local, theme } = req.body;
+    const scope = await getScopeWhere(req);
+    if (!scope) {
+      return res.status(401).json({ error: { en: "Unauthorized", fr: "Non autorisé", es: "No autorizado", ar: "غير مصرح" } });
+    }
+
 
     const profile = await Profile.findByPk(id);
+    
     if (!profile) {
       return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
+    }
+    if (profile.userId !== scope.user.id && !scope.user.isAdmin) {
+      return res.status(403).json({ error: { en: "Forbidden", fr: "Interdit", es: "Prohibido", ar: "محظور" } });
     }
 
     if (local !== undefined) profile.local = local;
@@ -101,9 +120,13 @@ export const deleteProfile = async (req: Request, res: Response) => {
     if (error.length > 0) {
       return res.status(400).json({ error });
     }
+    const scope = await getScopeWhere(req);
     const profile = await Profile.findByPk(id);
     if (!profile) {
       return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
+    }
+    if (!scope || (profile.userId !== scope.user.id && !scope.user.isAdmin)) {
+      return res.status(403).json({ error: { en: "Forbidden", fr: "Interdit", es: "Prohibido", ar: "محظور" } });
     }
     await profile.destroy();
     res.status(200).json({ message: { en: "Profile deleted successfully", fr: "Profil supprimé avec succès", es: "Perfil eliminado con éxito", ar: "تم حذف الملف الشخصي بنجاح" } });

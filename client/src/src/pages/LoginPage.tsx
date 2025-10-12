@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { loginUser } from "../../services/user.services";
-import { Mail, Lock, Loader2, Eye, EyeOff } from "lucide-react";
+import { loginUser, resendVerificationEmail } from "../../services/user.services";
+import { Mail, Lock, Loader2, Eye, EyeOff, Send } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../contexts/AuthContext";
@@ -18,7 +18,10 @@ const loginTranslations = {
     error: "Une erreur est survenue",
     success: "✅ Connexion réussie !",
     noAccount: "Pas encore de compte ?",
-    signup: "S'inscrire"
+    signup: "S'inscrire",
+    resendEmail: "Renvoyer l'email de vérification",
+    resendLoading: "Envoi en cours...",
+    resendSuccess: "✅ Email renvoyé ! Vérifiez votre boîte de réception."
   },
   en: {
     heroTitle: "🔑 Welcome back!",
@@ -31,7 +34,10 @@ const loginTranslations = {
     error: "An error occurred",
     success: "✅ Successfully logged in!",
     noAccount: "Don't have an account?",
-    signup: "Sign up"
+    signup: "Sign up",
+    resendEmail: "Resend verification email",
+    resendLoading: "Sending...",
+    resendSuccess: "✅ Email resent! Check your inbox."
   },
   ar: {
     heroTitle: "🔑 مرحباً بعودتك!",
@@ -44,7 +50,10 @@ const loginTranslations = {
     error: "حدث خطأ ما",
     success: "✅ تم تسجيل الدخول بنجاح!",
     noAccount: "ليس لديك حساب؟",
-    signup: "إنشاء حساب"
+    signup: "إنشاء حساب",
+    resendEmail: "إعادة إرسال بريد التحقق",
+    resendLoading: "جاري الإرسال...",
+    resendSuccess: "✅ تم إعادة إرسال البريد! تحقق من صندوق الوارد."
   },
   es: {
     heroTitle: "🔑 ¡Bienvenido de nuevo!",
@@ -57,7 +66,10 @@ const loginTranslations = {
     error: "Ocurrió un error",
     success: "✅ ¡Inicio de sesión exitoso!",
     noAccount: "¿No tienes una cuenta?",
-    signup: "Regístrate"
+    signup: "Regístrate",
+    resendEmail: "Reenviar correo de verificación",
+    resendLoading: "Enviando...",
+    resendSuccess: "✅ ¡Correo reenviado! Revisa tu bandeja de entrada."
   }
 };
 
@@ -72,6 +84,8 @@ export default function LoginPage() {
   const [error, setError] = useState<string | null>(null);
   const [success, setSuccess] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
+  const [resendLoading, setResendLoading] = useState(false);
+  const [resendSuccess, setResendSuccess] = useState(false);
   const {refreshUser}=useAuth()
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -84,35 +98,85 @@ export default function LoginPage() {
     setError(null);
 
     try {
-      await loginUser(form.email, form.password);
+      const response = await loginUser(form.email, form.password);
+      
+      // Si MFA requis, rediriger vers la page de vérification
+      if (response.mfaRequired && response.userId) {
+        navigate("/mfa-verify", { state: { userId: response.userId } });
+        return;
+      }
+      
+      // Sinon connexion normale (au cas où)
       setSuccess(true);
-refreshUser()
-      // 🚀 Redirection après succès
+      refreshUser();
       setTimeout(() => {
-        
         navigate("/");
-      }, 1000); // petit délai pour afficher "✅ Connexion réussie !"
-    } catch (err: any) {
+      }, 1000);
+    } catch (err: unknown) {
       let message = t("error");
+      const error = err as { response?: { data?: unknown }; message?: string };
 
-      if (err.response?.data) {
-        const data = err.response.data;
+      if (error.response?.data) {
+        const data = error.response.data as Record<string, unknown>;
         if (typeof data === "string") {
           message = data;
         } else if (data.message) {
-          message = data.message[language] || data.message.en || data.message;
+          const msg = data.message as Record<string, string> | string;
+          message = typeof msg === "object" ? (msg[language] || msg.en || JSON.stringify(msg)) : msg;
         } else if (data.error) {
-          message = data.error[language] || data.error.en || data.error;
+          const err = data.error as Record<string, string> | string;
+          message = typeof err === "object" ? (err[language] || err.en || JSON.stringify(err)) : err;
         } else if (Array.isArray(data.errors)) {
           message = data.errors.join(", ");
         }
-      } else if (err.message) {
-        message = err.message;
+      } else if (error.message) {
+        message = error.message;
       }
 
       setError(message);
     } finally {
       setLoading(false);
+    }
+  };
+
+  const handleResendEmail = async () => {
+    if (!form.email) {
+      setError("Veuillez saisir votre email d'abord");
+      return;
+    }
+
+    setResendLoading(true);
+    setResendSuccess(false);
+    setError(null);
+
+    try {
+      await resendVerificationEmail(form.email);
+      setResendSuccess(true);
+      setTimeout(() => setResendSuccess(false), 5000);
+    } catch (err: unknown) {
+      let message = t("error");
+      const error = err as { response?: { data?: unknown }; message?: string };
+
+      if (error.response?.data) {
+        const data = error.response.data as Record<string, unknown>;
+        if (typeof data === "string") {
+          message = data;
+        } else if (data.message) {
+          const msg = data.message as Record<string, string> | string;
+          message = typeof msg === "object" ? (msg[language] || msg.en || JSON.stringify(msg)) : msg;
+        } else if (data.error) {
+          const err = data.error as Record<string, string> | string;
+          message = typeof err === "object" ? (err[language] || err.en || JSON.stringify(err)) : err;
+        } else if (Array.isArray(data.errors)) {
+          message = data.errors.join(", ");
+        }
+      } else if (error.message) {
+        message = error.message;
+      }
+
+      setError(message);
+    } finally {
+      setResendLoading(false);
     }
   };
   return (
@@ -186,30 +250,65 @@ refreshUser()
               {t("success")}
             </div>
           )}
+          {resendSuccess && (
+            <div className="bg-green-100 text-green-600 text-sm font-medium px-4 py-2 rounded-xl text-center shadow">
+              {t("resendSuccess")}
+            </div>
+          )}
 
-          {/* Button */}
-          <button
-            type="submit"
-            disabled={loading}
-            className="w-full py-3 px-6 rounded-2xl font-semibold text-white shadow-lg bg-gradient-to-r from-[#3B82F6] to-[#22C55E] hover:opacity-90 active:scale-95 transition transform disabled:opacity-50 flex items-center justify-center gap-2"
-          >
-            {loading ? (
-              <>
-                <Loader2 size={20} className="animate-spin" />
-                {t("loading")}
-              </>
-            ) : (
-              t("button")
-            )}
-          </button>
+          {/* Buttons */}
+          <div className="space-y-3">
+            {/* Login Button */}
+            <button
+              type="submit"
+              disabled={loading}
+              className="w-full py-3 px-6 rounded-2xl font-semibold text-white shadow-lg bg-gradient-to-r from-[#3B82F6] to-[#22C55E] hover:opacity-90 active:scale-95 transition transform disabled:opacity-50 flex items-center justify-center gap-2"
+            >
+              {loading ? (
+                <>
+                  <Loader2 size={20} className="animate-spin" />
+                  {t("loading")}
+                </>
+              ) : (
+                t("button")
+              )}
+            </button>
+
+            {/* Resend Verification Email Button */}
+            <button
+              type="button"
+              onClick={handleResendEmail}
+              disabled={resendLoading || !form.email}
+              className="w-full py-2 px-6 rounded-2xl font-medium text-[#3B82F6] shadow-md bg-white border border-[#3B82F6] hover:bg-[#3B82F6] hover:text-white active:scale-95 transition transform disabled:opacity-50 flex items-center justify-center gap-2"
+            >
+              {resendLoading ? (
+                <>
+                  <Loader2 size={16} className="animate-spin" />
+                  {t("resendLoading")}
+                </>
+              ) : (
+                <>
+                  <Send size={16} />
+                  {t("resendEmail")}
+                </>
+              )}
+            </button>
+          </div>
         </form>
 
-        <p className="text-sm text-gray-600 text-center mt-6">
-          {t("noAccount")}{" "}
-          <a href="/signup" className="text-[#3B82F6] font-semibold hover:underline">
-            {t("signup")}
-          </a>
-        </p>
+        <div className="text-center mt-6 space-y-2">
+          <p className="text-sm text-gray-600">
+            {t("noAccount")}{" "}
+            <a href="/signup" className="text-[#3B82F6] font-semibold hover:underline">
+              {t("signup")}
+            </a>
+          </p>
+          <p className="text-sm text-gray-600">
+            <a href="/forgot-password" className="text-[#3B82F6] font-semibold hover:underline">
+              Mot de passe oublié ?
+            </a>
+          </p>
+        </div>
       </div>
     </div>
   );

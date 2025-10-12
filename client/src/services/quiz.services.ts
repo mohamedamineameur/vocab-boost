@@ -2,6 +2,7 @@ import api from "./main";
 
 export const getQuizzes = async () => {
   const response = await api.get("/quizzes");
+  console.log("🔍 getQuizzes response:", response.data);
   return response.data;
 };
 
