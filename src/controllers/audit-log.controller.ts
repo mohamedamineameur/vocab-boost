@@ -3,9 +3,10 @@ import { User } from "../models/user.model.ts";
 import type { Request, Response } from "express";
 import { Op, fn, col, literal } from "sequelize";
 
-// Fix for TypeScript symbol index issue
-const OpGte = Op.gte as string;
-const OpLte = Op.lte as string;
+
+const OpGte = Op.gte as unknown as string;
+const OpLte = Op.lte as unknown as string;
+
 
 /**
  * Récupérer les logs d'audit (admin uniquement)
