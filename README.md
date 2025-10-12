@@ -157,7 +157,19 @@ client/src/
    npm run seed
    ```
 
-6. **Start development servers**
+6. **Create an admin account (optional)**
+   ```bash
+   npm run create-admin
+   ```
+   This interactive script will prompt you for:
+   - First name
+   - Last name
+   - Email
+   - Password (with validation)
+   
+   The admin account will be created with `isAdmin: true` and `isVerified: true`.
+
+7. **Start development servers**
    ```bash
    # Backend (Terminal 1)
    npm run dev
@@ -208,6 +220,11 @@ client/src/
 ### Media
 - `GET /api/audio?text=...` - Text-to-Speech (OpenAI)
 - `POST /api/speech-recognition` - Speech-to-Text (Whisper)
+
+### Admin - Audit Logs
+- `GET /api/audit-logs` - List all audit logs (admin only)
+- `GET /api/audit-logs/stats` - Get audit statistics (admin only)
+- `GET /api/audit-logs/user/:userId` - Get logs for specific user (admin only)
 
 ## 🧪 Testing
 
@@ -273,6 +290,11 @@ npm run test -- src/specs/routes/user.routes.test.ts
 - **Password Reset**: Time-limited tokens (1 hour)
 - **MFA Codes**: Time-limited (10 minutes), single-use
 - **Admin/User Scopes**: Role-based access control
+- **Audit Logging**: Complete non-repudiation system
+  - All critical actions logged (authentication, password changes, user management)
+  - Immutable audit trail with WHO, WHAT, WHEN, WHERE
+  - Admin dashboard for security monitoring
+  - See [AUDIT_SYSTEM.md](./AUDIT_SYSTEM.md) for details
 
 ## 🌍 Internationalization (i18n)
 
@@ -327,15 +349,17 @@ All UI elements, error messages, and email notifications are fully translated.
 - `user_activities` - Activity log
 - `user_streaks` - Streak data
 - `user_achievements` - Unlocked achievements
+- `audit_logs` - Security audit trail (non-repudiation)
 
 ## 🛠️ Development
 
 ### Backend Development
 ```bash
-npm run dev         # Start development server with ts-node
-npm run build       # Compile TypeScript
-npm run test        # Run tests
-npm run seed        # Seed database
+npm run dev           # Start development server with ts-node
+npm run build         # Compile TypeScript
+npm run test          # Run tests
+npm run seed          # Seed database
+npm run create-admin  # Create admin account (interactive)
 ```
 
 ### Frontend Development

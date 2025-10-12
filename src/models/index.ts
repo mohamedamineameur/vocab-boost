@@ -10,6 +10,7 @@ import { UserCategory } from "./user-category.model.ts";
 import { UserActivity } from "./user-activity.model.ts";
 import { UserAchievement } from "./user-achievement.model.ts";
 import { UserStreak } from "./user-streak.model.ts";
+import { AuditLog } from "./audit-log.model.ts";
 
 function initModels() {
   // ========================
@@ -88,6 +89,12 @@ function initModels() {
   UserStreak.belongsTo(User, { foreignKey: "userId", as: "user" });
   User.hasOne(UserStreak, { foreignKey: "userId", as: "streak" });
 
+  // ========================
+  // AuditLog ↔ User
+  // ========================
+  AuditLog.belongsTo(User, { foreignKey: "userId", as: "user" });
+  User.hasMany(AuditLog, { foreignKey: "userId", as: "auditLogs" });
+
 }
 
 export {
@@ -101,6 +108,7 @@ export {
   UserActivity,
   UserAchievement,
   UserStreak,
+  AuditLog,
   database,
   initModels,
 };

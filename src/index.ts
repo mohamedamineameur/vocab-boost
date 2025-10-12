@@ -7,6 +7,7 @@ import { database, initModels } from "./models/index.ts";
 import { addCategories } from "./seeds/categoriesAdding.ts";
 import { addWords } from "./seeds/wordsAdding.ts";
 
+
 // 🔥 Importer explicitement les nouveaux modèles pour forcer leur initialisation
 import "./models/user-activity.model.ts";
 import "./models/user-achievement.model.ts";

@@ -1,5 +1,5 @@
 import database from "../config/database.ts";
-import { DataTypes, Model, Optional } from "sequelize";
+import { DataTypes, Model, type Optional } from "sequelize";
 import { Category } from "./category.model.ts";
 
 type Level = 'beginnerLevelOne' | 'beginnerLevelTwo' | 'intermediateLevelOne' | 'intermediateLevelTwo' | 'advancedLevelOne' | 'advancedLevelTwo';

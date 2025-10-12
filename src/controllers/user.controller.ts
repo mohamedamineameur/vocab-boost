@@ -9,6 +9,7 @@ import { userCreationSchema, updateUserSchema } from '../validations/user.schema
 import { idParamSchema } from '../validations/params.schemas.ts';
 import { getScopeWhere } from "../middlewares/getScope.ts";
 import { sendVerificationEmail, sendPasswordResetEmail } from '../utils/emailService.ts';
+import { logUserManagement, logProfileUpdate, logPasswordChange, createAuditLog } from '../utils/auditService.ts';
 
 export const createUser = async (req: Request, res: Response) => {
   try {
@@ -49,6 +50,9 @@ export const createUser = async (req: Request, res: Response) => {
 
     // Send verification email
     await sendVerificationEmail(email, verificationToken, newUser.id);
+
+    // 🔒 Audit log
+    await logUserManagement(req, "USER_CREATED", newUser.id, newUser.email);
 
     res.status(201).json({ 
       message: { 
@@ -278,6 +282,19 @@ export const deleteUser = async (req: Request, res: Response) => {
       });
     }
 
+    // 🔒 Audit log avant suppression
+    const scopeResult2 = await getScopeWhere(req);
+    const actorUserId = scopeResult2?.user?.id;
+    const isAdminAction = scopeResult2?.user?.isAdmin && actorUserId !== user.id;
+    
+    await logUserManagement(
+      req, 
+      isAdminAction ? "ADMIN_USER_DELETED" : "USER_DELETED",
+      user.id,
+      user.email,
+      actorUserId
+    );
+
     await user.destroy();
     
     res.json({ 
@@ -345,7 +362,15 @@ export const updateProfile = async (req: Request, res: Response) => {
       }
     }
 
+    // 🔒 Audit log avec changements
+    const changes: Record<string, unknown> = {};
+    if (firstname && firstname !== user.firstname) changes.firstname = { old: user.firstname, new: firstname };
+    if (lastname && lastname !== user.lastname) changes.lastname = { old: user.lastname, new: lastname };
+    if (email && email !== user.email) changes.email = { old: user.email, new: email };
+
     await user.update({ firstname, lastname, email });
+
+    await logProfileUpdate(req, user.id, user.email, changes, true);
 
     res.json({ 
       message: { 
@@ -428,6 +453,9 @@ export const updatePassword = async (req: Request, res: Response) => {
 
     await user.update({ password: hashedNewPassword });
 
+    // 🔒 Audit log
+    await logPasswordChange(req, user.id, user.email, "PASSWORD_CHANGED", true);
+
     res.json({ 
       message: { 
         en: "Password updated successfully", 
@@ -492,6 +520,17 @@ export const verifyEmail = async (req: Request, res: Response) => {
     user.isVerified = true;
     user.verificationToken = newToken;
     await user.save();
+
+    // 🔒 Audit log
+    await createAuditLog({
+      req,
+      userId: user.id,
+      email: user.email,
+      action: "EMAIL_VERIFIED",
+      resourceType: "EMAIL",
+      resourceId: user.id,
+      success: true,
+    });
 
     res.status(200).json({ 
       message: { 
@@ -564,6 +603,17 @@ export const resendVerificationEmail = async (req: Request, res: Response) => {
     // Envoyer l'email de vérification
     await sendVerificationEmail(user.email, verificationToken, user.id);
 
+    // 🔒 Audit log
+    await createAuditLog({
+      req,
+      userId: user.id,
+      email: user.email,
+      action: "EMAIL_VERIFICATION_RESENT",
+      resourceType: "EMAIL",
+      resourceId: user.id,
+      success: true,
+    });
+
     res.status(200).json({ 
       message: { 
         en: "Verification email sent successfully! Please check your inbox.", 
@@ -635,6 +685,9 @@ export const requestPasswordReset = async (req: Request, res: Response) => {
 
     // Envoyer l'email de réinitialisation
     await sendPasswordResetEmail(user.email, resetToken, user.id, user.firstname);
+
+    // 🔒 Audit log
+    await logPasswordChange(req, user.id, user.email, "PASSWORD_RESET_REQUESTED", true);
 
     res.status(200).json({ 
       message: { 
@@ -722,10 +775,13 @@ export const resetPassword = async (req: Request, res: Response) => {
     // Mettre à jour l'utilisateur
     user.password = hashedPassword;
     user.verificationToken = crypto.randomBytes(32).toString('hex');
-   
+    
     await user.save();
 
-    res.status(200).json({ 
+    // 🔒 Audit log
+    await logPasswordChange(req, user.id, user.email, "PASSWORD_RESET_COMPLETED", true);
+
+    res.status(200).json({
       message: { 
         en: "Password reset successfully! You can now log in with your new password.", 
         fr: "Mot de passe réinitialisé avec succès! Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.", 

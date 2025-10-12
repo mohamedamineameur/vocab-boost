@@ -7,6 +7,7 @@ import { bodyValidator } from "../validations/bodyValidator.ts";
 import { sessionCreationSchema } from "../validations/session.schemas.ts";
 import crypto from "crypto";
 import { sendMFACode } from "../utils/emailService.ts";
+import { logLoginAttempt, logMFAVerification, logSessionAction, createAuditLog } from "../utils/auditService.ts";
 
 export const createSession = async (req: Request, res: Response) => {
   try {
@@ -31,16 +32,22 @@ export const createSession = async (req: Request, res: Response) => {
 
     const user = await User.findOne({ where: { email } });
     if (!user) {
+      // 🔒 Audit log - Échec (user inexistant)
+      await logLoginAttempt(req, email, false, "User not found");
       return res.status(401).json({ error: { en: "Invalid email or password", fr: "Email ou mot de passe invalide", es: "Correo electrónico o contraseña inválidos", ar: "البريد الإلكتروني أو كلمة المرور غير صحيحة" } });
     }
 
     const isPasswordValid = await bcrypt.compare(password, user.password);
     if (!isPasswordValid) {
+      // 🔒 Audit log - Échec (mauvais mot de passe)
+      await logLoginAttempt(req, email, false, "Invalid password");
       return res.status(401).json({ error: { en: "Invalid email or password", fr: "Email ou mot de passe invalide", es: "Correo electrónico o contraseña inválidos", ar: "البريد الإلكتروني أو كلمة المرور غير صحيحة" } });
     }
 
     // Vérifier si l'email est vérifié
     if (!user.isVerified) {
+      // 🔒 Audit log - Échec (email non vérifié)
+      await logLoginAttempt(req, email, false, "Email not verified");
       return res.status(403).json({ 
         error: { 
           en: "Please verify your email address before logging in. Check your inbox for the verification link.", 
@@ -63,6 +70,17 @@ export const createSession = async (req: Request, res: Response) => {
 
     // Envoyer le code par email
     await sendMFACode(user.email, mfaCode, user.firstname);
+
+    // 🔒 Audit log - Succès login initial (MFA envoyé)
+    await createAuditLog({
+      req,
+      userId: user.id,
+      email: user.email,
+      action: "MFA_SENT",
+      resourceType: "SESSION",
+      success: true,
+      metadata: { mfaCodeSent: true },
+    });
 
     return res.status(200).json({ 
       message: { 
@@ -100,6 +118,8 @@ export const verifyMFACode = async (req: Request, res: Response) => {
     // Trouver l'utilisateur
     const user = await User.findByPk(userId);
     if (!user) {
+      // 🔒 Audit log - MFA échoué (user introuvable)
+      await logMFAVerification(req, userId, "unknown", false, "User not found");
       return res.status(404).json({ 
         error: { 
           en: "User not found", 
@@ -112,6 +132,8 @@ export const verifyMFACode = async (req: Request, res: Response) => {
 
     // Vérifier si un code OTP existe
     if (!user.oneTimePassword || !user.otpExpiration) {
+      // 🔒 Audit log - MFA échoué (pas de code)
+      await logMFAVerification(req, user.id, user.email, false, "No verification code found");
       return res.status(400).json({ 
         error: { 
           en: "No verification code found. Please log in again.", 
@@ -128,6 +150,9 @@ export const verifyMFACode = async (req: Request, res: Response) => {
       user.otpExpiration = undefined;
       await user.save();
 
+      // 🔒 Audit log - MFA échoué (code expiré)
+      await logMFAVerification(req, user.id, user.email, false, "Verification code expired");
+
       return res.status(400).json({ 
         error: { 
           en: "Verification code has expired. Please log in again.", 
@@ -141,6 +166,8 @@ export const verifyMFACode = async (req: Request, res: Response) => {
     // Vérifier le code
     const isCodeValid = await bcrypt.compare(code, user.oneTimePassword);
     if (!isCodeValid) {
+      // 🔒 Audit log - MFA échoué (code invalide)
+      await logMFAVerification(req, user.id, user.email, false, "Invalid verification code");
       return res.status(401).json({ 
         error: { 
           en: "Invalid verification code", 
@@ -172,9 +199,22 @@ export const verifyMFACode = async (req: Request, res: Response) => {
     // Créer le cookie de session
     res.cookie("session", `${session.id}:${token}`, {
       httpOnly: true,
-      secure: false,
-      sameSite: "lax",
+      secure: env.NODE_ENV === "production"? true : false,
+      sameSite: env.NODE_ENV === "production"? "strict" : "lax",
       maxAge: sessionExpiration * 3600000,
+    });
+
+    // 🔒 Audit log - MFA vérifié, session créée
+    await logMFAVerification(req, user.id, user.email, true);
+    await createAuditLog({
+      req,
+      userId: user.id,
+      email: user.email,
+      action: "LOGIN_SUCCESS",
+      resourceType: "SESSION",
+      resourceId: session.id,
+      success: true,
+      metadata: { sessionId: session.id },
     });
 
     return res.status(200).json({ 
@@ -214,6 +254,9 @@ export const destroySession = async (req: Request, res: Response) => {
     if (!session) {
       return res.status(401).json({ error: { en: "Invalid session token", fr: "Jeton de session invalide", es: "Token de sesión inválido", ar: "رمز الجلسة غير صالح" } });
     }
+
+    // 🔒 Audit log - Logout
+    await logSessionAction(req, session.userId, "LOGOUT", session.id, true);
 
     await session.destroy();
     res.clearCookie("session", {
@@ -257,21 +300,36 @@ export const getUserSessions = async (req: Request, res: Response) => {
       });
     }
 
-    // Récupérer toutes les sessions de l'utilisateur
+    // Vérifier si l'utilisateur est admin
+    const currentUser = await User.findByPk(currentSession.userId);
+    const isAdmin = currentUser?.isAdmin ?? false;
+
+    // Si admin : toutes les sessions, sinon : seulement ses sessions
     const sessions = await Session.findAll({
-      where: { userId: currentSession.userId },
+      where: isAdmin ? {} : { userId: currentSession.userId },
       order: [['createdAt', 'DESC']],
-      attributes: ['id', 'ip', 'userAgent', 'createdAt', 'expiresAt']
+      attributes: ['id', 'userId', 'ip', 'userAgent', 'createdAt', 'expiresAt'],
+      ...(isAdmin ? {
+        include: [{
+          model: User,
+          as: 'sessionUser',
+          attributes: ['id', 'email', 'firstname', 'lastname']
+        }]
+      } : {})
     });
 
     // Marquer la session actuelle
     const sessionsWithCurrent = sessions.map(s => ({
       id: s.id,
+      userId: s.userId,
       ip: s.ip,
       userAgent: s.userAgent,
       createdAt: s.createdAt,
       expiresAt: s.expiresAt,
-      isCurrent: s.id === sessionId
+      isCurrent: s.id === sessionId,
+      ...(isAdmin && (s as any).sessionUser ? {
+        user: (s as any).sessionUser
+      } : {})
     }));
 
     return res.status(200).json({ sessions: sessionsWithCurrent });
@@ -343,6 +401,9 @@ export const destroySessionById = async (req: Request, res: Response) => {
         } 
       });
     }
+
+    // 🔒 Audit log - Révocation de session
+    await logSessionAction(req, currentSession.userId, "SESSION_REVOKED", sessionId, true);
 
     await sessionToDelete.destroy();
 
