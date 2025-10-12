@@ -1,9 +1,11 @@
-import React, { useMemo, useState } from "react";
+import React, { useState, useEffect } from "react";
 import { CheckCircle2, Globe2, Moon, SunMedium, Loader2 } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext"; // ✅ assure-toi que ce context expose { language, setLanguage }
 // ⛏️ Ajuste ce chemin selon ton arborescence
-import { createProfile } from "../../services/profile.services";
+import { createProfile, getProfiles } from "../../services/profile.services";
+import { getUserCategories } from "../../services/user-category.services";
 import { useAuth } from "../contexts/AuthContext";
+import { useNavigate } from "react-router";
 
 // --- Types minimalistes côté front ---
 export type LocalType = "fr" | "es" | "ar";
@@ -74,20 +76,63 @@ const tr = {
   },
 } as const;
 
-export default function ProfileCreatePage({ userId, onCreated }: Props) {
+export default function ProfileCreatePage({ onCreated }: Props) {
   const { language, setLanguage } = useTranslate();
   type Keys = keyof typeof tr.fr;
-  const t = (key: Keys) => (tr as any)[language]?.[key] ?? tr.en[key];
+  const t = (key: Keys) => (tr as Record<string, Record<string, string>>)[language]?.[key] ?? tr.en[key];
   const isRTL = language === "ar";
     const { user } = useAuth();
+    const navigate = useNavigate()
 
   const [local, setLocal] = useState<LocalType>((language as LocalType) ?? "en");
   const [theme, setTheme] = useState<ThemeType>("light");
   const [loading, setLoading] = useState(false);
   const [ok, setOk] = useState<string | null>(null);
   const [err, setErr] = useState<string | null>(null);
+  const [checkingProfile, setCheckingProfile] = useState(true);
 
-  
+  // 🔍 Vérifier si un profil existe déjà au chargement
+  useEffect(() => {
+    const checkExistingProfile = async () => {
+      try {
+        const [profiles, userCategories] = await Promise.all([
+          getProfiles(),
+          getUserCategories()
+        ]);
+        
+        const profilesArray = Array.isArray(profiles) ? profiles : [];
+        const categoriesArray = Array.isArray(userCategories) 
+          ? userCategories 
+          : (userCategories?.userCategories || []);
+
+        console.log("🔍 ProfileCreatePage: Profiles:", profilesArray.length, "Categories:", categoriesArray.length);
+
+        // Si un profil existe déjà
+        if (profilesArray.length > 0) {
+          // Si pas de catégories, rediriger vers /categories
+          if (categoriesArray.length === 0) {
+            console.log("➡️ Profile exists but no categories → /categories");
+            navigate("/categories", { replace: true });
+          } else {
+            // Sinon, rediriger vers le dashboard
+            console.log("➡️ Profile and categories exist → /");
+            navigate("/", { replace: true });
+          }
+        }
+      } catch (error) {
+        console.error("❌ Error checking profile:", error);
+      } finally {
+        setCheckingProfile(false);
+      }
+    };
+
+    if (user?.id) {
+      checkExistingProfile();
+    } else {
+      setCheckingProfile(false);
+    }
+  }, [user?.id, navigate]);
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setOk(null);
@@ -97,26 +142,50 @@ export default function ProfileCreatePage({ userId, onCreated }: Props) {
     setLoading(true);
     try {
       // ⚠️ le backend attend { userId, local, theme }
-      const payload = { userId: user?.id, local, theme } as const;
-      const created = await createProfile(payload as any);
+      const payload = { userId: user?.id, local, theme };
+      const created = await createProfile(payload);
 
       setOk(created.message?.[language] );
-      // mettre à jour l’UI (langue du context)
-      try { setLanguage?.(local); } catch {}
+      // mettre à jour l'UI (langue du context)
+      try { 
+        setLanguage?.(local); 
+      } catch {
+        // Ignore errors when updating language
+      }
       // appliquer le thème côté document
       try {
         document.documentElement.classList.toggle("dark", theme === "dark");
-      } catch {}
+      } catch {
+        // Ignore errors when applying theme
+      }
 
       onCreated?.(created);
-      // Optionnel: rediriger après 800ms
-      // setTimeout(() => navigate("/dashboard"), 800);
-    } catch (e) {
-      setErr(e instanceof Error ? e.message : "Error");
+     setTimeout(() => {
+       navigate("/");
+     }, 800);
+    } catch (e: unknown) {
+      const err = e as { response?: { data?: { error?: { en?: string; fr?: string; es?: string; ar?: string }; message?: { en?: string; fr?: string; es?: string; ar?: string } | string } }; message?: string };
+      const errorMessage = err.response?.data?.error?.[language as keyof typeof err.response.data.error] 
+        || (typeof err.response?.data?.message === 'object' ? err.response?.data?.message?.[language as keyof typeof err.response.data.message] : err.response?.data?.message)
+        || err.message
+        || "Error";
+      setErr(errorMessage);
     } finally {
       setLoading(false);
     }
   };
+
+  // 🔄 Afficher un loader pendant la vérification du profil
+  if (checkingProfile) {
+    return (
+      <div className="min-h-screen bg-[#F3F4F6] flex items-center justify-center p-4">
+        <div className="text-center">
+          <Loader2 className="w-12 h-12 animate-spin text-[#3B82F6] mx-auto mb-4" />
+          <p className="text-[#111827] text-lg">⏳ Vérification...</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-[#F3F4F6] flex items-center justify-center p-4" dir={isRTL ? "rtl" : "ltr"}>

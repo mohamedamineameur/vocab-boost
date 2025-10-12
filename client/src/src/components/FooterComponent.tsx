@@ -1,5 +1,4 @@
 import { useTranslate } from "../contexts/TranslateContext";
-import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 
 // ✅ traductions locales du footer
@@ -22,7 +21,6 @@ export default function Footer() {
   const { language, setLanguage } = useTranslate();
   const t = (key: keyof typeof footerTranslations["fr"]) =>
     footerTranslations[language][key] || footerTranslations.en[key];
-  const navigate= useNavigate()
 
   return (
     <footer className="w-full text-white shadow-inner">
@@ -50,7 +48,7 @@ export default function Footer() {
           <select
             id="lang-select"
             value={language}
-            onChange={(e) => setLanguage(e.target.value as any)}
+            onChange={(e) => setLanguage(e.target.value as "fr" | "en" | "es" | "ar")}
             className="px-3 py-1.5 rounded-xl bg-white/90 text-[#111827] text-sm font-medium border border-gray-200 shadow-sm focus:outline-none focus:ring-2 focus:ring-[#3B82F6] hover:cursor-pointer transition"
           >
             <option value="fr">🇫🇷 Français</option>

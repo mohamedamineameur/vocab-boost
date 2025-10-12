@@ -110,7 +110,7 @@ function normalizeForCompare(s: string) {
   return s
     .replace(/\s+/g, " ")
     .replace(/\s+([.,!?;:…])/g, "$1")
-    .replace(/([«(\[{])\s+/g, "$1")
+    .replace(/([«([{])\s+/g, "$1")
     .trim()
     .toLowerCase();
 }
@@ -127,7 +127,7 @@ function shuffle<T>(arr: T[]): T[] {
 export default function SentenceArrangeComponent({ questionId, sentence, correctAnswer, fetchAnswer }: Props) {
   const { language } = useTranslate();
   type Keys = keyof typeof tr.fr;
-  const t = (key: Keys) => (tr as any)[language]?.[key] ?? tr.en[key];
+  const t = (key: Keys) => (tr as Record<string, Record<string, string>>)[language]?.[key] ?? tr.en[key];
   const isRTL = language === "ar";
 
   // Tokens de base

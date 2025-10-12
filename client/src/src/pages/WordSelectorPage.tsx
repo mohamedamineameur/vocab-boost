@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import {
   CheckCircle2,
@@ -11,7 +11,6 @@ import {
   TriangleAlert
 } from "lucide-react";
 
-import { useTranslate } from "../contexts/TranslateContext";
 import { useAuth } from "../contexts/AuthContext";
 
 import { getWords } from "../../services/word.services";
@@ -127,19 +126,15 @@ const i18n = {
     mismatchHint: "لا توجد مطابقة للمعرف. العودة إلى مطابقة الاسم، ثم الاقتراحات ذات الصلة.",
   },
 };
-function useI18n() {
-  const { language } = useTranslate();
-  const lang = (["fr","en","es","ar"] as const).includes(language as any) ? language : "fr";
-  const dict = (i18n as any)[lang] ?? i18n.en;
-  return { t: (k: keyof typeof i18n.fr) => dict[k] ?? i18n.en[k] };
-}
+
 
 // --- utils
-const asArray = (v: any) => {
+const asArray = <T,>(v: unknown): T[] => {
   if (Array.isArray(v)) return v;
   const keys = ["data", "rows", "items", "results", "userWords", "words", "categories"];
-  for (const k of keys) if (Array.isArray(v?.[k])) return v[k];
-  return [] as any[];
+  const vObj = v as Record<string, unknown>;
+  for (const k of keys) if (Array.isArray(vObj?.[k])) return vObj[k] as T[];
+  return [];
 };
 
 const shuffleSample = <T,>(arr: T[], n: number) => {
@@ -242,7 +237,6 @@ function WordCard({
 }
 
 export default function WordSelectorPage() {
-  const { t } = useI18n();
   const { user } = useAuth();
   const { categoryId } = useParams<{ categoryId: string }>();
   const navigate = useNavigate();
@@ -272,8 +266,9 @@ export default function WordSelectorPage() {
         console.log("⚙️ getWords ->", w);
         console.log("⚙️ getUserWords ->", uw);
         console.log("⚙️ getCategories ->", cats);
-      } catch (e: any) {
-        setError(e?.message || "Failed to load words");
+      } catch (e: unknown) {
+        const error = e as { message?: string };
+        setError(error?.message || "Failed to load words");
       } finally {
         if (mounted) setLoading(false);
       }
@@ -321,7 +316,7 @@ export default function WordSelectorPage() {
 const alreadySelectedGlobal = useMemo(() => {
   return new Set(
     (userWords ?? [])
-      .map((uw: any) => uw.wordId || uw.word_id || uw.word?.id) // ⬅️ ajoute uw.word_id
+      .map((uw: { wordId?: string; word_id?: string; word?: { id?: string } }) => uw.wordId || uw.word_id || uw.word?.id)
       .filter(Boolean) as string[]
   );
 }, [userWords]);
@@ -385,29 +380,33 @@ const alreadySelectedGlobal = useMemo(() => {
   };
 
   const handleSave = async () => {
-    try {
-      if (!user?.id) return;
-      setSaving(true);
-      setError(null);
-      const toCreate = Array.from(selectedIds).filter((id) => !alreadySelectedGlobal.has(id));
-      if (toCreate.length) {
-        await Promise.all(
-          toCreate.map((wordId) =>
-            createUserWord({ userId: user.id, wordId, isLearned: false })
-          )
-        );
-      }
-      const uw = await getUserWords();
-      setUserWords(asArray(uw));
-      setSelectedIds(new Set());
-    } catch (e: any) {
-      setError(e?.message || "Failed to save words");
-    } finally {
-      setSaving(false);
+  try {
+    if (!user?.id) return;
+    setSaving(true);
+    setError(null);
+    const toCreate = Array.from(selectedIds).filter((id) => !alreadySelectedGlobal.has(id));
+    if (toCreate.length) {
+      await Promise.all(
+        toCreate.map((wordId) =>
+          createUserWord({ userId: user.id, wordId, isLearned: false })
+        )
+      );
     }
-  };
+    // 🔥 recharge tout pour éviter les incohérences
+    const [w, uw, cats] = await Promise.all([getWords(), getUserWords(), getCategories()]);
+    setAllWords(asArray(w));
+    setUserWords(asArray(uw));
+    setCategories(asArray(cats));
+    setSelectedIds(new Set());
+  } catch (e: unknown) {
+    const error = e as { message?: string };
+    setError(error?.message || "Failed to save words");
+  } finally {
+    setSaving(false);
+  }
+};
 
-  const language = useTranslate().language;
+
 
   const categoryTitle =
     currentCategory?.frTranslation ||
@@ -493,7 +492,7 @@ const alreadySelectedForDisplay = useMemo(() => {
       {Array.from(alreadySelectedForDisplay).map((id) => {
         const w = allWords.find((x) => x.id === id);
         return (
-          <span key={id} className="inline-flex items-center gap-1 rounded-full bg-[#F3F4F6] px-3 py-1 text-sm text-[#111827] cursor-pointer" onClick={() => navigate(`/words/${w?.id}/quizzes`)}>
+          <span key={id} className="inline-flex items-center gap-1 rounded-full bg-[#F3F4F6] px-3 py-1 text-sm text-[#111827] cursor-pointer" onClick={() => navigate(`/quiz-flow/${id}`)}>
             <Sparkles className="h-4 w-4 text-[#22C55E]" />
             {w?.text ?? id}
           </span>

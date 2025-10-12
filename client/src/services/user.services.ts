@@ -41,3 +41,21 @@ export const deleteUser = async (id: string) => {
   const response = await api.delete(`/users/${id}`);
   return response.data;
 };
+
+export const resendVerificationEmail = async (email: string) => {
+  const response = await api.post("/users/resend-verification", { email });
+  return response.data;
+};
+
+export const requestPasswordReset = async (email: string) => {
+  const response = await api.post("/users/forgot-password", { email });
+  return response.data;
+};
+
+export const resetPassword = async (userId: string, resetToken: string, password: string, passwordConfirmation: string) => {
+  const response = await api.post(`/users/reset-password/${userId}/${resetToken}`, { 
+    password, 
+    passwordConfirmation 
+  });
+  return response.data;
+};

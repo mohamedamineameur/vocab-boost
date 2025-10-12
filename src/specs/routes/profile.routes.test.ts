@@ -117,14 +117,16 @@ describe("Profile Routes", () => {
             expect(res.status).to.equal(401);
             expect(res.body.error).to.have.property("en", "Authentication required");
         });
-        it("should return 403 if not admin", async () => {
+        it("should return 0 profiles", async () => {
             await preTestSetup();
             const { cookieValue } = await createSessionFixture();
             const res = await request(app)
                 .get("/api/profiles")
                 .set("Cookie", [`session=${cookieValue}`]);
-            expect(res.status).to.equal(403);
-            expect(res.body.error).to.have.property("en", "Admin access required");
+            expect(res.status).to.equal(200);
+            expect(res.body).to.be.an("array");
+            expect(res.body.length).to.equal(0);
+          
         });
     });
 

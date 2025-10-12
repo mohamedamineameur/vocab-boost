@@ -106,13 +106,14 @@ function useI18n() {
 
 // --- Utils ---
 // ⛑️ Rend robuste les différents formats de réponses
-const asArray = (v: any) => {
+const asArray = <T,>(v: unknown): T[] => {
   if (Array.isArray(v)) return v;
   const keys = ["data", "rows", "items", "results", "userCategories", "categories"];
+  const vObj = v as Record<string, unknown>;
   for (const k of keys) {
-    if (Array.isArray(v?.[k])) return v[k];
+    if (Array.isArray(vObj?.[k])) return vObj[k] as T[];
   }
-  return [] as any[];
+  return [];
 };
 
 const getLabelFor = (c: Category, lang: string) => {
@@ -178,13 +179,7 @@ function CategoryCard({
   );
 }
 
-function Chip({ label }: { label: string }) {
-  return (
-    <span className="inline-flex items-center gap-1 rounded-full bg-[#F3F4F6] px-3 py-1 text-sm text-[#111827]">
-      <Sparkles className="h-4 w-4 text-[#3B82F6]" /> {label}
-    </span>
-  );
-}
+
 
 // --- PAGE PRINCIPALE ---
 export default function CategorySelectionPage() {
@@ -247,8 +242,8 @@ export default function CategorySelectionPage() {
 
         if (!mounted) return;
 
-        const catsArr = asArray(cats);
-        const uCatsArr = asArray(uCats);
+        const catsArr = asArray<Category>(cats);
+        const uCatsArr = asArray<UserCategory>(uCats);
 
         setCategories(catsArr);
         setUserCategories(uCatsArr);
@@ -258,8 +253,9 @@ export default function CategorySelectionPage() {
         console.log("Parsed categories ->", catsArr);
         console.log("getUserCategories() ->", uCats);
         console.log("Parsed userCategories ->", uCatsArr);
-      } catch (e: any) {
-        setError(e?.message || "Failed to load data");
+      } catch (e: unknown) {
+        const error = e as { message?: string };
+        setError(error?.message || "Failed to load data");
       } finally {
         if (mounted) setLoading(false);
       }
@@ -283,29 +279,35 @@ export default function CategorySelectionPage() {
     });
   };
 
-  const handleConfirm = async () => {
-    try {
-      setSaving(true);
-      setError(null);
-      const toCreate = Array.from(selectedIds).filter((id) => !alreadySelectedIds.has(id));
-      if (toCreate.length > 0 && user?.id) {
-        const payloads = toCreate.map((categoryId) => ({
-          categoryId,
-          userId: user.id,
-        }));
-        await Promise.all(payloads.map((p) => createUserCategory(p)));
-      }
-      setJustSaved(true);
-      const uCats = await getUserCategories();
-      setUserCategories(asArray(uCats));
-      setSelectedIds(new Set());
-      setEditing(false);
-    } catch (e: any) {
-      setError(e?.message || "Failed to save");
-    } finally {
-      setSaving(false);
+ const handleConfirm = async () => {
+  try {
+    setSaving(true);
+    setError(null);
+    const toCreate = Array.from(selectedIds).filter((id) => !alreadySelectedIds.has(id));
+    if (toCreate.length > 0 && user?.id) {
+      const payloads = toCreate.map((categoryId) => ({
+        categoryId,
+        userId: user.id,
+      }));
+      await Promise.all(payloads.map((p) => createUserCategory(p)));
     }
-  };
+    setJustSaved(true);
+    
+    // 🔥 Recharge les deux sources pour être sûr
+    const [cats, uCats] = await Promise.all([getCategories(), getUserCategories()]);
+    setCategories(asArray<Category>(cats));
+    setUserCategories(asArray<UserCategory>(uCats));
+    
+    setSelectedIds(new Set());
+    setEditing(false);
+  } catch (e: unknown) {
+    const error = e as { message?: string };
+    setError(error?.message || "Failed to save");
+  } finally {
+    setSaving(false);
+  }
+};
+
 
   const startEditing = () => {
     setSelectedIds(new Set());

@@ -1,4 +1,3 @@
-import React from "react";
 import { useNavigate } from "react-router-dom";
 import { BookOpen, Rocket } from "lucide-react";
 import { useTranslate } from "../contexts/TranslateContext";
