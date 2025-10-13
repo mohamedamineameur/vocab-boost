@@ -21,6 +21,9 @@ interface EnvConfig {
   MAIL_EMAIL?: string;
   MAIL_PASS?: string;
   DOMAIN_CLIENT?: string;
+  MAILERSEND_USER?: string;
+  MAILERSEND_PASS?: string;
+  EMAIL_FROM?: string;
 }
 
 const getEnv = (): EnvConfig => {
@@ -53,7 +56,10 @@ const getEnv = (): EnvConfig => {
     DOMAIN2: process.env.DOMAIN2 || undefined,
     MAIL_EMAIL: process.env.MAIL_EMAIL || undefined,
     MAIL_PASS: process.env.MAIL_PASS || undefined,
-    DOMAIN_CLIENT: process.env.DOMAIN_CLIENT || undefined
+    DOMAIN_CLIENT: process.env.DOMAIN_CLIENT || undefined,
+    MAILERSEND_USER: process.env.MAILERSEND_USER || undefined,
+    MAILERSEND_PASS: process.env.MAILERSEND_PASS || undefined,
+    EMAIL_FROM: process.env.EMAIL_FROM || undefined
   };
 };
 
