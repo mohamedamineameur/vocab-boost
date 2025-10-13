@@ -16,7 +16,8 @@ export const sendEmail = async (options: EmailOptions): Promise<void> => {
   const { to, subject, html, text } = options;
 
   const mailOptions = {
-    from: `"English Learning App" <${env.MAIL_EMAIL}>`,
+    from: `"English Learning App" <${env.EMAIL_FROM}
+>`,
     to,
     subject,
     html,

@@ -2,12 +2,13 @@
 import nodemailer from "nodemailer";
 import env from "./env";
 
-// Configuration du transporteur Gmail
 const transporter = nodemailer.createTransport({
-  service: "gmail",
+  host: "smtp-relay.brevo.com",
+  port: 587,
+  secure: false, // TLS automatique// true si tu utilises le port 465
   auth: {
     user: env.MAIL_EMAIL,
-    pass: env.MAIL_PASS, // Mot de passe d'application Gmail
+    pass: env.MAIL_PASS,
   },
 });
 
