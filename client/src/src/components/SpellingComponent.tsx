@@ -81,12 +81,11 @@ export default function SpellingComponent({
       setLoadingAudio(true);
       try {
         const url = await getAudio(audioText);
-        if (mounted) {
+        if (mounted && url) {
           setAudioUrl(url);
           setLoadingAudio(false);
         }
-      } catch (err) {
-        console.error("Erreur lors du chargement de l'audio:", err);
+      } catch  {
         if (mounted) {
           setLoadingAudio(false);
         }
@@ -105,7 +104,7 @@ export default function SpellingComponent({
         try {
           URL.revokeObjectURL(audioUrl);
         } catch {
-          console.error("Erreur lors de la revocation de l'URL de l'audio");
+          // Erreur de revocation silencieuse
         }
       }
     };

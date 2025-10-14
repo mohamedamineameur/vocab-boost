@@ -11,3 +11,4 @@ auditLogRouter.get("/user/:userId", isAuthenticated("admin"), getUserAuditLogs);
 
 export default auditLogRouter;
 
+

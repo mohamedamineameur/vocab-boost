@@ -98,9 +98,11 @@ export default function TTSQuestionComponent({ question, fetchAnswer }: Props) {
       for (let i = 0; i < question.options.length; i++) {
         try {
           const url = await getAudio(question.options[i]);
-          urls[String(i)] = url;
+          if (url) {
+            urls[String(i)] = url;
+          }
         } catch (err) {
-          console.error("Erreur audio pour:", question.options[i], err);
+          // Erreur audio silencieuse
         }
       }
       if (mounted) {
@@ -125,7 +127,7 @@ export default function TTSQuestionComponent({ question, fetchAnswer }: Props) {
         audioRef.current.pause();
         audioRef.current = null;
       }
-      // Optionnel si getAudio renvoie des blob: URLs
+      // Nettoyage des blobs
       Object.values(audioUrls).forEach((u) => {
         try {
           URL.revokeObjectURL(u);

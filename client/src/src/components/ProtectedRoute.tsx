@@ -20,7 +20,7 @@ const asArray = (v: unknown) => {
   }
   
   // Sinon on retourne un tableau vide
-  console.warn("⚠️ asArray: valeur non-tableau reçue:", v);
+  // Valeur non-tableau ignorée
   return [];
 };
 
@@ -61,10 +61,7 @@ export function ProtectedRoute({
           setUserCategories(userCategoriesArray);
 
           // 🔍 Debug pour vérifier
-          console.log("✅ Profiles brut:", p);
-          console.log("✅ Profiles array:", profilesArray, "Length:", profilesArray.length);
-          console.log("✅ UserCategories brut:", uc);
-          console.log("✅ UserCategories array:", userCategoriesArray, "Length:", userCategoriesArray.length);
+          // Données chargées avec succès
         }
       } catch (e) {
         if (!cancelled) {
@@ -89,20 +86,20 @@ export function ProtectedRoute({
   }
 
   if (!isLoggedIn) {
-    console.log("🚫 Not logged in → redirecting to /home");
+    // Redirection vers home
     return <Navigate to="/home" replace />;
   }
 
   if (!skipProfileCheck && profiles.length === 0) {
-    console.log("👤 No profile found → redirecting to /profile");
+    // Redirection vers profile
     return <Navigate to="/profile" replace />;
   }
 
   if (!skipCategoryCheck && userCategories.length === 0) {
-    console.log("🏷️ No categories found → redirecting to /categories");
+    // Redirection vers categories
     return <Navigate to="/categories" replace />;
   }
 
-  console.log("✅ ProtectedRoute: All checks passed, rendering children");
+  // Toutes les vérifications passées
   return children;
 }

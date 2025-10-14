@@ -21,7 +21,27 @@ app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cookieParser());
-app.use(helmet());
+// Configuration Helmet avec CSP très permissive pour les blobs audio
+app.use(helmet({
+  crossOriginOpenerPolicy: false,
+  crossOriginResourcePolicy: false,
+  contentSecurityPolicy: {
+    useDefaults: false,
+    directives: {
+      defaultSrc: ["'self'", "blob:", "data:"],
+      mediaSrc: ["'self'", "blob:", "data:"],
+      imgSrc: ["'self'", "data:", "blob:"],
+      connectSrc: ["'self'", "https://api.openai.com", "blob:"],
+      scriptSrc: ["'self'", "'unsafe-inline'", "'unsafe-eval'"],
+      styleSrc: ["'self'", "'unsafe-inline'"],
+      fontSrc: ["'self'", "data:", "blob:"],
+      objectSrc: ["'self'", "blob:", "data:"],
+      baseUri: ["'self'"],
+      frameSrc: ["'self'", "blob:"],
+    },
+  },
+}));
+
 app.use(compression());
 
 // --- CORS ---

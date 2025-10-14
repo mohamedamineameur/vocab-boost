@@ -22,3 +22,4 @@ export default function DashboardRouter() {
   return isAdmin ? <AdminDashboard /> : <EnhancedDashboard />;
 }
 
+

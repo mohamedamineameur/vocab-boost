@@ -35,11 +35,7 @@ export function useActivityTracker() {
         // 3. Vérifier et débloquer les badges
         await checkBadges();
 
-        console.log("✅ Activity tracked:", {
-          type: isCorrect ? "correct" : "incorrect",
-          quizId,
-          word: wordText,
-        });
+        // Activity tracked
       } catch (error) {
         console.error("❌ Error tracking quiz activity:", error);
       }
@@ -64,7 +60,7 @@ export function useActivityTracker() {
       await updateUserStreak();
       await checkBadges();
 
-      console.log("✅ Word learned tracked:", wordText);
+      // Word learned tracked
     } catch (error) {
       console.error("❌ Error tracking word learned:", error);
     }
@@ -84,7 +80,7 @@ export function useActivityTracker() {
         },
       });
 
-      console.log("✅ Word added tracked:", wordText);
+      // Word added tracked
     } catch (error) {
       console.error("❌ Error tracking word added:", error);
     }
@@ -113,7 +109,7 @@ export function useActivityTracker() {
       const newBadges = await checkAndUnlockAchievements(stats);
 
       if (newBadges.length > 0) {
-        console.log("🏆 New badges unlocked:", newBadges);
+        // New badges unlocked
         // TODO: Afficher une notification à l'utilisateur
       }
     } catch (error) {
@@ -128,5 +124,6 @@ export function useActivityTracker() {
     checkBadges,
   };
 }
+
 
 
