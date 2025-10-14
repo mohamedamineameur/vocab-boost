@@ -2,13 +2,13 @@ import api from "./main";
 
 export const getQuizzes = async () => {
   const response = await api.get("/quizzes");
-  console.log("🔍 getQuizzes response:", response.data);
+  // getQuizzes response
   return response.data;
 };
 
 export const updateQuiz = async (id:string, areUserAnswersCorrect: boolean) => {
 
-    console.log("Updating quiz", id, areUserAnswersCorrect);
+    // Updating quiz
   const response = await api.patch(`/quizzes/${id}`, { areUserAnswersCorrect });
   return response.data;
 };

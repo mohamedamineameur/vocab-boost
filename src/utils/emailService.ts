@@ -113,7 +113,7 @@ export const sendPasswordResetEmail = async (
   userId: string,
   firstname: string
 ): Promise<void> => {
-  const resetLink = `${env.DOMAIN2 || "http://localhost:5173"}/reset-password/${userId}/${resetToken}`;
+  const resetLink = `${env.DOMAIN || "http://localhost:5173"}/reset-password/${userId}/${resetToken}`;
 
   const html = `
     <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">

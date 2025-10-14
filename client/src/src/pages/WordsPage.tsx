@@ -239,23 +239,31 @@ export default function WordsPage() {
       if (!url) {
         setLoadingKey(key);
         url = await getAudio(text);
-        audioCache.set(key, url);
-        setLoadingKey(null);
+        if (url) {
+          audioCache.set(key, url);
+          setLoadingKey(null);
+        } else {
+          throw new Error("Failed to generate audio URL");
+        }
       }
 
-      if (!audio.paused) audio.pause();
+      if (!audio.paused) {
+        audio.pause();
+      }
+      
       audio.src = url;
       await audio.play();
       setPlayingKey(key);
-      audio.onended = () => setPlayingKey(null);
-    } catch (e) {
-      console.error("Audio error:", e);
+      audio.onended = () => {
+        setPlayingKey(null);
+      };
+    } catch  {
       setLoadingKey(null);
       setPlayingKey(null);
     }
   };
 
-  // Cleanup blobs & audio
+  // Cleanup audio et blobs
   useEffect(() => {
     return () => {
       if (audioRef.current) audioRef.current.pause();
