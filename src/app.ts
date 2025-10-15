@@ -49,7 +49,10 @@ if (env.NODE_ENV === "production") {
   app.use(
     cors({
       origin: env.DOMAIN,
-      credentials: true,
+      credentials: true,      
+      methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie'],
+   
     })
   );
 } else {

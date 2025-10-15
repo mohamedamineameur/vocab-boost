@@ -17,6 +17,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const PORT = env.PORT || 5010;
+console.log("PORT:", PORT);
 
 // 🔗 Initialiser les relations entre modèles AVANT la sync
 initModels();
