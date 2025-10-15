@@ -28,7 +28,7 @@ database
 
     // 🚀 Lancement en HTTP
     http.createServer(app).listen(PORT, "0.0.0.0", () => {
-      console.log(`🚀 Server running at http://192.168.2.19:${PORT}`);
+      console.log(`🚀 Server running at ${env.DOMAIN}`);
       console.log(`Env mode: ${env.NODE_ENV}`);
     });
 
