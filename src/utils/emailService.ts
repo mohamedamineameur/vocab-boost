@@ -41,7 +41,7 @@ export const sendVerificationEmail = async (
   verificationToken: string,
   userId: string
 ): Promise<void> => {
-  const verificationLink = `${env.DOMAIN2 || "http://localhost:5173"}/verify/${userId}/${verificationToken}`;
+  const verificationLink = `${env.DOMAIN || "http://localhost:5173"}/verify/${userId}/${verificationToken}`;
 
   const html = `
     <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
