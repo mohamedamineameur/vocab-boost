@@ -48,7 +48,7 @@ app.use(compression());
 if (env.NODE_ENV === "production") {
   app.use(
     cors({
-      origin: env.DOMAIN_CLIENT,
+      origin: env.DOMAIN,
       credentials: true,
     })
   );
