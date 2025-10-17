@@ -89,9 +89,7 @@ export async function checkAndUnlockAchievements(stats: Stats): Promise<UserAchi
         try {
           const unlocked = await unlockAchievement(achievement.id, achievement.category);
           newlyUnlocked.push(unlocked);
-          console.log(`🏆 Badge débloqué: ${achievement.id}`);
         } catch (error) {
-          console.error(`Erreur débloquant ${achievement.id}:`, error);
         }
       } else if (progress > 0) {
         // Mettre à jour la progression
@@ -109,7 +107,6 @@ export async function checkAndUnlockAchievements(stats: Stats): Promise<UserAchi
 
     return newlyUnlocked;
   } catch (error) {
-    console.error("Erreur lors de la vérification des badges:", error);
     return [];
   }
 }

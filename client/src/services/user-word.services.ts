@@ -1,5 +1,9 @@
 import api from "./main";
-import type { UserWordAttributes } from "../../../src/models/user-word.model";
+
+interface UserWordAttributes {
+  userId: string;
+  wordId: string;
+}
 
 export const createUserWord = async (userWordData: UserWordAttributes) => {
   const response = await api.post(`/user-words/${userWordData.userId}/${userWordData.wordId}`);

@@ -1,5 +1,9 @@
 import api from "./main";
-import type { UserCategoryAttributes } from "../../../src/models/user-category.model";
+
+interface UserCategoryAttributes {
+  userId: string;
+  categoryId: string;
+}
 
 export const createUserCategory = async (userCategoryData: UserCategoryAttributes) => {
   const response = await api.post(`/user-categories/${userCategoryData.userId}/${userCategoryData.categoryId}`, userCategoryData);

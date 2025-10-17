@@ -58,6 +58,23 @@ export const getProfiles = async (req: Request, res: Response) => {
   }
 };
 
+export const getMyProfile = async (req: Request, res: Response) => {
+  try {
+    const scope = await getScopeWhere(req);
+    if (!scope) {
+      return res.status(401).json({ error: { en: "Unauthorized", fr: "Non autorisé", es: "No autorizado", ar: "غير مصرح" } });
+    }
+    const profile = await Profile.findOne({ where: { userId: scope.user.id } });
+    if (!profile) {
+      return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
+    }
+    res.status(200).json(profile);
+  } catch (error) {
+    console.error("Error fetching profile:", error);
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
+  }
+};
+
 export const getProfileById = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
@@ -100,6 +117,35 @@ export const updateProfilePartialOrFull = async (req: Request, res: Response) =>
     }
     if (profile.userId !== scope.user.id && !scope.user.isAdmin) {
       return res.status(403).json({ error: { en: "Forbidden", fr: "Interdit", es: "Prohibido", ar: "محظور" } });
+    }
+
+    if (local !== undefined) profile.local = local;
+    if (theme !== undefined) profile.theme = theme;
+
+    await profile.save();
+    res.status(200).json({ message: { en: "Profile updated successfully", fr: "Profil mis à jour avec succès", es: "Perfil actualizado con éxito", ar: "تم تحديث الملف الشخصي بنجاح" }, profile });
+  } catch (error) {
+    console.error("Error updating profile:", error);
+    res.status(500).json({ error: { en: "Internal server error", fr: "Erreur interne du serveur", es: "Error interno del servidor", ar: "خطأ في الخادم الداخلي" } });
+  }
+};
+
+export const updateMyProfile = async (req: Request, res: Response) => {
+  try {
+    const error = bodyValidator(req.body, updateProfileSchema);
+    if (error.length > 0) {
+      return res.status(400).json({ error });
+    }
+    const { local, theme } = req.body;
+    const scope = await getScopeWhere(req);
+    if (!scope) {
+      return res.status(401).json({ error: { en: "Unauthorized", fr: "Non autorisé", es: "No autorizado", ar: "غير مصرح" } });
+    }
+
+    const profile = await Profile.findOne({ where: { userId: scope.user.id } });
+    
+    if (!profile) {
+      return res.status(404).json({ error: { en: "Profile not found", fr: "Profil non trouvé", es: "Perfil no encontrado", ar: "الملف الشخصي غير موجود" } });
     }
 
     if (local !== undefined) profile.local = local;

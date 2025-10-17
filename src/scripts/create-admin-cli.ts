@@ -4,6 +4,7 @@
  */
 import bcrypt from "bcrypt";
 import { User } from "../models/user.model.ts";
+import { Profile } from "../models/profile.model.ts";
 import database from "../config/database.ts";
 import env from "../config/env.ts";
 
@@ -68,7 +69,19 @@ async function createAdminCLI() {
       existingUser.isAdmin = true;
       existingUser.isVerified = true;
       await existingUser.save();
-      console.log(`✅ User ${email} is now an admin!`);
+      
+      // Check if profile exists, if not create one
+      const existingProfile = await Profile.findOne({ where: { userId: existingUser.id } });
+      if (!existingProfile) {
+        await Profile.create({
+          userId: existingUser.id,
+          local: "fr",
+          theme: "light",
+        });
+        console.log(`✅ User ${email} is now an admin with profile created!`);
+      } else {
+        console.log(`✅ User ${email} is now an admin!`);
+      }
       process.exit(0);
     }
 
@@ -86,6 +99,13 @@ async function createAdminCLI() {
       isVerified: true,
     });
 
+    // Create profile for admin
+    await Profile.create({
+      userId: admin.id,
+      local: "fr",
+      theme: "light",
+    });
+
     console.log("\n✅ Admin account created successfully!");
     console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
     console.log(`📧 Email:     ${admin.email}`);
@@ -93,6 +113,7 @@ async function createAdminCLI() {
     console.log(`🆔 ID:        ${admin.id}`);
     console.log(`🔑 Admin:     Yes`);
     console.log(`✓  Verified:  Yes`);
+    console.log(`👤 Profile:   Created with default settings`);
     console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 
   } catch (error) {

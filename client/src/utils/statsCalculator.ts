@@ -1,4 +1,4 @@
-import type { ActivityItem } from "../src/components/RecentActivity";
+import type { ActivityItem } from "../components/RecentActivity";
 
 export interface UserWord {
   id: string;
@@ -50,52 +50,28 @@ export function calculateStats(
   let totalQuizAttempts = 0;
   let correctAnswersCount = 0;
 
-  console.log("🔍 Debug statsCalculator - Total quizzes:", quizzes.length);
-  console.log("🔍 Debug statsCalculator - Total activities:", activities?.length || 0);
 
   // Utiliser les activités si disponibles (plus fiable)
   if (activities && activities.length > 0) {
-    console.log("✅ Using activities for statistics");
     
-    activities.forEach((activity, index) => {
+    activities.forEach((activity) => {
       if (activity.activityType?.includes('quiz')) {
         totalQuizAttempts++;
         if (activity.activityType === 'quiz_correct') {
           correctAnswersCount++;
         }
-        console.log(`Activity ${index}: ${activity.activityType} - ${activity.activityType === 'quiz_correct' ? 'CORRECT' : 'INCORRECT'}`);
       }
     });
   } else {
     // Fallback sur les quiz (moins fiable)
-    console.log("⚠️ Using quizzes for statistics (fallback)");
     
-    quizzes.forEach((quiz, index) => {
-      console.log(`Quiz ${index}:`, {
-        id: quiz.id,
-        areUserAnswersCorrect: quiz.areUserAnswersCorrect,
-        type: typeof quiz.areUserAnswersCorrect,
-        isArray: Array.isArray(quiz.areUserAnswersCorrect)
-      });
-      
+    quizzes.forEach((quiz) => {
       if (quiz.areUserAnswersCorrect && Array.isArray(quiz.areUserAnswersCorrect)) {
         totalQuizAttempts += quiz.areUserAnswersCorrect.length;
         correctAnswersCount += quiz.areUserAnswersCorrect.filter(Boolean).length;
-        
-        console.log(`Quiz ${index} stats:`, {
-          attempts: quiz.areUserAnswersCorrect.length,
-          correct: quiz.areUserAnswersCorrect.filter(Boolean).length,
-          answers: quiz.areUserAnswersCorrect
-        });
       }
     });
   }
-
-  console.log("📊 Final stats:", {
-    totalQuizAttempts,
-    correctAnswersCount,
-    successRate: totalQuizAttempts > 0 ? Math.round((correctAnswersCount / totalQuizAttempts) * 100) : 0
-  });
 
   const successRate =
     totalQuizAttempts > 0
