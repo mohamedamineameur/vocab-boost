@@ -1,5 +1,15 @@
 import api from "./main";
-import type { WordAttributes } from "../../../src/models/word.model";
+
+interface WordAttributes {
+  text: string;
+  meaning: string;
+  pronunciation?: string;
+  example?: string;
+  categoryId: string;
+  frTranslation?: string;
+  esTranslation?: string;
+  arTranslation?: string;
+}
 
 export const createWord = async (wordData: WordAttributes) => {
   const response = await api.post("/words", wordData);

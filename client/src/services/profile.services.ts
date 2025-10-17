@@ -1,5 +1,14 @@
 import api from "./main";
-import type { ProfileAttributes } from "../../../src/models/profile.model";
+
+interface ProfileAttributes {
+  userId: string;
+  firstName?: string;
+  lastName?: string;
+  dateOfBirth?: Date;
+  nativeLanguage?: string;
+  targetLanguage?: string;
+  theme?: 'light' | 'dark';
+}
 
 export const createProfile = async (profileData: ProfileAttributes) => {
   const response = await api.post("/profiles", profileData);
@@ -11,13 +20,18 @@ export const getProfiles = async () => {
   return response.data;
 };
 
+export const getProfile = async () => {
+  const response = await api.get("/profiles/me");
+  return response.data;
+};
+
 export const getProfileById = async (id: string) => {
   const response = await api.get(`/profiles/${id}`);
   return response.data;
 };
 
-export const updateProfile = async (id: string, profileData: Partial<ProfileAttributes>) => {
-  const response = await api.patch(`/profiles/${id}`, profileData);
+export const updateProfile = async (profileData: Partial<ProfileAttributes>) => {
+  const response = await api.patch("/profiles/me", profileData);
   return response.data;
 };
 

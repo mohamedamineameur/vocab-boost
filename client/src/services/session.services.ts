@@ -15,3 +15,13 @@ export const revokeSession = async (sessionId: string) => {
   return response.data;
 };
 
+export const createSession = async (sessionData: {
+  userId: string;
+  score: number;
+  totalQuestions: number;
+  completedAt: Date;
+}) => {
+  const response = await api.post("/sessions", sessionData);
+  return response.data;
+};
+

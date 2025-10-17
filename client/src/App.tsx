@@ -1,38 +1,47 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { AuthProvider } from "./src/contexts/AuthContext";
-import SignupPage from "./src/pages/SignupPage";
-import LoginPage from "./src/pages/LoginPage";
-import HomePage from "./src/pages/HomePage";
-import DashboardPage from "./src/pages/DashboardPage"; // ⚡ Old
-import Header from "./src/components/Header";
-import Footer from "./src/components/FooterComponent";
-import { ProtectedRoute } from "./src/components/ProtectedRoute"; // ⚡
-import { AdminRoute } from "./src/components/AdminRoute";
-import DashboardRouter from "./src/components/DashboardRouter";
-import CategorySelectionPage from "./src/pages/testPage";
-import WordSelectorPage from "./src/pages/WordSelectorPage";
-import QuizPage from "./src/pages/QuizPage";
-import Test2 from "./src/pages/test2";
-import ProfileCreatePage from "./src/pages/ProfileCreatePage";
-import QuizFlowRunner from "./src/pages/QuizFlowRunnerPage";
-import WordsPage from './src/pages/WordsPage';
-import SettingsPage from './src/pages/SettingsPage';
-import VerifyEmailPage from './src/pages/VerifyEmailPage';
-import ForgotPasswordPage from './src/pages/ForgotPasswordPage';
-import ResetPasswordPage from './src/pages/ResetPasswordPage';
-import MFAVerifyPage from './src/pages/MFAVerifyPage';
-import SessionsPage from './src/pages/SessionsPage';
-import AuditLogsPage from './src/pages/AuditLogsPage';
-import AdminDashboard from './src/pages/AdminDashboard';
-import AdminUsersPage from './src/pages/AdminUsersPage';
-import NotFoundPage from './src/pages/NotFoundPage';
+import { AuthProvider } from "./contexts/AuthContext";
+import { ThemeProvider } from "./contexts/ThemeContext";
+import SignupPage from "./pages/SignupPage";
+import LoginPage from "./pages/LoginPage";
+import HomePage from "./pages/HomePage";
+import DashboardPage from "./pages/DashboardPage"; // ⚡ Old
+import Header from "./components/Header";
+import Footer from "./components/FooterComponent";
+import { ProtectedRoute } from "./components/ProtectedRoute"; // ⚡
+import { AdminRoute } from "./components/AdminRoute";
+import DashboardRouter from "./components/DashboardRouter";
+import CategorySelectionPage from "./pages/testPage";
+import WordSelectorPage from "./pages/WordSelectorPage";
+import QuizPage from "./pages/QuizPage";
+import Test2 from "./pages/test2";
+import ProfileCreatePage from "./pages/ProfileCreatePage";
+import QuizFlowRunner from "./pages/QuizFlowRunnerPage";
+import WordsPage from './pages/WordsPage';
+import SettingsPage from './pages/SettingsPage';
+import VerifyEmailPage from './pages/VerifyEmailPage';
+import ForgotPasswordPage from './pages/ForgotPasswordPage';
+import ResetPasswordPage from './pages/ResetPasswordPage';
+import MFAVerifyPage from './pages/MFAVerifyPage';
+import SessionsPage from './pages/SessionsPage';
+import AuditLogsPage from './pages/AuditLogsPage';
+import AdminDashboard from './pages/AdminDashboard';
+import AdminUsersPage from './pages/AdminUsersPage';
+import NotFoundPage from './pages/NotFoundPage';
+import OnboardingPage from './pages/OnboardingPage';
+import CoursePage from './pages/CoursePage';
+import LearnPage from './pages/LearnPage';
+import ApprentissagePage from './pages/ApprentissagePage';
+import WordLearningPage from './pages/WordLearningPage';
+import QuizSessionPage from './pages/QuizSessionPage';
+import SessionCompletedPage from './pages/SessionCompletedPage';
 
 function App() {
   
   return (
     <AuthProvider>
-      <Router>
-        <div className="min-h-screen flex flex-col bg-gradient-to-br from-[#3B82F6] via-[#60A5FA] to-[#22C55E]">
+      <ThemeProvider>
+        <Router>
+        <div className="min-h-screen flex flex-col bg-gradient-to-br from-[#3B82F6] via-[#60A5FA] to-[#22C55E] dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
           <Header />
           <div className="flex-1">
             <Routes>
@@ -53,6 +62,84 @@ function App() {
                 element={
                   <ProtectedRoute>
                     <DashboardRouter />
+                  </ProtectedRoute>
+                }
+              />
+
+              {/* Nouvelle expérience d'apprentissage - Flux direct */}
+              <Route
+                path="/onboarding"
+                element={
+                  <ProtectedRoute skipCategoryCheck>
+                    <OnboardingPage />
+                  </ProtectedRoute>
+                }
+              />
+              
+              {/* Page d'accueil d'apprentissage - Redirection principale après login */}
+              <Route
+                path="/learn"
+                element={
+                  <ProtectedRoute>
+                    <ApprentissagePage />
+                  </ProtectedRoute>
+                }
+              />
+              
+              {/* Page d'apprentissage des mots */}
+              <Route
+                path="/learn-words"
+                element={
+                  <ProtectedRoute>
+                    <WordLearningPage />
+                  </ProtectedRoute>
+                }
+              />
+              
+              {/* Page de quiz pour la session complète */}
+              <Route
+                path="/quiz-session"
+                element={
+                  <ProtectedRoute>
+                    <QuizSessionPage />
+                  </ProtectedRoute>
+                }
+              />
+              
+              {/* Page de fin de session avec résultats */}
+              <Route
+                path="/session-completed"
+                element={
+                  <ProtectedRoute>
+                    <SessionCompletedPage />
+                  </ProtectedRoute>
+                }
+              />
+              
+              {/* Page d'apprentissage d'une catégorie spécifique (ancienne version) */}
+              <Route
+                path="/learn/:categoryId"
+                element={
+                  <ProtectedRoute>
+                    <LearnPage />
+                  </ProtectedRoute>
+                }
+              />
+              
+              {/* Anciennes routes (optionnelles) */}
+              <Route
+                path="/course"
+                element={
+                  <ProtectedRoute>
+                    <CoursePage />
+                  </ProtectedRoute>
+                }
+              />
+              <Route
+                path="/course/:categoryId/learn"
+                element={
+                  <ProtectedRoute>
+                    <LearnPage />
                   </ProtectedRoute>
                 }
               />
@@ -160,6 +247,7 @@ function App() {
           <Footer />
         </div>
       </Router>
+      </ThemeProvider>
     </AuthProvider>
   );
 }

@@ -37,7 +37,6 @@ export function useActivityTracker() {
 
         // Activity tracked
       } catch (error) {
-        console.error("❌ Error tracking quiz activity:", error);
       }
     },
     []
@@ -62,7 +61,6 @@ export function useActivityTracker() {
 
       // Word learned tracked
     } catch (error) {
-      console.error("❌ Error tracking word learned:", error);
     }
   }, []);
 
@@ -82,7 +80,6 @@ export function useActivityTracker() {
 
       // Word added tracked
     } catch (error) {
-      console.error("❌ Error tracking word added:", error);
     }
   }, []);
 
@@ -113,7 +110,6 @@ export function useActivityTracker() {
         // TODO: Afficher une notification à l'utilisateur
       }
     } catch (error) {
-      console.error("❌ Error checking badges:", error);
     }
   }, []);
 

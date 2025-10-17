@@ -1,5 +1,9 @@
 import api from "./main";
-import type { CategoryCreationAttributes } from "../../../src/models/category.model";
+
+interface CategoryCreationAttributes {
+  name: string;
+  description?: string;
+}
 
 export const createCategory = async (categoryData: CategoryCreationAttributes) => {
   const response = await api.post("/categories", categoryData);

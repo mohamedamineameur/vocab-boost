@@ -59,8 +59,8 @@ if (env.NODE_ENV === "production") {
   app.use(
     cors({
       origin: [
-        "http://localhost:5173",
-        "http://192.168.2.19:5173",
+        "http://localhost:5175",
+        "http://192.168.2.19:5175",
       ],
       credentials: true,
     })

@@ -168,16 +168,44 @@ async function callOpenAIForQuiz(
   const raw = res.data?.choices?.[0]?.message?.content?.trim();
   if (!raw) throw new Error("Empty response from OpenAI");
 
-  // Essaye de parser le JSON strict ; sinon tente d’extraire le bloc JSON.
+  // Essaye de parser le JSON strict ; sinon tente d'extraire le bloc JSON.
   let parsed: any;
   try {
     parsed = JSON.parse(raw);
-  } catch {
-    const match = raw.match(/\{[\s\S]*\}$/);
-    parsed = match ? JSON.parse(match[0]) : null;
+  } catch (err) {
+    // Tente d'extraire un objet JSON valide de la réponse
+    // Cherche le premier { et le dernier } correspondant
+    let braceCount = 0;
+    let startIdx = -1;
+    let endIdx = -1;
+    
+    for (let i = 0; i < raw.length; i++) {
+      if (raw[i] === '{') {
+        if (startIdx === -1) startIdx = i;
+        braceCount++;
+      } else if (raw[i] === '}') {
+        braceCount--;
+        if (braceCount === 0 && startIdx !== -1) {
+          endIdx = i;
+          break;
+        }
+      }
+    }
+    
+    if (startIdx !== -1 && endIdx !== -1) {
+      const jsonStr = raw.substring(startIdx, endIdx + 1);
+      try {
+        parsed = JSON.parse(jsonStr);
+      } catch {
+        throw new Error(`Failed to parse JSON: ${raw.substring(0, 100)}...`);
+      }
+    } else {
+      throw new Error(`No valid JSON found in response: ${raw.substring(0, 100)}...`);
+    }
   }
+  
   if (!parsed || !parsed.question || !parsed.correctAnswer) {
-    throw new Error("Invalid JSON from OpenAI");
+    throw new Error("Invalid JSON from OpenAI - missing required fields");
   }
   if (parsed.options && !Array.isArray(parsed.options)) {
     throw new Error("Invalid options format from OpenAI");
